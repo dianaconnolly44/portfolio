@@ -11,7 +11,9 @@ const MOBILE_DEV = false;
 const history = createBrowserHistory();
 
 class App extends Component {
-  state = {}
+  state = {
+    nav: null
+  }
   meta = {}
 
   render = () => {
@@ -19,12 +21,14 @@ class App extends Component {
 
     return (
       <div className={`app ${isMobile ? 'mobile' : ''}`} id="app">
-        <Nav {...this.props} />
-        hello world, this page is: {this.props.page}
-        <br />
-        <a onClick={e => {
-          history.push(this.props.page === 'test' ? '/' : '/test')
-        }}>click</a>
+        <Nav {...this.props} onNav={nav => this.setState({ nav })} />
+        <div className="body">
+          hello world, this page is: {this.props.page}
+          <br />
+          <a onClick={e => {
+            history.push(this.props.page === 'test' ? '/' : '/test')
+          }}>click</a>
+        </div>
       </div>
     )
   }

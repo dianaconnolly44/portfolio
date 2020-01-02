@@ -5,7 +5,7 @@ import { Router } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 import { Nav } from './components';
 import { menu, flat } from './projects/menu';
-import { Home, Gallery } from './containers';
+import { Home, Gallery, About } from './containers';
 
 require('./app.css');
 
@@ -40,15 +40,18 @@ class App extends Component {
       });
     });
 
+    const renderPage = () => {
+      if(!this.isValidPage()) return page404;
+      if(!page) return <Home {...this.props} />;
+      if(page === 'about') return <About {...this.props} />;
+      return <Gallery {...this.props} page={page} title={page_title} />;
+    }
+
     return (
       <div className={`app ${isMobile ? 'mobile' : ''}`} id="app">
         <Nav {...this.props} onNav={nav => this.setState({ nav })} />
         <div className="body">
-          { 
-            !this.isValidPage() ? page404 :
-            page ? <Gallery {...this.props} page={page} title={page_title} /> 
-            : <Home {...this.props} /> 
-          }
+          { renderPage() }
         </div>
       </div>
     )

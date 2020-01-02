@@ -1,4 +1,4 @@
-export const menu = [
+const menu = [
 	
 	{
 		id: 'illustration',
@@ -138,4 +138,16 @@ export const menu = [
 	},
 ];
 
-export const flat = menu.reduce((all, item) => [...all, item, ...(item.submenu || [])], []);
+// cleanup
+menu.forEach(item => {
+	if(!item.submenu && !item.projects) item.projects = [];
+	if(item.submenu) item.submenu.forEach(sub => {
+		if(!sub.projects) sub.projects = [];
+	})
+})
+const flat = menu.reduce((all, item) => [...all, item, ...(item.submenu || [])], []);
+
+export {
+	menu,
+	flat
+}

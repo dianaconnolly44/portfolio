@@ -4,7 +4,7 @@
 // format:
 // 
 // 	<ID>: {
-// 		title: `<TITLE>`,
+// 		title: `<TITLE>`, 
 // 		description: `<DESCRIPTION>`,
 // 		pic: `<THUMBNAIL FILENAME>`,
 // 		page: ??
@@ -12,26 +12,27 @@
 
 export const projects = {
 
-	thesis: {
+	'thesis': {
 		title: `Thesis`,
 		description: `Project for thesis`,
-		pic: `thesis.png`
+		pic: `thesis.png`,
+		page: 0
 	},
 
-	jumo: {
+	'jumo': {
 		title: `Jumo`,
 		pic: `jumo.png`
 	},
 
-	finals: {
+	'finals': {
 		pic: `finals.png`
 	},
 
-	journal: {
+	'journal': {
 		pic: `journal.png`
 	},
 
-	footbook: {
+	'footbook': {
 		title: `Foot Book`,
 		pic: `footbook.png`
 	}

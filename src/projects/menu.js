@@ -4,64 +4,121 @@ export const menu = [
 		id: 'illustration',
 		label: 'Illustration',
 		submenu: [
-
-			{
-				id: 'iconography',
-				label: 'Iconography',
-				projects: [
-					'thesis',
-					'jumo'
-				]
-			},
 			
 			{
-				id: 'painting',
-				label: 'Painting',
+				id: 'childrens',
+				label: `Children's`,
 				projects: [
 					'finals',
 				]
 			},
 
 			{
-				id: 'drawing',
-				label: 'Drawing',
+				id: 'editorial',
+				label: 'Editorial',
 				projects: [
 					'journal',
 					'footbook'
 				]
 			},
 
-		]
-	},
-
-	{
-		id: 'graphic-design',
-		label: 'Graphic Design',
-		projects: [
-			'thesis',
-			'footbook'
-		]
-	},
-
-	{
-		id: 'crafts',
-		label: 'Crafts',
-		submenu: [
-
 			{
-				id: 'textiles',
-				label: 'Textiles',
+				id: 'iconography',
+				label: 'Iconography',
 				projects: [
-					'thesis',
-					'jumo'
+					
 				]
 			},
+
+		]
+	},
+
+	{
+		id: 'animation',
+		label: 'Animation',
+		submenu: [
 			
 			{
-				id: 'fabrics',
-				label: 'Fabrics',
+				id: 'videos',
+				label: `Videos`,
 				projects: [
-					'finals',
+					'explainer',
+					'holiday',
+					'whiteboard',
+					'frameByFrame',
+					'dadCard',
+				]
+			},
+
+			{
+				id: 'loops',
+				label: 'Loops',
+			},
+
+		]
+	},
+
+	{
+		id: 'art',
+		label: 'Art',
+		submenu: [
+			{
+				id: 'drawing',
+				label: `Drawing`,
+				projects: [
+					'figures',
+					'portraits',
+					'still-lifes',
+				]
+			},
+
+			{
+				id: 'painting',
+				label: 'Painting',
+				projects: [
+					'self-portraits',
+					'dissectingSelf',
+					'boobs',
+					'2lints',
+				]
+			},
+
+			{
+				id: 'interactive',
+				label: 'Interactive',
+				projects: [
+					'flipfoot',
+					'space-art',
+					'dreamBox',
+					'ducks',
+					'migraine-glasses',
+				]
+			},
+		]
+	},
+
+	{
+		id: 'design',
+		label: 'Design',
+		submenu: [
+			{
+				id: 'graphic',
+				label: `Graphic`,
+				projects: [
+					'figures',
+					'portraits',
+					'still-lifes',
+				]
+			},
+
+			{
+				id: 'craft',
+				label: 'Craft',
+				projects: [
+					'self-portraits',
+					'dissectingSelf',
+					'boobs',
+					'2lints',
 				]
 			},
 
@@ -69,12 +126,19 @@ export const menu = [
 				id: 'lettering',
 				label: 'Lettering',
 				projects: [
-					'journal',
-					'footbook'
+					'flipfoot',
+					'space-art',
+					'dreamBox',
+					'ducks',
+					'migraine-glasses',
 				]
 			},
-
 		]
+	},
+
+	{
+		id: 'about',
+		label: 'About',
 	},
 ];
 

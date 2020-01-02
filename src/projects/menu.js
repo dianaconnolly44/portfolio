@@ -10,7 +10,10 @@ export const menu = [
 				label: 'Iconography',
 				projects: [
 					'thesis',
-					'jumo'
+					'jumo',
+					'finals',
+					'footbook',
+					'journal'
 				]
 			},
 			

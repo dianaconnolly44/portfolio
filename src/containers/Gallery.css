@@ -1,3 +1,36 @@
-.gallery .tile {
+.gallery .tiles {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin: 0 -15px;
+}
 
+.gallery .tile {
+  float: left;
+  width: 33.33333%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding: 15px;
+  display: inline-block;
+}
+
+.gallery .tile-contents {
+  position: relative;
+}
+.gallery .tile img {
+  width: 100%;
+  display: inline-block;
+  border-radius: 10px;
+}
+.gallery .tile img + * {
+  margin-top: 5px;
+}
+.gallery .tile .title {
+  font-weight: bold;
+  padding: 0 10px;
+}
+.gallery .tile .description {
+  color: gray;
+  padding: 0 10px;
+  font-size: .8em;
 }

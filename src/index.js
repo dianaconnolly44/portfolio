@@ -24,6 +24,7 @@ class App extends Component {
   isValidPage = () => {
     const page = this.props.location.pathname.replace('/', '');
     if(!page) return true;
+    if(flat.some(path => path.id === page)) return true;
     return false;
   }
 

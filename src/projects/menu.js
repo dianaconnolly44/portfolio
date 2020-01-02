@@ -9,7 +9,6 @@ export const menu = [
 				id: 'childrens',
 				label: `Children's`,
 				projects: [
-					'finals',
 				]
 			},
 
@@ -17,8 +16,6 @@ export const menu = [
 				id: 'editorial',
 				label: 'Editorial',
 				projects: [
-					'journal',
-					'footbook'
 				]
 			},
 
@@ -26,7 +23,6 @@ export const menu = [
 				id: 'iconography',
 				label: 'Iconography',
 				projects: [
-					
 				]
 			},
 

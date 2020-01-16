@@ -23,7 +23,7 @@ export default class Gallery extends Component {
               return <div className="tile" key={tile.id}>
                 <div className="tile-contents">
                   <img src={require(`../projects/gallery/${tile.pic}`)} />
-                  { tile.title ? <div className="title">{tile.title}</div> : null }
+                  <div className="title">{tile.title}</div>
                   { tile.description ? <div className="description">{tile.description}</div> : null }
                 </div>
               </div>

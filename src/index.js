@@ -21,11 +21,20 @@ class App extends Component {
   }
   meta = {}
 
+  componentDidMount = () => {
+    document.addEventListener('scroll', this.detectNavScroll);
+  }
+
   isValidPage = () => {
     const page = this.props.location.pathname.replace('/', '');
     if(!page) return true;
     if(flat.some(path => path.id === page)) return true;
     return false;
+  }
+
+  detectNavScroll = e => {
+    console.log('SCROLLING');
+    if(this.refs.nav) this.refs.nav.closeMobileNav();
   }
 
   render = () => {
@@ -48,8 +57,8 @@ class App extends Component {
     }
 
     return (
-      <div className={`app ${isMobile ? 'mobile' : ''}`} id="app">
-        <Nav {...this.props} onNav={nav => this.setState({ nav })} />
+      <div className={`app ${isMobile ? 'mobile' : ''}`} id="app" ref="app">
+        <Nav {...this.props} onNav={nav => this.setState({ nav })} ref="nav" />
         <div className="body">
           { renderPage() }
         </div>

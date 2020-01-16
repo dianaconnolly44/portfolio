@@ -14,23 +14,31 @@ export default class Nav extends Component {
   navTo = (path, page) => {
     this.props.history.push(path);
     this.setState({ page });
+    if(this.state.open) this.toggleMobile();
+  }
+
+  closeMobileNav = () => {
+    if(!this.state.open) return;
+    this.setState({ open: false });
+    document.removeEventListener('click', this.closeByBody);
+    window.removeEventListener('touchstart', this.closeByBody);
   }
 
   toggleMobile = () => {
     if(this.state.open) {
-      this.setState({ open: false });
-      document.removeEventListener('click', this.closeByBody);
+      this.closeMobileNav();
     } else {
       this.setState({ open: true });
       document.addEventListener('click', this.closeByBody);
+      window.addEventListener('touchstart', this.closeByBody);
     }
   }
 
   closeByBody = e => {
     if('persist' in e) e.persist();
+    if(!e.path) return;
     if(e.path.includes(this.refs.body)) return;
-    this.setState({ open: false });
-    document.removeEventListener('click', this.closeByBody);
+    this.closeMobileNav();
   }
 
   renderLink = (link, i) => {

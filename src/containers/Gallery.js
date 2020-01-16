@@ -11,7 +11,6 @@ export default class Gallery extends Component {
   render = () => {
 
     const page = flat.find(link => link.id === this.props.page);
-    console.log(this.props.page, page)
     const tiles = page.projects.filter(id => projects[id]).map(id => projects[id] ? ({ id, ...projects[id] }) : null);
 
     return (

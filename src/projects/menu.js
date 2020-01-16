@@ -9,13 +9,38 @@ const menu = [
 				id: 'childrens',
 				label: `Children's`,
 				projects: [
+					'thesis',
+					'frida',
+					'gaucher',
+					'bunny',
+					'fall',
+					
+					'pathways',
+					'energy',
+					'activity',
+					'achieve',
+					'trump',
+					'color',
+					'expii',
+					't1d',
 				]
 			},
+
+			
 
 			{
 				id: 'editorial',
 				label: 'Editorial',
 				projects: [
+					'lloyd',
+					'verdeBaby',
+					'verdeSam',
+					'verdeElephant',
+					'verdeSweetheart',
+					'verdeGun',
+					'verdeLips',
+					'verdeOccupy',
+					'verdeInternal',
 				]
 			},
 
@@ -39,10 +64,14 @@ const menu = [
 				label: `Videos`,
 				projects: [
 					'dadCard',
-					'holiday',
 					'whiteboard',
+					'holiday',
+					'characterExplainer',
+					'iconExplainer',
+					'textAnimation',
 					'frameByFrame',
-				
+					'assetCreation',
+
 				]
 			},
 
@@ -50,9 +79,7 @@ const menu = [
 				id: 'loops',
 				label: 'Loops',
 				projects: [
-					'banana',
-					'dadMotorcycle',
-					'heart',
+					
 					'skulls',
 					'turkey',
 					'pumpkins',
@@ -62,7 +89,9 @@ const menu = [
 					'ornaments',
 					'ribbon',
 					'NYE',
-
+					'dadMotorcycle',
+					'banana',
+					'heart',
 				]
 			},
 

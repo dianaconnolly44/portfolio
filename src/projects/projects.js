@@ -12,11 +12,213 @@
 
 export const projects = {
 
+//children's illo//
+
+	'thesis': {
+		title: `Visual Supplementation Research`,
+		description: `My undergraduate thesis project`,
+		pic: `thesis1.jpg`,
+		page: 0
+	},
+
+	'frida': {
+		title: `Frida Kahlo`,
+		description: `Educational book about Kahlo's life and legacy`,
+		pic: `frida.jpg`,
+		page: 0
+	},
+
+	'gaucher': {
+		title: `My Condition & Me`,
+		description: `Educational book for toddlers about their health condition`,
+		pic: `gaucher2.jpg`,
+		page: 0
+	},
+
+	'color': {
+		title: `A Perfect Day`,	
+		description: `Max and Zoey's perfect day`,	
+		pic: `color.jpg`,
+		page: 0
+	},
+
+	'achieve': {
+		title: `Activity Book`,
+		description: `Book of coloring and games for children`,
+		pic: `achieve.jpg`,
+		page: 0
+	},
+
+	'bunny': {
+		title: `Growing a Tomato`,
+		description: `Educational book about gardening`,
+		pic: `bunny.jpg`,
+		page: 0
+	},
+
+	'activity': {
+		title: `Activity Book`,
+		description: `Book of coloring and games for children`,
+		pic: `activity.jpg`,
+		page: 0
+	},
+
+	'trump': {
+		title: `The White House`,
+		description: `Educational book about the White House and inauguration`,
+		pic: `trump.jpg`,
+		page: 0
+	},
+
+	'energy': {
+		title: `Who Can Do It?`,
+		description: `Educational book about sustainability efforts`,
+		pic: `energy.jpg`,
+		page: 0
+	},
+
+	'pathways': {
+		title: `Pathways`,	
+		description: `Guide for kids and teachers on using a new product`,	
+		pic: `pathways.jpg`,
+		page: 0
+	},
+
+	'fall': {
+		title: `Seasons of Color`,
+		description: `Educational book about colors associated with seasons`,
+		pic: `fall.jpg`,
+		page: 0
+	},
+
+	't1d': {
+		title: `T1D & Gwen`,
+		description: `Book concept for teens with Type 1 Diabetes`,
+		pic: `t1d3.jpg`,
+		page: 0
+	},
+
+	'expii': {
+		title: `Expii Graphics`,
+		description: `Graphics to pair with math and science content`,
+		pic: `expii.png`,
+		page: 0
+	},
+
+
+//media illo//
+
+	'lloyd': {
+		title: `11th Hour`,
+		description: `Prog rock album cover`,
+		pic: `lloyd.jpg`,
+		page: 0
+	},
+
+	'verdeBaby': {
+		title: `Halloween: All Grown Up?`,
+		description: `News magazine cover illustration`,
+		pic: `verdeBaby.jpg`,
+		page: 0
+	},
+
+	'verdeSam': {
+		title: `I Want YOU to be Happy`,
+		description: `News magazine cover illustration`,
+		pic: `verdeSam.jpg`,
+		page: 0
+	},
+
+	'verdeElephant': {
+		title: `The Elephant in the Classroom`,	
+		description: `News magazine cover illustration`,	
+		pic: `verdeElephant.jpg`,
+		page: 0
+	},
+
+	'verdeSweetheart': {
+		title: `Don't Call Me Sweetheart`,
+		description: `News magazine cover illustration`,
+		pic: `verdeSweetheart.jpg`,
+		page: 0
+	},
+
+	'verdeGun': {
+		title: `Gunning for Change`,
+		description: `News magazine cover illustration`,
+		pic: `verdeGun.jpg`,
+		page: 0
+	},
+
+	'verdeLips': {
+		title: `Untitled`,
+		description: `News magazine cover illustration`,
+		pic: `verdeLips.jpg`,
+		page: 0
+	},
+
+	'verdeOccupy': {
+		title: `Occupy [Here]`,
+		description: `News magazine cover illustration`,
+		pic: `verdeOccupy.jpg`,
+		page: 0
+	},
+
+	'verdeInternal': {
+		title: `Editorial illustrations`,
+		description: `Illustrations to pair with news articles`,
+		pic: `verdeInternal.png`,
+		page: 0
+	},
+
+
 //videos//
 
 	'dadCard': {
-		title: `Dad's Roadtrip`,
+		title: `Father's Day eCard`,
 		pic: `dadcard.gif`,
+		page: 0
+	},
+
+	'whiteboard': {
+		title: `Whiteboard Animation`,
+		pic: `whiteboard.gif`,
+		page: 0
+	},
+
+	'holiday': {
+		title: `Holiday eCard`,
+		pic: `holiday.gif`,
+		page: 0
+	},
+
+	'characterExplainer': {
+		title: `Character Explainer Videos`,
+		pic: `characterExplainer.gif`,
+		page: 0
+	},
+
+	'iconExplainer': {
+		title: `Icon Explainer Videos`,
+		pic: `iconExplainer.gif`,
+		page: 0
+	},
+
+	'textAnimation': {
+		title: `Text Animation`,
+		pic: `textAnimation.gif`,
+		page: 0
+	},
+
+	'frameByFrame': {
+		title: `Frame by Frame Animation`,
+		pic: `frameByFrame.gif`,
+		page: 0
+	},
+
+	'assetCreation': {
+		title: `Animation Asset Creation`,
+		pic: `assetCreation.png`,
 		page: 0
 	},
 
@@ -89,7 +291,7 @@ export const projects = {
 	},
 
 	'NYE': {
-		title: `New Years Eve`,
+		title: `New Year's Eve`,
 		pic: `NYE-small.gif`,
 		page: 0
 	},
@@ -202,8 +404,8 @@ export const projects = {
 //painting://
 	
 	'boobs': {
-		title: `Shell Breasts`,
-		description: `Crossing breasts with shell texture, oil`,
+		title: `Uncanny`,
+		description: `Intersection of breasts and seashells, oil`,
 		pic: `boobs_s.jpg`,
 		page: 0
 	},
@@ -217,7 +419,7 @@ export const projects = {
 
 	'eye': {
 		title: `Retinal Embossing`,
-		description: `A gold-embossed portrait of an optic nerve, oil`,
+		description: `Gold-embossed portrait of a retina, oil`,
 		pic: `eye_s.jpg`,
 		page: 0
 	},
@@ -338,7 +540,7 @@ export const projects = {
 
 	'104bodies': {
 		title: `Mismatched`,
-		description: `Randomized permutations of characters`,
+		description: `Randomized permutations of characters with mouse click`,
 		pic: `104bodies.gif`,
 		page: 0
 	},
@@ -352,7 +554,7 @@ export const projects = {
 
 	'migraineGlasses': {
 		title: `Migraine Glasses`,
-		description: `Simulation of various scintillating scotomas`,
+		description: `Simulation of various migraine visual effects`,
 		pic: `migraine.jpg`,
 		page: 0
 	},
@@ -366,7 +568,7 @@ export const projects = {
 
 	'104faces': {
 		title: `Randomized Faces`,
-		description: `Randomized permutations of facial features`,
+		description: `Randomized permutations of facial features with mouse click`,
 		pic: `104faces.gif`,
 		page: 0
 	},
@@ -408,7 +610,7 @@ export const projects = {
 
 	'paddleBall': {
 		title: `Paddle Ball`,
-		description: `Play paddle ball by simply moving your mouse`,
+		description: `Play paddle ball by moving your mouse`,
 		pic: `104paddleBall.gif`,
 		page: 0
 	},
@@ -422,7 +624,7 @@ export const projects = {
 
 	'oppositeBalls': {
 		title: `Yin and Yang`,
-		description: `Like magnets, your yin and yang oppose each other based on your mouse`,
+		description: `Move your mouse to have yin and yang oppose each other like magnets`,
 		pic: `104oppositeBalls.gif`,
 		page: 0
 	},

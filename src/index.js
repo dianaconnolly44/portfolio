@@ -19,17 +19,10 @@ class App extends Component {
   state = {
     nav: null
   }
-  meta = {
-    appScrollTop: 0,
-    appScrollLeft: 0
-  }
+  meta = {}
 
   componentDidMount = () => {
-    if(this.refs.app) {
-      const { scrollTop, scrollLeft } = this.refs.app;
-      this.meta.appScrollTop = scrollTop;
-      this.meta.appScrollLeft = scrollLeft;
-    }
+    document.addEventListener('scroll', this.detectNavScroll);
   }
 
   isValidPage = () => {
@@ -40,14 +33,8 @@ class App extends Component {
   }
 
   detectNavScroll = e => {
-    if(this.refs.app) {
-      const { scrollTop, scrollLeft } = this.refs.app;
-      if(this.meta.appScrollTop !== scrollTop || this.meta.appScrollLeft !== scrollLeft) {
-        if(this.refs.nav) this.refs.nav.closeMobileNav();
-      }
-      this.meta.appScrollTop = scrollTop;
-      this.meta.appScrollLeft = scrollLeft;
-    }
+    console.log('SCROLLING');
+    if(this.refs.nav) this.refs.nav.closeMobileNav();
   }
 
   render = () => {
@@ -70,7 +57,7 @@ class App extends Component {
     }
 
     return (
-      <div className={`app ${isMobile ? 'mobile' : ''}`} id="app" ref="app" onScroll={this.detectNavScroll}>
+      <div className={`app ${isMobile ? 'mobile' : ''}`} id="app" ref="app">
         <Nav {...this.props} onNav={nav => this.setState({ nav })} ref="nav" />
         <div className="body">
           { renderPage() }

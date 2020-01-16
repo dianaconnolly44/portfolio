@@ -21,6 +21,7 @@ export default class Nav extends Component {
     if(!this.state.open) return;
     this.setState({ open: false });
     document.removeEventListener('click', this.closeByBody);
+    window.removeEventListener('touchstart', this.closeByBody);
   }
 
   toggleMobile = () => {
@@ -29,11 +30,13 @@ export default class Nav extends Component {
     } else {
       this.setState({ open: true });
       document.addEventListener('click', this.closeByBody);
+      window.addEventListener('touchstart', this.closeByBody);
     }
   }
 
   closeByBody = e => {
     if('persist' in e) e.persist();
+    if(!e.path) return;
     if(e.path.includes(this.refs.body)) return;
     this.closeMobileNav();
   }

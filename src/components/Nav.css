@@ -1,4 +1,7 @@
-
+.nav {
+  font-family: 'Kulim Park', sans-serif;
+  font-weight: 300;
+}
 .nav-mobile {
   position: absolute;
   top: -50px;
@@ -15,7 +18,7 @@
   transition: left .3s cubic-bezier(.12,.845,.305,1), top .3s cubic-bezier(.12,.845,.305,1), opacity .35s;
 }
 .nav.open .nav-mobile {
-  left: 250px;
+  left: 150px;
 }
 .nav .toggle {
   position: absolute;
@@ -86,7 +89,7 @@
 }
 
 .nav-body {
-  width: 250px;
+  width: 150px;
   height: 100%;
   position: absolute;
   top: 0;

@@ -38,17 +38,32 @@ const menu = [
 				id: 'videos',
 				label: `Videos`,
 				projects: [
-					'explainer',
+					'dadCard',
 					'holiday',
 					'whiteboard',
 					'frameByFrame',
-					'dadCard',
+				
 				]
 			},
 
 			{
 				id: 'loops',
 				label: 'Loops',
+				projects: [
+					'banana',
+					'dadMotorcycle',
+					'heart',
+					'skulls',
+					'turkey',
+					'pumpkins',
+					'clock',
+					'hanukkah',
+					'bFriday',
+					'ornaments',
+					'ribbon',
+					'NYE',
+
+				]
 			},
 
 		]
@@ -62,9 +77,24 @@ const menu = [
 				id: 'drawing',
 				label: `Drawing`,
 				projects: [
-					'figures',
-					'portraits',
-					'still-lifes',
+					'joker',
+					'jackson',
+					'alyssa',
+					'selfPencil',
+					'stillLifePencil',
+					'inkHair',
+					'icyGirl',
+					'charcoal',
+					'orangeDrawing',
+					
+					'figure1',
+					'figure2',
+					'colorShadowGirl',
+					'figure3',
+					'figure4',
+					'figure5',
+					'shell',
+					'handCharcoal',
 				]
 			},
 
@@ -72,10 +102,24 @@ const menu = [
 				id: 'painting',
 				label: 'Painting',
 				projects: [
-					'self-portraits',
-					'dissectingSelf',
 					'boobs',
-					'2lints',
+					'dissect',
+					'eye',
+					'wonky1',
+					'wonky2',
+					'Lint',
+					'young8',
+					'model',
+					'rococoLint',
+					'botanical',
+					'young4',
+					'young2',
+					'young7',
+					'huesGrid',
+					'plane',
+					'young5',
+					
+					'jesusme-',
 				]
 			},
 
@@ -84,10 +128,20 @@ const menu = [
 				label: 'Interactive',
 				projects: [
 					'flipfoot',
-					'space-art',
+					'spaceArt',
+					'104bodies',
+					'104eyes',
+					'migraineGlasses',
+					'artBioPetri',
+					'hairGod',
+					'phenotype',
+					'104faces',
 					'dreamBox',
 					'ducks',
-					'migraine-glasses',
+					'walkCycle',
+					'paddleBall',
+					'Necklace',
+					'oppositeBalls',
 				]
 			},
 		]

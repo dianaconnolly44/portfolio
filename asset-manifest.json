@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.928d76e2.chunk.css",
-    "main.js": "/portfolio/static/js/main.7e5e32ca.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7e5e32ca.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.680679b4.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.680679b4.js.map",
-    "static/js/2.a22d30ee.chunk.js": "/portfolio/static/js/2.a22d30ee.chunk.js",
-    "static/js/2.a22d30ee.chunk.js.map": "/portfolio/static/js/2.a22d30ee.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.8d9fc7211a33fbb8b9b4705a030543bf.js": "/portfolio/precache-manifest.8d9fc7211a33fbb8b9b4705a030543bf.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.928d76e2.chunk.css.map": "/portfolio/static/css/main.928d76e2.chunk.css.map",
-    "static/js/2.a22d30ee.chunk.js.LICENSE": "/portfolio/static/js/2.a22d30ee.chunk.js.LICENSE"
+    "main.css": "/static/css/main.0050c52e.chunk.css",
+    "main.js": "/static/js/main.7100bc06.chunk.js",
+    "main.js.map": "/static/js/main.7100bc06.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7cc6e23.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7cc6e23.js.map",
+    "static/js/2.12042266.chunk.js": "/static/js/2.12042266.chunk.js",
+    "static/js/2.12042266.chunk.js.map": "/static/js/2.12042266.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b2af86ad01af3e4280309b448b0233b3.js": "/precache-manifest.b2af86ad01af3e4280309b448b0233b3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0050c52e.chunk.css.map": "/static/css/main.0050c52e.chunk.css.map",
+    "static/js/2.12042266.chunk.js.LICENSE": "/static/js/2.12042266.chunk.js.LICENSE",
+    "static/media/finals.png": "/static/media/finals.12e8755c.png",
+    "static/media/footbook.png": "/static/media/footbook.9bf0b9cc.png",
+    "static/media/journal.png": "/static/media/journal.1192f6e2.png",
+    "static/media/thesis.png": "/static/media/thesis.d3cd3cda.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.680679b4.js",
-    "static/js/2.a22d30ee.chunk.js",
-    "static/css/main.928d76e2.chunk.css",
-    "static/js/main.7e5e32ca.chunk.js"
+    "static/js/runtime-main.c7cc6e23.js",
+    "static/js/2.12042266.chunk.js",
+    "static/css/main.0050c52e.chunk.css",
+    "static/js/main.7100bc06.chunk.js"
   ]
 }

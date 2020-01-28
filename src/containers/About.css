@@ -87,6 +87,7 @@
   .about img {
     width: 200px;
     margin-top: -40px;
+    transform: translateX(20px);
   }
   .about .hello > div {
     border-width: 3px;

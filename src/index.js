@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import { Route, Switch } from 'react-router';
+import { Route, Switch, Redirect } from 'react-router';
 import { Router } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 import { Nav } from './components';
@@ -72,6 +72,7 @@ ReactDOM.render(
   <Router history={history}>
     <Switch>
       { /* URL PATHS */ }
+      <Redirect exact from="/" to="/childrens" />
       <Route path="*" component={App} />
 
 

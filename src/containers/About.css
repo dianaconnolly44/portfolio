@@ -1,0 +1,115 @@
+.about {
+  max-width: 1000px;
+  padding: 25px 100px;
+  padding-right: 0;
+}
+.about > div {
+  display: inline-block;
+  position: relative;
+}
+.about img {
+  width: 300px;
+  margin-top: -100px;
+  z-index: 0;
+  position: relative;
+}
+.about .hello,
+.about .text {
+  padding: 25px 30px;
+  padding-right: 0;
+  background: white;
+  z-index: 10;
+  position: relative;
+  margin-left: 250px;
+}
+.about .hello > div {
+  border-left: 6px solid #67c9d3;
+}
+.about .hello h1 {
+  padding-left: 27px;
+  margin: 0;
+  line-height: .9em;
+  font-size: 45px;
+}
+.about .hello h1:first-child {
+  margin-bottom: 30px;
+}
+.about .text {
+  font-weight: 500;
+  font-size: 18px;
+  max-width: 500px;
+  margin-left: 150px;
+  margin-top: -70px;
+  position: relative;
+}
+.about .footer {
+  margin-top: 50px;
+  max-width: 850px;
+  margin-bottom: 40px;
+}
+.about .footer ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.about .footer li {
+  text-align: center;
+  width: 33%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.about a {
+  color: black;
+}
+
+@media only screen and (max-width: 1100px) {
+  .about {
+    padding-left: 0;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .about .hello h1 {
+    font-size: 35px;
+  }
+  .about .hello > div {
+    border-width: 5px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .about {
+    padding-top: 0;
+  }
+  .about img {
+    width: 200px;
+    margin-top: -40px;
+  }
+  .about .hello > div {
+    border-width: 3px;
+  }
+  .about .hello {
+    margin-left: 100px;
+    padding: 17px 20px;
+    padding-right: 0;
+  }
+  .about .hello h1 {
+    font-size: 24px;
+    padding-left: 14px;
+  }
+  .about .hello h1:first-child {
+    margin-bottom: 20px;
+  }
+  .about .text {
+    margin-top: -20px;
+    margin-left: 60px;
+    font-size: 15px;
+    padding: 15px 20px;
+  }
+  .about .footer {
+    font-size: 12px;
+  }
+}

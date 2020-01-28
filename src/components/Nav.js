@@ -97,11 +97,11 @@ export default class Nav extends Component {
           </div>
           <ul>
             { 
-              this.renderLink({
-                id: 'home',
-                url: '/',
-                label: 'Home'
-              }) 
+              // this.renderLink({
+              //   id: 'home',
+              //   url: '/',
+              //   label: 'Home'
+              // }) 
             }
             { menu.map(this.renderLink) }
           </ul>

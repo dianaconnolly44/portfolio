@@ -138,7 +138,7 @@
 .nav .sub .link span:before {
   background: lightgray;
 }
-.nav .link:not(.active):hover span:before {
+.app:not(.mobile) .nav .link:not(.active):hover span:before {
   width: 70%;
 }
 .nav .sub {

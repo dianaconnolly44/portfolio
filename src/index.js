@@ -33,7 +33,6 @@ class App extends Component {
   }
 
   detectNavScroll = e => {
-    console.log('SCROLLING');
     if(this.refs.nav) this.refs.nav.closeMobileNav();
   }
 

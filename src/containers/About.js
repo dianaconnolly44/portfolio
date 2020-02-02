@@ -20,7 +20,7 @@ export default class About extends Component {
           <img src={require('../test.jpeg')} />
 
           <section className="text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            I am an illustrator, animator, and creative in New York City, with special interest in using my art for education, communication, or causing joy. In 2017, I received an interdisciplinary degree from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I am especially interested in visual perception and how to make the most effective visuals for their intended audience. As Degas put it, “art is not what you see, but what you make others see.”
           </section>
 
           <section className="footer">

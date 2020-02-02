@@ -72,7 +72,7 @@ ReactDOM.render(
   <Router history={history}>
     <Switch>
       { /* URL PATHS */ }
-      <Redirect exact from="/" to="/childrens" />
+      <Redirect exact from="/" to="/about" />
       <Route path="*" component={App} />
 
 

@@ -1,7 +1,5 @@
 .about {
-  max-width: 1000px;
-  padding: 25px 100px;
-  padding-right: 0;
+  padding: 25px 0;
 }
 .about > div {
   display: inline-block;
@@ -9,7 +7,7 @@
 }
 .about img {
   width: 300px;
-  margin-top: -100px;
+  margin-top: -170px;
   z-index: 0;
   position: relative;
 }
@@ -20,7 +18,7 @@
   background: white;
   z-index: 10;
   position: relative;
-  margin-left: 250px;
+  margin-left: 240px;
 }
 .about .hello > div {
   border-left: 6px solid #67c9d3;
@@ -28,11 +26,9 @@
 .about .hello h1 {
   padding-left: 27px;
   margin: 0;
-  line-height: .9em;
+  line-height: 1.3em;
   font-size: 45px;
-}
-.about .hello h1:first-child {
-  margin-bottom: 30px;
+  max-width: 565px;
 }
 .about .text {
   font-weight: 500;
@@ -42,28 +38,28 @@
   margin-top: -70px;
   position: relative;
 }
-.about .footer {
-  margin-top: 50px;
-  max-width: 850px;
-  margin-bottom: 40px;
-}
-.about .footer ul {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.about .footer li {
-  text-align: center;
-  width: 33%;
-  flex-grow: 0;
-  flex-shrink: 0;
-}
-
 .about a {
   color: black;
+  text-decoration: underline;
+  font-weight: bold;
 }
+.about .text p {
+  margin-top: 0;
+  margin-bottom: 1.3em;
+}
+.about .footer a {
+  margin: 0 20px;
+}
+
+.about a,
+.about .teal,
+.about .yellow,
+.about .orange { 
+  /*font-weight: bold;*/
+}
+.about .teal { color: #78cab8; }
+.about .yellow { color: #f2be19; }
+.about .orange { color: #f28820; }
 
 @media only screen and (max-width: 1100px) {
   .about {

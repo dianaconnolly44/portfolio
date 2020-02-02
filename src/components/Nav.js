@@ -11,6 +11,10 @@ export default class Nav extends Component {
   }
   meta = {}
 
+  componentDidMount = prevProps => {
+    if(this.props.location.pathname.includes('about')) this.setState({ page: 'about' });
+  }
+
   navTo = (path, page) => {
     this.props.history.push(path);
     this.setState({ page });

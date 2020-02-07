@@ -101,9 +101,13 @@
 
 .nav .header {
   padding-top: 40px;
-  padding-left: 40px;
-  height: 100px;
+  padding-left: 15px;
 }
+
+.nav #logo {
+  width: 100%;
+}
+
 
 .nav ul {
   margin: 0;
@@ -160,7 +164,6 @@
   background: black;
   width: 100%;
 }
-
 
 @media only screen and (max-width: 767px) {
   .nav-mobile {

@@ -97,7 +97,7 @@ export default class Nav extends Component {
 
         <div className="nav-body" ref="body">
           <div className="header">
-            DIANA
+            <img id="logo" src={require('../dclogo.gif')} />
           </div>
           <ul>
             { 

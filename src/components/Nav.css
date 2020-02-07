@@ -100,12 +100,14 @@
 }
 
 .nav .header {
-  padding-top: 40px;
-  padding-left: 15px;
+  padding-top: 10px;
+  padding-left: 40px;
+  margin-bottom: -10px;
 }
 
 .nav #logo {
   width: 100%;
+  margin-left: -25px;
 }
 
 

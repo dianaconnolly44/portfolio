@@ -9,38 +9,46 @@ const menu = [
 				id: 'childrens',
 				label: `Children's`,
 				projects: [
+					'gaucher',
+					'expii2',
 					'thesis',
 					'frida',
-					'gaucher',
-					'bunny',
+					'andreaBook',
+					'pathways',
 					'fall',
 					
-					'pathways',
+					'bunny',
 					'energy',
+					'color',
+					'trump',
 					'activity',
 					'achieve',
-					'trump',
-					'color',
-					'expii',
+					
 					't1d',
+					'expii1',
+					'expii',
 				]
 			},
 
 			
 
 			{
-				id: 'editorial',
-				label: 'Editorial',
+				id: 'media',
+				label: 'Media',
 				projects: [
+					
 					'lloyd',
+					'verdeGun',
+					'verdeElephant',
 					'verdeBaby',
 					'verdeSam',
-					'verdeElephant',
 					'verdeSweetheart',
-					'verdeGun',
+		
 					'verdeLips',
 					'verdeOccupy',
 					'verdeInternal',
+					'expii1',
+					'expii2',
 				]
 			},
 
@@ -48,6 +56,12 @@ const menu = [
 				id: 'iconography',
 				label: 'Iconography',
 				projects: [
+					'thesis',
+					'africaThumbnail',
+					'hospitalThumbnail',
+					'aslThumbnail',
+					'thinlineThumbnail',
+					'avatarThumbnail',
 				]
 			},
 
@@ -106,24 +120,30 @@ const menu = [
 				id: 'drawing',
 				label: `Drawing`,
 				projects: [
-					'joker',
 					'jackson',
 					'alyssa',
-					'selfPencil',
+					'joker',
+
+					'shell',
 					'stillLifePencil',
 					'inkHair',
-					'icyGirl',
+					'selfPencil',
+										
+					
 					'charcoal',
 					'orangeDrawing',
-					
-					'figure1',
-					'figure2',
+
 					'colorShadowGirl',
-					'figure3',
+					'birb',
+					'icyGirl',
+
+					'handCharcoal',
 					'figure4',
 					'figure5',
-					'shell',
-					'handCharcoal',
+
+					'figure1',
+					'figure2',
+					'figure3',
 				]
 			},
 
@@ -136,10 +156,10 @@ const menu = [
 					'eye',
 					'wonky1',
 					'wonky2',
-					'Lint',
+					'rococoLint',
 					'young8',
 					'model',
-					'rococoLint',
+					'Lint',
 					'botanical',
 					'young4',
 					'young2',
@@ -153,23 +173,38 @@ const menu = [
 			},
 
 			{
-				id: 'interactive',
-				label: 'Interactive',
+				id: 'mixed media',
+				label: 'Mixed Media',
 				projects: [
 					'flipfoot',
 					'spaceArt',
-					'104bodies',
-					'104eyes',
 					'migraineGlasses',
 					'artBioPetri',
-					'hairGod',
-					'phenotype',
-					'104faces',
+					'blueWave',
+					
 					'dreamBox',
+					'phenotype',
+					'hairGod',
+					'tattoo',
+					'darwinPortraits',
+					
+					
+					'sugarBoxes',
 					'ducks',
+					
+					
+				]
+			},
+
+			{
+				id: 'code',
+				label: 'Code',
+				projects: [
+					'104eyes',
+					'104bodies',
+					'104faces',
 					'walkCycle',
 					'paddleBall',
-					'Necklace',
 					'oppositeBalls',
 				]
 			},
@@ -184,9 +219,14 @@ const menu = [
 				id: 'graphic',
 				label: `Graphic`,
 				projects: [
-					'figures',
-					'portraits',
-					'still-lifes',
+					'sparkBranding',
+					'expiiFlyer',
+					'postcards',
+					'snellen',
+					'CIAJ',
+					'verdeShirt',
+					'pirateShirt',
+					'tobiiShirt',
 				]
 			},
 
@@ -194,10 +234,9 @@ const menu = [
 				id: 'craft',
 				label: 'Craft',
 				projects: [
-					'self-portraits',
-					'dissectingSelf',
-					'boobs',
-					'2lints',
+					'punkNecklace',
+					'dadCo',
+					
 				]
 			},
 
@@ -205,11 +244,20 @@ const menu = [
 				id: 'lettering',
 				label: 'Lettering',
 				projects: [
-					'flipfoot',
-					'space-art',
-					'dreamBox',
-					'ducks',
-					'migraine-glasses',
+					'lettering-board1',
+					'lettering-sign2',
+					'lettering-sign3',
+					'lettering-letter1',
+					'lettering-board2',
+					'lettering-board4',
+					'lettering-board3',
+					'lettering-board5',
+					'lettering-board6',
+					'lettering-sign1',
+					'lettering-cmu1',
+					'lettering-cmu2',
+					'lettering-cmu3',
+					
 				]
 			},
 		]

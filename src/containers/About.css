@@ -7,9 +7,9 @@
 .about > div {
   max-width: 730px;
 }
-.about .blue { color: #89c9ee; }
-.about .yellow { color: #e3c05c; }
-.about .orange { color: #d7914d; }
+.about .blue { color: #78c9f1; }
+.about .yellow { color: #eabf46; }
+.about .orange { color: #e48d3d; }
 .about .top {
   display: flex;
   align-items: flex-end;

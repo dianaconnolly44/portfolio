@@ -15,7 +15,11 @@ export default class Gallery extends Component {
 
     return (
       <div className="gallery">
-        <h1>{this.props.title}</h1>
+        <h1>
+          <span className="subtitle">{this.props.subtitle}</span>
+          <span className="divider">|</span>
+          <span>{this.props.title}</span>
+        </h1>
         <div className="tiles">
           {
             tiles.map(tile => {

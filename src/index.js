@@ -40,11 +40,14 @@ class App extends Component {
     const isMobile = MOBILE_DEV || window.screen.width <= 767;
     const page = this.props.location.pathname.replace('/', '');
 
-    let page_title = page;
+    let page_title = page, page_subtitle;
     menu.forEach(item => {
       if(item.id === page) page_title = item.label;
       else (item.submenu || []).forEach(sub => {
-        if(sub.id === page) page_title = sub.label;
+        if(sub.id === page) {
+          page_title = sub.label;
+          page_subtitle = item.label;
+        }
       });
     });
 
@@ -52,7 +55,7 @@ class App extends Component {
       if(!this.isValidPage()) return page404;
       if(!page) return <Home {...this.props} />;
       if(page === 'about') return <About {...this.props} />;
-      return <Gallery {...this.props} page={page} title={page_title} />;
+      return <Gallery {...this.props} page={page} subtitle={page_subtitle} title={page_title} />;
     }
 
     return (

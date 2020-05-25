@@ -234,48 +234,54 @@ export const projects = {
 
 	'dadCard': {
 		title: `Father's Day eCard`,
-		pic: `dadcard.gif`,
+		pic: `dadcard2.gif`,
 		page: 0
 	},
 
 	'whiteboard': {
 		title: `Whiteboard Animation`,
-		pic: `whiteboard.gif`,
+		pic: `whiteboard2.gif`,
 		page: 0
 	},
 
 	'holiday': {
 		title: `Holiday eCard`,
-		pic: `holiday.gif`,
+		pic: `holiday2.gif`,
 		page: 0
 	},
 
 	'characterExplainer': {
 		title: `Character Explainer Videos`,
-		pic: `characterExplainer.gif`,
+		pic: `characterExplainer44.gif`,
 		page: 0
 	},
 
 	'iconExplainer': {
 		title: `Icon Explainer Videos`,
-		pic: `iconExplainer.gif`,
+		pic: `iconExplainer2.gif`,
 		page: 0
 	},
 
 	'textAnimation': {
 		title: `Text Animation`,
-		pic: `textAnimation.gif`,
+		pic: `textAnimation2.gif`,
 		page: 0
 	},
 
 	'frameByFrame': {
 		title: `Frame by Frame Animation`,
-		pic: `frameByFrame.gif`,
+		pic: `frameByFrame2.gif`,
+		page: 0
+	},
+
+	'transitionScreens': {
+		title: `Transition Screens`,
+		pic: `transitions2.gif`,
 		page: 0
 	},
 
 	'assetCreation': {
-		title: `Animation Asset Creation`,
+		title: `Asset Creation`,
 		pic: `assetCreation.png`,
 		page: 0
 	},
@@ -523,10 +529,31 @@ export const projects = {
 		page: 0
 	},
 
-	'botanical': {
-		title: `Botanical Self Portrait`,
-		description: `Plants from the places I have lived,  watercolor`,
-		pic: `botanical.jpg`,
+	'botanical1': {
+		title: `Botanical Self Portrait - Sequoia`,
+		description: `Plants from the places I have lived,  watercolor & colored pencil`,
+		pic: `sequoia.jpg`,
+		page: 0
+	},
+
+	'botanical2': {
+		title: `Botanical Self Portrait - Sansevieria`,
+		description: `Plants from the places I have lived,  watercolor & colored pencil`,
+		pic: `snakePlant.jpg`,
+		page: 0
+	},
+
+	'botanical3': {
+		title: `Botanical Self Portrait - CA Poppy`,
+		description: `Plants from the places I have lived,  watercolor & colored pencil`,
+		pic: `poppy.jpg`,
+		page: 0
+	},
+
+	'botanical4': {
+		title: `Botanical Self Portrait - Ginkgo`,
+		description: `Plants from the places I have lived,  watercolor & colored pencil`,
+		pic: `ginkgo.jpg`,
 		page: 0
 	},
 
@@ -725,7 +752,7 @@ export const projects = {
 
 	'sparkBranding': {
 		title: `Branding: "Project Spark"`,
-		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
+		description: `Branding web-design for a company's product`,
 		pic: `sparkBranding.png`,
 		page: 0
 	},
@@ -737,6 +764,13 @@ export const projects = {
 		page: 0
 	},
 
+	'saveTheDate': {
+		title: `Save the Date Postcards`,
+		description: `Postcard-style save the dates for a wedding`,
+		pic: `saveTheDate.png`,
+		page: 0
+	},
+
 	'postcards': {
 		title: `Marketing Postcards`,
 		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
@@ -745,8 +779,8 @@ export const projects = {
 	},
 
 	'snellen': {
-		title: `A Mother's Day Snellen Chart`,
-		description: `Personalized Snellen Chart for my ophthalmologist mom`,
+		title: `Personalized Snellen Chart`,
+		description: `Personalized Snellen Chart for my ophthalmologist mom on Mother's Day`,
 		pic: `snellen.jpg`,
 		page: 0
 	},
@@ -755,6 +789,13 @@ export const projects = {
 		title: `Event Flyers: Workshops`,
 		description: `Flyer for a cancer patient's workshop to personify and mentally separate from one's cancer`,
 		pic: `CIAJflyers.jpg`,
+		page: 0
+	},
+
+	'starMap': {
+		title: `Star Maps`,
+		description: `A print including a map of the stars at certain dates and locations`,
+		pic: `starMap.jpg`,
 		page: 0
 	},
 
@@ -796,97 +837,167 @@ export const projects = {
 		page: 0
 	},
 
+'soaps': {
+		title: `Handmade Soaps`,
+		description: `-`,
+		pic: `soaps.jpg`,
+		page: 0
+	},
+
+'nail-pier': {
+		title: `Nail Art - Pier`,
+		description: `Nail polish`,
+		pic: `nail-pier.jpg`,
+		page: 0
+	},
+
+'nail-nyc': {
+		title: `Nail Art - City Skyline`,
+		description: `Nail polish`,
+		pic: `nail-nyc.jpg`,
+		page: 0
+	},
+
+'nail-tiger': {
+		title: `Nail Art - Tiger`,
+		description: `Nail polish`,
+		pic: `nail-tiger.jpg`,
+		page: 0
+	},
+
+'nail-xmas': {
+		title: `Nail Art - Christmas`,
+		description: `Nail polish`,
+		pic: `nail-xmas.jpg`,
+		page: 0
+	},
+
+'nail-moon': {
+		title: `Nail Art - Moon`,
+		description: `Nail polish`,
+		pic: `nail-moon.jpg`,
+		page: 0
+	},
+
+'nail-sunset': {
+		title: `Nail Art - Sunset`,
+		description: `Nail polish`,
+		pic: `nail-sunset.jpg`,
+		page: 0
+	},
+
+'nail-moon': {
+		title: `Nail Art - Moon`,
+		description: `Nail polish`,
+		pic: `nail-moon.jpg`,
+		page: 0
+	},
+
 
 //lettering//
 
 'lettering-board1': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board1.jpg`,
 		page: 0
 	},
 
 'lettering-board2': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board2.jpg`,
 		page: 0
 	},
 
 'lettering-board3': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board3.jpg`,
 		page: 0
 	},
 
 'lettering-board4': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board4.jpg`,
 		page: 0
 	},
 
 'lettering-board5': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board5.jpg`,
 		page: 0
 	},
 
 'lettering-board6': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board6.jpg`,
 		page: 0
 	},
 
 'lettering-sign1': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign1.jpg`,
 		page: 0
 	},
 
 'lettering-sign2': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign2.jpg`,
 		page: 0
 	},
 
 'lettering-sign3': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign3.jpg`,
 		page: 0
 	},
 
 'lettering-letter1': {
-		title: `-`,
+		title: `Paper Source Advertising`,
 		description: `Ink on paper`,
 		pic: `lettering-letter1.jpg`,
 		page: 0
 	},
 
+'jabberwocky': {
+		title: `"The Jabberwocky" Calligraphy Book`,
+		description: `Ink, using nibs: C2, B2, pointed #56`,
+		pic: `jabberwocky.gif`,
+		page: 0
+	},
+
 'lettering-cmu1': {
-		title: `-`,
-		description: `Chalk on blackboard`,
+		title: `Alien Calligraphy`,
+		description: `Ink, using B2 nib`,
 		pic: `lettering-cmu1.jpg`,
 		page: 0
 	},
 
 'lettering-cmu2': {
-		title: `-`,
-		description: `Chalk on blackboard`,
+		title: `Latin Calligraphy`,
+		description: `Ink, using C2 nib`,
 		pic: `lettering-cmu2.jpg`,
 		page: 0
 	},
 
 'lettering-cmu3': {
-		title: `-`,
-		description: `Ink on paper`,
+		title: `Negative Space Lettering`,
+		description: `Construction paper cutouts`,
 		pic: `lettering-cmu3.jpg`,
+		page: 0
+	},
+
+'kidFont': {
+		title: `Children's Book Font`,
+		description: `Digital`,
+		pic: `kidFont.jpg`,
 		page: 0
 	},
 

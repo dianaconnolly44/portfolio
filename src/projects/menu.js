@@ -25,8 +25,8 @@ const menu = [
 					'achieve',
 					
 					't1d',
-					'expii1',
 					'expii',
+					'expii1',
 				]
 			},
 
@@ -37,12 +37,13 @@ const menu = [
 				label: 'Media',
 				projects: [
 					
-					'lloyd',
+					
 					'verdeGun',
 					'verdeElephant',
 					'verdeBaby',
 					'verdeSam',
 					'verdeSweetheart',
+					'lloyd',
 		
 					'verdeLips',
 					'verdeOccupy',
@@ -77,13 +78,14 @@ const menu = [
 				id: 'videos',
 				label: `Videos`,
 				projects: [
+					'holiday',
+					'iconExplainer',
+					'characterExplainer',
+					'textAnimation',
 					'dadCard',
 					'whiteboard',
-					'holiday',
-					'characterExplainer',
-					'iconExplainer',
-					'textAnimation',
 					'frameByFrame',
+					'transitionScreens',
 					'assetCreation',
 
 				]
@@ -160,13 +162,17 @@ const menu = [
 					'young8',
 					'model',
 					'Lint',
-					'botanical',
+					'young7',
+					'plane',
+					'botanical1',
+					'botanical2',
+					'botanical3',
+					'botanical4',
 					'young4',
 					'young2',
-					'young7',
-					'huesGrid',
-					'plane',
 					'young5',
+				
+					
 					
 					'jesusme-',
 				]
@@ -220,10 +226,13 @@ const menu = [
 				label: `Graphic`,
 				projects: [
 					'sparkBranding',
-					'expiiFlyer',
+					'starMap',
+				
+					'saveTheDate',
+					'CIAJ',
 					'postcards',
 					'snellen',
-					'CIAJ',
+					'expiiFlyer',
 					'verdeShirt',
 					'pirateShirt',
 					'tobiiShirt',
@@ -236,6 +245,13 @@ const menu = [
 				projects: [
 					'punkNecklace',
 					'dadCo',
+					'soaps',
+					'nail-nyc',
+					'nail-tiger',
+					'nail-moon',
+					'nail-sunset',
+					'nail-xmas',
+					'nail-pier',
 					
 				]
 			},
@@ -244,19 +260,24 @@ const menu = [
 				id: 'lettering',
 				label: 'Lettering',
 				projects: [
-					'lettering-board1',
-					'lettering-sign2',
+					'lettering-cmu2',
+					'lettering-cmu1',
+					'jabberwocky',
+					'kidFont',
+					
 					'lettering-sign3',
+					'lettering-sign2',
+					'lettering-board1',
+					'lettering-sign1',
 					'lettering-letter1',
-					'lettering-board2',
 					'lettering-board4',
 					'lettering-board3',
+					'lettering-board2',
+					
 					'lettering-board5',
 					'lettering-board6',
-					'lettering-sign1',
-					'lettering-cmu1',
-					'lettering-cmu2',
 					'lettering-cmu3',
+					
 					
 				]
 			},

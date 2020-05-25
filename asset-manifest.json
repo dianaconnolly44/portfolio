@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.3d532ced.chunk.css",
-    "main.js": "/static/js/main.49e17cf3.chunk.js",
-    "main.js.map": "/static/js/main.49e17cf3.chunk.js.map",
+    "main.js": "/static/js/main.fa49aa8a.chunk.js",
+    "main.js.map": "/static/js/main.fa49aa8a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7cc6e23.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7cc6e23.js.map",
     "static/js/2.313c9b22.chunk.js": "/static/js/2.313c9b22.chunk.js",
     "static/js/2.313c9b22.chunk.js.map": "/static/js/2.313c9b22.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4dda0df8642cd12b2ee53a2a4a543f10.js": "/precache-manifest.4dda0df8642cd12b2ee53a2a4a543f10.js",
+    "precache-manifest.d32f026c80439f53c840b9013ced5fcd.js": "/precache-manifest.d32f026c80439f53c840b9013ced5fcd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.3d532ced.chunk.css.map": "/static/css/main.3d532ced.chunk.css.map",
     "static/js/2.313c9b22.chunk.js.LICENSE": "/static/js/2.313c9b22.chunk.js.LICENSE",
@@ -67,10 +67,10 @@
     "static/media/characterExplainer2.gif": "/static/media/characterExplainer2.313989e9.gif",
     "static/media/characterExplainer3.gif": "/static/media/characterExplainer3.168c1613.gif",
     "static/media/characterExplainer4.gif": "/static/media/characterExplainer4.a12ac044.gif",
-    "static/media/characterExplainer44.gif": "/static/media/characterExplainer44.a12ac044.gif",
+    "static/media/characterExplainer44.gif": "/static/media/characterExplainer44.dc68f946.gif",
     "static/media/charcoal.jpg": "/static/media/charcoal.01f578b4.jpg",
     "static/media/climb.png": "/static/media/climb.e9c869d3.png",
-    "static/media/clock-small.gif": "/static/media/clock-small.f78dbfc1.gif",
+    "static/media/clock-small.gif": "/static/media/clock-small.5bbe66c9.gif",
     "static/media/color.jpg": "/static/media/color.d643c263.jpg",
     "static/media/colorShadowGirl.jpg": "/static/media/colorShadowGirl.20a8a268.jpg",
     "static/media/come.png": "/static/media/come.5b5ad915.png",
@@ -126,7 +126,7 @@
     "static/media/help.png": "/static/media/help.a990c924.png",
     "static/media/holiday.gif": "/static/media/holiday.147323e2.gif",
     "static/media/holiday1.gif": "/static/media/holiday1.7b96fcc1.gif",
-    "static/media/holiday2.gif": "/static/media/holiday2.f355d9a9.gif",
+    "static/media/holiday2.gif": "/static/media/holiday2.071083a8.gif",
     "static/media/hosp1 copy.png": "/static/media/hosp1 copy.f9db6d69.png",
     "static/media/hosp2 copy.png": "/static/media/hosp2 copy.ab1a36d7.png",
     "static/media/hospital-01 copy.png": "/static/media/hospital-01 copy.c84bbafa.png",
@@ -261,6 +261,6 @@
     "static/js/runtime-main.c7cc6e23.js",
     "static/js/2.313c9b22.chunk.js",
     "static/css/main.3d532ced.chunk.css",
-    "static/js/main.49e17cf3.chunk.js"
+    "static/js/main.fa49aa8a.chunk.js"
   ]
 }

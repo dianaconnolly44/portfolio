@@ -10,23 +10,23 @@ export default class About extends Component {
       <div className="about">
         <div>
           <div className="top">
-            <img src={require('../propic.jpeg')} />
+            <img src={require('../headshot2_v2.gif')} />
             <div className="header">
               <div className="divider" />
               <p>
                 <div id="hi">Hi, I'm Diana!</div>
-                I'm a <b className="blue">creative</b> in NYC with interest in <b className="yellow">education</b> and <b className="orange">communcation</b>.
+                I'm a creative in NYC with interest in <b className="blue">education</b> and <b className="yellow">communcation</b>.
               </p>
             </div>
           </div>
 
           <div className="body">
-            <p>I have a passion to use my art for <b className="yellow">education</b> (e.g. animated <a onClick={e => this.props.history.push("/videos")}>explainer videos</a>, educational and literacy-oriented <a onClick={e => this.props.history.push("/childrens")}>children's books</a>, education and career <a>guidebooks</a> for immigrants), and <b className="orange">communication</b> (e.g. <a onClick={e => this.props.history.push("/iconography")}>speech symbols</a> for nonverbal or disabled individuals, <a onClick={e => this.props.history.push("/media")}>editorial illustrations</a> for news and other media, and animated <a onClick={e => this.props.history.push("/loops")}>gifs</a> to convey a topic visually).</p>
-            <p>In 2017, I received an <a href="https://www.cmu.edu/interdisciplinary/programs/bha.html" target="_blank">interdisciplinary degree</a> from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I am especially interested in visual perception and how to make the most effective visuals for their intended audience. As Dega put it, "art is not what you see, but what you make others see."</p>
+            <p>I have a passion to use my art for <b className="blue">education</b> (e.g. animated <a onClick={e => this.props.history.push("/videos")}>explainer videos</a>, educational and literacy-oriented <a onClick={e => this.props.history.push("/childrens")}>children's books</a>, digital <a>graphics</a> for an e-learning site), and <b className="yellow">communication</b> (e.g. animated <a onClick={e => this.props.history.push("/loops")}>gifs</a> to convey a topic visually, <a onClick={e => this.props.history.push("/iconography")}>communication symbols</a> for nonverbal individuals, <a onClick={e => this.props.history.push("/media")}>editorial illustrations</a> for news and other media).</p>
+            <p>In 2017, I received an <a href="https://www.cmu.edu/interdisciplinary/programs/bha.html" target="_blank">interdisciplinary degree</a> from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I am especially interested in visual perception and how to make the most effective visuals for an intended audience. As Degas put it, "art is not what you see, but what you make others see."</p>
           </div>
 
           <div className="footer">
-            <b className="blue">Let's connect!</b> 
+            <b className="orange">Let's connect!</b> 
             <a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin</a>
             //
             <a target="_blank" href={require('../Resume_Diana_Connolly.pdf')}>resume</a>

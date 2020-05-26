@@ -7,9 +7,9 @@
 .about > div {
   max-width: 730px;
 }
-.about .blue { color: #78c9f1; }
-.about .yellow { color: #eabf46; }
-.about .orange { color: #e48d3d; }
+.about .blue { color: #5ccbf5; }
+.about .yellow { color: #ed80da; }
+.about .orange { color: #5967c9; }
 .about .top {
   display: flex;
   align-items: flex-end;
@@ -31,7 +31,7 @@
   height: 200px;
   width: 6px;
   border-radius: 3px;
-  background: #89c9ee;
+  background: #5ccbf5;
   margin-left: 40px;
   margin-right: 25px;
   flex-shrink: 0;

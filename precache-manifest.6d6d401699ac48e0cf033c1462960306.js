@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9803b894dc6c1a9095b6c399f4203cae",
+    "revision": "4cbf3d4a26a8d19117aa7ba0e50be156",
     "url": "/index.html"
   },
   {
-    "revision": "2218821a7a2bca98b208",
-    "url": "/static/css/main.3d532ced.chunk.css"
+    "revision": "99df6622cb9224bbc53f",
+    "url": "/static/css/main.2cf9af48.chunk.css"
   },
   {
     "revision": "59922bd75534da806eb3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.313c9b22.chunk.js.LICENSE"
   },
   {
-    "revision": "2218821a7a2bca98b208",
-    "url": "/static/js/main.fa49aa8a.chunk.js"
+    "revision": "99df6622cb9224bbc53f",
+    "url": "/static/js/main.fefb3a78.chunk.js"
   },
   {
     "revision": "00ccf1beb4d435cfbe60",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/NYE-small.939525af.gif"
   },
   {
-    "revision": "6d405b5e0f06e9050ed013f070d9c798",
-    "url": "/static/media/Resume_Diana_Connolly.6d405b5e.pdf"
+    "revision": "91ceb1d5fc90357c4705476981deebd3",
+    "url": "/static/media/Resume_Diana_Connolly.91ceb1d5.pdf"
   },
   {
     "revision": "ee3f1fa1017cbf92beb027e29e35315e",
@@ -464,6 +464,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hanukkah-small.e5f34c62.gif"
   },
   {
+    "revision": "ec0b6139979ec146165aa94d367b961d",
+    "url": "/static/media/headshot2_v2.ec0b6139.gif"
+  },
+  {
     "revision": "721100971a92d968180e2607895dec87",
     "url": "/static/media/heart.72110097.gif"
   },
@@ -730,10 +734,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5130a386d98b59193e5ec42dd930913e",
     "url": "/static/media/postcards.5130a386.jpg"
-  },
-  {
-    "revision": "14508c83a004f04e644a9a38a1d99b86",
-    "url": "/static/media/propic.14508c83.jpeg"
   },
   {
     "revision": "77b787c4434a1b5f9dfad50ff4013583",

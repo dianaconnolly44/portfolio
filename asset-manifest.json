@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d532ced.chunk.css",
-    "main.js": "/static/js/main.fa49aa8a.chunk.js",
-    "main.js.map": "/static/js/main.fa49aa8a.chunk.js.map",
+    "main.css": "/static/css/main.2cf9af48.chunk.css",
+    "main.js": "/static/js/main.fefb3a78.chunk.js",
+    "main.js.map": "/static/js/main.fefb3a78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7cc6e23.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7cc6e23.js.map",
     "static/js/2.313c9b22.chunk.js": "/static/js/2.313c9b22.chunk.js",
     "static/js/2.313c9b22.chunk.js.map": "/static/js/2.313c9b22.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d32f026c80439f53c840b9013ced5fcd.js": "/precache-manifest.d32f026c80439f53c840b9013ced5fcd.js",
+    "precache-manifest.6d6d401699ac48e0cf033c1462960306.js": "/precache-manifest.6d6d401699ac48e0cf033c1462960306.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3d532ced.chunk.css.map": "/static/css/main.3d532ced.chunk.css.map",
+    "static/css/main.2cf9af48.chunk.css.map": "/static/css/main.2cf9af48.chunk.css.map",
     "static/js/2.313c9b22.chunk.js.LICENSE": "/static/js/2.313c9b22.chunk.js.LICENSE",
     "static/media/104bodies.gif": "/static/media/104bodies.aa9093f2.gif",
     "static/media/104eyes.gif": "/static/media/104eyes.dbe617a9.gif",
@@ -25,7 +25,7 @@
     "static/media/Connolly_hospitalSymbols2 copy.ai": "/static/media/Connolly_hospitalSymbols2 copy.2826275e.ai",
     "static/media/Lint_s.jpg": "/static/media/Lint_s.50ac065e.jpg",
     "static/media/NYE-small.gif": "/static/media/NYE-small.939525af.gif",
-    "static/media/Resume_Diana_Connolly.pdf": "/static/media/Resume_Diana_Connolly.6d405b5e.pdf",
+    "static/media/Resume_Diana_Connolly.pdf": "/static/media/Resume_Diana_Connolly.91ceb1d5.pdf",
     "static/media/achieve.jpg": "/static/media/achieve.ee3f1fa1.jpg",
     "static/media/activity.jpg": "/static/media/activity.126ee92b.jpg",
     "static/media/activity2.jpg": "/static/media/activity2.1aa60cc1.jpg",
@@ -122,6 +122,7 @@
     "static/media/handCharcoal.jpg": "/static/media/handCharcoal.8595fc36.jpg",
     "static/media/hangry.png": "/static/media/hangry.8f89a522.png",
     "static/media/hanukkah-small.gif": "/static/media/hanukkah-small.e5f34c62.gif",
+    "static/media/headshot2_v2.gif": "/static/media/headshot2_v2.ec0b6139.gif",
     "static/media/heart.gif": "/static/media/heart.72110097.gif",
     "static/media/help.png": "/static/media/help.a990c924.png",
     "static/media/holiday.gif": "/static/media/holiday.147323e2.gif",
@@ -189,7 +190,6 @@
     "static/media/plane_s.jpg": "/static/media/plane_s.b1a10208.jpg",
     "static/media/poppy.jpg": "/static/media/poppy.4e3ba75a.jpg",
     "static/media/postcards.jpg": "/static/media/postcards.5130a386.jpg",
-    "static/media/propic.jpeg": "/static/media/propic.14508c83.jpeg",
     "static/media/protect.png": "/static/media/protect.77b787c4.png",
     "static/media/pumpkins-small.gif": "/static/media/pumpkins-small.25154e34.gif",
     "static/media/punkNecklace.jpg": "/static/media/punkNecklace.f10358f6.jpg",
@@ -260,7 +260,7 @@
   "entrypoints": [
     "static/js/runtime-main.c7cc6e23.js",
     "static/js/2.313c9b22.chunk.js",
-    "static/css/main.3d532ced.chunk.css",
-    "static/js/main.fa49aa8a.chunk.js"
+    "static/css/main.2cf9af48.chunk.css",
+    "static/js/main.fefb3a78.chunk.js"
   ]
 }

@@ -1,3 +1,4 @@
+import { page as fake_project_69 } from './pages/fake_project_69';
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
 // 
@@ -25,7 +26,7 @@ export const projects = {
 		title: `"Who Was Frida Kahlo?"`,
 		description: `Educational book about Kahlo's life and legacy`,
 		pic: `frida.jpg`,
-		page: 0
+		page: fake_project_69
 	},
 
 	'gaucher': {

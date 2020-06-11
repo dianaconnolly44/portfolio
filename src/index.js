@@ -5,14 +5,15 @@ import { Router } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 import { Nav } from './components';
 import { menu, flat } from './projects/menu';
-import { Home, Gallery, About } from './containers';
+import { projects } from './projects/projects';
+import { Home, Gallery, About, Project } from './containers';
 
 require('./app.css');
 
 const MOBILE_DEV = false;
 const history = createBrowserHistory();
 const page404 = (
-  <h1>404 page not found</h1>
+  <h1>Oops! Couldn't find this project.</h1>
 )
 
 class App extends Component {
@@ -25,10 +26,17 @@ class App extends Component {
     document.addEventListener('scroll', this.detectNavScroll);
   }
 
-  isValidPage = () => {
+  pageType = () => {
     const page = this.props.location.pathname.replace('/', '');
-    if(!page) return true;
-    if(flat.some(path => path.id === page)) return true;
+    // home
+    if(!page) return 'home';
+    // about
+    if(page === 'about') return 'about';
+    // menu items
+    if(flat.some(path => path.id === page)) return 'gallery';
+    // projects
+    if(flat.some(path => (path.projects || []).includes(page) && projects[page].page)) return 'project';
+    // invalid
     return false;
   }
 
@@ -40,22 +48,27 @@ class App extends Component {
     const isMobile = MOBILE_DEV || window.screen.width <= 767;
     const page = this.props.location.pathname.replace('/', '');
 
-    let page_title = page, page_subtitle;
-    menu.forEach(item => {
-      if(item.id === page) page_title = item.label;
-      else (item.submenu || []).forEach(sub => {
-        if(sub.id === page) {
-          page_title = sub.label;
-          page_subtitle = item.label;
-        }
-      });
-    });
-
     const renderPage = () => {
-      if(!this.isValidPage()) return page404;
+      const type = this.pageType();
+      if(!type) return page404;
       if(!page) return <Home {...this.props} />;
-      if(page === 'about') return <About {...this.props} />;
-      return <Gallery {...this.props} page={page} subtitle={page_subtitle} title={page_title} />;
+      if(type === 'about') return <About {...this.props} />;
+      if(type === 'gallery') {
+        let page_title = page, page_subtitle;
+        menu.forEach(item => {
+          if(item.id === page) page_title = item.label;
+          else (item.submenu || []).forEach(sub => {
+            if(sub.id === page) {
+              page_title = sub.label;
+              page_subtitle = item.label;
+            }
+          });
+        });
+        return <Gallery {...this.props} page={page} subtitle={page_subtitle} title={page_title} />;
+      }
+      if(type === 'project') {
+        return <Project {...this.props} id={page} />;
+      }
     }
 
     return (

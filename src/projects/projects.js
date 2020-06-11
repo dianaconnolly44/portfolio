@@ -15,7 +15,7 @@ export const projects = {
 //children's illo//
 
 	'thesis': {
-		title: `Thesis: Communication Symbols`,
+		title: `Undergrad Thesis: Communication Symbols`,
 		description: `Researched most effective visuals to aid Shabbat participation for autistic and young audiences`,
 		pic: `thesis1.jpg`,
 		page: 0
@@ -99,8 +99,8 @@ export const projects = {
 	},
 
 	'expii': {
-		title: `Educational Graphics`,
-				description: `Graphics to pair with Expii's math and science content on their webiste`,
+		title: `Expii Graphics`,
+				description: `Graphics to pair with Expii's e-learning webiste`,
 		pic: `expii.png`,
 		page: 0
 	},
@@ -123,15 +123,15 @@ export const projects = {
 	},
 
 	'expii1': {
-		title: `Editorial Illustration: Expii`,
-		description: `Depicting varying math and science explanation types (text, video, drawn) housed on expii.com`,
+		title: `Editorial Illustration`,
+		description: `Depicting varying math and science explanation types (text, video, drawn) housed on an e-learning site`,
 		pic: `expii1.jpg`,
 		page: 0
 	},
 
 	'expii2': {
-		title: `Editorial Illustration: Expii`,
-		description: `Depicting sense of community and communication on social mediea for Expii, an educational website`,
+		title: `Editorial Illustration`,
+		description: `Depicting a sense of community and communication on social media for an e-learning site`,
 		pic: `expii2_v3.png`,
 		page: 0
 	},
@@ -186,7 +186,7 @@ export const projects = {
 	},
 
 	'verdeInternal': {
-		title: `Editorial illustrations`,
+		title: `News Article Illustrations`,
 		description: `Illustrations to pair with news articles`,
 		pic: `verdeInternal.png`,
 		page: 0
@@ -195,28 +195,49 @@ export const projects = {
 //iconography//
 
 	'thinlineThumbnail': {
-		title: `Converstaional PCS`,
+		title: `Animals`,
 		description: `Picture communication symbols (PCS) on general conversation topics`,
 		pic: `tobiiIcons/thinlineThumbnail.png`,
 		page: 0
 	},
 
+	'peopleThumbnail': {
+		title: `People`,
+		description: `Picture communication symbols (PCS) on conversation topics about people`,
+		pic: `tobiiIcons/peopleThumbnail.png`,
+		page: 0
+	},
+
+	'objectsThumbnail': {
+		title: `Objects`,
+		description: `Picture communication symbols (PCS) on conversation topics about objects`,
+		pic: `tobiiIcons/objectsThumbnail.png`,
+		page: 0
+	},
+
+	'techThumbnail': {
+		title: `Technology`,
+		description: `Picture communication symbols (PCS) on conversation topics about technology`,
+		pic: `tobiiIcons/techThumbnail.png`,
+		page: 0
+	},
+
 	'africaThumbnail': {
-		title: `Topographic PCS`,
+		title: `Topographic`,
 		description: `Picture communication symbols (PCS) to educate nonverbal children about topography`,
 		pic: `tobiiIcons/africaThumbnail.png`,
 		page: 0
 	},
 
 	'aslThumbnail': {
-		title: `American Sign Language PCS`,
+		title: `American Sign Language`,
 		description: `Picture communication symbols (PCS) on American Sign Language vocabulary`,
-		pic: `tobiiIcons/aslThumbnail.png`,
+		pic: `tobiiIcons/aslThumbnail2.png`,
 		page: 0
 	},
 
 	'hospitalThumbnail': {
-		title: `Hospital PCS`,
+		title: `Hospital-related Topics`,
 		description: `Picture communication symbols (PCS) to aid communication in a hospital setting`,
 		pic: `tobiiIcons/hospitalThumbnail2.png`,
 		page: 0
@@ -229,59 +250,76 @@ export const projects = {
 		page: 0
 	},
 
+	'expiiIconFeature': {
+		title: `"Get to Know Us": Hobby Icons`,
+		description: `Icon representation of a company's individual team members' interests, for social media`,
+		pic: `expiiIconFeature.gif`,
+		page: 0
+	},
+	
+
 
 //videos//
 
 	'dadCard': {
 		title: `Father's Day eCard`,
+		description: 'Adobe After Effects',
 		pic: `dadcard2.gif`,
 		page: 0
 	},
 
 	'whiteboard': {
 		title: `Whiteboard Animation`,
+		description: 'Adobe After Effects',
 		pic: `whiteboard2.gif`,
 		page: 0
 	},
 
 	'holiday': {
 		title: `Holiday eCard`,
+		description: 'Adobe After Effects',
 		pic: `holiday2.gif`,
 		page: 0
 	},
 
 	'characterExplainer': {
 		title: `Character Explainer Videos`,
+		description: 'Adobe After Effects',
 		pic: `characterExplainer44.gif`,
 		page: 0
 	},
 
 	'iconExplainer': {
 		title: `Icon Explainer Videos`,
+		description: 'Adobe After Effects',
 		pic: `iconExplainer2.gif`,
 		page: 0
 	},
 
 	'textAnimation': {
 		title: `Text Animation`,
+		description: 'Adobe After Effects',
 		pic: `textAnimation2.gif`,
 		page: 0
 	},
 
 	'frameByFrame': {
 		title: `Frame by Frame Animation`,
+		description: 'Adobe Photoshop',
 		pic: `frameByFrame2.gif`,
 		page: 0
 	},
 
 	'transitionScreens': {
 		title: `Transition Screens`,
+		description: 'Adobe After Effects',
 		pic: `transitions2.gif`,
 		page: 0
 	},
 
 	'assetCreation': {
 		title: `Asset Creation`,
+		description: 'Adobe Illustrator',
 		pic: `assetCreation.png`,
 		page: 0
 	},
@@ -613,10 +651,10 @@ export const projects = {
 		page: 0
 	},
 
-//interactive://
+//mixed media://
 
 	'flipfoot': {
-		title: `Flipfoot`,
+		title: `"Flipfoot"`,
 		description: `Flipbook illustrating the progression of CRPS`,
 		pic: `flipfoot.jpg`,
 		page: 0
@@ -638,7 +676,7 @@ export const projects = {
 
 	'artBioPetri': {
 		title: `Petri Portraits`,
-		description: `Portraits drawn in the subjects' bacteria`,
+		description: `A family portrait with my family members drawn in each of their bacteria`,
 		pic: `artBioPetri.jpg`,
 		page: 0
 	},
@@ -666,7 +704,7 @@ export const projects = {
 
 	'phenotype': {
 		title: `Phenotype vs. Genotype`,
-		description: `Illustration of similar phenotypes orginiating from varying genotypes`,
+		description: `Illustrations and gene samples, contrasting people's similar phenotypes with their varying genotypes`,
 		pic: `phenotype.jpg`,
 		page: 0
 	},
@@ -722,7 +760,7 @@ export const projects = {
 
 	'tattoo': {
 		title: `Anatomical Heart Tattoo`,
-		description: `A connect-the-dots tattoo of an anatomical heart diagram`,
+		description: `A connect-the-dots tattoo of an anatomical heart diagram, over the location of the real heart`,
 		pic: `tattoo.jpg`,
 		page: 0
 	},
@@ -744,7 +782,7 @@ export const projects = {
 	'darwinPortraits': {
 		title: `Darwinian Portraits`,
 		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
-		pic: `darwinPortraits.png`,
+		pic: `darwinPortraits2.gif`,
 		page: 0
 	},
 
@@ -824,14 +862,14 @@ export const projects = {
 //craft//
 
 'punkNecklace': {
-		title: `Punk Necklace`,
-		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
+		title: `Jewelry`,
+		description: `Collection of handmade jewelry`,
 		pic: `punkNecklace.jpg`,
 		page: 0
 	},
 
 'dadCo': {
-		title: `Dad Co`,
+		title: `"Dad Co" Shirt and Album`,
 		description: `Handmade shirt decal and a spoof of Bad Company's album cover with my dad's face on it`,
 		pic: `dadCo.jpg`,
 		page: 0
@@ -844,6 +882,55 @@ export const projects = {
 		page: 0
 	},
 
+'blueSoap': {
+		title: `Wave Soap`,
+		description: `-`,
+		pic: `blueSoap.jpg`,
+		page: 0
+	},
+
+'saraBook': {
+		title: `Photo Album`,
+		description: `Handmade photo album for a bachelorette trip`,
+		pic: `saraBook.jpg`,
+		page: 0
+	},
+
+'bathSalts': {
+		title: `Floral Bath Salts`,
+		description: `Homemade lavendar and rose bath salts`,
+		pic: `bathSalts.jpg`,
+		page: 0
+	},
+
+'cal': {
+		title: `Dry Erase Calendar`,
+		description: `Calendar made from color swatches and a frame`,
+		pic: `cal.jpg`,
+		page: 0
+	},
+
+'resinBookmarks': {
+		title: `Resin Bookmarks`,
+		description: `Dried flowers suspended in resin to make varying bookmarks`,
+		pic: `resinBookmarks.png`,
+		page: 0
+	},
+
+'momPillow': {
+		title: `Watercolor Pillow`,
+		description: `A throw pillow with a watercolor effect painted`,
+		pic: `momPillow.png`,
+		page: 0
+	},
+
+'greetingCards': {
+		title: `Greeting Cards`,
+		description: `Collection of drawn and paper-cutout cards`,
+		pic: `greetingCards.jpg`,
+		page: 0
+	},
+
 'nail-pier': {
 		title: `Nail Art - Pier`,
 		description: `Nail polish`,
@@ -852,8 +939,8 @@ export const projects = {
 	},
 
 'nail-nyc': {
-		title: `Nail Art - City Skyline`,
-		description: `Nail polish`,
+		title: `Nail Art`,
+		description: `Collection of nail polish art done on myself and others`,
 		pic: `nail-nyc.jpg`,
 		page: 0
 	},
@@ -897,7 +984,7 @@ export const projects = {
 //lettering//
 
 'lettering-board1': {
-		title: `Paper Source Advertising`,
+		title: `A-Frame Sign Designs`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board1.jpg`,
 		page: 0
@@ -939,14 +1026,14 @@ export const projects = {
 	},
 
 'lettering-sign1': {
-		title: `Paper Source Advertising`,
+		title: `Product Labeling`,
 		description: `Chalk on blackboard`,
-		pic: `lettering-sign1.jpg`,
+		pic: `productLabeling3.png`,
 		page: 0
 	},
 
 'lettering-sign2': {
-		title: `Paper Source Advertising`,
+		title: `Advertisement Designs`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign2.jpg`,
 		page: 0
@@ -960,7 +1047,7 @@ export const projects = {
 	},
 
 'lettering-letter1': {
-		title: `Paper Source Advertising`,
+		title: `Paper Mail Handlettering`,
 		description: `Ink on paper`,
 		pic: `lettering-letter1.jpg`,
 		page: 0

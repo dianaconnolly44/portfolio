@@ -36,8 +36,6 @@ const menu = [
 				id: 'media',
 				label: 'Media',
 				projects: [
-					
-					
 					'verdeGun',
 					'verdeElephant',
 					'verdeBaby',
@@ -59,10 +57,20 @@ const menu = [
 				projects: [
 					'thesis',
 					'africaThumbnail',
-					'hospitalThumbnail',
+					
+					'peopleThumbnail',
 					'aslThumbnail',
+					'techThumbnail',
 					'thinlineThumbnail',
+					
+					
+					
+					'objectsThumbnail',
+					
+					'hospitalThumbnail',
 					'avatarThumbnail',
+					'expiiIconFeature',
+
 				]
 			},
 
@@ -125,24 +133,18 @@ const menu = [
 					'jackson',
 					'alyssa',
 					'joker',
-
 					'shell',
 					'stillLifePencil',
 					'inkHair',
 					'selfPencil',
-										
-					
 					'charcoal',
 					'orangeDrawing',
-
 					'colorShadowGirl',
 					'birb',
 					'icyGirl',
-
 					'handCharcoal',
 					'figure4',
 					'figure5',
-
 					'figure1',
 					'figure2',
 					'figure3',
@@ -171,10 +173,7 @@ const menu = [
 					'young4',
 					'young2',
 					'young5',
-				
-					
-					
-					'jesusme-',
+					//'jesusme',
 				]
 			},
 
@@ -182,21 +181,21 @@ const menu = [
 				id: 'mixed media',
 				label: 'Mixed Media',
 				projects: [
-					'flipfoot',
-					'spaceArt',
-					'migraineGlasses',
-					'artBioPetri',
+					
 					'blueWave',
-					
-					'dreamBox',
-					'phenotype',
+					'migraineGlasses',
 					'hairGod',
+
 					'tattoo',
-					'darwinPortraits',
 					
-					
-					'sugarBoxes',
 					'ducks',
+					'dreamBox',
+					'artBioPetri',
+					'darwinPortraits',
+					'phenotype',
+
+					'sugarBoxes',
+					'spaceArt',
 					
 					
 				]
@@ -208,10 +207,11 @@ const menu = [
 				projects: [
 					'104eyes',
 					'104bodies',
-					'104faces',
+					
 					'walkCycle',
 					'paddleBall',
 					'oppositeBalls',
+					'104faces',
 				]
 			},
 		]
@@ -225,6 +225,7 @@ const menu = [
 				id: 'graphic',
 				label: `Graphic`,
 				projects: [
+					'flipfoot',
 					'sparkBranding',
 					'starMap',
 				
@@ -243,16 +244,19 @@ const menu = [
 				id: 'craft',
 				label: 'Craft',
 				projects: [
-					'punkNecklace',
-					'dadCo',
-					'soaps',
-					'nail-nyc',
-					'nail-tiger',
-					'nail-moon',
-					'nail-sunset',
-					'nail-xmas',
-					'nail-pier',
 					
+					'resinBookmarks',
+					'blueSoap',
+					'greetingCards',
+					'dadCo',
+					
+					'punkNecklace',
+					'bathSalts',
+					'cal',
+					'nail-nyc',
+					'momPillow',
+					'soaps',
+					'saraBook',					
 				]
 			},
 
@@ -264,19 +268,23 @@ const menu = [
 					'lettering-cmu1',
 					'jabberwocky',
 					'kidFont',
-					
-					'lettering-sign3',
-					'lettering-sign2',
 					'lettering-board1',
-					'lettering-sign1',
-					'lettering-letter1',
-					'lettering-board4',
-					'lettering-board3',
-					'lettering-board2',
 					
-					'lettering-board5',
-					'lettering-board6',
-					'lettering-cmu3',
+					'lettering-sign2',
+					
+					
+					'lettering-letter1',
+					
+					//'lettering-sign3',
+					'lettering-sign1',
+					//'lettering-cmu3',
+					//'lettering-board4',
+					//'lettering-board3',
+					//'lettering-board2',
+					
+					//'lettering-board5',
+					//'lettering-board6',
+					
 					
 					
 				]

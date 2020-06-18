@@ -31,7 +31,7 @@ export default class About extends Component {
             <b className="orange">Let's connect!</b> 
             <a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin</a>
             //
-            <a target="_blank" href={require('../Resume_Diana_Connolly_v2.pdf')}>resume</a>
+            <a target="_blank" href={require('../resume.pdf')}>resume</a>
             //
             <a href="mailto:dianaconnolly44@gmail.com">email</a>
           </div>

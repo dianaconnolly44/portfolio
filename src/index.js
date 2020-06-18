@@ -15,6 +15,11 @@ const history = createBrowserHistory();
 const page404 = (
   <h1>Oops! Couldn't find this project.</h1>
 )
+const pageLoader = (
+  <div className="page-loader">
+    <img src={require('./dclogo.gif')} onClick={e => this.props.history.push('/')} />
+  </div>
+)
 
 class App extends Component {
   state = {
@@ -47,6 +52,12 @@ class App extends Component {
   render = () => {
     const isMobile = MOBILE_DEV || window.screen.width <= 767;
     const page = this.props.location.pathname.replace('/', '');
+
+    // redirect for resume
+    if(page === 'resume') {
+      window.location.href = window.location.origin + require('./resume.pdf');
+      return pageLoader;
+    }
 
     const renderPage = () => {
       const type = this.pageType();
@@ -88,7 +99,6 @@ ReactDOM.render(
     <Switch>
       { /* URL PATHS */ }
       <Redirect exact from="/" to="/about" />
-      <Redirect exact from="/resume" to={require('')} />
       <Route path="*" component={App} />
 
 

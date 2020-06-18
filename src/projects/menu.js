@@ -10,13 +10,13 @@ const menu = [
 				label: `Children's`,
 				projects: [
 					'gaucher',
-					'expii2',
-					'thesis',
-					'frida',
-					'andreaBook',
 					'pathways',
+					//'thesis',
+					'frida',
+					
 					'fall',
 					
+					'andreaBook',
 					'bunny',
 					'energy',
 					'color',
@@ -26,7 +26,9 @@ const menu = [
 					
 					't1d',
 					'expii',
+					'expii2',
 					'expii1',
+
 				]
 			},
 
@@ -36,6 +38,9 @@ const menu = [
 				id: 'media',
 				label: 'Media',
 				projects: [
+					'expii1',
+					'expii2',
+					'hotspots',
 					'verdeGun',
 					'verdeElephant',
 					'verdeBaby',
@@ -46,8 +51,8 @@ const menu = [
 					'verdeLips',
 					'verdeOccupy',
 					'verdeInternal',
-					'expii1',
-					'expii2',
+					
+
 				]
 			},
 
@@ -56,20 +61,17 @@ const menu = [
 				label: 'Iconography',
 				projects: [
 					'thesis',
-					'africaThumbnail',
+					'tobiiTopographic',
+					'tobiiPeople',
+					'tobiiASL',
+					'tobiiTech',
+					'tobiiAnimals',
+					'tobiiObjects',
+					'tobiiHospital',
+
+					'expiiIcons',
+					'tobiiAvatars',
 					
-					'peopleThumbnail',
-					'aslThumbnail',
-					'techThumbnail',
-					'thinlineThumbnail',
-					
-					
-					
-					'objectsThumbnail',
-					
-					'hospitalThumbnail',
-					'avatarThumbnail',
-					'expiiIconFeature',
 
 				]
 			},
@@ -225,17 +227,24 @@ const menu = [
 				id: 'graphic',
 				label: `Graphic`,
 				projects: [
+					
 					'flipfoot',
 					'sparkBranding',
-					'starMap',
-				
-					'saveTheDate',
-					'CIAJ',
-					'postcards',
-					'snellen',
 					'expiiFlyer',
+					'indesign',
+					'infographics',
+					
+					
+					
+					
+					'postcards',
+
+					'saveTheDate',
+					'snellen',
+					'CIAJ',
+					'starMap',
 					'verdeShirt',
-					'pirateShirt',
+					//'pirateShirt',
 					'tobiiShirt',
 				]
 			},

@@ -1,4 +1,12 @@
-import { page as fake_project_69 } from './pages/fake_project_69';
+import { page as tobiiTopographic } from './pages/tobiiTopographic';
+import { page as tobiiPeople } from './pages/tobiiPeople';
+import { page as tobiiASL } from './pages/tobiiASL';
+import { page as tobiiTech } from './pages/tobiiTech';
+import { page as tobiiAnimals } from './pages/tobiiAnimals';
+import { page as tobiiObjects } from './pages/tobiiObjects';
+import { page as tobiiHospital } from './pages/tobiiHospital';
+import { page as tobiiAvatars } from './pages/tobiiAvatars';
+import { page as expiiIcons } from './pages/expiiIcons';
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
 // 
@@ -15,6 +23,14 @@ export const projects = {
 
 //children's illo//
 
+	'hotspots': {
+		title: `Hotspot Pop-ups`,
+		description: `Hover activated pop-up illustrations to pair with medical text online`,
+		pic: `hotspots.png`,
+		page: 0
+	},
+
+
 	'thesis': {
 		title: `Undergrad Thesis: Communication Symbols`,
 		description: `Researched most effective visuals to aid Shabbat participation for autistic and young audiences`,
@@ -26,7 +42,7 @@ export const projects = {
 		title: `"Who Was Frida Kahlo?"`,
 		description: `Educational book about Kahlo's life and legacy`,
 		pic: `frida.jpg`,
-		page: fake_project_69
+		page: 0
 	},
 
 	'gaucher': {
@@ -195,67 +211,76 @@ export const projects = {
 
 //iconography//
 
-	'thinlineThumbnail': {
+	'tobiiAnimals': {
 		title: `Animals`,
 		description: `Picture communication symbols (PCS) on general conversation topics`,
 		pic: `tobiiIcons/thinlineThumbnail.png`,
 		page: 0
+		// tobiiAnimals
 	},
 
-	'peopleThumbnail': {
+	'tobiiPeople': {
 		title: `People`,
 		description: `Picture communication symbols (PCS) on conversation topics about people`,
 		pic: `tobiiIcons/peopleThumbnail.png`,
 		page: 0
+		//tobiiPeople
 	},
 
-	'objectsThumbnail': {
+	'tobiiObjects': {
 		title: `Objects`,
 		description: `Picture communication symbols (PCS) on conversation topics about objects`,
 		pic: `tobiiIcons/objectsThumbnail.png`,
 		page: 0
+		// tobiiObjects
 	},
 
-	'techThumbnail': {
+	'tobiiTech': {
 		title: `Technology`,
 		description: `Picture communication symbols (PCS) on conversation topics about technology`,
 		pic: `tobiiIcons/techThumbnail.png`,
 		page: 0
+		// tobiiTech
 	},
 
-	'africaThumbnail': {
+	'tobiiTopographic': {
 		title: `Topographic`,
 		description: `Picture communication symbols (PCS) to educate nonverbal children about topography`,
 		pic: `tobiiIcons/africaThumbnail.png`,
 		page: 0
+		// tobiiTopographic
 	},
 
-	'aslThumbnail': {
+	'tobiiASL': {
 		title: `American Sign Language`,
 		description: `Picture communication symbols (PCS) on American Sign Language vocabulary`,
 		pic: `tobiiIcons/aslThumbnail2.png`,
 		page: 0
+		// tobiiASL
 	},
 
-	'hospitalThumbnail': {
+	'tobiiHospital': {
 		title: `Hospital-related Topics`,
 		description: `Picture communication symbols (PCS) to aid communication in a hospital setting`,
 		pic: `tobiiIcons/hospitalThumbnail2.png`,
 		page: 0
+		// tobiiHospital
 	},
 
-	'avatarThumbnail': {
+	'tobiiAvatars': {
 		title: `Avatars`,
 		description: `Visual representation of students' teachers`,
 		pic: `tobiiIcons/avatars/avatarVictoria_s.png`,
 		page: 0
+		// tobiiAvatars
 	},
 
-	'expiiIconFeature': {
+	'expiiIcons': {
 		title: `"Get to Know Us": Hobby Icons`,
 		description: `Icon representation of a company's individual team members' interests, for social media`,
 		pic: `expiiIconFeature.gif`,
 		page: 0
+		// expiiIcons
 	},
 	
 
@@ -791,14 +816,14 @@ export const projects = {
 
 	'sparkBranding': {
 		title: `Branding: "Project Spark"`,
-		description: `Branding web-design for a company's product`,
+		description: `Branding design for a company's product campaign`,
 		pic: `sparkBranding.png`,
 		page: 0
 	},
 
 	'expiiFlyer': {
 		title: `Company Flyer: Expii`,
-		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
+		description: `A promotional flyer to gain recognition for an online learning website`,
 		pic: `expiiFlyer.png`,
 		page: 0
 	},
@@ -859,6 +884,19 @@ export const projects = {
 		page: 0
 	},
 
+	'infographics': {
+		title: `Infographics`,
+		description: `A collection of infographics on medical topics`,
+		pic: `mps1.png`,
+		page: 0
+	},
+
+	'indesign': {
+		title: `InDesign e-Guides`,
+		description: `Career e-guides built out in InDesign for W.E.S.`,
+		pic: `wes-01.png`,
+		page: 0
+	},
 
 //craft//
 

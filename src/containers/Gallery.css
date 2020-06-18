@@ -16,6 +16,11 @@
   flex-shrink: 0;
   padding: 15px;
   display: inline-block;
+  transition: transform .15s;
+}
+.app:not(.mobile) .gallery .tile.clickable:hover {
+  cursor: pointer;
+  transform: scale(1.02);
 }
 
 .gallery .tile-contents {

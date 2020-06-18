@@ -180,6 +180,6 @@
   .nav .nav-body {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    padding-top: 20px;
   }
 }

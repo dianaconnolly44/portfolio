@@ -23,7 +23,8 @@ export default class Gallery extends Component {
         <div className="tiles">
           {
             tiles.map(tile => {
-              return <div className="tile" key={tile.id}>
+              const hasPage = tile.page;
+              return <div className={`tile ${hasPage ? 'clickable' : ''}`} key={tile.id} onClick={hasPage ? e => this.props.history.push('/' + tile.id) : null}>
                 <div className="tile-contents">
                   <img src={require(`../projects/gallery/${tile.pic}`)} />
                   <div className="title">{tile.title}</div>

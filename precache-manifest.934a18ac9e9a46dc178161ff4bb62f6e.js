@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cbf3d4a26a8d19117aa7ba0e50be156",
+    "revision": "9b61dc2056f190f942f7f6153ac1afcf",
     "url": "/index.html"
   },
   {
-    "revision": "99df6622cb9224bbc53f",
-    "url": "/static/css/main.2cf9af48.chunk.css"
+    "revision": "2d4bd80554804fb724df",
+    "url": "/static/css/main.e2d8082e.chunk.css"
   },
   {
-    "revision": "59922bd75534da806eb3",
-    "url": "/static/js/2.313c9b22.chunk.js"
+    "revision": "e42d2a063cd77140ff6f",
+    "url": "/static/js/2.ca2f4a77.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/static/js/2.313c9b22.chunk.js.LICENSE"
+    "url": "/static/js/2.ca2f4a77.chunk.js.LICENSE"
   },
   {
-    "revision": "99df6622cb9224bbc53f",
-    "url": "/static/js/main.fefb3a78.chunk.js"
+    "revision": "2d4bd80554804fb724df",
+    "url": "/static/js/main.5cd835bf.chunk.js"
   },
   {
     "revision": "00ccf1beb4d435cfbe60",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/NYE-small.939525af.gif"
   },
   {
-    "revision": "91ceb1d5fc90357c4705476981deebd3",
-    "url": "/static/media/Resume_Diana_Connolly.91ceb1d5.pdf"
+    "revision": "d2bc070877d998cd41fa85ed157754b2",
+    "url": "/static/media/Resume_Diana_Connolly_v2.d2bc0708.pdf"
   },
   {
     "revision": "ee3f1fa1017cbf92beb027e29e35315e",
@@ -136,6 +136,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/aslThumbnail.5acb7152.png"
   },
   {
+    "revision": "79b354a883165d0573e582d9ff0dee6f",
+    "url": "/static/media/aslThumbnail2.79b354a8.png"
+  },
+  {
+    "revision": "5ccce33fe18385a10ade51341adf5ef0",
+    "url": "/static/media/aslThumbnail3.5ccce33f.png"
+  },
+  {
     "revision": "05edd6a45b9edc874db3549a7b3f492c",
     "url": "/static/media/assetCreation.05edd6a4.png"
   },
@@ -188,8 +196,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/banana.6823d456.gif"
   },
   {
+    "revision": "3691548ac34472260dc8f1c4dbe768cd",
+    "url": "/static/media/bathSalts.3691548a.jpg"
+  },
+  {
     "revision": "e18b47e9ef67094b24b970b906d3b024",
     "url": "/static/media/birb.e18b47e9.jpg"
+  },
+  {
+    "revision": "f51026aa507c9942b20a72a468f3dda0",
+    "url": "/static/media/blueSoap.f51026aa.jpg"
   },
   {
     "revision": "038cfebfa5cbdd2ceabb98e5d69eb87d",
@@ -222,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d708d28332204c5ae8bc85ed40238cd",
     "url": "/static/media/bunny.9d708d28.jpg"
+  },
+  {
+    "revision": "ab22a78c5b4e16de3a26a11bbe281078",
+    "url": "/static/media/cal.ab22a78c.jpg"
   },
   {
     "revision": "940d1cf0be8e7e042ea29d85b6674e57",
@@ -304,6 +324,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/darwinPortraits.31df7a6f.png"
   },
   {
+    "revision": "5c99c582c374243638098f9b6cd64881",
+    "url": "/static/media/darwinPortraits.5c99c582.gif"
+  },
+  {
+    "revision": "4ccd5d413d9b5966e865ef0bc51ddf24",
+    "url": "/static/media/darwinPortraits2.4ccd5d41.gif"
+  },
+  {
     "revision": "7120994fec741e1f217dc82cc8b66665",
     "url": "/static/media/dclogo.7120994f.gif"
   },
@@ -354,6 +382,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed212ac5ec69d4352b07becbcfd0f44d",
     "url": "/static/media/expiiFlyer.ed212ac5.png"
+  },
+  {
+    "revision": "2e3440e46d5f8df47e9aa103418c3db5",
+    "url": "/static/media/expiiIconFeature.2e3440e4.png"
+  },
+  {
+    "revision": "c86993c6cf13d04ad5d2209dd03c7d62",
+    "url": "/static/media/expiiIconFeature.c86993c6.gif"
   },
   {
     "revision": "3813b5d63392c6054d7639857706a638",
@@ -442,6 +478,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "afd364f6a76eb4bc93e78538df4acb53",
     "url": "/static/media/goat.afd364f6.png"
+  },
+  {
+    "revision": "1654e723052189b8690d13273f68d42c",
+    "url": "/static/media/greetingCards.1654e723.jpg"
+  },
+  {
+    "revision": "785440d73ee4bb4c2552b0f3eec4aacb",
+    "url": "/static/media/greetingCards.785440d7.png"
   },
   {
     "revision": "0e8e94cce136b1a40dee699d163ec794",
@@ -664,6 +708,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/model_s.0da4b471.jpg"
   },
   {
+    "revision": "e93c6df90d84a651a1dab56b9ce76545",
+    "url": "/static/media/momPillow.e93c6df9.png"
+  },
+  {
     "revision": "32eb99767bb4fb1711968635a338a057",
     "url": "/static/media/monkeyBar.32eb9976.png"
   },
@@ -696,6 +744,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nail-xmas.d2d06df1.jpg"
   },
   {
+    "revision": "f51a7304e03344dadfe79c3dc4ef1928",
+    "url": "/static/media/objectsThumbnail.f51a7304.png"
+  },
+  {
     "revision": "ca7fe9b24075d8aa223b1f2c0209db3c",
     "url": "/static/media/orangeDrawing.ca7fe9b2.jpg"
   },
@@ -714,6 +766,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "50e64342a32ad1a1b346b50e9cb73d94",
     "url": "/static/media/pathways.50e64342.jpg"
+  },
+  {
+    "revision": "f912a689b29b6bb2df2cfadc4dd4f320",
+    "url": "/static/media/peopleThumbnail.f912a689.png"
   },
   {
     "revision": "dd456ad401467c005297675e90c8e0a7",
@@ -736,6 +792,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/postcards.5130a386.jpg"
   },
   {
+    "revision": "af0972d3f08d34fb8a0270047353d5be",
+    "url": "/static/media/productLabeling.af0972d3.png"
+  },
+  {
+    "revision": "1d03be120218649830fd25fd4f52b08f",
+    "url": "/static/media/productLabeling2.1d03be12.png"
+  },
+  {
+    "revision": "acd8c0ecf88bb49f5814df61f2540bcb",
+    "url": "/static/media/productLabeling3.acd8c0ec.png"
+  },
+  {
     "revision": "77b787c4434a1b5f9dfad50ff4013583",
     "url": "/static/media/protect.77b787c4.png"
   },
@@ -748,12 +816,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/punkNecklace.f10358f6.jpg"
   },
   {
+    "revision": "521a3893c8ade8f2c0e96d452512c7b8",
+    "url": "/static/media/resinBookmarks.521a3893.png"
+  },
+  {
+    "revision": "cb9c93e4d879f49a52d5db6408743887",
+    "url": "/static/media/resinBookmarks2.cb9c93e4.png"
+  },
+  {
     "revision": "f9822efb48f80df0aca42b106a022035",
     "url": "/static/media/ribbon-small.f9822efb.gif"
   },
   {
     "revision": "3b6db71b390c51807028f8ee71c19c2c",
     "url": "/static/media/rococoLint_s.3b6db71b.jpg"
+  },
+  {
+    "revision": "ee3390a1fc0aabc417890ecfb12724fe",
+    "url": "/static/media/saraBook.ee3390a1.jpg"
   },
   {
     "revision": "93fcdcf1bfe43f13bbe759a9d225a1b8",
@@ -854,6 +934,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f67aec3ff4e1007589e8a6a8359c0954",
     "url": "/static/media/tattoo.f67aec3f.jpg"
+  },
+  {
+    "revision": "5a95b6cd5ab964e8f0b91f3c44bf1187",
+    "url": "/static/media/techThumbnail.5a95b6cd.png"
   },
   {
     "revision": "d28765b7a628399128c8a4dd0a4edcc6",

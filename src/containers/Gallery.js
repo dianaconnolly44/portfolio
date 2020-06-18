@@ -8,6 +8,18 @@ export default class Gallery extends Component {
   state = {}
   meta = {}
 
+  componentDidMount = () => {
+    const hash = (this.props.location.hash || '').replace('#', '');
+    if(hash && this.refs[hash]) {
+      setTimeout(() => {
+        document.querySelector('html').scrollTop = this.refs[hash].offsetTop;
+      }, 50);
+      setTimeout(() => {
+        document.querySelector('html').scrollTop = this.refs[hash].offsetTop;
+      }, 500); // just in case
+    }
+  }
+
   render = () => {
 
     const page = flat.find(link => link.id === this.props.page);
@@ -23,7 +35,7 @@ export default class Gallery extends Component {
         <div className="tiles">
           {
             tiles.map(tile => {
-              return <div className="tile" key={tile.id}>
+              return <div className="tile" key={tile.id} id={tile.id} ref={tile.id}>
                 <div className="tile-contents">
                   <img src={require(`../projects/gallery/${tile.pic}`)} />
                   <div className="title">{tile.title}</div>

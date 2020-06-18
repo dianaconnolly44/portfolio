@@ -6,6 +6,8 @@ export default class About extends Component {
   meta = {}
 
   render = () => {
+    const nav = url => this.props.history.push(url);
+
     return (
       <div className="about">
         <div>
@@ -21,7 +23,7 @@ export default class About extends Component {
           </div>
 
           <div className="body">
-            <p>I have a passion to use my art for <b className="blue">education</b> (e.g. animated <a onClick={e => this.props.history.push("/videos")}>explainer videos</a>, educational and literacy-oriented <a onClick={e => this.props.history.push("/childrens")}>children's books</a>, digital <a>graphics</a> for an e-learning site), and <b className="yellow">communication</b> (e.g. animated <a onClick={e => this.props.history.push("/loops")}>gifs</a> to convey a topic visually, <a onClick={e => this.props.history.push("/iconography")}>communication symbols</a> for nonverbal individuals, <a onClick={e => this.props.history.push("/media")}>editorial illustrations</a> for news and other media).</p>
+            <p>I have a passion to use my art for <b className="blue">education</b> (e.g. animated <a onClick={e => nav("/videos")}>explainer videos</a>, educational and literacy-oriented <a onClick={e => nav("/childrens")}>children's books</a>, digital <a onClick={e => nav("/childrens#expii")}>graphics</a> for an e-learning site), and <b className="yellow">communication</b> (e.g. animated <a onClick={e => nav("/loops")}>gifs</a> to convey a topic visually, <a onClick={e => nav("/iconography")}>communication symbols</a> for nonverbal individuals, <a onClick={e => nav("/media")}>editorial illustrations</a> for news and other media).</p>
             <p>In 2017, I received an <a href="https://www.cmu.edu/interdisciplinary/programs/bha.html" target="_blank">interdisciplinary degree</a> from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I am especially interested in visual perception and how to make the most effective visuals for an intended audience. As Degas put it, "art is not what you see, but what you make others see."</p>
           </div>
 

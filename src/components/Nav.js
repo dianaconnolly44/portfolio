@@ -97,7 +97,7 @@ export default class Nav extends Component {
 
         <div className="nav-body" ref="body">
           <div className="header">
-            <img id="logo" src={require('../dclogo.gif')} />
+            <img id="logo" src={require('../dclogo.gif')} onClick={e => this.props.history.push('/')} />
           </div>
           <ul>
             { 

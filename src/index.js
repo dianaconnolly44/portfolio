@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { Route, Switch, Redirect } from 'react-router';
-import { Router } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 import { Nav } from './components';
 import { menu, flat } from './projects/menu';
@@ -83,12 +83,12 @@ class App extends Component {
 }
 
 // ========================================
-
 ReactDOM.render(
   <Router history={history}>
     <Switch>
       { /* URL PATHS */ }
       <Redirect exact from="/" to="/about" />
+      <Redirect exact from="/resume" to={require('')} />
       <Route path="*" component={App} />
 
 

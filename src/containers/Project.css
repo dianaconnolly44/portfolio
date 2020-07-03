@@ -1,3 +1,34 @@
-.project img {
-	height: 200px;
+.project .imgs {
+  display: flex;
+  justify-content: center;
 }
+
+.project .imgs div {
+  flex-grow: 1;
+  flex-shrink: 1;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*transition: width .05s;*/
+  margin: 20px 0;
+}
+.project .imgs img {
+  flex-grow: 1;
+  flex-shrink: 1;
+  max-width: 100%;
+}
+.project .imgs p {
+  margin: 0;
+  flex-grow: 0;
+  flex-shrink: 0;
+  color: rgb(115,115,155);
+}
+.project .imgs.max200 img { max-height: 200px; }
+.project .imgs.max300 img { max-height: 300px; }
+.project .imgs.max400 img { max-height: 400px; }
+.project .imgs.max500 img { max-height: 500px; }
+.project .imgs.max600 img { max-height: 600px; }
+.project .imgs.max700 img { max-height: 700px; }
+.project .imgs.max800 img { max-height: 800px; }
+.project .imgs.max900 img { max-height: 900px; }

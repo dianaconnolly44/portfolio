@@ -84,7 +84,7 @@ class App extends Component {
 
     return (
       <div className={`app ${isMobile ? 'mobile' : ''}`} id="app" ref="app">
-        <Nav {...this.props} onNav={nav => this.setState({ nav })} ref="nav" />
+        <Nav {...this.props} page={page} onNav={nav => this.setState({ nav })} ref="nav" />
         <div className="body">
           { renderPage() }
         </div>

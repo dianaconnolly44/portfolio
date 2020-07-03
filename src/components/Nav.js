@@ -11,8 +11,15 @@ export default class Nav extends Component {
   }
   meta = {}
 
-  componentDidMount = prevProps => {
-    if(this.props.location.pathname.includes('about')) this.setState({ page: 'about' });
+  componentDidMount = () => {
+    const { page } = this.props;
+    const accordion = this.state.accordion;
+    menu.forEach(toplevel => {
+      if(toplevel.id === page || (toplevel.submenu || []).find(slevel => slevel.id === page)) {
+        accordion.push(toplevel.id)
+      }
+    })
+    this.setState({ page });
   }
 
   navTo = (path, page) => {

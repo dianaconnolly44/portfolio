@@ -15,10 +15,10 @@ export default class About extends Component {
             <img src={require('../headshot2_v2.gif')} />
             <div className="header">
               <div className="divider" />
-              <p>
+              <div style={{ marginBottom: -5 }}>
                 <div id="hi">Hi, I'm Diana!</div>
                 I'm a creative in NYC with interest in <b className="blue">education</b> and <b className="yellow">communcation</b>.
-              </p>
+              </div>
             </div>
           </div>
 

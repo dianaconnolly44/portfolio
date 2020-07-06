@@ -7,6 +7,8 @@ import { page as tobiiObjects } from './pages/tobiiObjects';
 import { page as tobiiHospital } from './pages/tobiiHospital';
 import { page as tobiiAvatars } from './pages/tobiiAvatars';
 import { page as expiiIcons } from './pages/expiiIcons';
+import { page as thesis } from './pages/thesis';
+
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
 // 
@@ -34,8 +36,8 @@ export const projects = {
 	'thesis': {
 		title: `Undergrad Thesis: Communication Symbols`,
 		description: `Researched most effective visuals to aid Shabbat participation for autistic and young audiences`,
-		pic: `thesis1.jpg`,
-		page: 0
+		pic: `thesis_v2.png`,
+		page: thesis
 	},
 
 	'frida': {
@@ -215,72 +217,63 @@ export const projects = {
 		title: `Animals`,
 		description: `Picture communication symbols (PCS) on general conversation topics`,
 		pic: `tobiiIcons/thinlineThumbnail.png`,
-		page: 0
-		// tobiiAnimals
+		page: tobiiAnimals
 	},
 
 	'tobiiPeople': {
 		title: `People`,
 		description: `Picture communication symbols (PCS) on conversation topics about people`,
 		pic: `tobiiIcons/peopleThumbnail.png`,
-		page: 0
-		//tobiiPeople
+		page: tobiiPeople
 	},
 
 	'tobiiObjects': {
 		title: `Objects`,
 		description: `Picture communication symbols (PCS) on conversation topics about objects`,
 		pic: `tobiiIcons/objectsThumbnail.png`,
-		page: 0
-		// tobiiObjects
+		page: tobiiObjects
 	},
 
 	'tobiiTech': {
 		title: `Technology`,
 		description: `Picture communication symbols (PCS) on conversation topics about technology`,
 		pic: `tobiiIcons/techThumbnail.png`,
-		page: 0
-		// tobiiTech
+		page: tobiiTech
 	},
 
 	'tobiiTopographic': {
 		title: `Topographic`,
 		description: `Picture communication symbols (PCS) to educate nonverbal children about topography`,
 		pic: `tobiiIcons/africaThumbnail.png`,
-		page: 0
-		// tobiiTopographic
+		page: tobiiTopographic
 	},
 
 	'tobiiASL': {
 		title: `American Sign Language`,
 		description: `Picture communication symbols (PCS) on American Sign Language vocabulary`,
 		pic: `tobiiIcons/aslThumbnail2.png`,
-		page: 0
-		// tobiiASL
+		page: tobiiASL
 	},
 
 	'tobiiHospital': {
 		title: `Hospital-related Topics`,
 		description: `Picture communication symbols (PCS) to aid communication in a hospital setting`,
 		pic: `tobiiIcons/hospitalThumbnail2.png`,
-		page: 0
-		// tobiiHospital
+		page: tobiiHospital
 	},
 
 	'tobiiAvatars': {
 		title: `Avatars`,
 		description: `Visual representation of students' teachers`,
 		pic: `tobiiIcons/avatars/avatarVictoria_s.png`,
-		page: 0
-		// tobiiAvatars
+		page: tobiiAvatars
 	},
 
 	'expiiIcons': {
 		title: `"Get to Know Us": Hobby Icons`,
 		description: `Icon representation of a company's individual team members' interests, for social media`,
-		pic: `expiiIconFeature.gif`,
-		page: 0
-		// expiiIcons
+		pic: `expiiIconFeature.png`,
+		page: expiiIcons
 	},
 	
 
@@ -463,7 +456,7 @@ export const projects = {
 	},
 
 	'icyGirl': {
-		description: `Color Play: Bridging`,
+		description: `Digital Color Study: Bridging`,
 		pic: `icyGirl.jpg`,
 		page: 0
 	},
@@ -481,7 +474,7 @@ export const projects = {
 	},
 
 	'colorShadowGirl': {
-		description: `Color Play: Warm vs. Cool`,
+		description: `Digital Color Study: Warm vs. Cool`,
 		pic: `colorShadowGirl.jpg`,
 		page: 0
 	},
@@ -529,7 +522,7 @@ export const projects = {
 	},
 
 	'birb': {
-		description: `Color Play: Contrasting`,
+		description: `Digital Color Study: Contrasting`,
 		pic: `birb.jpg`,
 		page: 0
 	},
@@ -916,14 +909,21 @@ export const projects = {
 
 'soaps': {
 		title: `Handmade Soaps`,
-		description: `-`,
+		description: `Varying scented handmade soaps`,
 		pic: `soaps.jpg`,
 		page: 0
 	},
 
+'urn': {
+		title: `Clay Dog Urn`,
+		description: `Small clay urn created with love for my dog, Pal`,
+		pic: `urn.png`,
+		page: 0
+	},
+
 'blueSoap': {
-		title: `Wave Soap`,
-		description: `-`,
+		title: `Handmade Soaps`,
+		description: `Soap bars with varying looks, scents, and dermatologic properties`,
 		pic: `blueSoap.jpg`,
 		page: 0
 	},
@@ -945,7 +945,7 @@ export const projects = {
 'cal': {
 		title: `Dry Erase Calendar`,
 		description: `Calendar made from color swatches and a frame`,
-		pic: `cal.jpg`,
+		pic: `cal.png`,
 		page: 0
 	},
 

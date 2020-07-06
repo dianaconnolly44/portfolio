@@ -13,7 +13,7 @@ export const page = (
     <img src={require('../gallery/tobiiDemo_2.png')} />
     <p>The symbols we created in the Graphic Arts department fell into two categories: classic or thinline, seen above. “Classic” symbols use the original style/brand of Picture Communication Symbols, involving a certain range of colors, a certain thickness of outline, and the iconic egg-shaped heads on human characters. “Thinline” symbols have a newer style, involving thinner outlines (with specified thicknesses for lines on the outside verse inside of an object’s shape), as well as a broader and more realistic illustration style (notably the lack of the egg-shape for human heads and the addition of more details).</p>
 
-    <h2> Assignment:</h2>
+    <h2> Project:</h2>
     <p>For this project, I added to the collection of technology-themed thinline icons. These were added to the library of icons used in everyday discussion topics. See a selection of my technology-themed thinlines below.</p>
     <img src={require('../gallery/tobiiDemo_1.png')} />
 

@@ -41,17 +41,17 @@ const menu = [
 					'expii1',
 					'expii2',
 					'hotspots',
+					'lloyd',
+					
+					'verdeBaby',
 					'verdeGun',
 					'verdeElephant',
-					'verdeBaby',
 					'verdeSam',
 					'verdeSweetheart',
-					'lloyd',
-		
 					'verdeLips',
 					'verdeOccupy',
 					'verdeInternal',
-					
+										
 
 				]
 			},
@@ -132,19 +132,23 @@ const menu = [
 				id: 'drawing',
 				label: `Drawing`,
 				projects: [
-					'jackson',
-					'alyssa',
-					'joker',
-					'shell',
-					'stillLifePencil',
-					'inkHair',
-					'selfPencil',
-					'charcoal',
-					'orangeDrawing',
 					'colorShadowGirl',
 					'birb',
 					'icyGirl',
+
+					'joker',
+					'jackson',
+					'alyssa',
+					
+					'selfPencil',
+					'shell',
+					'stillLifePencil',
+					
 					'handCharcoal',
+					'charcoal',
+					'orangeDrawing',
+					
+					'inkHair',
 					'figure4',
 					'figure5',
 					'figure1',
@@ -227,22 +231,16 @@ const menu = [
 				id: 'graphic',
 				label: `Graphic`,
 				projects: [
-					
+					'indesign',
+					'infographics',
+					'saveTheDate',
 					'flipfoot',
 					'sparkBranding',
 					'expiiFlyer',
-					'indesign',
-					'infographics',
-					
-					
-					
-					
-					'postcards',
-
-					'saveTheDate',
-					'snellen',
-					'CIAJ',
 					'starMap',
+					'postcards',
+					'CIAJ',
+					'snellen',
 					'verdeShirt',
 					//'pirateShirt',
 					'tobiiShirt',
@@ -255,12 +253,14 @@ const menu = [
 				projects: [
 					
 					'resinBookmarks',
+					'dadCo',
+					'bathSalts',
 					'blueSoap',
 					'greetingCards',
-					'dadCo',
+					'urn',
 					
 					'punkNecklace',
-					'bathSalts',
+					
 					'cal',
 					'nail-nyc',
 					'momPillow',

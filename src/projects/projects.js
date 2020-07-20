@@ -29,6 +29,19 @@ import { page as trump } from './pages/trump';
 import { page as myCondition } from './pages/myCondition';
 import { page as tobiiPathways } from './pages/tobiiPathways';
 import { page as kingdomOfPlenty } from './pages/kingdomOfPlenty';
+import { page as expiiTurkey } from './pages/expiiTurkey';
+import { page as expiiPumpkins } from './pages/expiiPumpkins';
+import { page as expiiDLS } from './pages/expiiDLS';
+import { page as expiiOrnaments } from './pages/expiiOrnaments';
+import { page as expiiRibbon } from './pages/expiiRibbon';
+import { page as expiiBlackFriday } from './pages/expiiBlackFriday';
+import { page as expiiHannukah } from './pages/expiiHannukah';
+import { page as expiiNYE } from './pages/expiiNYE';
+import { page as expiiSkulls } from './pages/expiiSkulls';
+import { page as jumoBanana } from './pages/jumoBanana';
+import { page as anatomicalHeartGIF } from './pages/anatomicalHeartGIF';
+import { page as dadMotorcycleGIF } from './pages/dadMotorcycleGIF';
+
 
 
 
@@ -370,74 +383,74 @@ export const projects = {
 
 	'dadMotorcycle': {
 		title: `Dad's Motorcycle`,
-		pic: `dadMotorcyclePurple.gif`,
-		page: 0
+		pic: `dadMotorcycleGIF/dadMotorcyclePurple.gif`,
+		page: dadMotorcycleGIF
 	},
 
 	'banana': {
 		title: `Healthy Food`,
 		pic: `banana.gif`,
-		page: 0
+		page: jumoBanana
 	},
 
 	'heart': {
 		title: `Anatomical Valentine`,
 		pic: `heart.gif`,
-		page: 0
+		page: anatomicalHeartGIF
 	},
 
 	'skulls': {
-		title: `Dia de los Muertos`,
+		title: `I Have a Bone to Pick`,
 		pic: `skulls-small.gif`,
-		page: 0
+		page: expiiSkulls
 	},
 
 	'turkey': {
-		title: `Macy's Day Parade`,
-		pic: `turkey-small.gif`,
-		page: 0
+		title: `Parading Around`,
+		pic: `expiiGIFs/turkey-small.gif`,
+		page: expiiTurkey
 	},
 
 	'pumpkins': {
 		title: `Pumpkin Overload`,
 		pic: `pumpkins-small.gif`,
-		page: 0
+		page: expiiPumpkins
 	},
 
 	'clock': {
-		title: `Day Light Savings`,
+		title: `Save the Day(light)`,
 		pic: `clock-small.gif`,
-		page: 0
+		page: expiiDLS
 	},
 
 	'hanukkah': {
 		title: `Hanukkah Candles`,
 		pic: `hanukkah-small.gif`,
-		page: 0
+		page: expiiHannukah
 	},
 
 	'bFriday': {
-		title: `Black Friday`,
+		title: `Discount Dash`,
 		pic: `bFriday-small.gif`,
-		page: 0
+		page: expiiBlackFriday
 	},
 
 	'ornaments': {
-		title: `Christmas Ornaments`,
+		title: `Weigh the Ornaments`,
 		pic: `ornaments-small.gif`,
-		page: 0
+		page: expiiOrnaments
 	},
 
 	'ribbon': {
-		title: `Christmas Ribbon`,
+		title: `Cut the Ribbon`,
 		pic: `ribbon-small.gif`,
-		page: 0
+		page: expiiRibbon
 	},
 
 	'NYE': {
-		title: `New Year's Eve`,
+		title: `Drop the Ball`,
 		pic: `NYE-small.gif`,
-		page: 0
+		page: expiiNYE
 	},
 
 //drawing//
@@ -610,7 +623,7 @@ export const projects = {
 	},
 
 	'botanical1': {
-		title: `Botanical Self Portrait - Sequoia`,
+		title: `Botanical Self Portraits`,
 		description: `Plants from the places I have lived,  watercolor & colored pencil`,
 		pic: `sequoia.jpg`,
 		page: 0

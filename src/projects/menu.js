@@ -9,7 +9,7 @@ const menu = [
 				id: 'childrens',
 				label: `Children's`,
 				projects: [
-					'gaucher',
+					'myCondition',
 					'pathways',
 					//'thesis',
 					'frida',
@@ -38,8 +38,8 @@ const menu = [
 				id: 'media',
 				label: 'Media',
 				projects: [
-					'expii1',
-					'expii2',
+					'expiiMedia1',
+					'expiiMedia2',
 					'hotspots',
 					'lloyd',
 					
@@ -61,12 +61,14 @@ const menu = [
 				label: 'Iconography',
 				projects: [
 					'thesis',
-					'tobiiTopographic',
+					'tobiiObjects',
 					'tobiiPeople',
+					'tobiiTopographic',
+					
 					'tobiiASL',
 					'tobiiTech',
-					'tobiiAnimals',
-					'tobiiObjects',
+					//'tobiiAnimals',
+					
 					'tobiiHospital',
 
 					'expiiIcons',
@@ -255,10 +257,12 @@ const menu = [
 					'resinBookmarks',
 					'dadCo',
 					'bathSalts',
-					'blueSoap',
+					'paperFlowers',
+					
 					'greetingCards',
 					'urn',
 					
+					'blueSoap',
 					'punkNecklace',
 					
 					'cal',

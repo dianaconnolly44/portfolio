@@ -6,7 +6,13 @@ export const page = (
     
     <h1> Undergraduate Thesis Project: Communication Symbols </h1>
 
-
+<div className="imgs max400">
+        <div>
+            <img src={require('../gallery/capstone/versions/4/print1.png')} />
+        </div>
+       
+        
+    </div>
 
     <h2> Introduction</h2>
 
@@ -15,10 +21,18 @@ export const page = (
     visual symbols for their intended audience, 2) user experience and user testing, 3) sensorial tools in aiding engagement of individuals on the Autism spectrum, 
     as well as pre-verbal aged children.</p>
 
-        <img src={require('../gallery/capstone/aboutTS/templeInside.jpg')} />
-        <img src={require('../gallery/capstone/aboutTS/templeOutside.png')} />
-    <p> Inside the temple////////////////////////Outside the temple</p>
+<div className="imgs max300">
+        <div>
+            <img src={require('../gallery/capstone/aboutTS/templeOutside.png')} />
+            <p>Temple Sinai, of Pittsburgh, PA</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/aboutTS/templeInside.jpg')} />
+            <p>Temple Sinai's prayer room</p>
+        </div>
+    </div>
 
+        
     <p>Temple Sinai in Pittsburgh, PA is a Jewish temple that works to be inclusive of all of its members. 
     One way in which they pursue this is by holding their Mostly Musical Shabbat, a monthly prayer ceremony 
     that utilizes the sensorial tools of singing and listening to music in order to best involve the temple 
@@ -26,10 +40,18 @@ export const page = (
     have been shown to be especially beneficial to those with Autism Spectrum Disorder as involving different 
     senses is known to help these individuals engage attention.</p>
 
-        <img src={require('../gallery/capstone/aboutTS/flyerMMS.jpg')} />
-        <img src={require('../gallery/capstone/aboutTS/demoMMS.jpg')} />
-    <p> Flyer for "Mostly Musical Shabbat"///A Mostly Musical Shabbat ceremony</p>
+<div className="imgs max300">
+        <div>
+            <img src={require('../gallery/capstone/aboutTS/demoMMS.jpg')} />
+            <p>A "Mostly Musical Shabbat" ceremony</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/aboutTS/flyerMMS.jpg')} />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
+        </div>
+    </div>
 
+        
     <p>Temple Sinai’s rabbi and I connected when we agreed to collaborate on this Mostly Musical Shabbat. We discussed
     incorporating additional sensorial elements in the shabbat, and this became the topic for which I dedicated my undergraduate thesis project. 
     To supplement the musical sensorial elements that the temple was already incorporating, I produced, tested, and iterated various 
@@ -49,9 +71,16 @@ export const page = (
     research on how to make effective symbols, and began to illustrate symbols to represent each shabbat prayer. 
     The rabbi and I iterated over the prayers' symbol library until we felt content with them.</p>
 
-        <img src={require('../gallery/capstone/versions/4/doubleStickers.png')} />
-        <img src={require('../gallery/capstone/versions/iconExamples.png')} />
-
+<div className="imgs max300">
+        <div>
+            <img src={require('../gallery/capstone/versions/4/doubleStickers.png')} />
+            <p>Prayer icon library</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/iconExamples.png')} />
+            <p>Select example icons</p>
+        </div>
+    </div>
 
 
 
@@ -61,8 +90,16 @@ export const page = (
     was expressed as a 6-foot-tall banner to sit on the stage where the rabbi would be leading the ceremony. This banner 
     was used to denote the four ceremony sections, as well as all of the prayers in each section.</p>
 
-        <img src={require('../gallery/capstone/final/banner.png')} />
-        <img src={require('../gallery/capstone/versions/4/bannerStage.jpeg')} />
+<div className="imgs max400">
+        <div>
+            <img src={require('../gallery/capstone/versions/4/bannerStageOG.jpeg')} />
+            <p>Banner on stage at Temple Sinai</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/banner.png')} />
+            <p>Banner enlarged</p>
+        </div>
+    </div>
 
 
     <p> The second product was an interactive sticker sheet, with one of each prayer icon printed on the stickers. The intended use of this
@@ -75,8 +112,16 @@ export const page = (
     sections, and folding these sheets to expose only one section of the ceremony at a time. Each of these four sections were the same
     as those denoted on the visual schedule on the temple's stage.</p>
 
-        <img src={require('../gallery/capstone/versions/1/print1.png')} />
-        <img src={require('../gallery/capstone/versions/1/print1.png')} />
+<div className="imgs max300">
+        <div>
+            <img src={require('../gallery/capstone/versions/1/print1.png')} />
+            <p>subtitle</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/1/print1.png')} />
+            <p>REPLACE WITH REAL LIFE DEMO PIC</p>
+        </div>
+    </div>
 
     <p>After receiving user feedback after the ceremony, I began planning my next iterations. Both the rabbi and the patrons expressed
     great satisfaction with the banner. The bookmark, however, was not clear enough as to what interaction was expected to take place. Thus,
@@ -84,10 +129,28 @@ export const page = (
     on the bookmark more directions, such as numbering the order of the four ceremony sections as well as instructions on how to place the stickers.
     This iteration can be viewed below.</p>
 
-        <img src={require('../gallery/capstone/versions/2/print1.png')} />
-        <img src={require('../gallery/capstone/versions/2/2.jpeg')} />
-        <img src={require('../gallery/capstone/versions/2/4.jpeg')} />
-        <img src={require('../gallery/capstone/versions/2/1.jpeg')} />
+<div className="imgs max300">
+        <div>
+            <img src={require('../gallery/capstone/versions/2/print1.png')} />
+            <p>A Mostly Musical Shabbat ceremony</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/2/1.jpeg')} />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
+        </div>
+    </div>
+
+    <div className="imgs max300">
+        <div>
+            <img src={require('../gallery/capstone/versions/2/2.jpeg')} />
+            <p>A Mostly Musical Shabbat ceremony</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/2/4.jpeg')} />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
+        </div>
+    </div>
+        
 
     <p>I continued this process of user testing and user feedback for the remainder of my semester, until I came upon the final idea of
     a "sticker book", in place of the bookmark idea. I was guided to this idea by the continued user feedback, as this seemed to be
@@ -96,10 +159,42 @@ export const page = (
     <p>This book was separated by: 1) a cover image to express the topic of the book, 2) an instruction page to express the intended use, 
     3) one page per each section of the ceremony, and 4) a sheet of stickers, in order, for each prayer that would occur.</p>
  
-        <img src={require('../gallery/capstone/versions/4/bookPile.jpeg')} />
-        <img src={require('../gallery/capstone/versions/4/print1.png')} />
-        <img src={require('../gallery/capstone/versions/4/print2.png')} />
-        <img src={require('../gallery/capstone/versions/4/demoSticker.jpeg')} />
+ <div className="imgs max200">
+        <div>
+            <img src={require('../gallery/capstone/versions/4/print1.png')} />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/4/doubleStickers.png')} />
+            <p>REPLACE W DEMO PIC OF STICKERS</p>
+        </div>
+    </div>
+     <div className="imgs max200">
+        <div>
+            <img src={require('../gallery/capstone/versions/4/print2.png')} />
+            <p>A Mostly Musical Shabbat ceremony</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/4/print4.png')} />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
+        </div>
+        
+    </div>
+    
+    <div className="imgs max300">
+        <div>
+            <img src={require('../gallery/capstone/versions/4/tableHandout.jpeg')} />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/4/bookPile.jpeg')} />
+            <p>Flyer </p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/4/demoSticker.jpeg')} />
+            <p>A Mostly Musical Shabbat ceremony</p>
+        </div>
+    </div>  
 
     <p>I was happy to see that this book had very positive effects at its final test run. It was not only helpful for the intended audience of
     temple members with sensorial sensitivities, but also pre-verbal children, children too young to read, anyone with difficulty focusing 
@@ -109,9 +204,23 @@ export const page = (
     as well. In addition, a boardmember of the Women of Reform Judaism (WRJ) requested that I share this product with the 800 temples 
     involved in her organization, as well as produce such content for similar audiences in other environments such as other ceremonies as well as Hebrew school.</p>
 
-        <img src={require('../gallery/capstone/versions/4/tableHandout.jpeg')} />
-        <img src={require('../gallery/capstone/versions/4/girl.jpeg')} />
-        <img src={require('../gallery/capstone/versions/4/bannerStage.jpeg')} />
+
+
+
+    <div className="imgs max300">
+       
+        <div>
+            <img src={require('../gallery/capstone/versions/4/girl.jpeg')} />
+            <p>A Mostly Musical Shabbat ceremony</p>
+        </div>
+        <div>
+            <img src={require('../gallery/capstone/versions/4/bannerStageOG.jpeg')} />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
+        </div>
+    </div>
+        
+        
+        
 
 
     <h2> Conclusion</h2>

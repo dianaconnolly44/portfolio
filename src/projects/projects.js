@@ -8,6 +8,29 @@ import { page as tobiiHospital } from './pages/tobiiHospital';
 import { page as tobiiAvatars } from './pages/tobiiAvatars';
 import { page as expiiIcons } from './pages/expiiIcons';
 import { page as thesis } from './pages/thesis';
+import { page as verdeBaby } from './pages/verdeBaby';
+import { page as verdeElephant } from './pages/verdeElephant';
+import { page as verdeGun } from './pages/verdeGun';
+import { page as verdeInternal } from './pages/verdeInternal';
+import { page as verdeLips } from './pages/verdeLips';
+import { page as verdeOccupy } from './pages/verdeOccupy';
+import { page as verdeSam } from './pages/verdeSam';
+import { page as verdeSweetheart } from './pages/verdeSweetheart';
+import { page as expiiMedia1 } from './pages/expiiMedia1';
+import { page as expiiMedia2 } from './pages/expiiMedia2';
+import { page as lloyd } from './pages/lloyd';
+import { page as hotspots } from './pages/hotspots';
+import { page as seasonsOfColor } from './pages/seasonsOfColor';
+import { page as growATomato } from './pages/growATomato';
+import { page as frida } from './pages/frida';
+import { page as perfectDay } from './pages/perfectDay';
+import { page as whoCanDoIt } from './pages/whoCanDoIt';
+import { page as trump } from './pages/trump';
+import { page as myCondition } from './pages/myCondition';
+import { page as tobiiPathways } from './pages/tobiiPathways';
+import { page as kingdomOfPlenty } from './pages/kingdomOfPlenty';
+
+
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -28,8 +51,8 @@ export const projects = {
 	'hotspots': {
 		title: `Hotspot Pop-ups`,
 		description: `Hover activated pop-up illustrations to pair with medical text online`,
-		pic: `hotspots.png`,
-		page: 0
+		pic: `hotspots/hotspots.png`,
+		page: hotspots
 	},
 
 
@@ -44,21 +67,21 @@ export const projects = {
 		title: `"Who Was Frida Kahlo?"`,
 		description: `Educational book about Kahlo's life and legacy`,
 		pic: `frida.jpg`,
-		page: 0
+		page: frida
 	},
 
-	'gaucher': {
+	'myCondition': {
 		title: `"My Condition & Me"`,
 		description: `Educational book for toddlers about their health condition`,
 		pic: `gaucher2.jpg`,
-		page: 0
+		page: myCondition
 	},
 
 	'color': {
 		title: `"A Perfect Day"`,	
 		description: `Max and Zoey's perfect day`,	
 		pic: `color.jpg`,
-		page: 0
+		page: perfectDay
 	},
 
 	'achieve': {
@@ -72,7 +95,7 @@ export const projects = {
 		title: `"Growing a Tomato"`,
 		description: `Educational book about gardening`,
 		pic: `bunny.jpg`,
-		page: 0
+		page: growATomato
 	},
 
 	'activity': {
@@ -86,28 +109,28 @@ export const projects = {
 		title: `"The White House"`,
 		description: `Educational book about the White House and inauguration`,
 		pic: `trump.jpg`,
-		page: 0
+		page: trump
 	},
 
 	'energy': {
 		title: `"Who Can Do It?"`,
 		description: `Educational book about sustainability efforts`,
 		pic: `energy.jpg`,
-		page: 0
+		page: whoCanDoIt
 	},
 
 	'pathways': {
 		title: `"Pathways"`,	
 		description: `Guide for kids and teachers on using a new product`,	
 		pic: `pathways.jpg`,
-		page: 0
+		page: tobiiPathways
 	},
 
 	'fall': {
 		title: `"Seasons of Color"`,
 		description: `Educational book about colors associated with seasons`,
 		pic: `fall.jpg`,
-		page: 0
+		page: seasonsOfColor
 	},
 
 	't1d': {
@@ -128,7 +151,7 @@ export const projects = {
 		title: `"Kingdom of Plenty"`,
 		description: `A children's book concept`,
 		pic: `andreaBook.jpg`,
-		page: 0
+		page: kingdomOfPlenty
 	},
 
 
@@ -138,111 +161,111 @@ export const projects = {
 		title: `"The Eleventh Hour"`,
 		description: `Prog rock album cover`,
 		pic: `lloyd.jpg`,
-		page: 0
+		page: lloyd
 	},
 
-	'expii1': {
+	'expiiMedia1': {
 		title: `Editorial Illustration`,
 		description: `Depicting varying math and science explanation types (text, video, drawn) housed on an e-learning site`,
-		pic: `expii1.jpg`,
-		page: 0
+		pic: `expiiMedia/expii1.jpg`,
+		page: expiiMedia1
 	},
 
-	'expii2': {
+	'expiiMedia2': {
 		title: `Editorial Illustration`,
 		description: `Depicting a sense of community and communication on social media for an e-learning site`,
-		pic: `expii2_v3.png`,
-		page: 0
+		pic: `expiiMedia/expii2_v3.png`,
+		page: expiiMedia2
 	},
 
 	'verdeBaby': {
 		title: `"Halloween: All Grown Up?"`,
 		description: `News magazine cover illustration`,
 		pic: `verdeBaby.jpg`,
-		page: 0
+		page: verdeBaby
 	},
 
 	'verdeSam': {
 		title: `"I Want YOU to be Happy"`,
 		description: `News magazine cover illustration`,
 		pic: `verdeSam.jpg`,
-		page: 0
+		page: verdeSam
 	},
 
 	'verdeElephant': {
 		title: `"The Elephant in the Classroom"`,	
 		description: `News magazine cover illustration`,	
 		pic: `verdeElephant.jpg`,
-		page: 0
+		page: verdeElephant
 	},
 
 	'verdeSweetheart': {
 		title: `"Don't Call Me Sweetheart"`,
 		description: `News magazine cover illustration`,
 		pic: `verdeSweetheart.jpg`,
-		page: 0
+		page: verdeSweetheart
 	},
 
 	'verdeGun': {
 		title: `"Gunning for Change"`,
 		description: `News magazine cover illustration`,
 		pic: `verdeGun.jpg`,
-		page: 0
+		page: verdeGun
 	},
 
 	'verdeLips': {
 		title: `Untitled`,
 		description: `News magazine cover illustration`,
 		pic: `verdeLips.jpg`,
-		page: 0
+		page: verdeLips
 	},
 
 	'verdeOccupy': {
 		title: `"Occupy [Here]"`,
 		description: `News magazine cover illustration`,
 		pic: `verdeOccupy.jpg`,
-		page: 0
+		page: verdeOccupy
 	},
 
 	'verdeInternal': {
 		title: `News Article Illustrations`,
 		description: `Illustrations to pair with news articles`,
 		pic: `verdeInternal.png`,
-		page: 0
+		page: verdeInternal
 	},
 
 //iconography//
 
 	'tobiiAnimals': {
-		title: `Animals`,
+		title: `Animals Symbols`,
 		description: `Picture communication symbols (PCS) on general conversation topics`,
 		pic: `tobiiIcons/thinlineThumbnail.png`,
 		page: tobiiAnimals
 	},
 
 	'tobiiPeople': {
-		title: `People`,
+		title: `People Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about people`,
 		pic: `tobiiIcons/peopleThumbnail.png`,
 		page: tobiiPeople
 	},
 
 	'tobiiObjects': {
-		title: `Objects`,
+		title: `Object Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about objects`,
 		pic: `tobiiIcons/objectsThumbnail.png`,
 		page: tobiiObjects
 	},
 
 	'tobiiTech': {
-		title: `Technology`,
+		title: `Technology Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about technology`,
 		pic: `tobiiIcons/techThumbnail.png`,
 		page: tobiiTech
 	},
 
 	'tobiiTopographic': {
-		title: `Topographic`,
+		title: `Topographic Symbols`,
 		description: `Picture communication symbols (PCS) to educate nonverbal children about topography`,
 		pic: `tobiiIcons/africaThumbnail.png`,
 		page: tobiiTopographic
@@ -256,7 +279,7 @@ export const projects = {
 	},
 
 	'tobiiHospital': {
-		title: `Hospital-related Topics`,
+		title: `Hospital Symbols`,
 		description: `Picture communication symbols (PCS) to aid communication in a hospital setting`,
 		pic: `tobiiIcons/hospitalThumbnail2.png`,
 		page: tobiiHospital
@@ -272,7 +295,7 @@ export const projects = {
 	'expiiIcons': {
 		title: `"Get to Know Us": Hobby Icons`,
 		description: `Icon representation of a company's individual team members' interests, for social media`,
-		pic: `expiiIconFeature.png`,
+		pic: `expiiIconFeature2.png`,
 		page: expiiIcons
 	},
 	
@@ -892,6 +915,13 @@ export const projects = {
 	},
 
 //craft//
+
+'paperFlowers': {
+		title: `Paper Flowers`,
+		description: `Handmade large and small decorative paper flowers`,
+		pic: `paperFlowers.png`,
+		page: 0
+	},
 
 'punkNecklace': {
 		title: `Jewelry`,

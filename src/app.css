@@ -16,6 +16,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-family: 'Kulim Park', sans-serif;
   background: #fff;
+  overflow-x: hidden;
 }
 
 #root {

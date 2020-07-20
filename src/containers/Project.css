@@ -42,3 +42,11 @@
 .project iframe:not(.video) {
   height: 170vh;
 }
+
+.project a {
+  color: #5ccbf5;
+  font-weight: bold;
+}
+.project a:hover {
+  color: #ed80da;
+}

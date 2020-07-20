@@ -17,6 +17,8 @@ export default class Gallery extends Component {
       setTimeout(() => {
         document.querySelector('html').scrollTop = this.refs[hash].offsetTop;
       }, 500); // just in case
+    } else {
+      document.querySelector('html').scrollTop = 0;
     }
   }
 

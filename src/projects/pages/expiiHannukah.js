@@ -8,7 +8,7 @@ export const page = (
 
 <div className="imgs max600">
             <div>
-                <img src={require('../gallery/expiiGIFs/hanukkah.gif')} />
+                <img src={require('../assets/expiiGIFs/hanukkah.gif')} />
             </div>
     </div>
 
@@ -16,7 +16,7 @@ export const page = (
 creator about algebra, with the theme of Hanukkah. Below is what the GIF 
 looks like on Expii's site, embedded with the math problem itself as well as 
 my illustrations to represent the multiple choice options. 
-If the web-page is broken, click <a target="_blank" href={require('../gallery/expiiGIFs/hanukkah.png')}>here</a> to view a screen capture of what the page looked like.</p>
+If the web-page is broken, click <a target="_blank" href={require('../assets/expiiGIFs/hanukkah.png')}>here</a> to view a screen capture of what the page looked like.</p>
    <br />
 <iframe src="https://www.expii.com/t/algebra-tree-diagram-for-number-of-outcomes-5375?type=problem&id=18193" title="Hannukah Candles"></iframe>
 <p>Scroll within the webpage's box to see full contents.</p>

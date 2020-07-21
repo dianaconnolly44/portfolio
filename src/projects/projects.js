@@ -64,7 +64,7 @@ export const projects = {
 	'hotspots': {
 		title: `Hotspot Pop-ups`,
 		description: `Hover activated pop-up illustrations to pair with medical text online`,
-		pic: `hotspots/hotspots.png`,
+		pic: `hotspots.png`,
 		page: hotspots
 	},
 
@@ -180,14 +180,14 @@ export const projects = {
 	'expiiMedia1': {
 		title: `Editorial Illustration`,
 		description: `Depicting varying math and science explanation types (text, video, drawn) housed on an e-learning site`,
-		pic: `expiiMedia/expii1.jpg`,
+		pic: `expii1.jpg`,
 		page: expiiMedia1
 	},
 
 	'expiiMedia2': {
 		title: `Editorial Illustration`,
 		description: `Depicting a sense of community and communication on social media for an e-learning site`,
-		pic: `expiiMedia/expii2_v3.png`,
+		pic: `expii2_v3.png`,
 		page: expiiMedia2
 	},
 
@@ -252,56 +252,56 @@ export const projects = {
 	'tobiiAnimals': {
 		title: `Animals Symbols`,
 		description: `Picture communication symbols (PCS) on general conversation topics`,
-		pic: `tobiiIcons/thinlineThumbnail.png`,
+		pic: `thinlineThumbnail.png`,
 		page: tobiiAnimals
 	},
 
 	'tobiiPeople': {
 		title: `People Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about people`,
-		pic: `tobiiIcons/peopleThumbnail.png`,
+		pic: `peopleThumbnail.png`,
 		page: tobiiPeople
 	},
 
 	'tobiiObjects': {
 		title: `Object Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about objects`,
-		pic: `tobiiIcons/objectsThumbnail.png`,
+		pic: `objectsThumbnail.png`,
 		page: tobiiObjects
 	},
 
 	'tobiiTech': {
 		title: `Technology Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about technology`,
-		pic: `tobiiIcons/techThumbnail.png`,
+		pic: `techThumbnail.png`,
 		page: tobiiTech
 	},
 
 	'tobiiTopographic': {
 		title: `Topographic Symbols`,
 		description: `Picture communication symbols (PCS) to educate nonverbal children about topography`,
-		pic: `tobiiIcons/africaThumbnail.png`,
+		pic: `africaThumbnail.png`,
 		page: tobiiTopographic
 	},
 
 	'tobiiASL': {
 		title: `American Sign Language`,
 		description: `Picture communication symbols (PCS) on American Sign Language vocabulary`,
-		pic: `tobiiIcons/aslThumbnail2.png`,
+		pic: `aslThumbnail2.png`,
 		page: tobiiASL
 	},
 
 	'tobiiHospital': {
 		title: `Hospital Symbols`,
 		description: `Picture communication symbols (PCS) to aid communication in a hospital setting`,
-		pic: `tobiiIcons/hospitalThumbnail2.png`,
+		pic: `hospitalThumbnail.png`,
 		page: tobiiHospital
 	},
 
 	'tobiiAvatars': {
 		title: `Avatars`,
 		description: `Visual representation of students' teachers`,
-		pic: `tobiiIcons/avatars/avatarVictoria_s.png`,
+		pic: `avatarVictoria_s.png`,
 		page: tobiiAvatars
 	},
 
@@ -383,7 +383,7 @@ export const projects = {
 
 	'dadMotorcycle': {
 		title: `Dad's Motorcycle`,
-		pic: `dadMotorcycleGIF/dadMotorcyclePurple.gif`,
+		pic: `dadMotorcyclePurple.gif`,
 		page: dadMotorcycleGIF
 	},
 
@@ -407,7 +407,7 @@ export const projects = {
 
 	'turkey': {
 		title: `Parading Around`,
-		pic: `expiiGIFs/turkey-small.gif`,
+		pic: `turkey-small.gif`,
 		page: expiiTurkey
 	},
 

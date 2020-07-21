@@ -8,7 +8,7 @@ export const page = (
 
 <div className="imgs max600">
             <div>
-                <img src={require('../gallery/expiiGIFs/ribbon-sm.gif')} />
+                <img src={require('../assets/expiiGIFs/ribbon-sm.gif')} />
             </div>
     </div>
 
@@ -16,7 +16,7 @@ export const page = (
 creator about geometry, with the theme of Christmas. Below is what the GIF 
 looks like on Expii's site, embedded with the math problem itself as well as 
 my illustrations to represent the multiple choice options. 
-If the web-page is broken, click <a target="_blank" href={require('../gallery/expiiGIFs/ribbon.png')}>here</a> to view a screen capture of what the page looked like.</p>
+If the web-page is broken, click <a target="_blank" href={require('../assets/expiiGIFs/ribbon.png')}>here</a> to view a screen capture of what the page looked like.</p>
    <br />
 <iframe src="https://www.expii.com/t/altitude-above-or-below-a-sphere-8947?type=problem&id=18302" title="Pumpkin Overload"></iframe>
 <p>Scroll within the webpage's box to see full contents.</p>

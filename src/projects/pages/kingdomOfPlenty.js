@@ -9,13 +9,13 @@ export const page = (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../gallery/childrensIllos/kingdomOfPlenty/KOP.jpg')} />
+            <img src={require('../assets/childrensIllos/kingdomOfPlenty/KOP.jpg')} />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../gallery/childrensIllos/kingdomOfPlenty/sketch.png')} />
+            <img src={require('../assets/childrensIllos/kingdomOfPlenty/sketch.png')} />
             <p>Sketch</p>
         </div>
     </div>

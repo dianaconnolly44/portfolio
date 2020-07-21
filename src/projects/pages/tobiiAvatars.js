@@ -10,7 +10,7 @@ export const page = (
     <p>From 2016-2017, I worked as Graphic Artist Intern for <a href="https://www.tobiidynavox.com/en-US/?MarketPopupClicked=true" target="_blank">Tobii Dynavox</a>. Tobii Dynavox is a U.S.-based developer, manufacturer, and distributor of <a href="https://www.tobiidynavox.com/en-US/learn/what-is-aac/?redirect=true" target="_blank">Augmentative and Alternative Communication (AAC)</a> devices and software for nonverbal or limited speech individuals.</p>
     <div className="imgs max300">
             <div>
-                <img src={require('../gallery/tobiiDemo_2.png')} />
+                <img src={require('../assets/tobiiDemo_2.png')} />
                 <p>Example AAC product</p>
             </div>
         </div>
@@ -20,16 +20,16 @@ export const page = (
     <p>For this project, I added to the company’s collection of avatars, following the Graphic Arts department’s pre-existing style. These avatars are implemented by AAC device users to represent specific people, such as their speech therapists and teachers. Thus, I was supplied with photos of certain individuals to create avatars. See a selection of my works below.</p>
     <div className="imgs max500">
             <div>
-                <img src={require('../gallery/tobiiIcons/avatars/avatarAmy.png')} />
+                <img src={require('../assets/tobiiIcons/avatars/avatarAmy.png')} />
             </div>
             <div>
-                <img src={require('../gallery/tobiiIcons/avatars/avatarLauren.png')} />
+                <img src={require('../assets/tobiiIcons/avatars/avatarLauren.png')} />
             </div>
             <div>
-                <img src={require('../gallery/tobiiIcons/avatars/avatarPam.png')} />
+                <img src={require('../assets/tobiiIcons/avatars/avatarPam.png')} />
             </div>
             <div>
-                <img src={require('../gallery/tobiiIcons/avatars/avatarVictoria.png')} />
+                <img src={require('../assets/tobiiIcons/avatars/avatarVictoria.png')} />
             </div>
     </div>
 

@@ -8,7 +8,7 @@ export const page = (
 
 <div className="imgs max400">
         <div>
-            <img src={require('../gallery/capstone/versions/4/print1.png')} />
+            <img src={require('../assets/capstone/versions/4/print1.png')} />
         </div>
        
         
@@ -23,11 +23,11 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../gallery/capstone/aboutTS/templeOutside.png')} />
+            <img src={require('../assets/capstone/aboutTS/templeOutside.png')} />
             <p>Temple Sinai, of Pittsburgh, PA</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/aboutTS/templeInside.jpg')} />
+            <img src={require('../assets/capstone/aboutTS/templeInside.jpg')} />
             <p>Temple Sinai's prayer room</p>
         </div>
     </div>
@@ -42,11 +42,11 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../gallery/capstone/aboutTS/demoMMS.jpg')} />
+            <img src={require('../assets/capstone/aboutTS/demoMMS.jpg')} />
             <p>A "Mostly Musical Shabbat" ceremony</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/aboutTS/flyerMMS.jpg')} />
+            <img src={require('../assets/capstone/aboutTS/flyerMMS.jpg')} />
             <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
     </div>
@@ -73,11 +73,11 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../gallery/capstone/versions/4/doubleStickers.png')} />
+            <img src={require('../assets/capstone/versions/4/doubleStickers.png')} />
             <p>Prayer icon library</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/iconExamples.png')} />
+            <img src={require('../assets/capstone/versions/iconExamples.png')} />
             <p>Select example icons</p>
         </div>
     </div>
@@ -92,11 +92,11 @@ export const page = (
 
 <div className="imgs max400">
         <div>
-            <img src={require('../gallery/capstone/versions/4/bannerStageOG.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpeg')} />
             <p>Banner on stage at Temple Sinai</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/banner.png')} />
+            <img src={require('../assets/capstone/versions/banner.png')} />
             <p>Banner enlarged</p>
         </div>
     </div>
@@ -114,11 +114,11 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../gallery/capstone/versions/1/print1.png')} />
+            <img src={require('../assets/capstone/versions/1/print1.png')} />
             <p>subtitle</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/1/print1.png')} />
+            <img src={require('../assets/capstone/versions/1/print1.png')} />
             <p>REPLACE WITH REAL LIFE DEMO PIC</p>
         </div>
     </div>
@@ -131,22 +131,22 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../gallery/capstone/versions/2/print1.png')} />
+            <img src={require('../assets/capstone/versions/2/print1.png')} />
             <p>A Mostly Musical Shabbat ceremony</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/2/1.jpeg')} />
+            <img src={require('../assets/capstone/versions/2/1.jpeg')} />
             <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
     </div>
 
     <div className="imgs max300">
         <div>
-            <img src={require('../gallery/capstone/versions/2/2.jpeg')} />
+            <img src={require('../assets/capstone/versions/2/2.jpeg')} />
             <p>A Mostly Musical Shabbat ceremony</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/2/4.jpeg')} />
+            <img src={require('../assets/capstone/versions/2/4.jpeg')} />
             <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
     </div>
@@ -161,21 +161,21 @@ export const page = (
  
  <div className="imgs max200">
         <div>
-            <img src={require('../gallery/capstone/versions/4/print1.png')} />
+            <img src={require('../assets/capstone/versions/4/print1.png')} />
             <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/4/doubleStickers.png')} />
+            <img src={require('../assets/capstone/versions/4/doubleStickers.png')} />
             <p>REPLACE W DEMO PIC OF STICKERS</p>
         </div>
     </div>
      <div className="imgs max200">
         <div>
-            <img src={require('../gallery/capstone/versions/4/print2.png')} />
+            <img src={require('../assets/capstone/versions/4/print2.png')} />
             <p>A Mostly Musical Shabbat ceremony</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/4/print4.png')} />
+            <img src={require('../assets/capstone/versions/4/print4.png')} />
             <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
         
@@ -183,15 +183,15 @@ export const page = (
     
     <div className="imgs max300">
         <div>
-            <img src={require('../gallery/capstone/versions/4/tableHandout.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/tableHandout.jpeg')} />
             <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/4/bookPile.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/bookPile.jpeg')} />
             <p>Flyer </p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/4/demoSticker.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/demoSticker.jpeg')} />
             <p>A Mostly Musical Shabbat ceremony</p>
         </div>
     </div>  
@@ -210,11 +210,11 @@ export const page = (
     <div className="imgs max300">
        
         <div>
-            <img src={require('../gallery/capstone/versions/4/girl.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/girl.jpeg')} />
             <p>A Mostly Musical Shabbat ceremony</p>
         </div>
         <div>
-            <img src={require('../gallery/capstone/versions/4/bannerStageOG.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpeg')} />
             <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
     </div>

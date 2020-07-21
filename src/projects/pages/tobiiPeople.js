@@ -11,11 +11,11 @@ export const page = (
     <p>During my time as Graphic Artist Intern, one task I worked on was adding to the library of communication symbols made for AAC devices. These symbols are accessed by users on their devices through means of touch screen or eye-tracking recognition. Once a symbol is selected, the device speaks the word or phrase for the user, thus enabling the user to participate in verbal communication even if they do not personally have the ability to do so (e.g. individuals with ALS or non-verbal ASD).</p>
     <div className="imgs max500">
             <div>
-                <img src={require('../gallery/tobiiDemo_1.png')} />
+                <img src={require('../assets/tobiiDemo_1.png')} />
                 <p>"Classic" symbols on a device</p>
             </div>
             <div>
-                <img src={require('../gallery/tobiiDemo_2.png')} />
+                <img src={require('../assets/tobiiDemo_2.png')} />
                 <p>"Thinline" symbols on a device</p>
             </div>
         </div>
@@ -25,12 +25,12 @@ export const page = (
     <p>For this project, I added to the collection of people-themed thinline icons. These were added to the library of icons used in general discussion topics. See a selection of my people-themed thinlines below.</p>
     <div className="imgs max900">
         <div>
-            <img src={require('../gallery/tobiiIcons/people/peopleGrid-01.png')} />
+            <img src={require('../assets/tobiiIcons/people/peopleGrid-01.png')} />
         </div>
     </div>
     <div className="imgs max700">
         <div>
-            <img src={require('../gallery/tobiiIcons/people/peopleGrid-02.png')} />
+            <img src={require('../assets/tobiiIcons/people/peopleGrid-02.png')} />
         </div>
     </div>
 

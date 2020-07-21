@@ -8,7 +8,7 @@ export const page = (
 
 <div className="imgs max600">
             <div>
-                <img src={require('../gallery/expiiGIFs/turkey-sm.gif')} />
+                <img src={require('../assets/expiiGIFs/turkey-sm.gif')} />
             </div>
     </div>
 
@@ -16,7 +16,7 @@ export const page = (
 creator about geometry, with the theme of Thanksgiving. Below is what the GIF 
 looks like on Expii's site, embedded with the math problem itself as well as 
 my illustrations to represent the multiple choice options. 
-If the web-page is broken, click <a target="_blank" href={require('../gallery/expiiGIFs/turkey.png')}>here</a> to view a screen capture of what the page looked like.</p>
+If the web-page is broken, click <a target="_blank" href={require('../assets/expiiGIFs/turkey.png')}>here</a> to view a screen capture of what the page looked like.</p>
    <br />
 <iframe src="https://www.expii.com/t/area-of-a-circle-767?type=problem&id=18060" title="Parading Around"></iframe>
 <p>Scroll within the webpage's box to see full contents.</p>

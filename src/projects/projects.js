@@ -294,7 +294,7 @@ export const projects = {
 	'tobiiHospital': {
 		title: `Hospital Symbols`,
 		description: `Picture communication symbols (PCS) to aid communication in a hospital setting`,
-		pic: `hospitalThumbnail.jpg`,
+		pic: `hospitalThumbnail2.jpg`,
 		page: tobiiHospital
 	},
 

@@ -8,13 +8,12 @@ export default class Project extends Component {
   meta = {}
 
   componentDidMount = () => {
-    // 715 (45%), 885 (55%)
-    // 1600
     const imgGroups = [...document.querySelectorAll('.imgs')];
-    console.log(imgGroups);
     imgGroups.forEach(group => {
       this.getSizes([...group.querySelectorAll('img')]);
     })
+
+    document.querySelector('html').scrollTop = 0;
   }
 
   getSizes = imgs => {

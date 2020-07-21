@@ -64,7 +64,7 @@ export const projects = {
 	'hotspots': {
 		title: `Hotspot Pop-ups`,
 		description: `Hover activated pop-up illustrations to pair with medical text online`,
-		pic: `hotspots.png`,
+		pic: `hotspots.jpg`,
 		page: hotspots
 	},
 
@@ -72,7 +72,7 @@ export const projects = {
 	'thesis': {
 		title: `Undergrad Thesis: Communication Symbols`,
 		description: `Researched most effective visuals to aid Shabbat participation for autistic and young audiences`,
-		pic: `thesis_v2.png`,
+		pic: `thesis_v2.jpg`,
 		page: thesis
 	},
 
@@ -156,7 +156,7 @@ export const projects = {
 	'expii': {
 		title: `Expii Graphics`,
 				description: `Graphics to pair with Expii's e-learning webiste`,
-		pic: `expii.png`,
+		pic: `expii.jpg`,
 		page: 0
 	},
 
@@ -187,7 +187,7 @@ export const projects = {
 	'expiiMedia2': {
 		title: `Editorial Illustration`,
 		description: `Depicting a sense of community and communication on social media for an e-learning site`,
-		pic: `expii2_v3.png`,
+		pic: `expii2_v3.jpg`,
 		page: expiiMedia2
 	},
 
@@ -243,7 +243,7 @@ export const projects = {
 	'verdeInternal': {
 		title: `News Article Illustrations`,
 		description: `Illustrations to pair with news articles`,
-		pic: `verdeInternal.png`,
+		pic: `verdeInternal.jpg`,
 		page: verdeInternal
 	},
 
@@ -252,63 +252,63 @@ export const projects = {
 	'tobiiAnimals': {
 		title: `Animals Symbols`,
 		description: `Picture communication symbols (PCS) on general conversation topics`,
-		pic: `thinlineThumbnail.png`,
+		pic: `thinlineThumbnail.jpg`,
 		page: tobiiAnimals
 	},
 
 	'tobiiPeople': {
 		title: `People Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about people`,
-		pic: `peopleThumbnail.png`,
+		pic: `peopleThumbnail.jpg`,
 		page: tobiiPeople
 	},
 
 	'tobiiObjects': {
 		title: `Object Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about objects`,
-		pic: `objectsThumbnail.png`,
+		pic: `objectsThumbnail.jpg`,
 		page: tobiiObjects
 	},
 
 	'tobiiTech': {
 		title: `Technology Symbols`,
 		description: `Picture communication symbols (PCS) on conversation topics about technology`,
-		pic: `techThumbnail.png`,
+		pic: `techThumbnail.jpg`,
 		page: tobiiTech
 	},
 
 	'tobiiTopographic': {
 		title: `Topographic Symbols`,
 		description: `Picture communication symbols (PCS) to educate nonverbal children about topography`,
-		pic: `africaThumbnail.png`,
+		pic: `africaThumbnail.jpg`,
 		page: tobiiTopographic
 	},
 
 	'tobiiASL': {
 		title: `American Sign Language`,
 		description: `Picture communication symbols (PCS) on American Sign Language vocabulary`,
-		pic: `aslThumbnail2.png`,
+		pic: `aslThumbnail2.jpg`,
 		page: tobiiASL
 	},
 
 	'tobiiHospital': {
 		title: `Hospital Symbols`,
 		description: `Picture communication symbols (PCS) to aid communication in a hospital setting`,
-		pic: `hospitalThumbnail.png`,
+		pic: `hospitalThumbnail.jpg`,
 		page: tobiiHospital
 	},
 
 	'tobiiAvatars': {
 		title: `Avatars`,
 		description: `Visual representation of students' teachers`,
-		pic: `avatarVictoria_s.png`,
+		pic: `avatarVictoria_s.jpg`,
 		page: tobiiAvatars
 	},
 
 	'expiiIcons': {
 		title: `"Get to Know Us": Hobby Icons`,
 		description: `Icon representation of a company's individual team members' interests, for social media`,
-		pic: `expiiIconFeature2.png`,
+		pic: `expiiIconFeature2.jpg`,
 		page: expiiIcons
 	},
 	
@@ -375,7 +375,7 @@ export const projects = {
 	'assetCreation': {
 		title: `Asset Creation`,
 		description: 'Adobe Illustrator',
-		pic: `assetCreation.png`,
+		pic: `assetCreation.jpg`,
 		page: 0
 	},
 
@@ -681,21 +681,21 @@ export const projects = {
 	'young4': {
 		title: `Untitled`,
 		description: `Self portrait, watercolor`,
-		pic: `young4_s.png`,
+		pic: `young4_s.jpg`,
 		page: 0
 	},
 
 	'young5': {
 		title: `Untitled`,
 		description: `Self portrait, gouache`,
-		pic: `young5_s.png`,
+		pic: `young5_s.jpg`,
 		page: 0
 	},
 
 	'young7': {
 		title: `Untitled`,
 		description: `Oil`,
-		pic: `young7_s.png`,
+		pic: `young7_s.jpg`,
 		page: 0
 	},
 
@@ -846,21 +846,21 @@ export const projects = {
 	'sparkBranding': {
 		title: `Branding: "Project Spark"`,
 		description: `Branding design for a company's product campaign`,
-		pic: `sparkBranding.png`,
+		pic: `sparkBranding.jpg`,
 		page: 0
 	},
 
 	'expiiFlyer': {
 		title: `Company Flyer: Expii`,
 		description: `A promotional flyer to gain recognition for an online learning website`,
-		pic: `expiiFlyer.png`,
+		pic: `expiiFlyer.jpg`,
 		page: 0
 	},
 
 	'saveTheDate': {
 		title: `Save the Date Postcards`,
 		description: `Postcard-style save the dates for a wedding`,
-		pic: `saveTheDate.png`,
+		pic: `saveTheDate.jpg`,
 		page: 0
 	},
 
@@ -895,14 +895,14 @@ export const projects = {
 	'tobiiShirt': {
 		title: `Shirt Design: ALS Walk`,
 		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
-		pic: `tobiiShirt.png`,
+		pic: `tobiiShirt.jpg`,
 		page: 0
 	},
 
 	'pirateShirt': {
 		title: `Shirt Design: Alpha Phi x Princess Bride`,
 		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
-		pic: `pirateShirt.png`,
+		pic: `pirateShirt.jpg`,
 		page: 0
 	},
 
@@ -916,14 +916,14 @@ export const projects = {
 	'infographics': {
 		title: `Infographics`,
 		description: `A collection of infographics on medical topics`,
-		pic: `mps1.png`,
+		pic: `mps1.jpg`,
 		page: 0
 	},
 
 	'indesign': {
 		title: `InDesign e-Guides`,
 		description: `Career e-guides built out in InDesign for W.E.S.`,
-		pic: `wes-01.png`,
+		pic: `wes-01.jpg`,
 		page: 0
 	},
 
@@ -932,7 +932,7 @@ export const projects = {
 'paperFlowers': {
 		title: `Paper Flowers`,
 		description: `Handmade large and small decorative paper flowers`,
-		pic: `paperFlowers.png`,
+		pic: `paperFlowers.jpg`,
 		page: 0
 	},
 
@@ -960,7 +960,7 @@ export const projects = {
 'urn': {
 		title: `Clay Dog Urn`,
 		description: `Small clay urn created with love for my dog, Pal`,
-		pic: `urn.png`,
+		pic: `urn.jpg`,
 		page: 0
 	},
 
@@ -988,21 +988,21 @@ export const projects = {
 'cal': {
 		title: `Dry Erase Calendar`,
 		description: `Calendar made from color swatches and a frame`,
-		pic: `cal.png`,
+		pic: `cal.jpg`,
 		page: 0
 	},
 
 'resinBookmarks': {
 		title: `Resin Bookmarks`,
 		description: `Dried flowers suspended in resin to make varying bookmarks`,
-		pic: `resinBookmarks.png`,
+		pic: `resinBookmarks.jpg`,
 		page: 0
 	},
 
 'momPillow': {
 		title: `Watercolor Pillow`,
 		description: `A throw pillow with a watercolor effect painted`,
-		pic: `momPillow.png`,
+		pic: `momPillow.jpg`,
 		page: 0
 	},
 
@@ -1110,7 +1110,7 @@ export const projects = {
 'lettering-sign1': {
 		title: `Product Labeling`,
 		description: `Chalk on blackboard`,
-		pic: `productLabeling3.png`,
+		pic: `productLabeling3.jpg`,
 		page: 0
 	},
 

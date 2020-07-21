@@ -6,13 +6,13 @@ export const page = (
     
     <h1> Undergraduate Thesis Project: Communication Symbols </h1>
 
-<div className="imgs max400">
+<div className="imgs max300">
         <div>
             <img src={require('../assets/capstone/versions/4/print1.png')} />
         </div>
-       
-        
     </div>
+
+<br/>
 
     <h2> Introduction</h2>
 
@@ -115,11 +115,7 @@ export const page = (
 <div className="imgs max300">
         <div>
             <img src={require('../assets/capstone/versions/1/print1.png')} />
-            <p>subtitle</p>
-        </div>
-        <div>
-            <img src={require('../assets/capstone/versions/1/print1.png')} />
-            <p>REPLACE WITH REAL LIFE DEMO PIC</p>
+            <p>Version 1, digital file</p>
         </div>
     </div>
 
@@ -132,22 +128,22 @@ export const page = (
 <div className="imgs max300">
         <div>
             <img src={require('../assets/capstone/versions/2/print1.png')} />
-            <p>A Mostly Musical Shabbat ceremony</p>
+            <p>Digital print file</p>
         </div>
         <div>
             <img src={require('../assets/capstone/versions/2/1.jpeg')} />
-            <p>Flyer for "Mostly Musical Shabbat"</p>
+            <p>Pick-up spot before entering</p>
         </div>
     </div>
 
     <div className="imgs max300">
         <div>
             <img src={require('../assets/capstone/versions/2/2.jpeg')} />
-            <p>A Mostly Musical Shabbat ceremony</p>
+            <p>Physical demonstration</p>
         </div>
         <div>
             <img src={require('../assets/capstone/versions/2/4.jpeg')} />
-            <p>Flyer for "Mostly Musical Shabbat"</p>
+            <p>Physical demonstration</p>
         </div>
     </div>
         
@@ -162,21 +158,21 @@ export const page = (
  <div className="imgs max200">
         <div>
             <img src={require('../assets/capstone/versions/4/print1.png')} />
-            <p>Flyer for "Mostly Musical Shabbat"</p>
+            <p>Cover page</p>
         </div>
         <div>
             <img src={require('../assets/capstone/versions/4/doubleStickers.png')} />
-            <p>REPLACE W DEMO PIC OF STICKERS</p>
+            <p>Prayer icon stickers</p>
         </div>
     </div>
      <div className="imgs max200">
         <div>
             <img src={require('../assets/capstone/versions/4/print2.png')} />
-            <p>A Mostly Musical Shabbat ceremony</p>
+            <p>Instruction page, noting to place stickers on their respective spots</p>
         </div>
         <div>
             <img src={require('../assets/capstone/versions/4/print4.png')} />
-            <p>Flyer for "Mostly Musical Shabbat"</p>
+            <p>Example internal page, section 2 ("sh'ma") of the shabbat</p>
         </div>
         
     </div>
@@ -184,15 +180,15 @@ export const page = (
     <div className="imgs max300">
         <div>
             <img src={require('../assets/capstone/versions/4/tableHandout.jpeg')} />
-            <p>Flyer for "Mostly Musical Shabbat"</p>
+            <p>Pick-up spot before entering</p>
         </div>
         <div>
             <img src={require('../assets/capstone/versions/4/bookPile.jpeg')} />
-            <p>Flyer </p>
+            <p>Physical books</p>
         </div>
         <div>
             <img src={require('../assets/capstone/versions/4/demoSticker.jpeg')} />
-            <p>A Mostly Musical Shabbat ceremony</p>
+            <p>Physical book demonstration</p>
         </div>
     </div>  
 
@@ -211,11 +207,11 @@ export const page = (
        
         <div>
             <img src={require('../assets/capstone/versions/4/girl.jpeg')} />
-            <p>A Mostly Musical Shabbat ceremony</p>
+            <p>A young temple member and her grandmother using the sticker book</p>
         </div>
         <div>
             <img src={require('../assets/capstone/versions/4/bannerStageOG.jpeg')} />
-            <p>Flyer for "Mostly Musical Shabbat"</p>
+            <p>Banner in use during ceremony</p>
         </div>
     </div>
         

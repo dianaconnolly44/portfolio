@@ -8,7 +8,7 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/4/print1.png')} />
+            <img src={require('../assets/capstone/versions/4/print1.jpg')} />
         </div>
     </div>
 
@@ -23,7 +23,7 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/aboutTS/templeOutside.png')} />
+            <img src={require('../assets/capstone/aboutTS/templeOutside.jpg')} />
             <p>Temple Sinai, of Pittsburgh, PA</p>
         </div>
         <div>
@@ -73,11 +73,11 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/4/doubleStickers.png')} />
+            <img src={require('../assets/capstone/versions/4/doubleStickers.jpg')} />
             <p>Prayer icon library</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/iconExamples.png')} />
+            <img src={require('../assets/capstone/versions/iconExamples.jpg')} />
             <p>Select example icons</p>
         </div>
     </div>
@@ -92,11 +92,11 @@ export const page = (
 
 <div className="imgs max400">
         <div>
-            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpg')} />
             <p>Banner on stage at Temple Sinai</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/banner.png')} />
+            <img src={require('../assets/capstone/versions/banner.jpg')} />
             <p>Banner enlarged</p>
         </div>
     </div>
@@ -114,7 +114,7 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/1/print1.png')} />
+            <img src={require('../assets/capstone/versions/1/print1.jpg')} />
             <p>Version 1, digital file</p>
         </div>
     </div>
@@ -127,7 +127,7 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/2/print1.png')} />
+            <img src={require('../assets/capstone/versions/2/print1.jpg')} />
             <p>Digital print file</p>
         </div>
         <div>
@@ -157,21 +157,21 @@ export const page = (
  
  <div className="imgs max200">
         <div>
-            <img src={require('../assets/capstone/versions/4/print1.png')} />
+            <img src={require('../assets/capstone/versions/4/print1.jpg')} />
             <p>Cover page</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/4/doubleStickers.png')} />
+            <img src={require('../assets/capstone/versions/4/doubleStickers.jpg')} />
             <p>Prayer icon stickers</p>
         </div>
     </div>
      <div className="imgs max200">
         <div>
-            <img src={require('../assets/capstone/versions/4/print2.png')} />
+            <img src={require('../assets/capstone/versions/4/print2.jpg')} />
             <p>Instruction page, noting to place stickers on their respective spots</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/4/print4.png')} />
+            <img src={require('../assets/capstone/versions/4/print4.jpg')} />
             <p>Example internal page, section 2 ("sh'ma") of the shabbat</p>
         </div>
         
@@ -210,7 +210,7 @@ export const page = (
             <p>A young temple member and her grandmother using the sticker book</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpeg')} />
+            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpg')} />
             <p>Banner in use during ceremony</p>
         </div>
     </div>

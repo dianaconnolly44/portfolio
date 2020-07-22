@@ -9,7 +9,7 @@ export const page = (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/verde/covers/verdeLips.png')} />
+            <img src={require('../assets/verde/covers/verdeLips.jpg')} />
         </div>
     </div>
 

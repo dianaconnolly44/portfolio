@@ -9,7 +9,7 @@ export const page = (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/expiiMedia/expii2.png')} />
+            <img src={require('../assets/expiiMedia/expii2.jpg')} />
         </div>
     </div>
 
@@ -17,7 +17,7 @@ export const page = (
 <p>I created this illustration to signify to Expii's members the sense of communication 
 and a community, reachable online through Expii's various social media platforms. This can be
     viewed on Expii's homepage <a href="https://www.expii.com/" target="_blank">here</a>.
-    If the web-page is broken, click <a target="_blank" href={require('../assets/expiiMedia/expiiHomepage.png')}>here</a> to view a screen capture of what the page looked like.</p>
+    If the web-page is broken, click <a target="_blank" href={require('../assets/expiiMedia/expiiHomepage.jpg')}>here</a> to view a screen capture of what the page looked like.</p>
 
 
 

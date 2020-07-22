@@ -9,37 +9,37 @@ export const page = (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/1.png')} />
+            <img src={require('../assets/childrensIllos/gaucher/1.jpg')} />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/2.png')} />
+            <img src={require('../assets/childrensIllos/gaucher/2.jpg')} />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/3.png')} />
+            <img src={require('../assets/childrensIllos/gaucher/3.jpg')} />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/6.png')} />
+            <img src={require('../assets/childrensIllos/gaucher/6.jpg')} />
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/sketch1.png')} />
+            <img src={require('../assets/childrensIllos/gaucher/sketch1.jpg')} />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/sketch2.png')} />
+            <img src={require('../assets/childrensIllos/gaucher/sketch2.jpg')} />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/sketch3.png')} />
+            <img src={require('../assets/childrensIllos/gaucher/sketch3.jpg')} />
         </div>
     </div>
 

@@ -799,13 +799,6 @@ export const projects = {
 		page: 0
 	},
 
-	'punkNecklace': {
-		title: `Punk Necklace`,
-		description: `Inspiration drawn from punk subculture`,
-		pic: `punkNecklace.jpg`,
-		page: 0
-	},
-
 	'oppositeBalls': {
 		title: `Yin and Yang`,
 		description: `Move your mouse to have yin and yang oppose each other like magnets`,
@@ -1054,14 +1047,6 @@ export const projects = {
 		pic: `nail-sunset.jpg`,
 		page: 0
 	},
-
-'nail-moon': {
-		title: `Nail Art - Moon`,
-		description: `Nail polish`,
-		pic: `nail-moon.jpg`,
-		page: 0
-	},
-
 
 //lettering//
 

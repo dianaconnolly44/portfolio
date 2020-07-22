@@ -15,7 +15,7 @@ export const page = (
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/kingdomOfPlenty/sketch.png')} />
+            <img src={require('../assets/childrensIllos/kingdomOfPlenty/sketch.jpg')} />
             <p>Sketch</p>
         </div>
     </div>

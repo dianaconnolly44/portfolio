@@ -16,7 +16,7 @@ export const page = (
 creator about rate-time-distance, with the theme of New Year's Eve. Below is what the GIF 
 looks like on Expii's site, embedded with the math problem itself as well as 
 my illustrations to represent the multiple choice options. 
-If the web-page is broken, click <a target="_blank" href={require('../assets/expiiGIFs/NYE.png')}>here</a> to view a screen capture of what the page looked like.</p>
+If the web-page is broken, click <a target="_blank" href={require('../assets/expiiGIFs/NYE.jpg')}>here</a> to view a screen capture of what the page looked like.</p>
    <br />
 <iframe src="https://www.expii.com/problem/18549" title="Drop the Ball"></iframe>
 <p>Scroll within the webpage's box to see full contents.</p>

@@ -9,45 +9,45 @@ export const page = (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/1.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/1.jpg')} />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/3.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/3.jpg')} />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/4.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/4.jpg')} />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/6.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/6.jpg')} />
         </div>
     </div>
 
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch1.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/sketch1.jpg')} />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch2.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/sketch2.jpg')} />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch3.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/sketch3.jpg')} />
         </div>
     </div>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch4.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/sketch4.jpg')} />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch5.png')} />
+            <img src={require('../assets/childrensIllos/perfectDay/sketch5.jpg')} />
         </div>
     </div>
 

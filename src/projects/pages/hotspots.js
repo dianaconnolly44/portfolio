@@ -12,7 +12,7 @@ export const page = (
 
     <div className="imgs max300">
             <div>
-                <img src={require('../assets/hotspots/hotspotExample.png')} />
+                <img src={require('../assets/hotspots/hotspotExample.jpg')} />
             </div>
     </div>
 
@@ -22,63 +22,63 @@ export const page = (
 
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/hotspots/CFTRchannel.png')} />
+                <img src={require('../assets/hotspots/CFTRchannel.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/CF.png')} />
+                <img src={require('../assets/hotspots/CF.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/crohns2.png')} />
+                <img src={require('../assets/hotspots/crohns2.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/crohns3.png')} />
+                <img src={require('../assets/hotspots/crohns3.jpg')} />
             </div>
     </div>
     
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/hotspots/crohns4.png')} />
+                <img src={require('../assets/hotspots/crohns4.jpg')} />
             </div>
             <div>
-                            <img src={require('../assets/hotspots/ppl.png')} />
+                            <img src={require('../assets/hotspots/ppl.jpg')} />
 
             </div>
             <div>
-                <img src={require('../assets/hotspots/hobbies.png')} />
+                <img src={require('../assets/hotspots/hobbies.jpg')} />
             </div>
             <div>
-                            <img src={require('../assets/hotspots/crohns.png')} />
+                            <img src={require('../assets/hotspots/crohns.jpg')} />
             </div>
     </div>
     
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/hotspots/hemophilia.png')} />
+                <img src={require('../assets/hotspots/hemophilia.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/medStaff1.png')} />
+                <img src={require('../assets/hotspots/medStaff1.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/medStaff2.png')} />
+                <img src={require('../assets/hotspots/medStaff2.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/nutrients.png')} />
+                <img src={require('../assets/hotspots/nutrients.jpg')} />
             </div>
             
     </div>
     
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/hotspots/autoimmune.png')} />
+                <img src={require('../assets/hotspots/autoimmune.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/bloodPressure.png')} />
+                <img src={require('../assets/hotspots/bloodPressure.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/calcium.png')} />
+                <img src={require('../assets/hotspots/calcium.jpg')} />
             </div>
             <div>
-                <img src={require('../assets/hotspots/languages.png')} />
+                <img src={require('../assets/hotspots/languages.jpg')} />
             </div>
     </div>
     

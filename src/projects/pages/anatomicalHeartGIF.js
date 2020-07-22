@@ -8,7 +8,7 @@ export const page = (
 
 <div className="imgs max600">
             <div>
-                <img src={require('../gallery/heart.gif')} />
+                <img src={require('../assets/heart.gif')} />
                 <p>"From our heart to yours...wishing everyone a very Happy Valentine’s Day!"</p>
             </div>
     </div>

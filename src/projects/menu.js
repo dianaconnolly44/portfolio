@@ -21,9 +21,9 @@ const menu = [
 					'energy',
 					'color',
 					'trump',
-					'activity',
-					'achieve',
 					
+					'achieve',
+					'activity',
 					't1d',
 					'expii',
 					'expii2',

@@ -7,28 +7,28 @@ export const page = (
     <h1> "The White House" Children's Book</h1>
 
     
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/trump/trump3.jpg')} />
             <p>This is where the president gives speeches.</p>
         </div>
     </div>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/trump/trump4.jpg')} />
             <p>This room is called the Oval Office. Can you guess why?</p>
         </div>
     </div>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/trump/trump6.jpg')} />
             <p>This room is called the Blue Room. Can you guess why?</p>
         </div>
     </div>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/trump/trump7.jpg')} />
             <p>This room has a stage.</p>

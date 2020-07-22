@@ -8,7 +8,7 @@ export const page = (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../gallery/banana.gif')} />
+            <img src={require('../assets/banana.gif')} />
         </div>
     </div>
 

@@ -41,7 +41,14 @@ import { page as expiiSkulls } from './pages/expiiSkulls';
 import { page as jumoBanana } from './pages/jumoBanana';
 import { page as anatomicalHeartGIF } from './pages/anatomicalHeartGIF';
 import { page as dadMotorcycleGIF } from './pages/dadMotorcycleGIF';
-
+import { page as jumoHolidayVideo } from './pages/jumoHolidayVideo';
+import { page as dadeCard } from './pages/dadeCard';
+import { page as whiteboardAnimation } from './pages/whiteboardAnimation';
+import { page as careconnect } from './pages/careconnect';
+import { page as t1dGwen } from './pages/t1dGwen';
+import { page as expiiGraphics } from './pages/expiiGraphics';
+import { page as jumoAchieve } from './pages/jumoAchieve';
+import { page as jumoGaucherActivity } from './pages/jumoGaucherActivity';
 
 
 
@@ -99,9 +106,9 @@ export const projects = {
 
 	'achieve': {
 		title: `Activity Book`,
-		description: `Book of coloring and games for children`,
-		pic: `achieve.jpg`,
-		page: 0
+		description: `Book of coloring, stickers, and games`,
+		pic: `achieve_v3.jpg`,
+		page: jumoAchieve
 	},
 
 	'bunny': {
@@ -114,8 +121,8 @@ export const projects = {
 	'activity': {
 		title: `Activity Book`,
 		description: `Book of coloring and games for children`,
-		pic: `activity.jpg`,
-		page: 0
+		pic: `activity_v2.jpg`,
+		page: jumoGaucherActivity
 	},
 
 	'trump': {
@@ -150,14 +157,14 @@ export const projects = {
 		title: `"T1D & Gwen"`,
 		description: `Book concept for teens with Type 1 Diabetes`,
 		pic: `t1d3.jpg`,
-		page: 0
+		page: t1dGwen
 	},
 
 	'expii': {
 		title: `Expii Graphics`,
 				description: `Graphics to pair with Expii's e-learning webiste`,
 		pic: `expii.jpg`,
-		page: 0
+		page: expiiGraphics
 	},
 
 	'andreaBook': {
@@ -317,31 +324,31 @@ export const projects = {
 //videos//
 
 	'dadCard': {
-		title: `Father's Day eCard`,
+		title: `Father's Day e-Card`,
 		description: 'Adobe After Effects',
 		pic: `dadcard2.gif`,
-		page: 0
+		page: dadeCard
 	},
 
 	'whiteboard': {
 		title: `Whiteboard Animation`,
 		description: 'Adobe After Effects',
 		pic: `whiteboard2.gif`,
-		page: 0
+		page: whiteboardAnimation
 	},
 
 	'holiday': {
-		title: `Holiday eCard`,
+		title: `Holiday e-Card`,
 		description: 'Adobe After Effects',
 		pic: `holiday2.gif`,
-		page: 0
+		page: jumoHolidayVideo
 	},
 
 	'characterExplainer': {
 		title: `Character Explainer Videos`,
 		description: 'Adobe After Effects',
 		pic: `characterExplainer44.gif`,
-		page: 0
+		page: careconnect
 	},
 
 	'iconExplainer': {

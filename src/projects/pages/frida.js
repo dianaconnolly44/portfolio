@@ -6,6 +6,9 @@ export const page = (
     
     <h1> "Who Was Frida Kahlo?" Children's Book</h1>
 
+    <p>The below sample pages are from an educational children's book I created to explain to preschool age readers 
+    about the life of the famous Mexican artist Frida Kahlo. See my character design process for having Frida 
+    age throughout the book.</p>
     
     <div className="imgs max600">
         <div>

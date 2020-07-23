@@ -6,6 +6,10 @@ export const page = (
     
     <h1> "Who Can Do It?" Children's Book</h1>
 
+    <p>The below sample pages are from a collaborative children's book made on the topic of sustainability and 
+    energy conservation. I illustrated these pages, in keeping with the previous artist's illustration style, and 
+    focused on characters doing certain activities to save energy in their home, with the theme of "everyone can 
+    do it."</p>
 
     <div className="imgs max700">
         <div>

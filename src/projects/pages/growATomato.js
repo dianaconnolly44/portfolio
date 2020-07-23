@@ -6,6 +6,9 @@ export const page = (
     
     <h1> "Grow a Tomato" Children's Book</h1>
 
+    <p>The below sample pages are from a children's book to teach young readers about gardening, and the process 
+    of a tomato plant growing from seed to harvest. The main character was a rabbit to help make the story even more 
+    enticing for young readers. See character and layout sketches at the bottom of this page.</p>
     
     <div className="imgs max600">
         <div>

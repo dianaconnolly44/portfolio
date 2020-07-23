@@ -6,6 +6,8 @@ export const page = (
     
     <h1> "Kingdom of Plenty" Children's Book Concept</h1>
 
+    <p>The below illustration is of a children's book concept of a young prince and his "kingdom of 
+    plenty," in which he wanders outside of his castle and discovers the wonders of the lush nature in his kingdom.</p>
     
     <div className="imgs max700">
         <div>

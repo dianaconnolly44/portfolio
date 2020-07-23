@@ -6,6 +6,10 @@ export const page = (
     
     <h1> "Seasons of Color" Children's Book</h1>
 
+    <p>The below sample pages are from a collaborative children's book in which I and three other artists each 
+    illustrated a page to depict the wonderful color tied with each of the four seasons. I illustrated the 
+    page for fall, highlighting the orange colors of that season. I illustrated the Asian-American main character 
+    based on the first artist's character in the white winter page.</p>
     
     <div className="imgs max600">
         <div>

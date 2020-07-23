@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.2f987803.chunk.css",
-    "main.js": "/static/js/main.596c0284.chunk.js",
-    "main.js.map": "/static/js/main.596c0284.chunk.js.map",
+    "main.js": "/static/js/main.6afab2a6.chunk.js",
+    "main.js.map": "/static/js/main.6afab2a6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7cc6e23.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7cc6e23.js.map",
     "static/js/2.ba04ad97.chunk.js": "/static/js/2.ba04ad97.chunk.js",
     "static/js/2.ba04ad97.chunk.js.map": "/static/js/2.ba04ad97.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f78b655a06e9312cbd5503e143e2798a.js": "/precache-manifest.f78b655a06e9312cbd5503e143e2798a.js",
+    "precache-manifest.eaac9e8a4d6a0994fefadd835202497d.js": "/precache-manifest.eaac9e8a4d6a0994fefadd835202497d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.2f987803.chunk.css.map": "/static/css/main.2f987803.chunk.css.map",
     "static/js/2.ba04ad97.chunk.js.LICENSE": "/static/js/2.ba04ad97.chunk.js.LICENSE",
@@ -37,9 +37,8 @@
     "static/media/2_v2.png": "/static/media/2_v2.3b5afc79.png",
     "static/media/3.jpg": "/static/media/3.db1055d8.jpg",
     "static/media/3.png": "/static/media/3.c031cc01.png",
-    "static/media/4.jpg": "/static/media/4.8dcda2df.jpg",
+    "static/media/4.jpg": "/static/media/4.f142f6b0.jpg",
     "static/media/4.jpeg": "/static/media/4.27b59394.jpeg",
-    "static/media/4.png": "/static/media/4.c3d7c65b.png",
     "static/media/4_v2-01.png": "/static/media/4_v2-01.021b1ace.png",
     "static/media/5.jpg": "/static/media/5.f0329ee2.jpg",
     "static/media/6.jpg": "/static/media/6.da5c7695.jpg",
@@ -275,7 +274,7 @@
     "static/media/stillLifePencil.jpg": "/static/media/stillLifePencil.971e8620.jpg",
     "static/media/sugarBoxes.jpg": "/static/media/sugarBoxes.7280104d.jpg",
     "static/media/summerBlue.jpg": "/static/media/summerBlue.3245bd72.jpg",
-    "static/media/t1d3.jpg": "/static/media/t1d3.69fd6aa9.jpg",
+    "static/media/t1d3.jpg": "/static/media/t1d3.3c81652a.jpg",
     "static/media/t1dGwen.png": "/static/media/t1dGwen.acaa50b8.png",
     "static/media/tableHandout.jpeg": "/static/media/tableHandout.fdde89e2.jpeg",
     "static/media/tattoo.jpg": "/static/media/tattoo.31b465ee.jpg",
@@ -329,6 +328,6 @@
     "static/js/runtime-main.c7cc6e23.js",
     "static/js/2.ba04ad97.chunk.js",
     "static/css/main.2f987803.chunk.css",
-    "static/js/main.596c0284.chunk.js"
+    "static/js/main.6afab2a6.chunk.js"
   ]
 }

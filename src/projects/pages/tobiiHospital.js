@@ -23,8 +23,20 @@ export const page = (
 
     <h2> Project:</h2>
     <p>For this project, I was tasked with creating a collection of hospital-related vocabulary symbols, in the classic symbol style. See a selection of my works below.</p>
-    <img src={require('../assets/tobiiIcons/hospital/hosp1.jpg')} />
-    <img src={require('../assets/tobiiIcons/hospital/hosp2.jpg')} />
+    
+    <div className="imgs max900">
+            <div>
+                <img src={require('../assets/tobiiIcons/hospital/hosp1.jpg')} />
+            </div>
+        </div>
+
+     <div className="imgs max900">
+            <div>
+                <img src={require('../assets/tobiiIcons/hospital/hosp2.jpg')} />
+            </div>
+        </div>
+
+    
 
 
 

@@ -11,28 +11,28 @@ export const page = (
     focused on characters doing certain activities to save energy in their home, with the theme of "everyone can 
     do it."</p>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/whoCanDoIt/5.jpg')} />
             <p>She takes a quick shower to save water.</p>
         </div>
     </div>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/whoCanDoIt/6.jpg')} />
             <p>Who can do it? He can!</p>
         </div>
     </div>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/whoCanDoIt/8.jpg')} />
             <p>Conserving energy is good to do. Who can do it?</p>
         </div>
     </div>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/childrensIllos/whoCanDoIt/9.jpg')} />
             <p>I can. You can. We all can conserve energy.</p>

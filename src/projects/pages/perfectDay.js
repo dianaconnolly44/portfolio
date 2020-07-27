@@ -35,26 +35,30 @@ export const page = (
         </div>
     </div>
 
+    
+    <div className="imgs max300">
+        <div>
+            <img src={require('../assets/childrensIllos/perfectDay/sketch4.jpg')} />
+            <p>Version 1</p>
+        </div>
+        <div>
+            <img src={require('../assets/childrensIllos/perfectDay/sketch5.jpg')} />
+            <p>Warmer colors, and simpler shapes</p>
+        </div>
+    </div>
+
     <div className="imgs max300">
         <div>
             <img src={require('../assets/childrensIllos/perfectDay/sketch1.jpg')} />
         </div>
         <div>
             <img src={require('../assets/childrensIllos/perfectDay/sketch2.jpg')} />
+            <p>Zoey character</p>
         </div>
         <div>
             <img src={require('../assets/childrensIllos/perfectDay/sketch3.jpg')} />
         </div>
     </div>
-    <div className="imgs max300">
-        <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch4.jpg')} />
-        </div>
-        <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch5.jpg')} />
-        </div>
-    </div>
-
 
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}

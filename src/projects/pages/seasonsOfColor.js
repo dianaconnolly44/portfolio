@@ -40,7 +40,11 @@ export const page = (
     </div>
 
 
-
+    <div className="imgs max400">
+        <div>
+            <img src={require('../assets/childrensIllos/seasonsOfColor/characterDesign-01.jpg')} />
+        </div>
+    </div>
 
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}

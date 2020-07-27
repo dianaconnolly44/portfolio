@@ -49,6 +49,7 @@ import { page as t1dGwen } from './pages/t1dGwen';
 import { page as expiiGraphics } from './pages/expiiGraphics';
 import { page as jumoAchieve } from './pages/jumoAchieve';
 import { page as jumoGaucherActivity } from './pages/jumoGaucherActivity';
+import { page as goingForGold } from './pages/goingForGold';
 
 
 
@@ -172,6 +173,13 @@ export const projects = {
 		description: `A children's book concept`,
 		pic: `andreaBook.jpg`,
 		page: kingdomOfPlenty
+	},
+
+	'goingForGold': {
+		title: `"Going for Gold"`,
+		description: `Story book about running and competition`,
+		pic: `goingForGold.jpg`,
+		page: goingForGold
 	},
 
 

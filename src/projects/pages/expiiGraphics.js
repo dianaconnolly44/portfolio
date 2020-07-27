@@ -13,6 +13,17 @@ export const page = (
 
 <div className="imgs max500">
             <div>
+                <img src={require('../assets/expiiGraphics/12.png')} />
+                <p>"Groundhog Day", click <a href="https://www.expii.com/t/combined-linear-systems-of-equations-and-inequalities-5037?type=problem&id=18473" target="_blank">here</a> to see corresponding math problem</p>
+            </div>
+            <div>
+                <img src={require('../assets/expiiGraphics/21.png')} />
+                <p>"Waffle Day", click <a href="https://www.expii.com/t/applications-of-area-and-perimeter-5477?type=problem&id=19574" target="_blank">here</a> to see corresponding math problem</p>
+            </div>
+        </div> 
+
+<div className="imgs max500">
+            <div>
                 <img src={require('../assets/expiiGraphics/19.png')} />
                 <p>"Winter Olympics", click <a href="https://www.expii.com/problem/18624" target="_blank">here</a> to see corresponding math problem</p>
             </div>
@@ -20,18 +31,9 @@ export const page = (
                 <img src={require('../assets/expiiGraphics/16.png')} />
                 <p>"Oscars", click <a href="https://www.expii.com/t/interpreting-relations-and-the-vertical-line-test-4754?type=problem&id=18627&solution=9176" target="_blank">here</a> to see corresponding math problem</p>
             </div>
+            
         </div>
 
-<div className="imgs max500">
-            <div>
-                <img src={require('../assets/expiiGraphics/12.png')} />
-                <p>"Groundhog Day", click <a href="https://www.expii.com/t/combined-linear-systems-of-equations-and-inequalities-5037?type=problem&id=18473" target="_blank">here</a> to see corresponding math problem</p>
-            </div>
-            <div>
-                <img src={require('../assets/expiiGraphics/17.png')} />
-                <p>"Presidents Day", click <a href="https://www.expii.com/t/intro-to-relations-4309?type=problem&id=19108&solution=9296" target="_blank">here</a> to see corresponding math problem</p>
-            </div>
-        </div> 
 
 <div className="imgs max500">
             <div>
@@ -39,9 +41,10 @@ export const page = (
                 <p>"Chinese New Year", click <a href="https://www.expii.com/t/logic-puzzles-and-brainteasers-10611?type=problem&id=18572" target="_blank">here</a> to see corresponding math problem</p>
             </div>
             <div>
-                <img src={require('../assets/expiiGraphics/21.png')} />
-                <p>"Waffle Day", click <a href="https://www.expii.com/t/applications-of-area-and-perimeter-5477?type=problem&id=19574" target="_blank">here</a> to see corresponding math problem</p>
+                <img src={require('../assets/expiiGraphics/17.png')} />
+                <p>"Presidents Day", click <a href="https://www.expii.com/t/intro-to-relations-4309?type=problem&id=19108&solution=9296" target="_blank">here</a> to see corresponding math problem</p>
             </div>
+            
         </div>
 
 <div className="imgs max500">

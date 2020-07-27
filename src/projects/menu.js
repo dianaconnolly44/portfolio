@@ -24,10 +24,12 @@ const menu = [
 					
 					'achieve',
 					'activity',
-					't1d',
+					'goingForGold',
 					'expii',
-					'expii2',
-					'expii1',
+					't1d',
+					
+					
+					
 
 				]
 			},

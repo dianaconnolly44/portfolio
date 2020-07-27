@@ -9,9 +9,8 @@ export const page = (
     <iframe class="video" width="560" height="600" src="https://www.youtube.com/embed/O9ZBoZs9ENM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-    <p>A paper cut-out style animation, to represent a digital version of a holiday greeting card. Made
+    <p>A paper cut-out style <a href="https://www.facebook.com/watch/?v=337254713548471" target="_blank">animation</a>, to represent a digital version of a holiday greeting card. Made
     using 3D layers in Adobe After Effects.</p>
-
 
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}

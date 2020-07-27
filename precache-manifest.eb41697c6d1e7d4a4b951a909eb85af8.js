@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "deae6c5865b6e6a15535e700cfb9e254",
+    "revision": "00b17a442d7460b5ca237f0772656472",
     "url": "/index.html"
   },
   {
-    "revision": "11dc35d2f418365cc58d",
+    "revision": "94b9d688e6493f472d45",
     "url": "/static/css/main.2f987803.chunk.css"
   },
   {
-    "revision": "d387a04edbedf7f84c49",
-    "url": "/static/js/2.a3eed0e3.chunk.js"
+    "revision": "bbfaa52f9e3adb539bf6",
+    "url": "/static/js/2.a07d5423.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/static/js/2.a3eed0e3.chunk.js.LICENSE"
+    "url": "/static/js/2.a07d5423.chunk.js.LICENSE"
   },
   {
-    "revision": "11dc35d2f418365cc58d",
-    "url": "/static/js/main.01c0d725.chunk.js"
+    "revision": "94b9d688e6493f472d45",
+    "url": "/static/js/main.9fe8e595.chunk.js"
   },
   {
     "revision": "00ccf1beb4d435cfbe60",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "05598af5ea6dbfd637bbaf0df0315372",
     "url": "/static/media/1.05598af5.jpeg"
-  },
-  {
-    "revision": "05763295e892db534338f20ed08ed7ac",
-    "url": "/static/media/1.05763295.jpg"
   },
   {
     "revision": "0810131ff14dcd286b5b45a39608bca8",
@@ -46,6 +42,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8c4f656e2cfe8e0647c587bc7e1a291",
     "url": "/static/media/1.a8c4f656.jpg"
+  },
+  {
+    "revision": "b6ddec3f8ed94fd3e5bc566b22cd9cc3",
+    "url": "/static/media/1.b6ddec3f.jpg"
+  },
+  {
+    "revision": "bf2c4eefac006984e98baead5549f393",
+    "url": "/static/media/1.bf2c4eef.png"
   },
   {
     "revision": "ce574b7fc72bb1991a67bbbdde0fc607",
@@ -164,6 +168,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/3.3cee8073.jpg"
   },
   {
+    "revision": "9ab510ec3cda2334ac9637d672e0d0c8",
+    "url": "/static/media/3.9ab510ec.png"
+  },
+  {
     "revision": "b026608277515a3be60a01b675a8b13d",
     "url": "/static/media/3.b0266082.png"
   },
@@ -190,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4d277ec3e93d8ba5392c1072524d1a1b",
     "url": "/static/media/4.4d277ec3.jpg"
+  },
+  {
+    "revision": "80861a53c70a8adebba16a3250bf21ed",
+    "url": "/static/media/4.80861a53.png"
   },
   {
     "revision": "87d65d045b09ebf9d62d730926bf66b0",
@@ -226,6 +238,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a08b5620be71b168abd27845e37588f8",
     "url": "/static/media/6.a08b5620.jpg"
+  },
+  {
+    "revision": "ba9951a9a46a005a86a1281a7e631e92",
+    "url": "/static/media/6.ba9951a9.png"
   },
   {
     "revision": "c42938a2663a8baf55a7d834f6b16b30",
@@ -388,6 +404,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/avatarVictoria_s.590de876.jpg"
   },
   {
+    "revision": "cddf685a7e35b89178f17fe90610d648",
+    "url": "/static/media/b&w.cddf685a.jpg"
+  },
+  {
     "revision": "f97917f5969e3b7195dfb19aa3f8e804",
     "url": "/static/media/b-friday-sm.f97917f5.gif"
   },
@@ -484,6 +504,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/carbonFootprint.215aded3.jpg"
   },
   {
+    "revision": "85360fc45bbdba0ec50c64edfd092a66",
+    "url": "/static/media/characterDesign-01.85360fc4.jpg"
+  },
+  {
     "revision": "f24423167a952f563bec8a02a12616c8",
     "url": "/static/media/characterExplainer44.f2442316.gif"
   },
@@ -506,6 +530,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "03769370278c5c38411278b21db9eb6a",
     "url": "/static/media/collage.03769370.jpg"
+  },
+  {
+    "revision": "fcfdc5c2aa816e1b1c00615583dcd2b6",
+    "url": "/static/media/color.fcfdc5c2.jpg"
   },
   {
     "revision": "ff37a7380e154a7a42984857bd180be1",
@@ -722,6 +750,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52c4d73c96c0233c06670a133f62faf3",
     "url": "/static/media/glow.52c4d73c.jpg"
+  },
+  {
+    "revision": "d2f6ea76ae1800b65fafa0d51dbb1ac6",
+    "url": "/static/media/goingForGold.d2f6ea76.jpg"
   },
   {
     "revision": "7a55386a16f379cbdd867d1a7b81618b",
@@ -1192,8 +1224,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/sketch3.0b800ad2.jpg"
   },
   {
-    "revision": "9dad1da46e605c5e80280c030881e96e",
-    "url": "/static/media/sketch3.9dad1da4.jpg"
+    "revision": "578f1289a59ecf769cd66858e4720e75",
+    "url": "/static/media/sketch3.578f1289.jpg"
   },
   {
     "revision": "b053e70806740391a14ba591765e7c7b",

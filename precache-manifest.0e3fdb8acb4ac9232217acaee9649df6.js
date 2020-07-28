@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb5378f914acccf22bef9d287235a257",
+    "revision": "95e67c349a3772ee14a5d8ca4b98f9a5",
     "url": "/index.html"
   },
   {
-    "revision": "e1540e187b49f4814ba5",
+    "revision": "c42a466c59a7f5186e80",
     "url": "/static/css/main.2f987803.chunk.css"
   },
   {
-    "revision": "ed5dc77f4f990d894eb8",
-    "url": "/static/js/2.5d952f17.chunk.js"
+    "revision": "fc0fdc90ddb602aa52be",
+    "url": "/static/js/2.6d7ddf0e.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/static/js/2.5d952f17.chunk.js.LICENSE"
+    "url": "/static/js/2.6d7ddf0e.chunk.js.LICENSE"
   },
   {
-    "revision": "e1540e187b49f4814ba5",
-    "url": "/static/js/main.d110a330.chunk.js"
+    "revision": "c42a466c59a7f5186e80",
+    "url": "/static/js/main.8a9dda17.chunk.js"
   },
   {
     "revision": "00ccf1beb4d435cfbe60",
@@ -524,6 +524,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/charcoal.fdf6f6f8.jpg"
   },
   {
+    "revision": "045f9f7f2f70234a7c56d81f2c85d667",
+    "url": "/static/media/charcoalBust.045f9f7f.jpg"
+  },
+  {
     "revision": "ad1b7d07adb45a833a97c4515b97cf79",
     "url": "/static/media/chickFlicks.ad1b7d07.jpg"
   },
@@ -548,8 +552,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/color.ff37a738.jpg"
   },
   {
+    "revision": "2f26dc4eae10ef1d571b1951199316bc",
+    "url": "/static/media/colorBridging1.2f26dc4e.jpg"
+  },
+  {
+    "revision": "5872d9b5c8a6a6c8563370f0b1a3db7b",
+    "url": "/static/media/colorBridging2.5872d9b5.jpg"
+  },
+  {
+    "revision": "cbcb83f942772bb401ea902fa3364623",
+    "url": "/static/media/colorBridging3.cbcb83f9.jpg"
+  },
+  {
     "revision": "54a4ce708258f02fd9ad44e8ffb7a918",
     "url": "/static/media/colorShadowGirl.54a4ce70.jpg"
+  },
+  {
+    "revision": "1f52eb86b817113c10de4497b6ef4bc6",
+    "url": "/static/media/colorTriad.1f52eb86.jpg"
   },
   {
     "revision": "d3f67b8702801f4f9d67c4b103f9b180",
@@ -724,6 +744,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/figure5.be724efd.jpg"
   },
   {
+    "revision": "e973b3086d8e00af041f668a13a8494e",
+    "url": "/static/media/finishedFigureDrawing.e973b308.jpg"
+  },
+  {
     "revision": "bad53eafa7b0eabe77fe00d509cbe9f7",
     "url": "/static/media/flipfoot.bad53eaf.jpg"
   },
@@ -794,6 +818,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6d3662460c3931921db6366535929c4a",
     "url": "/static/media/handCharcoal.6d366246.jpg"
+  },
+  {
+    "revision": "52c6e0748c9b0974f12e8419337b3eff",
+    "url": "/static/media/handRing.52c6e074.jpg"
   },
   {
     "revision": "ceccd38ac68fcc9b805db02f7e58ba1d",
@@ -888,6 +916,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/inkHair.6da90575.jpg"
   },
   {
+    "revision": "d2dcda1107e984563697ba116bb11038",
+    "url": "/static/media/inkHair.d2dcda11.jpg"
+  },
+  {
     "revision": "a821e9ce0789e0cc870dac606bf844e9",
     "url": "/static/media/jabberwocky.a821e9ce.jpg"
   },
@@ -896,12 +928,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jabberwocky.e1bde902.gif"
   },
   {
+    "revision": "5936d9db4f70204a1c5b960813dfe060",
+    "url": "/static/media/jackson.5936d9db.jpg"
+  },
+  {
     "revision": "dbde94515504c17d1d5977a2114e6f58",
     "url": "/static/media/jackson.dbde9451.jpg"
   },
   {
     "revision": "9ce3b97230e3b26e7cfb705681f86571",
     "url": "/static/media/jailbreak.9ce3b972.jpg"
+  },
+  {
+    "revision": "1f3d0f8482559dad96fa45a0ba495f0d",
+    "url": "/static/media/joker.1f3d0f84.jpg"
   },
   {
     "revision": "abeb0c4b8900a94b139a2aa36dab9970",
@@ -1022,6 +1062,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8bb31fc9043a308214a6756e611d4f7c",
     "url": "/static/media/onlineTextbooks.8bb31fc9.jpg"
+  },
+  {
+    "revision": "bc438d2dbe3592738448deddbd82eb2f",
+    "url": "/static/media/orangeCharcoal.bc438d2d.jpg"
   },
   {
     "revision": "ea591dcc2236810bd4d2b6e4766fd412",
@@ -1164,6 +1208,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/rococoLint_s.3456fbe5.jpg"
   },
   {
+    "revision": "ba7eec2467b9de32a57cdfedc2ca8892",
+    "url": "/static/media/s17_color.ba7eec24.pdf"
+  },
+  {
     "revision": "a6a45605ea986ff8567e4f656b97cd62",
     "url": "/static/media/saraBook.a6a45605.jpg"
   },
@@ -1172,12 +1220,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/saveTheDate.707bc9ec.jpg"
   },
   {
+    "revision": "720e87b0f640adbe78f4282e0ecd3ae1",
+    "url": "/static/media/selfColoredPencil.720e87b0.jpg"
+  },
+  {
     "revision": "b4f0405824ee0f78e7348a6747d09696",
     "url": "/static/media/selfPencil.b4f04058.jpg"
   },
   {
     "revision": "525425509c37c25ad10f3cd12f7cf54b",
     "url": "/static/media/sequoia.52542550.jpg"
+  },
+  {
+    "revision": "1729fbbc04737c04da780b9b6737e441",
+    "url": "/static/media/shell.1729fbbc.jpg"
   },
   {
     "revision": "f6ec1c7a9a313dc0e0017446dff85272",
@@ -1282,6 +1338,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "898a061a6cb1769cd22a53143293a52c",
     "url": "/static/media/starMap.898a061a.jpg"
+  },
+  {
+    "revision": "d0cd99065b32fd7c764158a206aab9b9",
+    "url": "/static/media/stillLife.d0cd9906.jpg"
   },
   {
     "revision": "971e8620fbb776594bd7a04a9b61c2b1",
@@ -1478,6 +1538,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a62f139e8fc52980b524a9a71b8d9718",
     "url": "/static/media/verdeSweetheart.a62f139e.jpg"
+  },
+  {
+    "revision": "8da4c92200735be2fd1ba56ea5259f08",
+    "url": "/static/media/warmCool.8da4c922.png"
   },
   {
     "revision": "3c73540e72589181fa659a04e7aa1fd9",

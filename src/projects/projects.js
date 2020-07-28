@@ -50,6 +50,19 @@ import { page as expiiGraphics } from './pages/expiiGraphics';
 import { page as jumoAchieve } from './pages/jumoAchieve';
 import { page as jumoGaucherActivity } from './pages/jumoGaucherActivity';
 import { page as goingForGold } from './pages/goingForGold';
+import { page as colorHair } from './pages/colorHair';
+import { page as colorBird } from './pages/colorBird';
+import { page as colorGirls } from './pages/colorGirls';
+import { page as joker } from './pages/joker';
+import { page as jackson } from './pages/jackson';
+import { page as selfColoredPencil } from './pages/selfColoredPencil';
+import { page as stillLifePencil } from './pages/stillLifePencil';
+import { page as inkHair } from './pages/inkHair';
+import { page as shell } from './pages/shell';
+import { page as handRing } from './pages/handRing';
+import { page as charcoalBust } from './pages/charcoalBust';
+import { page as orangeCharcoal } from './pages/orangeCharcoal';
+import { page as finishedFigureDrawing } from './pages/finishedFigureDrawing';
 
 
 
@@ -335,7 +348,7 @@ export const projects = {
 		title: `Father's Day e-Card`,
 		description: 'Adobe After Effects',
 		pic: `dadcard2.gif`,
-		page: dadeCard
+		page: 0
 	},
 
 	'whiteboard': {
@@ -473,13 +486,13 @@ export const projects = {
 	'inkHair': {
 		description: `Ink`,
 		pic: `inkHair.jpg`,
-		page: 0
+		page: inkHair
 	},
 
 	'joker': {
 		description: `Graphite`,
 		pic: `joker.jpg`,
-		page: 0
+		page: joker
 	},
 
 	'alyssa': {
@@ -491,43 +504,43 @@ export const projects = {
 	'jackson': {
 		description: `Graphite`,
 		pic: `jackson.jpg`,
-		page: 0
+		page: jackson
 	},
 
 	'selfPencil': {
 		description: `Colored pencil`,
 		pic: `selfPencil.jpg`,
-		page: 0
+		page: selfColoredPencil
 	},
 
 	'stillLifePencil': {
 		description: `Graphite`,
 		pic: `stillLifePencil.jpg`,
-		page: 0
+		page: stillLifePencil
 	},
 
 	'icyGirl': {
 		description: `Digital Color Study: Bridging`,
 		pic: `icyGirl.jpg`,
-		page: 0
+		page: colorGirls
 	},
 
 	'charcoal': {
 		description: `Charcoal`,
 		pic: `charcoal.jpg`,
-		page: 0
+		page: charcoalBust
 	},
 
 	'orangeDrawing': {
 		description: `Acrylic, charcoal`,
 		pic: `orangeDrawing.jpg`,
-		page: 0
+		page: orangeCharcoal
 	},
 
 	'colorShadowGirl': {
 		description: `Digital Color Study: Warm vs. Cool`,
 		pic: `colorShadowGirl.jpg`,
-		page: 0
+		page: colorHair
 	},
 
 	'figure1': {
@@ -557,25 +570,25 @@ export const projects = {
 	'figure5': {
 		description: `Charcoal`,
 		pic: `figure5.jpg`,
-		page: 0
+		page: finishedFigureDrawing
 	},
 
 	'shell': {
 		description: `Graphite`,
 		pic: `shell.jpg`,
-		page: 0
+		page: shell
 	},
 
 	'handCharcoal': {
 		description: `Charcoal`,
 		pic: `handCharcoal.jpg`,
-		page: 0
+		page: handRing
 	},
 
 	'birb': {
-		description: `Digital Color Study: Contrasting`,
+		description: `Digital Color Study: Triad`,
 		pic: `birb.jpg`,
-		page: 0
+		page: colorBird
 	},
 
 

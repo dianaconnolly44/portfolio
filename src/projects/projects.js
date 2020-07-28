@@ -78,7 +78,17 @@ import { page as selfWaterColor } from './pages/selfWaterColor';
 import { page as watertower } from './pages/watertower';
 import { page as wonkyBushes } from './pages/wonkyBushes';
 import { page as wonkyTongue } from './pages/wonkyTongue';
-
+import { page as darwin } from './pages/darwin';
+import { page as dreamBox } from './pages/dreamBox';
+import { page as hairGod } from './pages/hairGod';
+import { page as lifePool } from './pages/lifePool';
+import { page as migraine } from './pages/migraine';
+import { page as petri } from './pages/petri';
+import { page as phenotype } from './pages/phenotype';
+import { page as SEM } from './pages/SEM';
+import { page as spider } from './pages/spider';
+import { page as tattoo } from './pages/tattoo';
+import { page as theKeyToUs } from './pages/theKeyToUs';
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -750,6 +760,13 @@ export const projects = {
 
 //mixed media://
 
+	'spider': {
+		title: `Spider Brooch`,
+		description: `A clay sculpture mixing beauty and disgust`,
+		pic: `spider_s.png`,
+		page: spider
+	},
+
 	'flipfoot': {
 		title: `"Flipfoot"`,
 		description: `Flipbook illustrating the progression of CRPS`,
@@ -775,14 +792,14 @@ export const projects = {
 		title: `Petri Portraits`,
 		description: `A family portrait with my family members drawn in each of their bacteria`,
 		pic: `artBioPetri.jpg`,
-		page: 0
+		page: petri
 	},
 
 	'migraineGlasses': {
-		title: `Migraine Glasses`,
+		title: `Migraine Goggles`,
 		description: `Simulation of various migraine visual effects`,
 		pic: `migraine.jpg`,
-		page: 0
+		page: migraine
 	},
 
 	'104eyes': {
@@ -803,28 +820,28 @@ export const projects = {
 		title: `Phenotype vs. Genotype`,
 		description: `Illustrations and gene samples, contrasting people's similar phenotypes with their varying genotypes`,
 		pic: `phenotype.jpg`,
-		page: 0
+		page: phenotype
 	},
 
 	'hairGod': {
 		title: `Hair God`,
 		description: `A god-like being constructed of hair`,
 		pic: `hairGod.jpg`,
-		page: 0
+		page: hairGod
 	},
 
 	'dreamBox': {
 		title: `Dream Box`,
 		description: `Installation on the elusiveness of dreams`,
 		pic: `dreamBox.gif`,
-		page: 0
+		page: dreamBox
 	},
 
 	'ducks': {
 		title: `Duck's Bill(iard)`,
 		description: `A commentary on abuse of animals in research`,
 		pic: `ducks.jpg`,
-		page: 0
+		page: lifePool
 	},
 
 	'walkCycle': {
@@ -852,21 +869,21 @@ export const projects = {
 		title: `Anatomical Heart Tattoo`,
 		description: `A connect-the-dots tattoo of an anatomical heart diagram, over the location of the real heart`,
 		pic: `tattoo.jpg`,
-		page: 0
+		page: tattoo
 	},
 
 	'sugarBoxes': {
 		title: `The Key to Us`,
 		description: `An representation of the Lock and Key Theory in biology`,
 		pic: `sugarBoxes.jpg`,
-		page: 0
+		page: theKeyToUs
 	},
 
 	'blueWave': {
 		title: `Invisible Beauty`,
 		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
 		pic: `blueWave.jpg`,
-		page: 0
+		page: SEM
 	},
 
 	'darwinPortraits': {

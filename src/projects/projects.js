@@ -63,7 +63,21 @@ import { page as handRing } from './pages/handRing';
 import { page as charcoalBust } from './pages/charcoalBust';
 import { page as orangeCharcoal } from './pages/orangeCharcoal';
 import { page as finishedFigureDrawing } from './pages/finishedFigureDrawing';
-
+import { page as boobs } from './pages/boobs';
+import { page as botanical } from './pages/botanical';
+import { page as dissectingSelf } from './pages/dissectingSelf';
+import { page as lintBig } from './pages/lintBig';
+import { page as lintSmall } from './pages/lintSmall';
+import { page as paintFigure } from './pages/paintFigure';
+import { page as pig } from './pages/pig';
+import { page as plane } from './pages/plane';
+import { page as retina } from './pages/retina';
+import { page as selfAcrylic } from './pages/selfAcrylic';
+import { page as selfGouache } from './pages/selfGouache';
+import { page as selfWaterColor } from './pages/selfWaterColor';
+import { page as watertower } from './pages/watertower';
+import { page as wonkyBushes } from './pages/wonkyBushes';
+import { page as wonkyTongue } from './pages/wonkyTongue';
 
 
 
@@ -598,21 +612,21 @@ export const projects = {
 		title: `Uncanny`,
 		description: `Intersection of breasts and seashells, oil`,
 		pic: `boobs_s.jpg`,
-		page: 0
+		page: boobs
 	},
 
 	'dissect': {
 		title: `Dissecting Myself`,
 		description: `Insect pinning a self portrait, acrylic`,
 		pic: `dissect_s.jpg`,
-		page: 0
+		page: dissectingSelf
 	},
 
 	'eye': {
 		title: `Retinal Embossing`,
 		description: `Gold-embossed portrait of a retina, oil`,
 		pic: `eye_s.jpg`,
-		page: 0
+		page: retina
 	},
 
 	'huesGrid': {
@@ -626,14 +640,14 @@ export const projects = {
 		title: `Untitled`,
 		description: `Mixed media`,
 		pic: `wonky1.jpg`,
-		page: 0
+		page: wonkyTongue
 	},
 
 	'wonky2': {
 		title: `Look Me in the Eye`,
 		description: `Mixed media`,
 		pic: `wonky2.jpg`,
-		page: 0
+		page: wonkyBushes
 	},
 
 	'jesusme': {
@@ -647,14 +661,14 @@ export const projects = {
 		title: `Rococo Lint, 1`,
 		description: `Dryer lint as paint`,
 		pic: `Lint_s.jpg`,
-		page: 0
+		page: lintSmall
 	},
 
 	'botanical1': {
 		title: `Botanical Self Portraits`,
 		description: `Plants from the places I have lived,  watercolor & colored pencil`,
 		pic: `sequoia.jpg`,
-		page: 0
+		page: botanical
 	},
 
 	'botanical2': {
@@ -680,58 +694,58 @@ export const projects = {
 
 	'model': {
 		title: `Untitled`,
-		description: `Figure, oil`,
+		description: `Figure study, oil`,
 		pic: `model_s.jpg`,
-		page: 0
+		page: paintFigure
 	},
 
 	'plane': {
 		title: `Untitled`,
 		description: `Inspired by the sky, acrylic`,
 		pic: `plane_s.jpg`,
-		page: 0
+		page: plane
 	},
 
 	'rococoLint': {
 		title: `Rococo Lint, 2`,
 		description: `Dryer lint as paint`,
 		pic: `rococoLint_s.jpg`,
-		page: 0
+		page: lintBig
 	},
 
 	'young2': {
 		title: `Untitled`,
 		description: `Self portrait, oil`,
 		pic: `young1_v2.jpg`,
-		page: 0
+		page: selfAcrylic
 	},
 
 	'young4': {
 		title: `Untitled`,
 		description: `Self portrait, watercolor`,
 		pic: `young4_s.jpg`,
-		page: 0
+		page: selfWaterColor
 	},
 
 	'young5': {
 		title: `Untitled`,
 		description: `Self portrait, gouache`,
 		pic: `young5_s.jpg`,
-		page: 0
+		page: selfGouache
 	},
 
 	'young7': {
 		title: `Untitled`,
 		description: `Oil`,
 		pic: `young7_s.jpg`,
-		page: 0
+		page: watertower
 	},
 
 	'young8': {
 		title: `American Pig`,
 		description: `Acrylic`,
 		pic: `young8_s.jpg`,
-		page: 0
+		page: pig
 	},
 
 //mixed media://

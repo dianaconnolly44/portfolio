@@ -26,13 +26,13 @@ export const page = (
     
     <div className="imgs max900">
             <div>
-                <img src={require('../assets/tobiiIcons/hospital/hosp1.jpg')} />
+                <img src={require('../assets/tobiiIcons/hospital/hospitalGrid-01.jpg')} />
             </div>
         </div>
 
      <div className="imgs max900">
             <div>
-                <img src={require('../assets/tobiiIcons/hospital/hosp2.jpg')} />
+                <img src={require('../assets/tobiiIcons/hospital/hospitalGrid-02.jpg')} />
             </div>
         </div>
 

@@ -219,7 +219,7 @@ const menu = [
 				projects: [
 					'104eyes',
 					'104bodies',
-					
+					'codeCity',
 					'walkCycle',
 					'paddleBall',
 					'oppositeBalls',

@@ -89,6 +89,19 @@ import { page as SEM } from './pages/SEM';
 import { page as spider } from './pages/spider';
 import { page as tattoo } from './pages/tattoo';
 import { page as theKeyToUs } from './pages/theKeyToUs';
+import { page as codeRaiseToWake } from './pages/codeRaiseToWake';
+import { page as codeRandomizedFaces } from './pages/codeRandomizedFaces';
+import { page as codeCity } from './pages/codeCity';
+import { page as flipfoot } from './pages/flipfoot';
+import { page as expiiFlyer } from './pages/expiiFlyer';
+import { page as expiiSpark } from './pages/expiiSpark';
+import { page as tobiiShirt } from './pages/tobiiShirt';
+import { page as verdeShirt } from './pages/verdeShirt';
+import { page as starMaps } from './pages/starMaps';
+import { page as saveTheDate } from './pages/saveTheDate';
+import { page as WES } from './pages/WES';
+import { page as snellen } from './pages/snellen';
+
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -760,6 +773,13 @@ export const projects = {
 
 //mixed media://
 
+	'codeCity': {
+		title: `City Scape`,
+		description: `A city scene with randomized clouds, cars, and planes`,
+		pic: `codeCity.gif`,
+		page: codeCity
+	},
+
 	'spider': {
 		title: `Spider Brooch`,
 		description: `A clay sculpture mixing beauty and disgust`,
@@ -771,7 +791,7 @@ export const projects = {
 		title: `"Flipfoot"`,
 		description: `Flipbook illustrating the progression of CRPS`,
 		pic: `flipfoot.jpg`,
-		page: 0
+		page: flipfoot
 	},
 
 	'spaceArt': {
@@ -806,14 +826,14 @@ export const projects = {
 		title: `Raise to Wake`,
 		description: `Wake your monster by raising the sun and lowering the moon`,
 		pic: `104eyes.gif`,
-		page: 0
+		page: codeRaiseToWake
 	},
 
 	'104faces': {
 		title: `Randomized Faces`,
 		description: `Randomized permutations of facial features with mouse click`,
 		pic: `104faces.gif`,
-		page: 0
+		page: codeRandomizedFaces
 	},
 
 	'phenotype': {
@@ -899,21 +919,21 @@ export const projects = {
 		title: `Branding: "Project Spark"`,
 		description: `Branding design for a company's product campaign`,
 		pic: `sparkBranding.jpg`,
-		page: 0
+		page: expiiSpark
 	},
 
 	'expiiFlyer': {
 		title: `Company Flyer: Expii`,
 		description: `A promotional flyer to gain recognition for an online learning website`,
 		pic: `expiiFlyer.jpg`,
-		page: 0
+		page: expiiFlyer
 	},
 
 	'saveTheDate': {
 		title: `Save the Date Postcards`,
 		description: `Postcard-style save the dates for a wedding`,
 		pic: `saveTheDate.jpg`,
-		page: 0
+		page: saveTheDate
 	},
 
 	'postcards': {
@@ -927,7 +947,7 @@ export const projects = {
 		title: `Personalized Snellen Chart`,
 		description: `Personalized Snellen Chart for my ophthalmologist mom on Mother's Day`,
 		pic: `snellen.jpg`,
-		page: 0
+		page: snellen
 	},
 
 	'CIAJ': {
@@ -941,14 +961,14 @@ export const projects = {
 		title: `Star Maps`,
 		description: `A print including a map of the stars at certain dates and locations`,
 		pic: `starMap.jpg`,
-		page: 0
+		page: starMaps
 	},
 
 	'tobiiShirt': {
 		title: `Shirt Design: ALS Walk`,
 		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
 		pic: `tobiiShirt.jpg`,
-		page: 0
+		page: tobiiShirt
 	},
 
 	'pirateShirt': {
@@ -962,7 +982,7 @@ export const projects = {
 		title: `Shirt Design: Verde Magazine`,
 		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
 		pic: `verdeShirt.jpg`,
-		page: 0
+		page: verdeShirt
 	},
 
 	'infographics': {
@@ -976,7 +996,7 @@ export const projects = {
 		title: `InDesign e-Guides`,
 		description: `Career e-guides built out in InDesign for W.E.S.`,
 		pic: `wes-01.jpg`,
-		page: 0
+		page: WES
 	},
 
 //craft//

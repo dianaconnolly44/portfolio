@@ -858,7 +858,7 @@ export const projects = {
 	},
 
 	'ducks': {
-		title: `Duck's Bill(iard)`,
+		title: `Life Pool`,
 		description: `A commentary on abuse of animals in research`,
 		pic: `ducks.jpg`,
 		page: lifePool

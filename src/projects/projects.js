@@ -101,6 +101,14 @@ import { page as starMaps } from './pages/starMaps';
 import { page as saveTheDate } from './pages/saveTheDate';
 import { page as WES } from './pages/WES';
 import { page as snellen } from './pages/snellen';
+import { page as resin } from './pages/resin';
+import { page as nailArt } from './pages/nailArt';
+import { page as paperFlowers } from './pages/paperFlowers';
+import { page as urn } from './pages/urn';
+import { page as bathSalts } from './pages/bathSalts';
+import { page as dadCo } from './pages/dadCo';
+import { page as soaps } from './pages/soaps';
+import { page as greetingCards } from './pages/greetingCards';
 
 
 
@@ -1005,7 +1013,7 @@ export const projects = {
 		title: `Paper Flowers`,
 		description: `Handmade large and small decorative paper flowers`,
 		pic: `paperFlowers.jpg`,
-		page: 0
+		page: paperFlowers
 	},
 
 'punkNecklace': {
@@ -1018,8 +1026,8 @@ export const projects = {
 'dadCo': {
 		title: `"Dad Co" Shirt and Album`,
 		description: `Handmade shirt decal and a spoof of Bad Company's album cover with my dad's face on it`,
-		pic: `dadCo.jpg`,
-		page: 0
+		pic: `dadCo_v2.jpg`,
+		page: dadCo
 	},
 
 'soaps': {
@@ -1030,17 +1038,17 @@ export const projects = {
 	},
 
 'urn': {
-		title: `Clay Dog Urn`,
+		title: `Clay Pet Urn`,
 		description: `Small clay urn created with love for my dog, Pal`,
 		pic: `urn.jpg`,
-		page: 0
+		page: urn
 	},
 
 'blueSoap': {
 		title: `Handmade Soaps`,
 		description: `Soap bars with varying looks, scents, and dermatologic properties`,
 		pic: `blueSoap.jpg`,
-		page: 0
+		page: soaps
 	},
 
 'saraBook': {
@@ -1054,7 +1062,7 @@ export const projects = {
 		title: `Floral Bath Salts`,
 		description: `Homemade lavendar and rose bath salts`,
 		pic: `bathSalts.jpg`,
-		page: 0
+		page: bathSalts
 	},
 
 'cal': {
@@ -1068,7 +1076,7 @@ export const projects = {
 		title: `Resin Bookmarks`,
 		description: `Dried flowers suspended in resin to make varying bookmarks`,
 		pic: `resinBookmarks.jpg`,
-		page: 0
+		page: resin
 	},
 
 'momPillow': {
@@ -1082,7 +1090,7 @@ export const projects = {
 		title: `Greeting Cards`,
 		description: `Collection of drawn and paper-cutout cards`,
 		pic: `greetingCards.jpg`,
-		page: 0
+		page: greetingCards
 	},
 
 'nail-pier': {
@@ -1096,7 +1104,7 @@ export const projects = {
 		title: `Nail Art`,
 		description: `Collection of nail polish art done on myself and others`,
 		pic: `nail-nyc.jpg`,
-		page: 0
+		page: nailArt
 	},
 
 'nail-tiger': {

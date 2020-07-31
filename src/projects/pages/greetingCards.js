@@ -9,7 +9,19 @@ export const page = (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../gallery/greetingCards.jpg')} />
+            <img src={require('../assets/craft/cards/sara.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/craft/cards/dad.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/craft/cards/mom.jpeg')} />
         </div>
     </div>
 

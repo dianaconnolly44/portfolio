@@ -109,6 +109,13 @@ import { page as bathSalts } from './pages/bathSalts';
 import { page as dadCo } from './pages/dadCo';
 import { page as soaps } from './pages/soaps';
 import { page as greetingCards } from './pages/greetingCards';
+import { page as CIAJ } from './pages/CIAJ';
+import { page as infographics } from './pages/infographics';
+import { page as postcards } from './pages/postcards';
+import { page as calendar } from './pages/calendar';
+import { page as blackboardAframe } from './pages/blackboardAframe';
+import { page as blackboardBanner } from './pages/blackboardBanner';
+
 
 
 
@@ -948,7 +955,7 @@ export const projects = {
 		title: `Marketing Postcards`,
 		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
 		pic: `postcards.jpg`,
-		page: 0
+		page: postcards
 	},
 
 	'snellen': {
@@ -962,7 +969,7 @@ export const projects = {
 		title: `Event Flyers: Workshops`,
 		description: `Flyer for a cancer patient's workshop to personify and mentally separate from one's cancer`,
 		pic: `CIAJflyers.jpg`,
-		page: 0
+		page: CIAJ
 	},
 
 	'starMap': {
@@ -997,7 +1004,7 @@ export const projects = {
 		title: `Infographics`,
 		description: `A collection of infographics on medical topics`,
 		pic: `mps1.jpg`,
-		page: 0
+		page: infographics
 	},
 
 	'indesign': {
@@ -1069,7 +1076,7 @@ export const projects = {
 		title: `Dry Erase Calendar`,
 		description: `Calendar made from color swatches and a frame`,
 		pic: `cal.jpg`,
-		page: 0
+		page: calendar
 	},
 
 'resinBookmarks': {
@@ -1141,7 +1148,7 @@ export const projects = {
 		title: `A-Frame Sign Designs`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board1.jpg`,
-		page: 0
+		page: blackboardAframe
 	},
 
 'lettering-board2': {
@@ -1190,7 +1197,7 @@ export const projects = {
 		title: `Advertisement Designs`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign2.jpg`,
-		page: 0
+		page: blackboardBanner
 	},
 
 'lettering-sign3': {

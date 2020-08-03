@@ -152,12 +152,14 @@ const menu = [
 					'charcoal',
 					'orangeDrawing',
 					
-					'inkHair',
-					'figure4',
+					
 					'figure5',
-					'figure1',
-					'figure2',
 					'figure3',
+					'inkHair',
+					//'figure4',
+					//'figure1',
+					//'figure2',
+					
 				]
 			},
 

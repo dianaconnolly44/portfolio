@@ -7,9 +7,9 @@ export const page = (
     <h1> Charcoal Figure Drawing </h1>
 
     
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
-            <img src={require('../assets/drawing/finishedFigureDrawing.jpg')} />
+            <img src={require('../assets/drawing/figure1_v2.jpg')} />
         </div>
     </div>
 

@@ -119,6 +119,11 @@ import { page as elikidsFont } from './pages/elikidsFont';
 import { page as alienCallig } from './pages/alienCallig';
 import { page as latinCallig } from './pages/latinCallig';
 import { page as jabberwocky } from './pages/jabberwocky';
+import { page as momPillow } from './pages/momPillow';
+import { page as saraBook } from './pages/saraBook';
+import { page as punkNecklace } from './pages/punkNecklace';
+import { page as alyssa } from './pages/alyssa';
+import { page as figureSketch } from './pages/figureSketch';
 
 
 
@@ -554,7 +559,7 @@ export const projects = {
 	'alyssa': {
 		description: `Graphite`,
 		pic: `alyssa.jpg`,
-		page: 0
+		page: alyssa
 	},
 
 	'jackson': {
@@ -614,7 +619,7 @@ export const projects = {
 	'figure3': {
 		description: `Charcoal`,
 		pic: `figure3.jpg`,
-		page: 0
+		page: figureSketch
 	},
 
 	'figure4': {
@@ -1031,7 +1036,7 @@ export const projects = {
 		title: `Jewelry`,
 		description: `Collection of handmade jewelry`,
 		pic: `punkNecklace.jpg`,
-		page: 0
+		page: punkNecklace
 	},
 
 'dadCo': {
@@ -1066,7 +1071,7 @@ export const projects = {
 		title: `Photo Album`,
 		description: `Handmade photo album for a bachelorette trip`,
 		pic: `saraBook.jpg`,
-		page: 0
+		page: saraBook
 	},
 
 'bathSalts': {
@@ -1094,7 +1099,7 @@ export const projects = {
 		title: `Watercolor Pillow`,
 		description: `A throw pillow with a watercolor effect painted`,
 		pic: `momPillow.jpg`,
-		page: 0
+		page: momPillow
 	},
 
 'greetingCards': {

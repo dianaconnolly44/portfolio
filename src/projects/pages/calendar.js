@@ -6,15 +6,33 @@ export const page = (
     
     <h1> Dry Erase Calendar </h1>
 
-    
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/craft/cal/may.jpeg')} />
+            <img src={require('../assets/craft/cal/august.jpg')} />
         </div>
         <div>
             <img src={require('../assets/craft/cal/june.jpeg')} />
         </div>
     </div>
+
+    <div className="imgs max700">
+        <div>
+            <img src={require('../assets/craft/cal/may.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/craft/cal/april.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max700">
+        <div>
+            <img src={require('../assets/craft/cal/march.jpeg')} />
+        </div>
+
+    </div>
+    
+
+    
 
     
     

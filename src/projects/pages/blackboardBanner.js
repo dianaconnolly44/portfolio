@@ -6,6 +6,20 @@ export const page = (
     
     <h1> Advertisement Designs </h1>
 
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/banner/vday1.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/lettering/banner/vday2.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max500">
+        <div>
+            <img src={require('../assets/lettering/banner/vday3.jpeg')} />
+        </div>
+    </div>
     
     <div className="imgs max800">
         <div>
@@ -15,6 +29,17 @@ export const page = (
             <img src={require('../assets/lettering/banner/craftIrish.jpeg')} />
         </div>
     </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/banner/craftEgg.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/lettering/banner/craftLove.jpeg')} />
+        </div>
+    </div>
+
+    
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

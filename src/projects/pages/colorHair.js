@@ -14,8 +14,8 @@ export const page = (
     </div>
 
     <p>I created this illustration during my art studies at Carnegie 
-    Mellon University in the course 
-    <a target="_blank" href={require('../assets/drawing/s17_color.pdf')}>60-452</a>, "Advanced DP3: Color Studio". The 
+    Mellon University in the course <a target="_blank" href={require('../assets/drawing/s17_color.pdf')}>60-452</a>, 
+    "Advanced DP3: Color Studio". The 
     assignment was to use hue and saturation effects to create a sense of spatial depth 
     within a restricted value range. I utilitized warm verses cool tones to help add 
     a sense of shadow and light in the girl's room, helping it to feel three dimensional.</p>

@@ -67,20 +67,8 @@ export const page = (
             
     </div>
     
-    <div className="imgs max500">
-            <div>
-                <img src={require('../assets/hotspots/autoimmune.jpg')} />
-            </div>
-            <div>
-                <img src={require('../assets/hotspots/bloodPressure.jpg')} />
-            </div>
-            <div>
-                <img src={require('../assets/hotspots/calcium.jpg')} />
-            </div>
-            <div>
-                <img src={require('../assets/hotspots/languages.jpg')} />
-            </div>
-    </div>
+<br/>
+<br/>
     
 
 
@@ -89,3 +77,21 @@ export const page = (
 
   </div>
 )
+
+
+
+
+//    <div className="imgs max500">
+//            <div>
+//                <img src={require('../assets/hotspots/autoimmune.jpg')} />
+//            </div>
+//            <div>
+//                <img src={require('../assets/hotspots/bloodPressure.jpg')} />
+//            </div>
+//            <div>
+//                <img src={require('../assets/hotspots/calcium.jpg')} />
+//            </div>
+//            <div>
+//                <img src={require('../assets/hotspots/languages.jpg')} />
+//            </div>
+ //   </div>

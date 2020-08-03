@@ -9,10 +9,55 @@ export const page = (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/Aframe/june2020_2.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/june2020_1.jpeg')} />
         </div>
         <div>
-            <img src={require('../assets/lettering/Aframe/june2020_1.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/june2020_2.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/Aframe/wedding2.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/lettering/Aframe/spring2.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/Aframe/july2020.jpg')} />
+        </div>
+        <div>
+            <img src={require('../assets/lettering/Aframe/vday1.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/Aframe/sale1.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/lettering/Aframe/psPerks3.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/Aframe/leaf2.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/lettering/Aframe/bogo.jpeg')} />
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/Aframe/opening1.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/lettering/Aframe/opening3.jpeg')} />
         </div>
     </div>
 

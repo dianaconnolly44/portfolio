@@ -36,7 +36,6 @@ export const page = (
             </div>
         </div>
 
-    
 
 
 

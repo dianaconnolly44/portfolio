@@ -115,6 +115,10 @@ import { page as postcards } from './pages/postcards';
 import { page as calendar } from './pages/calendar';
 import { page as blackboardAframe } from './pages/blackboardAframe';
 import { page as blackboardBanner } from './pages/blackboardBanner';
+import { page as elikidsFont } from './pages/elikidsFont';
+import { page as alienCallig } from './pages/alienCallig';
+import { page as latinCallig } from './pages/latinCallig';
+import { page as jabberwocky } from './pages/jabberwocky';
 
 
 
@@ -1145,9 +1149,9 @@ export const projects = {
 //lettering//
 
 'lettering-board1': {
-		title: `A-Frame Sign Designs`,
+		title: `Chalkboard A-Frame Signs`,
 		description: `Chalk on blackboard`,
-		pic: `lettering-board1.jpg`,
+		pic: `lettering-board1_v2.jpg`,
 		page: blackboardAframe
 	},
 
@@ -1194,7 +1198,7 @@ export const projects = {
 	},
 
 'lettering-sign2': {
-		title: `Advertisement Designs`,
+		title: `Chalkboard Banners`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign2.jpg`,
 		page: blackboardBanner
@@ -1217,22 +1221,22 @@ export const projects = {
 'jabberwocky': {
 		title: `"The Jabberwocky" Calligraphy Book`,
 		description: `Ink, using nibs: C2, B2, pointed #56`,
-		pic: `jabberwocky.gif`,
-		page: 0
+		pic: `jabberwocky.jpg`,
+		page: jabberwocky
 	},
 
 'lettering-cmu1': {
 		title: `Alien Calligraphy`,
 		description: `Ink, using B2 nib`,
 		pic: `lettering-cmu1.jpg`,
-		page: 0
+		page: alienCallig
 	},
 
 'lettering-cmu2': {
 		title: `Latin Calligraphy`,
 		description: `Ink, using C2 nib`,
 		pic: `lettering-cmu2.jpg`,
-		page: 0
+		page: latinCallig
 	},
 
 'lettering-cmu3': {
@@ -1246,7 +1250,7 @@ export const projects = {
 		title: `Children's Book Font`,
 		description: `Digital`,
 		pic: `kidFont.jpg`,
-		page: 0
+		page: elikidsFont
 	},
 
 }

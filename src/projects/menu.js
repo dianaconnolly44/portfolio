@@ -281,29 +281,16 @@ const menu = [
 				id: 'lettering',
 				label: 'Lettering',
 				projects: [
+					'lettering-board1',
+					'lettering-sign2',
+					'kidFont',
 					'lettering-cmu2',
 					'lettering-cmu1',
 					'jabberwocky',
-					'kidFont',
-					'lettering-board1',
-					
-					'lettering-sign2',
 					
 					
 					'lettering-letter1',
-					
-					//'lettering-sign3',
-					'lettering-sign1',
-					//'lettering-cmu3',
-					//'lettering-board4',
-					//'lettering-board3',
-					//'lettering-board2',
-					
-					//'lettering-board5',
-					//'lettering-board6',
-					
-					
-					
+					'cal',
 				]
 			},
 		]

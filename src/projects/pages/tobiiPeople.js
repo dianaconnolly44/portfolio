@@ -25,12 +25,7 @@ export const page = (
     <p>For this project, I added to the collection of people-themed thinline icons. These were added to the library of icons used in general discussion topics. See a selection of my people-themed thinlines below.</p>
     <div className="imgs max900">
         <div>
-            <img src={require('../assets/tobiiIcons/people/peopleGrid-01.jpg')} />
-        </div>
-    </div>
-    <div className="imgs max700">
-        <div>
-            <img src={require('../assets/tobiiIcons/people/peopleGrid-02.jpg')} />
+            <img src={require('../assets/tobiiIcons/people/peopleGrid-01_v2.jpg')} />
         </div>
     </div>
 

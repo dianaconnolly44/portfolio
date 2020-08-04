@@ -73,7 +73,7 @@ export const page = (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/4/doubleStickers.jpg')} />
+            <img src={require('../assets/capstone/versions/4/singleStickers.jpg')} />
             <p>Prayer icon library</p>
         </div>
         <div>
@@ -155,17 +155,17 @@ export const page = (
     <p>This book was separated by: 1) a cover image to express the topic of the book, 2) an instruction page to express the intended use, 
     3) one page per each section of the ceremony, and 4) a sheet of stickers, in order, for each prayer that would occur.</p>
  
- <div className="imgs max200">
+ <div className="imgs max300">
         <div>
             <img src={require('../assets/capstone/versions/4/print1.jpg')} />
             <p>Cover page</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/4/doubleStickers.jpg')} />
+            <img src={require('../assets/capstone/versions/4/singleStickers.jpg')} />
             <p>Prayer icon stickers</p>
         </div>
     </div>
-     <div className="imgs max200">
+     <div className="imgs max300">
         <div>
             <img src={require('../assets/capstone/versions/4/print2.jpg')} />
             <p>Instruction page, noting to place stickers on their respective spots</p>

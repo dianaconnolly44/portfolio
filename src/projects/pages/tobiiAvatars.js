@@ -17,8 +17,35 @@ export const page = (
     <p>During my time as Graphic Artist Intern, one task I worked on was adding to the library of communication symbols made for AAC devices. These symbols are accessed by users on their devices through means of touch screen or eye-tracking recognition. Once a symbol is selected, the device speaks the word or phrase for the user, thus enabling the user to participate in verbal communication even if they do not personally have the ability to do so (e.g. individuals with ALS or non-verbal ASD).</p>
     <br />
     <h2> Project:</h2>
-    <p>For this project, I added to the company’s collection of avatars, following the Graphic Arts department’s pre-existing style. These avatars are implemented by AAC device users to represent specific people, such as their speech therapists and teachers. Thus, I was supplied with photos of certain individuals to create avatars. See a selection of my works below.</p>
+    <p>For this project, I added to the company’s collection of avatars, following the Graphic Arts department’s pre-existing style. These avatars are implemented by AAC device users to represent specific people, such as their speech therapists and teachers. Example avatars are shown below.</p>
+    
     <div className="imgs max500">
+            <div>
+                <img src={require('../assets/tobiiIcons/avatars/demo1.jpg')} />
+            </div>
+            <div>
+                <img src={require('../assets/tobiiIcons/avatars/demo2.jpg')} />
+            </div>
+            <div>
+                <img src={require('../assets/tobiiIcons/avatars/demo3.jpg')} />
+            </div>
+            <div>
+                <img src={require('../assets/tobiiIcons/avatars/demo4.jpg')} />
+            </div>
+    </div>
+
+    <h2> Process:</h2>
+    <p>To make an avatar, I was supplied with real-life photographs of the people intended to become avatars. I used these photos to 
+    design avatars that looked like the real-life person as well as followed the style of the pre-existing avatars.</p>
+    <div className="imgs max500">
+            <div>
+                <img src={require('../assets/tobiiIcons/avatars/avatarDemo.jpg')} />
+            </div>
+    </div>    
+
+    <h2> Final:</h2>
+    <p>Below is a selection of the avatars I created.</p>
+    <div className="imgs max600">
             <div>
                 <img src={require('../assets/tobiiIcons/avatars/avatarAmy.jpg')} />
             </div>

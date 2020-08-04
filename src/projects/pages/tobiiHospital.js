@@ -24,20 +24,22 @@ export const page = (
     <h2> Project:</h2>
     <p>For this project, I was tasked with creating a collection of hospital-related vocabulary symbols, in the classic symbol style. See a selection of my works below.</p>
     
-    <div className="imgs max900">
+    <div className="imgs max500">
             <div>
-                <img src={require('../assets/tobiiIcons/hospital/hospitalGrid-01.jpg')} />
+                <img src={require('../assets/tobiiIcons/hospital/hospitalGrid-03.jpg')} />
             </div>
         </div>
 
-     <div className="imgs max900">
+    <div className="imgs max500">
             <div>
-                <img src={require('../assets/tobiiIcons/hospital/hospitalGrid-02.jpg')} />
+                <img src={require('../assets/tobiiIcons/hospital/hospitalGrid-04.jpg')} />
             </div>
         </div>
 
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

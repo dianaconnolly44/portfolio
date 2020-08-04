@@ -124,6 +124,7 @@ import { page as saraBook } from './pages/saraBook';
 import { page as punkNecklace } from './pages/punkNecklace';
 import { page as alyssa } from './pages/alyssa';
 import { page as figureSketch } from './pages/figureSketch';
+import { page as planetTactilus } from './pages/planetTactilus';
 
 
 
@@ -812,17 +813,17 @@ export const projects = {
 	},
 
 	'flipfoot': {
-		title: `"Flipfoot"`,
+		title: `"Flipfoot" Flipbook`,
 		description: `Flipbook illustrating the progression of CRPS`,
 		pic: `flipfoot.jpg`,
 		page: flipfoot
 	},
 
 	'spaceArt': {
-		title: `Planet Tactilus`,
+		title: `"Planet Tactilus" Interactive Installation`,
 		description: `A simulation where tactile perception is experienced through auditory perception`,
 		pic: `spaceArt.jpg`,
-		page: 0
+		page: planetTactilus
 	},
 
 	'104bodies': {
@@ -861,28 +862,28 @@ export const projects = {
 	},
 
 	'phenotype': {
-		title: `Phenotype vs. Genotype`,
+		title: `"Phenotype vs. Genotype"`,
 		description: `Illustrations and gene samples, contrasting people's similar phenotypes with their varying genotypes`,
 		pic: `phenotype.jpg`,
 		page: phenotype
 	},
 
 	'hairGod': {
-		title: `Hair God`,
-		description: `A god-like being constructed of hair`,
+		title: `"Hair God"`,
+		description: `A god-like structure constructed of hair`,
 		pic: `hairGod.jpg`,
 		page: hairGod
 	},
 
 	'dreamBox': {
-		title: `Dream Box`,
+		title: `"Dream Box"`,
 		description: `Installation on the elusiveness of dreams`,
 		pic: `dreamBox.gif`,
 		page: dreamBox
 	},
 
 	'ducks': {
-		title: `Life Pool`,
+		title: `"Life Pool"`,
 		description: `A commentary on abuse of animals in research`,
 		pic: `ducks.jpg`,
 		page: lifePool
@@ -917,14 +918,14 @@ export const projects = {
 	},
 
 	'sugarBoxes': {
-		title: `The Key to Us`,
+		title: `"The Key to Us"`,
 		description: `An representation of the Lock and Key Theory in biology`,
 		pic: `sugarBoxes.jpg`,
 		page: theKeyToUs
 	},
 
 	'blueWave': {
-		title: `Invisible Beauty`,
+		title: `"Invisible Beauty"`,
 		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
 		pic: `blueWave.jpg`,
 		page: SEM
@@ -933,8 +934,8 @@ export const projects = {
 	'darwinPortraits': {
 		title: `Darwinian Portraits`,
 		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
-		pic: `darwinPortraits2.gif`,
-		page: 0
+		pic: `darwin_s copy.png`,
+		page: darwin
 	},
 
 //graphic design//

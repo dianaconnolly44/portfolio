@@ -14,7 +14,13 @@ export const page = (
         
     </div>
     
-
+    <p>I created this piece during my art studies at Carnegie 
+    Mellon University in the course <a target="_blank" href={require('../assets/mixedMedia/imaging_Syllabus.pdf')}>60-160</a>, "2D Media   
+    Studio: Imaging". The assignment was to design an image for a tattoo, using the location on the body as an influence for the shape and 
+    contents of the tattoo itself. Being interested in biology, I decided to create a tattoo of an anatomical heart, above where one's 
+    actual heart exists. I also decided to make the tattoo have a fun and interactive element, making a "connect the dots" tattoo, for 
+    people to draw out the anatomical heart themselves.</p>
+    
 
     <div className="imgs max600">
         <div>

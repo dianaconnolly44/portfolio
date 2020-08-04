@@ -13,6 +13,15 @@ export const page = (
         </div>
     </div>
 
+    <p>I created this piece during my interdisciplinary studies at Carnegie 
+    Mellon University in the course <a href="https://www.phipps.conservatory.org/" target="_blank">52-392</a>, "BXA Seminar III: Deconstructing Disciplines". 
+    This class was focused on the examination of different disciplines and where they may cross over. For my final project, 
+    I wanted to further explore my interdisciplinary topic of beauty verses disgust. These are both psychological reactions one 
+    has to stimulation such as visual input. To explore this topic, I wanted to create a sculpture that invoked both feelings of 
+    beauty and disgust by using the visual of a spider, a form that triggers disgust for many humans, but make it beautiful by 
+    mimicking a decorative brooch. Thus, I created a "spider brooch".</p>
+
+
     <div className="imgs max800">
         <div>
             <img src={require('../assets/mixedMedia/spider/2.png')} />

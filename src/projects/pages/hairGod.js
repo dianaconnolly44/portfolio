@@ -7,13 +7,21 @@ export const page = (
     <h1> Hair God </h1>
 
 
-    <div className="imgs max800">
+    <div className="imgs max700">
         <div>
             <img src={require('../assets/mixedMedia/hairGod/3.jpg')} />
         </div>
     </div>
+
+    <p>I created this interactive art piece during my art studies at Carnegie 
+    Mellon University in the course <a target="_blank" href={require('../assets/mixedMedia/imaging_Syllabus.pdf')}>60-160</a>, "2D Media   
+    Studio: Imaging". The assignment was to create an object to instill in the viewer a sense of a god-like being or structure. I 
+    have a fascination with humankind's obsession over hair, e.g. what is too much, what is too little, how beauty is defined by long 
+    hair, and how some people even pay to wear other humans' hair. Thus, I collected hair pieces from a local beauty store and began 
+    constructing a "hair god" structure, one that was the ultimate long-hair being, sitting and ready for the audience to touch and 
+    interact with it.</p>
     
-    <div className="imgs max500">
+    <div className="imgs max600">
         <div>
             <img src={require('../assets/mixedMedia/hairGod/1.jpg')} />
         </div>

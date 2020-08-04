@@ -7,11 +7,22 @@ export const page = (
     <h1> Invisible Beauty </h1>
 
     
-    <div className="imgs max800">
+    <div className="imgs max700">
         <div>
-            <img src={require('../assets/mixedMedia/SEM/blueWave.jpg')} />
+            <img src={require('../assets/mixedMedia/SEM/blueSeed.jpg')} />
         </div>
     </div>
+
+    <p>I created this piece during my art studies at Carnegie 
+    Mellon University in the course <a target="_blank" href={require('../assets/mixedMedia/artBio_syllabus.pdf')}>60-358</a>, "Art and Biology". 
+    This class was focused on the intersection between the two areas of study, and for one of the class projects, we were 
+    granted access to the Mellon College of Science's <a href="https://www.cmu.edu/engineering/materials/facilities/roberts_suite/electron_microscopy_facilities/microscope/fei-quanta_600-feg-sem.html" target="_blank">Scanning Electron Microscope</a> (SEM). 
+    The class first visited <a href="https://www.phipps.conservatory.org/" target="_blank">Phipps Botanical Garden</a>'s green houses and back storage rooms, to collect varying microscopic botanical samples. Then, we 
+    took these samples to the SEM machine and collected varying scale microscopic imaging, some examples of which can be seen below.</p>
+
+    
+
+    
 
     <div className="imgs max800">
         <div>
@@ -25,9 +36,14 @@ export const page = (
         </div>
     </div>
 
-    <div className="imgs max600">
+    <p>Once we had collected these SEM images, we had free reign to build an art piece out of the collected images. To me, the most 
+    profound element of these images was the fact that a botanical sample still can look like nature at such a microscopic level. This 
+    influenced my final art piece, as my sample of fern mimicked ocean waves. I colorized and composed the final image to correspond with 
+    such a finding.</p>
+
+    <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/SEM/blueSeed.jpg')} />
+            <img src={require('../assets/mixedMedia/SEM/blueWave.jpg')} />
         </div>
     </div>
 

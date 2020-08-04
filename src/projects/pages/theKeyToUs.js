@@ -7,24 +7,33 @@ export const page = (
     <h1> The Key to Us </h1>
 
 
-    <div className="imgs max800">
+    <div className="imgs max700">
         <div>
             <img src={require('../assets/mixedMedia/theKeyToUs/boxes.png')} />
         </div>
     </div>
+
+    <p>I created this piece during my art studies at Carnegie 
+    Mellon University in the course <a target="_blank" href={require('../assets/mixedMedia/artBio_syllabus.pdf')}>60-358</a>, "Art and Biology". 
+    This class was focused on the intersection between the two areas of study, and for this project, I wanted to make an interactive 
+    piece that demonstrated the "Lock and Key Theory" in biology.</p>
     
-    <div className="imgs max800">
+    <div className="imgs max700">
         <div>
             <img src={require('../assets/mixedMedia/theKeyToUs/1.jpg')} />
         </div>
     </div>
 
-    <div className="imgs max800">
+    <p>Enzymes have active sites where substrates bind and elicit the release of products. The "Lock and Key Theory" states that substrates have specific 
+    binding structures that perfectly fit to the active site of the enzyme for which they are searching. To represent this searching process for the 
+    “perfect fit,” I wanted the viewer to attempt to find the perfect matches for the keys displayed on the given key ring. The four boxes (labeled A,B,C,D) represent 
+    four enzymes that break down sugar (fructose): Hexokinase takes in the sugar, Aldolase cuts it in two, and Cytochrome Complex and ATP Synthase 
+    begin the process of creating energy from the breaking down of sugar. The locks and keys represent the "Lock and Key Theory", while the boxes and their 
+    contents represent some key enzymes in cellular respiration.</p>
+
+    <div className="imgs max700">
         <div>
             <img src={require('../assets/mixedMedia/theKeyToUs/2.jpg')} />
-        </div>
-        <div>
-            <img src={require('../assets/mixedMedia/theKeyToUs/3.jpg')} />
         </div>
     </div>
 

@@ -4,14 +4,36 @@ export const page = (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> Dissecting Myself </h1>
+    <h1> "Dissecting Myself" </h1>
 
     
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/dissectingSelf.jpg')} />
+            <p>Acrylic, 3.5' x 6'</p>
         </div>
     </div>
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/painting/dissectDetail1.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/painting/dissectDetail2.jpeg')} />
+        </div>
+    </div>
+
+
+    <h2>Process:</h2>
+    <div className="imgs max600">
+        <div>
+            <img src={require('../assets/painting/dissectProcess1.jpeg')} />
+        </div>
+        <div>
+            <img src={require('../assets/painting/dissectProcess2.jpeg')} />
+        </div>
+    </div>
+
+    
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

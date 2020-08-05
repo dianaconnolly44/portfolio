@@ -10,6 +10,7 @@ export const page = (
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/plane.jpg')} />
+            <p>Oil, 1.5' x 2'</p>
         </div>
     </div>
 

@@ -4,12 +4,13 @@ export const page = (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> American Pig </h1>
+    <h1> "American Pig" </h1>
 
     
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/pig.png')} />
+            <p>Acrylic, 3' x 2'</p>
         </div>
     </div>
 

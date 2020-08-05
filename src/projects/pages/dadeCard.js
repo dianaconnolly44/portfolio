@@ -6,8 +6,7 @@ export const page = (
     
     <h1> Father's Day e-Card </h1>
 
-<iframe class="video" width="560" height="600" src="https://www.youtube.com/embed/Dqu5_K8tUO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/Tut6aVQHwZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>A paper cut-out style animation as a Father's Day eCard, reminiscing about a road trip taken together. Made
     using 3D layers in Adobe After Effects.</p>
 

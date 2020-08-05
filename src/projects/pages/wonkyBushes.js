@@ -4,12 +4,13 @@ export const page = (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> Look Me in the Eye </h1>
+    <h1> "Look Me in the Eye" </h1>
 
     
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/wonkyBushes.png')} />
+            <p>Mixed media, 3' x 4'</p>
         </div>
     </div>
 

@@ -10,6 +10,7 @@ export const page = (
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/selfWaterColor.png')} />
+            <p>Watercolor, 3' x 2.5'</p>
         </div>
     </div>
 

@@ -10,6 +10,7 @@ export const page = (
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/selfGouache.png')} />
+            <p>Gouache, 1' x .75'</p>
         </div>
     </div>
 

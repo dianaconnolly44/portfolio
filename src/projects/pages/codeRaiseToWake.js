@@ -14,8 +14,7 @@ export const page = (
       />
     </div>
 
-    <iframe src="https://courses.ideate.cmu.edu/15-104/f2016/2016/09/16/diana-connolly-project-3/" title="Hannukah Candles"></iframe>
-
+    <p>Move your mouse up and down to wake up the monster with the sun, and put him to sleep with the moon. And click for a little surprise!</p>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

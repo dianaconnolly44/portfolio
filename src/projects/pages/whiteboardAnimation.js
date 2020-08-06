@@ -10,6 +10,8 @@ export const page = (
     mental health to young audiences. The bottom video is my first draft style, 
     and the top video is the final draft style.</p>
 
+    <br/>
+
     <div className="video">
       <iframe 
         src="https://www.youtube.com/embed/OjmkhpeGdco"
@@ -18,6 +20,9 @@ export const page = (
         allowfullscreen 
       />
     </div>
+
+    <br/>
+    <br/>
 
     <div className="video">
       <iframe 

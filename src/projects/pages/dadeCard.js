@@ -13,7 +13,7 @@ export const page = (
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen
       />
-    </div>
+    </div> 
 
     <p>A paper cut-out style animation as a Father's Day eCard, reminiscing about a road trip taken together. Made
     using 3D layers in Adobe After Effects.</p>

@@ -19,9 +19,29 @@ export const page = (
     </div>
 
     <h2>Works:</h2>
-    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/eM-U4uC2uhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/oGzOwWHdXK8" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
 
-    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/oGzOwWHdXK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br/>
+    <br/>
+
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/eM-U4uC2uhc" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
+
+    
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

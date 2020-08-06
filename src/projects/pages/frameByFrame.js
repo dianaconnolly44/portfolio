@@ -6,9 +6,14 @@ export const page = (
     
     <h1> Frame by Frame Animation </h1>
 
-    
-    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/_e9OcDcGuqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/_e9OcDcGuqk" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

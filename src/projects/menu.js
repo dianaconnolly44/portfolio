@@ -220,12 +220,24 @@ const menu = [
 				label: 'Code',
 				projects: [
 					'104eyes',
-					'104bodies',
-					'codeCity',
-					'walkCycle',
-					'paddleBall',
-					'oppositeBalls',
+					'104bodyCards',
+					'104city',
+					'104walkingMan',
+					'104paddleBall',
+					'104yinAndYang',
 					'104faces',
+					'104colorSliders',
+					'104dragMouseRainbowBalls',
+					
+					'104flagMountains',
+					'104fourPieChart',
+					'104marioGame',
+					
+					'104pinkClock',
+					'104saraPortrait',
+					'104soundBall',
+					'104turtlesRacing',
+					
 				]
 			},
 		]

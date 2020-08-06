@@ -23,6 +23,7 @@ export const page = (
     </div>
     
     <br/>
+    <br/>
 
     <div className="video">
       <iframe 
@@ -33,6 +34,7 @@ export const page = (
       />
     </div>
     
+    <br/>
     <br/>
 
     <div className="video">
@@ -45,6 +47,7 @@ export const page = (
     </div>
     
     <br/>
+    <br/>
 
     <div className="video">
       <iframe 
@@ -55,6 +58,7 @@ export const page = (
       />
     </div>
     
+    <br/>
     <br/>
 
     <div className="video">

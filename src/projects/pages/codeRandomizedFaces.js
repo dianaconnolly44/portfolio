@@ -4,13 +4,23 @@ export const page = (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> Raise to Wake </h1>
-    <p>Scroll within the webpage's box to see full contents.</p>
+    <h1> Randomized Faces </h1>
 
-    <iframe 
-      src="https://courses.ideate.cmu.edu/15-104/f2016/2016/09/09/diana-connolly-project-2/" 
-      title="Hannukah Candles"
-    />
+    <div className="code">
+      <iframe 
+        src="/code-projects/104faces/index.html"
+        width="480"
+        height="640"
+      />
+    </div>
+   
+ 
+
+
+
+
+
+    
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

@@ -129,6 +129,19 @@ import { page as iconAnimations } from './pages/iconAnimations';
 import { page as textAnimation } from './pages/textAnimation';
 import { page as transitionAnimations } from './pages/transitionAnimations';
 import { page as frameByFrame } from './pages/frameByFrame';
+import { page as codeBodyCards } from './pages/codeBodyCards';
+import { page as codeColorSliders } from './pages/codeColorSliders';
+import { page as codeDragMouseRainbowBalls } from './pages/codeDragMouseRainbowBalls';
+import { page as codeFlagMountains } from './pages/codeFlagMountains';
+import { page as codeFourPieChart } from './pages/codeFourPieChart';
+import { page as codeMarioGame } from './pages/codeMarioGame';
+import { page as codePaddleBall } from './pages/codePaddleBall';
+import { page as codePinkClock } from './pages/codePinkClock';
+import { page as codeSaraPortrait } from './pages/codeSaraPortrait';
+import { page as codeSoundBall } from './pages/codeSoundBall';
+import { page as codeTurtlesRacing } from './pages/codeTurtlesRacing';
+import { page as codeWalkingMan } from './pages/codeWalkingMan';
+import { page as codeYinAndYang } from './pages/codeYinAndYang';
 
 
 
@@ -801,13 +814,6 @@ export const projects = {
 
 //mixed media://
 
-	'codeCity': {
-		title: `City Scape`,
-		description: `A city scene with randomized clouds, cars, and planes`,
-		pic: `codeCity.gif`,
-		page: codeCity
-	},
-
 	'spider': {
 		title: `Spider Brooch`,
 		description: `A clay sculpture mixing beauty and disgust`,
@@ -829,13 +835,6 @@ export const projects = {
 		page: planetTactilus
 	},
 
-	'104bodies': {
-		title: `Mismatched`,
-		description: `Randomized permutations of characters with mouse click`,
-		pic: `104bodies.gif`,
-		page: 0
-	},
-
 	'artBioPetri': {
 		title: `Petri Portraits`,
 		description: `A family portrait with my family members drawn in each of their bacteria`,
@@ -848,20 +847,6 @@ export const projects = {
 		description: `Simulation of various migraine visual effects`,
 		pic: `migraine.jpg`,
 		page: migraine
-	},
-
-	'104eyes': {
-		title: `Raise to Wake`,
-		description: `Wake your monster by raising the sun and lowering the moon`,
-		pic: `104eyes.gif`,
-		page: codeRaiseToWake
-	},
-
-	'104faces': {
-		title: `Randomized Faces`,
-		description: `Randomized permutations of facial features with mouse click`,
-		pic: `104faces.gif`,
-		page: codeRandomizedFaces
 	},
 
 	'phenotype': {
@@ -892,27 +877,6 @@ export const projects = {
 		page: lifePool
 	},
 
-	'walkCycle': {
-		title: `Follower`,
-		description: `A walk cycle man will follow your clicks`,
-		pic: `104walkCycle.gif`,
-		page: 0
-	},
-
-	'paddleBall': {
-		title: `Paddle Ball`,
-		description: `Play paddle ball by moving your mouse`,
-		pic: `104paddleBall.gif`,
-		page: 0
-	},
-
-	'oppositeBalls': {
-		title: `Yin and Yang`,
-		description: `Move your mouse to have yin and yang oppose each other like magnets`,
-		pic: `104oppositeBalls.gif`,
-		page: 0
-	},
-
 	'tattoo': {
 		title: `Anatomical Heart Tattoo`,
 		description: `A connect-the-dots tattoo of an anatomical heart diagram, over the location of the real heart`,
@@ -939,6 +903,111 @@ export const projects = {
 		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
 		pic: `darwin_s copy.png`,
 		page: darwin
+	},
+
+//code//
+
+	'104bodyCards': {
+		title: `Mismatched`,
+		description: `Randomized permutations of characters with mouse click`,
+		pic: `104bodies.gif`,
+		page: codeBodyCards
+	},
+
+	'104city': {
+		title: `City Scape`,
+		description: `A city scene with randomized clouds, cars, and planes`,
+		pic: `codeCity.gif`,
+		page: codeCity
+	},
+
+	'104colorSliders': {
+		title: `Color Sliders`,
+		pic: `104bodies.gif`,
+		page: codeColorSliders
+	},
+
+	'104dragMouseRainbowBalls': {
+		title: `Rainbow Bubbles`,
+		pic: `104bodies.gif`,
+		page: codeDragMouseRainbowBalls
+	},
+
+	'104eyes': {
+		title: `Raise to Wake`,
+		description: `Wake your monster by raising the sun and lowering the moon`,
+		pic: `104eyes.gif`,
+		page: codeRaiseToWake
+	},
+
+	'104faces': {
+		title: `Randomized Faces`,
+		description: `Randomized permutations of facial features with mouse click`,
+		pic: `104faces.gif`,
+		page: codeRandomizedFaces
+	},
+
+	'104flagMountains': {
+		title: `King of the Hill`,
+		pic: `104bodies.gif`,
+		page: codeFlagMountains
+	},
+
+	'104fourPieChart': {
+		title: `Randomized Pie Chart`,
+		pic: `104bodies.gif`,
+		page: codeFourPieChart
+	},
+
+	'104marioGame': {
+		title: `Mario Platformer Game`,
+		pic: `104bodies.gif`,
+		page: codeMarioGame
+	},
+
+	'104paddleBall': {
+		title: `Paddle Ball`,
+		description: `Play paddle ball by moving your mouse`,
+		pic: `104paddleBall.gif`,
+		page: codePaddleBall
+	},
+
+	'104pinkClock': {
+		title: `Clock`,
+		pic: `104bodies.gif`,
+		page: codePinkClock
+	},
+
+	'104saraPortrait': {
+		title: `Bubble Portrait`,
+		pic: `104bodies.gif`,
+		page: codeSaraPortrait
+	},
+
+	'104soundBall': {
+		title: `Ball Sound Effects`,
+		pic: `104bodies.gif`,
+		page: codeSoundBall
+	},
+
+	'104turtlesRacing': {
+		title: `Turtle Race`,
+		pic: `104bodies.gif`,
+		page: codeTurtlesRacing
+	},
+
+	'104walkingMan': {
+		title: `Follower`,
+		description: `A walk cycle man will follow your clicks`,
+		pic: `104walkCycle.gif`,
+		page: codeWalkingMan
+	},
+
+	'104yinAndYang': {
+		title: `Yin and Yang`,
+		pic: `104oppositeBalls.gif`,
+		description: `Move your mouse to have yin and yang oppose each other like magnets`,
+		page: codeYinAndYang
 	},
 
 //graphic design//

@@ -5,10 +5,30 @@ export const page = (
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
     <h1> City Scape </h1>
-<p>Scroll within the webpage's box to see full contents.</p>
+	
+	<div className="code">
+      <iframe 
+        src="/code-projects/104city/index.html"
+        width="600"
+        height="400"
+      />
+    </div>
 
+    <p>I built this city scape as one of my projects in the coding course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. In this assignment, we were learning how to use the code language p5.js to build out scenes, as well as how to randomize objects. In the above canvas, I made a repeating static image as the background (the buildings and road), and have used code to randomize attributes of objects such as the clouds, cars, and planes. For example, the clouds randomize their color, transparency, and size every time they have made it off of the screen, and the cars change speed, color, and frequency.</p>
 
-<iframe src="https://courses.ideate.cmu.edu/15-104/f2016/2016/11/05/diana-connolly-project-10/" title="Hannukah Candles"></iframe>
+    <div className="imgs max200">
+        <div>
+            <img src={require('../assets/code/citySketch.jpg')} />
+            <p>Initial concept sketch</p>
+        </div>
+    </div>
+
+    <div className="imgs max300">
+        <div>
+            <img src={require('../assets/code/cityBG.png')} />
+            <p>Static background to loop</p>
+        </div>
+    </div>
 
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}

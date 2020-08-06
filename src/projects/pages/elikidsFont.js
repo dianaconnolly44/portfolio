@@ -32,12 +32,7 @@ export const page = (
         </div>
     </div>
 
-    <div className="imgs max200">
-        <div>
-            <img src={require('../assets/lettering/elikids/italian.jpg')} />
-            <p>Italian</p>
-        </div>
-    </div>
+   
 
     
 

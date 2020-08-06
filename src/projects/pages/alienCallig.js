@@ -6,6 +6,7 @@ export const page = (
     
     <h1> Alien Calligraphy </h1>
 
+    Made using B2 nib
 
     <div className="imgs max600">
         <div>

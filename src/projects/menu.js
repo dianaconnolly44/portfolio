@@ -291,8 +291,8 @@ const menu = [
 					'jabberwocky',
 					
 					
-					'lettering-letter1',
-					'cal',
+					//'lettering-letter1',
+					//'cal',
 				]
 			},
 		]

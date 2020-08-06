@@ -14,48 +14,20 @@ export const page = (
     
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/saraBook/2.jpeg')} />
-        </div>
-        <div>
             <img src={require('../assets/craft/saraBook/4.jpeg')} />
-        </div>
-    </div>
-
-    <div className="imgs max500">
-        <div>
-            <img src={require('../assets/craft/saraBook/5.jpeg')} />
-        </div>
-        <div>
-            <img src={require('../assets/craft/saraBook/8.jpeg')} />
-        </div>
-    </div>
-
-    <div className="imgs max500">
-        <div>
-            <img src={require('../assets/craft/saraBook/9.jpeg')} />
         </div>
         <div>
             <img src={require('../assets/craft/saraBook/10.jpeg')} />
         </div>
-    </div>
-
-    <div className="imgs max500">
-        <div>
-            <img src={require('../assets/craft/saraBook/11.jpeg')} />
-        </div>
         <div>
             <img src={require('../assets/craft/saraBook/12.jpeg')} />
         </div>
-    </div>
-
-    <div className="imgs max500">
         <div>
             <img src={require('../assets/craft/saraBook/14.jpeg')} />
         </div>
-        <div>
-            <img src={require('../assets/craft/saraBook/16.jpeg')} />
-        </div>
     </div>
+
+    
 
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}

@@ -6,6 +6,7 @@ export const page = (
     
     <h1> "The Jabberwocky" Calligraphy Book </h1>
 
+    Made using C2, B2, & pointed #56 nibs
     <div className="imgs max200">
         <div>
             <img src={require('../assets/lettering/jabberwocky/1.png')} />

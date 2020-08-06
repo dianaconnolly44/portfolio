@@ -15,7 +15,14 @@ export const page = (
     outer space as it relates to the human being. For my final exploration in this topic, my final project aimed to 
     simulate what sensorial experiences might be like for beings on another planet.</p>
     
-    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/6wR9lwEMavc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/6wR9lwEMavc"
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
 
     <p>Like one might experience with Synesthesia, the beings on "Planet Tactilus" 
     experience sound through the stimulation of touch (thus named "Planet Tactilus" for the "tactile" orientation of that world). I 

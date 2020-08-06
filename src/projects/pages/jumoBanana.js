@@ -16,8 +16,14 @@ export const page = (
     funny running "healthy food" characters portrayed in the below comic animation video about 
     Type 2 Diabetes.</p>
 
-    <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/C9F5j2OBQBU?start=131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/C9F5j2OBQBU?start=131"
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

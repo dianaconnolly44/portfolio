@@ -18,6 +18,7 @@
   flex-grow: 1;
   flex-shrink: 1;
   max-width: 100%;
+  border-radius: 5px;
 }
 .project .imgs p {
   margin: 0;
@@ -35,12 +36,38 @@
 .project .imgs.max800 img { max-height: 800px; }
 .project .imgs.max900 img { max-height: 900px; }
 
-.project iframe {
+.project > iframe {
   width: 100%;
   height: 700px;
 }
-.project iframe:not(.video) {
-  height: 170vh;
+.project iframe {
+  border: 0;
+  border-radius: 5px;
+}
+
+.project .video {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.project .video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.project .code {
+  margin: 25px 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.project .code iframe {
+  max-width: 100%;
 }
 
 .project a {

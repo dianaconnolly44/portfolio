@@ -11,17 +11,60 @@ export const page = (
     their voice overs, parsed below. To view these scenes within the context of the rest of the video's topics, 
     view the fifth video linked below.</p>
 
-<br/>
+    <br/>
 
-<iframe class="video" width="560" height="600" src="https://www.youtube.com/embed/-H_074Zrvbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe class="video" width="560" height="600" src="https://www.youtube.com/embed/ohu9O_62gas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe class="video" width="560" height="600" src="https://www.youtube.com/embed/abSpVPw4xBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe class="video" width="560" height="600" src="https://www.youtube.com/embed/5dFTB50oh0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
-<iframe class="video" width="560" height="600" src="https://www.youtube.com/embed/QBMJQDhYPH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/-H_074Zrvbw" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
+    
+    <br/>
+
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/ohu9O_62gas" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
+    
+    <br/>
+
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/abSpVPw4xBI" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
+    
+    <br/>
+
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/5dFTB50oh0E" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
+    
+    <br/>
+
+    <div className="video">
+      <iframe 
+        src="https://www.youtube.com/embed/QBMJQDhYPH4" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen 
+      />
+    </div>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

@@ -6,7 +6,14 @@ export const page = (
     
     <h1> Dream Box </h1>
 
-<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/VJThmxZ0_r0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div className="video">
+        <iframe 
+            src="https://www.youtube.com/embed/VJThmxZ0_r0" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen
+        />
+    </div>
 
     <p>I created this interactive piece during my art studies at Carnegie 
     Mellon University in the course <a target="_blank" href={require('../assets/mixedMedia/maurides_Courses.pdf')}>60-232</a>, "Art and the Brain". 

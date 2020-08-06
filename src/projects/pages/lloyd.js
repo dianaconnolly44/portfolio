@@ -53,9 +53,14 @@ export const page = (
     <p>Spotify 30-second samples of album's songs:</p>
     <br/>
 
-    <iframe class="video" src="https://open.spotify.com/embed/album/3p6q7uN4nGuO2bv2urrLvk" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-
+    <div className="video">
+        <iframe 
+            src="https://open.spotify.com/embed/album/3p6q7uN4nGuO2bv2urrLvk" 
+            frameborder="0" 
+            allowtransparency="true" 
+            allow="encrypted-media" 
+        />
+    </div>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

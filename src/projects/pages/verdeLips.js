@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export const page = (
+export const Page = props => (
   <div className="project">
 
     {/* ==== EDIT BELOW THIS LINE ==== */}

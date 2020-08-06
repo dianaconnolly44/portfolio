@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
+import { getClosestParent } from '../utils';
 import { projects } from '../projects/projects';
+import Lightbox from "react-awesome-lightbox";
 
 import './Project.css';
+import 'react-awesome-lightbox/build/style.css';
 
 export default class Project extends Component {
   state = {}
@@ -20,7 +23,6 @@ export default class Project extends Component {
     const loaded = [];
     imgs.forEach(el => {
       const img = new Image();
-      console.log(el.src);
       img.src = el.src;
       img.onload = e => {
         loaded.push({
@@ -40,14 +42,48 @@ export default class Project extends Component {
     const total = imgs.reduce((t, img) => img.equalized_w + t, 0);
     imgs.forEach(img => {
       img.div.style.width = (img.equalized_w * 100 / total) + '%';
-      console.log(img.equalized_w, img.w, img.h, total, (img.w * 100 / total) + '%')
     })
   }
 
+  openImageSeries = e => {
+    // get current image
+    const curr = getClosestParent(e.target, 'img');
+    if(!curr) return;
+    // get all sibling images on this page
+    const parent = getClosestParent(e.target, '.project');
+    const images = [...parent.querySelectorAll('img:not([data-skip-gallery])')];
+
+    const lightbox = {
+    // get index of selected image
+      startIndex: images.indexOf(curr)
+    }
+    if(images.length === 1) {
+      lightbox.image = curr.getAttribute('src');
+      lightbox.title = curr.getAttribute('title') || curr.getAttribute('alt');
+    } else {
+      lightbox.images = images.map(img => ({
+        url: img.getAttribute('src'),
+        title: img.getAttribute('title') || img.getAttribute('alt')
+      }))
+    }
+    this.setState({ lightbox });
+  }
+
   render = () => {
+    const Page = projects[this.props.id].page;
     return (
       <div className="project-wrapper">
-        { projects[this.props.id].page }
+        { 
+          this.state.lightbox && 
+          <Lightbox 
+            {...this.state.lightbox} 
+            onClose={e => this.setState({ lightbox: null })} 
+            allowRotate={false}
+            allowReset={false}
+            zoomStep={.5}
+          /> 
+        }
+        { <Page open={this.openImageSeries} /> }
       </div>
     )
   }

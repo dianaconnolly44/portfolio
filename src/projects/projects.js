@@ -410,7 +410,7 @@ export const projects = {
 		title: `Father's Day e-Card`,
 		description: 'Adobe After Effects',
 		pic: `dadcard2.gif`,
-		page: 0
+		page: dadeCard
 	},
 
 	'whiteboard': {
@@ -657,22 +657,22 @@ export const projects = {
 //painting://
 	
 	'boobs': {
-		title: `Uncanny`,
+		title: `"Uncanny"`,
 		description: `Intersection of breasts and seashells, oil`,
 		pic: `boobs_s.jpg`,
 		page: boobs
 	},
 
 	'dissect': {
-		title: `Dissecting Myself`,
+		title: `"Dissecting Myself"`,
 		description: `Insect pinning a self portrait, acrylic`,
 		pic: `dissect_s.jpg`,
 		page: dissectingSelf
 	},
 
 	'eye': {
-		title: `Retinal Embossing`,
-		description: `Gold-embossed portrait of a retina, oil`,
+		title: `"Retinal Embossing"`,
+		description: `Gold-embossed portrait of a retina, oil & acrylic`,
 		pic: `eye_s.jpg`,
 		page: retina
 	},
@@ -692,7 +692,7 @@ export const projects = {
 	},
 
 	'wonky2': {
-		title: `Look Me in the Eye`,
+		title: `"Look Me in the Eye"`,
 		description: `Mixed media`,
 		pic: `wonky2.jpg`,
 		page: wonkyBushes
@@ -706,7 +706,7 @@ export const projects = {
 	},
 
 	'Lint': {
-		title: `Rococo Lint, 1`,
+		title: `"Rococo Lint" #1`,
 		description: `Dryer lint as paint`,
 		pic: `Lint_s.jpg`,
 		page: lintSmall
@@ -749,13 +749,13 @@ export const projects = {
 
 	'plane': {
 		title: `Untitled`,
-		description: `Inspired by the sky, acrylic`,
+		description: `Inspired by the sky, oil`,
 		pic: `plane_s.jpg`,
 		page: plane
 	},
 
 	'rococoLint': {
-		title: `Rococo Lint, 2`,
+		title: `"Rococo Lint" #2`,
 		description: `Dryer lint as paint`,
 		pic: `rococoLint_s.jpg`,
 		page: lintBig
@@ -763,7 +763,7 @@ export const projects = {
 
 	'young2': {
 		title: `Untitled`,
-		description: `Self portrait, oil`,
+		description: `Self portrait, acrylic`,
 		pic: `young1_v2.jpg`,
 		page: selfAcrylic
 	},
@@ -784,13 +784,13 @@ export const projects = {
 
 	'young7': {
 		title: `Untitled`,
-		description: `Oil`,
+		description: `Acrylic`,
 		pic: `young7_s.jpg`,
 		page: watertower
 	},
 
 	'young8': {
-		title: `American Pig`,
+		title: `"American Pig"`,
 		description: `Acrylic`,
 		pic: `young8_s.jpg`,
 		page: pig
@@ -926,7 +926,7 @@ export const projects = {
 
 	'blueWave': {
 		title: `"Invisible Beauty"`,
-		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
+		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of microscopic botany samples`,
 		pic: `blueWave.jpg`,
 		page: SEM
 	},

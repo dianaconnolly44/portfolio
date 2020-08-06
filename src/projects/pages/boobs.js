@@ -4,14 +4,23 @@ export const page = (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> Uncanny </h1>
+    <h1> "Uncanny" </h1>
 
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/painting/boobs.JPG')} />
+            <img src={require('../assets/painting/boobs_v2.jpg')} />
+            <p>Oil, 4' x 2.5'</p>
         </div>
     </div>
+
+    <p>I created this art piece during my art studies at Carnegie 
+    Mellon University in the course <a target="_blank" href={require('../assets/mixedMedia/maurides_Courses.pdf')}>60-250</a>, "2D Media   
+    Studio: Painting". This piece was for the "Uncanny" assignment, in which our professor assigned us to produce an uncanny feeling in the 
+    viewer by painting something that straddled the line between two images in a strange way. I chose to paint the cross between 
+    sea shells and breasts, because a photo I had of sea shells reminded me of that shape. In my painting, I combined the color and shape of breasts  
+    with the texture, lighting, and shape of sea shells.</p>
+
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

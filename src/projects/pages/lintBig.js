@@ -4,12 +4,13 @@ export const page = (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> Rococo Lint </h1>
+    <h1> "Rococo Lint" #2 </h1>
 
     
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/lintBig.JPG')} />
+            <p>Dryer lint, 4' x 3'</p>
         </div>
     </div>
 

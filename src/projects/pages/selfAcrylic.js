@@ -10,6 +10,7 @@ export const page = (
     <div className="imgs max800">
         <div>
             <img src={require('../assets/painting/selfAcrylic.png')} />
+            <p>Acrylic, 2' x 3'</p>
         </div>
     </div>
 

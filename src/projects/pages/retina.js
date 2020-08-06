@@ -4,12 +4,27 @@ export const page = (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> Retinal Embossing </h1>
+    <h1> "Retinal Embossing" </h1>
 
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/painting/retina.jpg')} />
+            <img src={require('../assets/painting/retina_v2.jpg')} />
+            <p>Oil and acrylic, 1.5' x 1.5'</p>
+        </div>
+    </div>
+
+    <h2>Concept:</h2>
+    An individual with Crystalline Retinopathy can exhibit "deposits" on the retina of their eye, which to me actually look like beautiful gold embossing. I mimicked 
+    the looks of this based on the below images and made a painting with oil paint for the retina and gold acrylic to mimic these embossing-like deposits.
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/painting/retinaDemo2.jpg')} />
+            <p>Imaging of retina</p>
+        </div>
+        <div>
+            <img src={require('../assets/painting/retinaDemo.jpg')} />
+            <p>Example of the deposits on retina</p>
         </div>
     </div>
 

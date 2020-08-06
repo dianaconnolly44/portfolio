@@ -13,6 +13,9 @@ export const page = (
         </div>
     </div>
 
+    I painted and sewed this cover for a small lumbar pillow as a Mother's Day gift in 2014. To paint the fabric, I first wet the entire cloth and 
+    slowly introduced different acrylic paints to produce a watercolor-like appearance.
+
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 
   </div>

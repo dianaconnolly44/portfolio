@@ -125,7 +125,10 @@ import { page as punkNecklace } from './pages/punkNecklace';
 import { page as alyssa } from './pages/alyssa';
 import { page as figureSketch } from './pages/figureSketch';
 import { page as planetTactilus } from './pages/planetTactilus';
-
+import { page as iconAnimations } from './pages/iconAnimations';
+import { page as textAnimation } from './pages/textAnimation';
+import { page as transitionAnimations } from './pages/transitionAnimations';
+import { page as frameByFrame } from './pages/frameByFrame';
 
 
 
@@ -438,28 +441,28 @@ export const projects = {
 		title: `Icon Explainer Videos`,
 		description: 'Adobe After Effects',
 		pic: `iconExplainer2.gif`,
-		page: 0
+		page: iconAnimations
 	},
 
 	'textAnimation': {
 		title: `Text Animation`,
 		description: 'Adobe After Effects',
 		pic: `textAnimation2.gif`,
-		page: 0
+		page: textAnimation
 	},
 
 	'frameByFrame': {
 		title: `Frame by Frame Animation`,
 		description: 'Adobe Photoshop',
 		pic: `frameByFrame2.gif`,
-		page: 0
+		page: frameByFrame
 	},
 
 	'transitionScreens': {
 		title: `Transition Screens`,
 		description: 'Adobe After Effects',
 		pic: `transitions2.gif`,
-		page: 0
+		page: transitionAnimations
 	},
 
 	'assetCreation': {

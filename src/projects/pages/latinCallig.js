@@ -6,10 +6,11 @@ export const page = (
     
     <h1> Latin Calligraphy </h1>
 
+    Made using C2 nib
     <div className="imgs max600">
         <div>
             <img src={require('../assets/lettering/latinCallig.jpeg')} />
-            <p>"Who Loves Me, Loves Even My Dog" calligraphy in Latin</p>
+            <p>"Who Loves Me, Loves Even My Dog" in Latin</p>
         </div>
     </div>
     

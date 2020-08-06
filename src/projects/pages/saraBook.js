@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export const page = (
+export const Page = props => (
   <div className="project">
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
@@ -8,27 +8,39 @@ export const page = (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/saraBook/1.jpg')} />
+            <img 
+                src={require('../assets/craft/saraBook/1.jpg')} 
+                data-skip-gallery
+            />
         </div>
     </div>
     
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/saraBook/4.jpeg')} />
+            <img 
+                src={require('../assets/craft/saraBook/4.jpeg')} 
+                onClick={props.open} 
+            />
         </div>
         <div>
-            <img src={require('../assets/craft/saraBook/10.jpeg')} />
+            <img 
+                src={require('../assets/craft/saraBook/10.jpeg')} 
+                onClick={props.open} 
+            />
         </div>
         <div>
-            <img src={require('../assets/craft/saraBook/12.jpeg')} />
+            <img 
+                src={require('../assets/craft/saraBook/12.jpeg')} 
+                onClick={props.open} 
+            />
         </div>
         <div>
-            <img src={require('../assets/craft/saraBook/14.jpeg')} />
+            <img 
+                src={require('../assets/craft/saraBook/14.jpeg')} 
+                onClick={props.open} 
+            />
         </div>
     </div>
-
-    
-
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

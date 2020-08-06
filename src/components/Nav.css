@@ -1,6 +1,7 @@
 .nav {
   font-family: 'Kulim Park', sans-serif;
   font-weight: 300;
+  transform: translateZ(0);
 }
 .nav-mobile {
   position: absolute;

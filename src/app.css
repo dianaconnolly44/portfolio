@@ -23,7 +23,7 @@ body {
   height: 100vh;
   width: 100%;
   /*overflow: hidden;*/
-  transform: translateZ(0);
+  /* disabled transform for lightbox reasons */
   margin: 0 auto;
   max-width: 1280px;
 

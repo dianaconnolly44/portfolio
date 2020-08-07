@@ -142,7 +142,7 @@ import { Page as codeSoundBall } from './pages/codeSoundBall';
 import { Page as codeTurtlesRacing } from './pages/codeTurtlesRacing';
 import { Page as codeWalkingMan } from './pages/codeWalkingMan';
 import { Page as codeYinAndYang } from './pages/codeYinAndYang';
-
+import { Page as codePeaches } from './pages/codePeaches';
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -922,14 +922,14 @@ export const projects = {
 	},
 
 	'104colorSliders': {
-		title: `Color Sliders`,
-		pic: `104bodies.gif`,
+		title: `RBG Sliders`,
+		pic: `codeColorSliders.png`,
 		page: codeColorSliders
 	},
 
 	'104dragMouseRainbowBalls': {
 		title: `Rainbow Bubbles`,
-		pic: `104bodies.gif`,
+		pic: `codeRainbowBalls.png`,
 		page: codeDragMouseRainbowBalls
 	},
 
@@ -949,19 +949,19 @@ export const projects = {
 
 	'104flagMountains': {
 		title: `King of the Hill`,
-		pic: `104bodies.gif`,
+		pic: `codeKingOfTheHill.png`,
 		page: codeFlagMountains
 	},
 
 	'104fourPieChart': {
 		title: `Randomized Pie Chart`,
-		pic: `104bodies.gif`,
+		pic: `codePieChart.png`,
 		page: codeFourPieChart
 	},
 
 	'104marioGame': {
 		title: `Mario Platformer Game`,
-		pic: `104bodies.gif`,
+		pic: `codeMario.png`,
 		page: codeMarioGame
 	},
 
@@ -972,27 +972,33 @@ export const projects = {
 		page: codePaddleBall
 	},
 
+	'104peaches': {
+		title: `Geometric Peaches`,
+		pic: `codePeaches.png`,
+		page: codePeaches
+	},
+
 	'104pinkClock': {
 		title: `Clock`,
-		pic: `104bodies.gif`,
+		pic: `codeClock.png`,
 		page: codePinkClock
 	},
 
 	'104saraPortrait': {
 		title: `Bubble Portrait`,
-		pic: `104bodies.gif`,
+		pic: `codeSara.png`,
 		page: codeSaraPortrait
 	},
 
 	'104soundBall': {
 		title: `Ball Sound Effects`,
-		pic: `104bodies.gif`,
+		pic: `codeBallSounds.png`,
 		page: codeSoundBall
 	},
 
 	'104turtlesRacing': {
 		title: `Turtle Race`,
-		pic: `104bodies.gif`,
+		pic: `codeTurtleRace.png`,
 		page: codeTurtlesRacing
 	},
 

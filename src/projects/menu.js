@@ -229,13 +229,17 @@ const menu = [
 					'104colorSliders',
 					'104dragMouseRainbowBalls',
 					
-					'104flagMountains',
+					
 					'104fourPieChart',
 					'104marioGame',
 					
-					'104pinkClock',
+					
 					'104saraPortrait',
+					'104peaches',
 					'104soundBall',
+					'104flagMountains',
+					'104pinkClock',
+					
 					'104turtlesRacing',
 					
 				]

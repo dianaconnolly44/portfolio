@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f041ed73f950bc137580c146c441aef0",
+    "revision": "24456520616389b84ba3a068aee2f834",
     "url": "/index.html"
   },
   {
-    "revision": "bed0ada957890ae92da5",
+    "revision": "86d0c6a8de68e067319a",
     "url": "/static/css/2.37dff9d5.chunk.css"
   },
   {
-    "revision": "e4bb245a83b85b2487cd",
+    "revision": "a537d9e7eb6f670aaf30",
     "url": "/static/css/main.e462c72e.chunk.css"
   },
   {
-    "revision": "bed0ada957890ae92da5",
-    "url": "/static/js/2.b468d181.chunk.js"
+    "revision": "86d0c6a8de68e067319a",
+    "url": "/static/js/2.018ce39b.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.b468d181.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.018ce39b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4bb245a83b85b2487cd",
-    "url": "/static/js/main.c3b26805.chunk.js"
+    "revision": "a537d9e7eb6f670aaf30",
+    "url": "/static/js/main.10b20790.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -832,8 +832,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/clockFinal.cb73f878.gif"
   },
   {
+    "revision": "d8de0b9ecb7ce00222215ff5a8129bee",
+    "url": "/static/media/codeBallSounds.d8de0b9e.png"
+  },
+  {
     "revision": "91a8ef8e200a4be575c72d94a7291f23",
     "url": "/static/media/codeCity.91a8ef8e.gif"
+  },
+  {
+    "revision": "142dde5219551efedc71719d3afc77d2",
+    "url": "/static/media/codeClock.142dde52.png"
+  },
+  {
+    "revision": "2ae940ef29eb9f67840906763e8c71e1",
+    "url": "/static/media/codeColorSliders.2ae940ef.png"
+  },
+  {
+    "revision": "0144666f80267f05502e87bfc133f2c0",
+    "url": "/static/media/codeKingOfTheHill.0144666f.png"
+  },
+  {
+    "revision": "169d7d5332936032f4e8db558bb9d9fb",
+    "url": "/static/media/codeMario.169d7d53.png"
+  },
+  {
+    "revision": "fd0241136e0bb69f280f98a991f7b4dd",
+    "url": "/static/media/codePeaches.fd024113.png"
+  },
+  {
+    "revision": "267d690e6677ce414c21309763c2c374",
+    "url": "/static/media/codePieChart.267d690e.png"
+  },
+  {
+    "revision": "ba33aca4f06f1f195db743752a493441",
+    "url": "/static/media/codeRainbowBalls.ba33aca4.png"
+  },
+  {
+    "revision": "70311ea74f39a2d3fc80d6a0532cab41",
+    "url": "/static/media/codeSara.70311ea7.png"
+  },
+  {
+    "revision": "6346f176d0f9c294ab5c95a02b5ada59",
+    "url": "/static/media/codeTurtleRace.6346f176.png"
   },
   {
     "revision": "03769370278c5c38411278b21db9eb6a",

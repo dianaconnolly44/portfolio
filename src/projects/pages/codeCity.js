@@ -14,7 +14,7 @@ export const Page = props => (
       />
     </div>
 
-    <p>I built this city scape as one of my projects in the coding course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. In this assignment, we were learning how to use the code language p5.js to build out scenes, as well as how to randomize objects. In the above canvas, I made a repeating static image as the background (the buildings and road), and have used code to randomize attributes of objects such as the clouds, cars, and planes. For example, the clouds randomize their color, transparency, and size every time they have made it off of the screen, and the cars change speed, color, and frequency.</p>
+    <p>I built this city scape as one of my projects in the computer science course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. For this project, we were assigned to create a program which presents an ever-changing (generative) and imaginative “landscape”. This incorporated populating the landscape with generative objects, as well as having the landscape move past the viewer in some way. In the above canvas, I made a repeating static image as the background (the buildings and road), and have used code to randomize attributes of moving objects such as the clouds, cars, and planes. For example, the clouds randomize their color, transparency, and size every time they have made it off of the screen, and the cars change speed, color, and frequency.</p>
 
     <div className="imgs max200">
         <div>

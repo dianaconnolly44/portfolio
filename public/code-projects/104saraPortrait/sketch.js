@@ -5,11 +5,9 @@ function preload() {
 
 function setup() {
     createCanvas(720, 500);
-    background(255); //white background
+    background(245); //white background
     underlyingImage.loadPixels(); //loads pic
     noStroke();
-    text("press your mouse", 100, 100); //click instructions
-    text("or drag your mouse", 300, 300); //drag instructions
 }
 
 

@@ -222,10 +222,11 @@ const menu = [
 					'104eyes',
 					'104bodyCards',
 					'104city',
+					'104faces',
 					'104walkingMan',
 					'104paddleBall',
 					'104yinAndYang',
-					'104faces',
+					
 					'104colorSliders',
 					'104dragMouseRainbowBalls',
 					

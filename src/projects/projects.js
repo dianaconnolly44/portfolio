@@ -923,13 +923,13 @@ export const projects = {
 
 	'104colorSliders': {
 		title: `RBG Sliders`,
-		pic: `codeColorSliders.png`,
+		pic: `codeColorSliders.jpg`,
 		page: codeColorSliders
 	},
 
 	'104dragMouseRainbowBalls': {
 		title: `Rainbow Bubbles`,
-		pic: `codeRainbowBalls.png`,
+		pic: `codeRainbowBalls.jpg`,
 		page: codeDragMouseRainbowBalls
 	},
 
@@ -943,25 +943,25 @@ export const projects = {
 	'104faces': {
 		title: `Randomized Faces`,
 		description: `Randomized permutations of facial features with mouse click`,
-		pic: `104faces.gif`,
+		pic: `104faces_v2.gif`,
 		page: codeRandomizedFaces
 	},
 
 	'104flagMountains': {
 		title: `King of the Hill`,
-		pic: `codeKingOfTheHill.png`,
+		pic: `codeKingOfTheHill.jpg`,
 		page: codeFlagMountains
 	},
 
 	'104fourPieChart': {
 		title: `Randomized Pie Chart`,
-		pic: `codePieChart.png`,
+		pic: `codePieChart.jpg`,
 		page: codeFourPieChart
 	},
 
 	'104marioGame': {
 		title: `Mario Platformer Game`,
-		pic: `codeMario.png`,
+		pic: `codeMario.jpg`,
 		page: codeMarioGame
 	},
 
@@ -974,31 +974,31 @@ export const projects = {
 
 	'104peaches': {
 		title: `Geometric Peaches`,
-		pic: `codePeaches.png`,
+		pic: `codePeaches.jpg`,
 		page: codePeaches
 	},
 
 	'104pinkClock': {
 		title: `Clock`,
-		pic: `codeClock.png`,
+		pic: `codeClock.jpg`,
 		page: codePinkClock
 	},
 
 	'104saraPortrait': {
 		title: `Bubble Portrait`,
-		pic: `codeSara.png`,
+		pic: `codeSara.jpg`,
 		page: codeSaraPortrait
 	},
 
 	'104soundBall': {
 		title: `Ball Sound Effects`,
-		pic: `codeBallSounds.png`,
+		pic: `codeBallSounds.jpg`,
 		page: codeSoundBall
 	},
 
 	'104turtlesRacing': {
 		title: `Turtle Race`,
-		pic: `codeTurtleRace.png`,
+		pic: `codeTurtleRace.jpg`,
 		page: codeTurtlesRacing
 	},
 

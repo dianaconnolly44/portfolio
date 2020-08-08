@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24456520616389b84ba3a068aee2f834",
+    "revision": "ca2c20daa0d986495d65fea51da9dfa0",
     "url": "/index.html"
   },
   {
-    "revision": "86d0c6a8de68e067319a",
+    "revision": "515eb2e5a3ec2d3c0e2d",
     "url": "/static/css/2.37dff9d5.chunk.css"
   },
   {
-    "revision": "a537d9e7eb6f670aaf30",
-    "url": "/static/css/main.e462c72e.chunk.css"
+    "revision": "9bfed4b4756860b2dbe6",
+    "url": "/static/css/main.5dbd1fe5.chunk.css"
   },
   {
-    "revision": "86d0c6a8de68e067319a",
-    "url": "/static/js/2.018ce39b.chunk.js"
+    "revision": "515eb2e5a3ec2d3c0e2d",
+    "url": "/static/js/2.7d07c98f.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.018ce39b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7d07c98f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a537d9e7eb6f670aaf30",
-    "url": "/static/js/main.10b20790.chunk.js"
+    "revision": "9bfed4b4756860b2dbe6",
+    "url": "/static/js/main.feaded52.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -126,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2d56bb64f37e9a5290cdf55d6b72c6ec",
     "url": "/static/media/104faces.2d56bb64.gif"
+  },
+  {
+    "revision": "e1cbbae80e58ff1ecf052c4af7fd47fd",
+    "url": "/static/media/104faces_v2.e1cbbae8.gif"
   },
   {
     "revision": "50c3dfe8b4ad2a25563cb390c6599439",
@@ -832,6 +836,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/clockFinal.cb73f878.gif"
   },
   {
+    "revision": "703b8e9b40850045701a089605416a15",
+    "url": "/static/media/codeBallSounds.703b8e9b.jpg"
+  },
+  {
     "revision": "d8de0b9ecb7ce00222215ff5a8129bee",
     "url": "/static/media/codeBallSounds.d8de0b9e.png"
   },
@@ -844,16 +852,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeClock.142dde52.png"
   },
   {
+    "revision": "c99fe953e87a39cce689c338f74c6442",
+    "url": "/static/media/codeClock.c99fe953.jpg"
+  },
+  {
     "revision": "2ae940ef29eb9f67840906763e8c71e1",
     "url": "/static/media/codeColorSliders.2ae940ef.png"
+  },
+  {
+    "revision": "40a0a7d2862bc15ae209e954550b2501",
+    "url": "/static/media/codeColorSliders.40a0a7d2.jpg"
   },
   {
     "revision": "0144666f80267f05502e87bfc133f2c0",
     "url": "/static/media/codeKingOfTheHill.0144666f.png"
   },
   {
+    "revision": "bcbeaec87b6ab2295886c20f3a1b0f5c",
+    "url": "/static/media/codeKingOfTheHill.bcbeaec8.jpg"
+  },
+  {
     "revision": "169d7d5332936032f4e8db558bb9d9fb",
     "url": "/static/media/codeMario.169d7d53.png"
+  },
+  {
+    "revision": "d889c6fa497a65c98a4e155df7f4cbaf",
+    "url": "/static/media/codeMario.d889c6fa.jpg"
+  },
+  {
+    "revision": "23e9ecb63f7d25922d1052f2b1343549",
+    "url": "/static/media/codePeaches.23e9ecb6.jpg"
   },
   {
     "revision": "fd0241136e0bb69f280f98a991f7b4dd",
@@ -864,16 +892,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codePieChart.267d690e.png"
   },
   {
+    "revision": "450a9f65de71cb1b86804ff21948e1f5",
+    "url": "/static/media/codePieChart.450a9f65.jpg"
+  },
+  {
     "revision": "ba33aca4f06f1f195db743752a493441",
     "url": "/static/media/codeRainbowBalls.ba33aca4.png"
+  },
+  {
+    "revision": "e90f3199778a8727cd89d9799ce57401",
+    "url": "/static/media/codeRainbowBalls.e90f3199.jpg"
   },
   {
     "revision": "70311ea74f39a2d3fc80d6a0532cab41",
     "url": "/static/media/codeSara.70311ea7.png"
   },
   {
+    "revision": "f70dd59b6c3a968a50e0aaa2b3de4313",
+    "url": "/static/media/codeSara.f70dd59b.jpg"
+  },
+  {
     "revision": "6346f176d0f9c294ab5c95a02b5ada59",
     "url": "/static/media/codeTurtleRace.6346f176.png"
+  },
+  {
+    "revision": "c40e967b6879aa3ca9e58d811ead03d8",
+    "url": "/static/media/codeTurtleRace.c40e967b.jpg"
   },
   {
     "revision": "03769370278c5c38411278b21db9eb6a",
@@ -1010,6 +1054,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ad631afe1362ae30f1f56baa6cc83a22",
     "url": "/static/media/dadDish.ad631afe.jpg"
+  },
+  {
+    "revision": "91f5fd58a0a56fc6d8149336e609271a",
+    "url": "/static/media/dadEcard.91f5fd58.mp4"
   },
   {
     "revision": "666284f054d59a701f9ed25cded368c8",

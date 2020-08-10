@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca2c20daa0d986495d65fea51da9dfa0",
+    "revision": "e9b01c7794cd5d3159713862f2eda111",
     "url": "/index.html"
   },
   {
-    "revision": "515eb2e5a3ec2d3c0e2d",
+    "revision": "a45fc94ee829bcbee379",
     "url": "/static/css/2.37dff9d5.chunk.css"
   },
   {
-    "revision": "9bfed4b4756860b2dbe6",
+    "revision": "ba5eb96d69edc77f028f",
     "url": "/static/css/main.5dbd1fe5.chunk.css"
   },
   {
-    "revision": "515eb2e5a3ec2d3c0e2d",
-    "url": "/static/js/2.7d07c98f.chunk.js"
+    "revision": "a45fc94ee829bcbee379",
+    "url": "/static/js/2.231fefec.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.7d07c98f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.231fefec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9bfed4b4756860b2dbe6",
-    "url": "/static/js/main.feaded52.chunk.js"
+    "revision": "ba5eb96d69edc77f028f",
+    "url": "/static/js/main.ff0c9db5.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -840,6 +840,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeBallSounds.703b8e9b.jpg"
   },
   {
+    "revision": "a7ec9bdf161c600e9a0fec8403a0717b",
+    "url": "/static/media/codeBallSounds.a7ec9bdf.gif"
+  },
+  {
     "revision": "d8de0b9ecb7ce00222215ff5a8129bee",
     "url": "/static/media/codeBallSounds.d8de0b9e.png"
   },
@@ -850,6 +854,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "142dde5219551efedc71719d3afc77d2",
     "url": "/static/media/codeClock.142dde52.png"
+  },
+  {
+    "revision": "c7e74f003803430bc0ced1b0919eb8c6",
+    "url": "/static/media/codeClock.c7e74f00.gif"
   },
   {
     "revision": "c99fe953e87a39cce689c338f74c6442",
@@ -864,12 +872,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeColorSliders.40a0a7d2.jpg"
   },
   {
+    "revision": "b0061d455439f8a165f5a2088f4d45cc",
+    "url": "/static/media/codeColorSliders.b0061d45.gif"
+  },
+  {
     "revision": "0144666f80267f05502e87bfc133f2c0",
     "url": "/static/media/codeKingOfTheHill.0144666f.png"
   },
   {
+    "revision": "9a461189c851cbc72a2e329b9af64b96",
+    "url": "/static/media/codeKingOfTheHill.9a461189.gif"
+  },
+  {
     "revision": "bcbeaec87b6ab2295886c20f3a1b0f5c",
     "url": "/static/media/codeKingOfTheHill.bcbeaec8.jpg"
+  },
+  {
+    "revision": "0f43a0df5b9caecdd08a278c8df585e3",
+    "url": "/static/media/codeKingOfTheHill2.0f43a0df.gif"
   },
   {
     "revision": "169d7d5332936032f4e8db558bb9d9fb",
@@ -880,8 +900,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeMario.d889c6fa.jpg"
   },
   {
+    "revision": "e056f551b89d72326f35b50de10337db",
+    "url": "/static/media/codeMario.e056f551.gif"
+  },
+  {
     "revision": "23e9ecb63f7d25922d1052f2b1343549",
     "url": "/static/media/codePeaches.23e9ecb6.jpg"
+  },
+  {
+    "revision": "b602fce0694815261b5f3ad27f58f2a3",
+    "url": "/static/media/codePeaches.b602fce0.gif"
   },
   {
     "revision": "fd0241136e0bb69f280f98a991f7b4dd",
@@ -892,8 +920,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codePieChart.267d690e.png"
   },
   {
+    "revision": "31e03f690ff4553e0b6439eed1afbdb7",
+    "url": "/static/media/codePieChart.31e03f69.gif"
+  },
+  {
     "revision": "450a9f65de71cb1b86804ff21948e1f5",
     "url": "/static/media/codePieChart.450a9f65.jpg"
+  },
+  {
+    "revision": "61059c38167199adb5b312abdd3cf1ab",
+    "url": "/static/media/codePieChartRandomized.61059c38.gif"
+  },
+  {
+    "revision": "3c532009305f6b79a5b3b1ed94765b39",
+    "url": "/static/media/codeRainbowBalls.3c532009.gif"
   },
   {
     "revision": "ba33aca4f06f1f195db743752a493441",
@@ -904,12 +944,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeRainbowBalls.e90f3199.jpg"
   },
   {
+    "revision": "251a93ca9b7cff02cb351288d25dd8e2",
+    "url": "/static/media/codeSara.251a93ca.gif"
+  },
+  {
     "revision": "70311ea74f39a2d3fc80d6a0532cab41",
     "url": "/static/media/codeSara.70311ea7.png"
   },
   {
     "revision": "f70dd59b6c3a968a50e0aaa2b3de4313",
     "url": "/static/media/codeSara.f70dd59b.jpg"
+  },
+  {
+    "revision": "4be6e4109d104a4d7a4898c3a991fd05",
+    "url": "/static/media/codeTurtleRace.4be6e410.gif"
   },
   {
     "revision": "6346f176d0f9c294ab5c95a02b5ada59",

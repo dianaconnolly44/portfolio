@@ -222,26 +222,29 @@ const menu = [
 					'104eyes',
 					'104bodyCards',
 					'104city',
+
 					'104faces',
+					'104colorSliders',
+					'104dragMouseRainbowBalls',
+
 					'104walkingMan',
 					'104paddleBall',
 					'104yinAndYang',
-					
-					'104colorSliders',
-					'104dragMouseRainbowBalls',
-					
-					
-					'104fourPieChart',
-					'104marioGame',
-					
-					
-					'104saraPortrait',
+
 					'104peaches',
+					'104turtlesRacing',
+					'104marioGame',
+
+					
+
+					'104fourPieChart',
+					'104saraPortrait',
+					'104pinkClock',
+
+					
+
 					'104soundBall',
 					'104flagMountains',
-					'104pinkClock',
-					
-					'104turtlesRacing',
 					
 				]
 			},

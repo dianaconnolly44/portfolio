@@ -20,7 +20,7 @@ export const Page = props => (
       Use your mouse to drag the color sliders.
     </div>
 
-    {/*<p>I built this piece as one of my projects in the computer science course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. In this assignment, we were learning how to .</p>*/}
+    <p>I built this piece as one of my projects in the computer science course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. In this assignment, I used input from three sliders to visualize what the three variables in RGB color codes would interact like when mixed.</p>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

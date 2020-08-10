@@ -17,10 +17,10 @@ export const Page = props => (
     <div className="instructions" style={{ width: 600 }}>
       <b>Instructions</b>
       <br />
-      Hover your mouse over the canvas to move the yin and yang balls.
+      Move your mouse within the above canvas in an X-axis direction.
     </div>
 
-    {/*<p>I built this piece as one of my projects in the computer science course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. In this assignment, we were learning how to .</p>*/}
+    <p>I built this piece as one of my projects in the computer science course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. In this assignment, we were learning how to animate graphics based on the input of the mouse's positional location. The above yin and yang circles respond to the X-axis location of the mouse in opposite ways.</p>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

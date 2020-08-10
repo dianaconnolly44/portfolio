@@ -909,7 +909,7 @@ export const projects = {
 
 	'104bodyCards': {
 		title: `Mismatched`,
-		description: `Randomized permutations of characters with mouse click`,
+		description: `Randomized permutations of characters' cards with mouse click`,
 		pic: `104bodies.gif`,
 		page: codeBodyCards
 	},
@@ -923,13 +923,15 @@ export const projects = {
 
 	'104colorSliders': {
 		title: `RBG Sliders`,
-		pic: `codeColorSliders.jpg`,
+		description: `Scale sliders for red, green, and blue color values with mouse drag`, 
+		pic: `codeColorSliders.gif`,
 		page: codeColorSliders
 	},
 
 	'104dragMouseRainbowBalls': {
 		title: `Rainbow Bubbles`,
-		pic: `codeRainbowBalls.jpg`,
+		description: `Randomized colors, implementation of gravity, and repopulation of bubbles with mouse drag`, 
+		pic: `codeRainbowBalls.gif`,
 		page: codeDragMouseRainbowBalls
 	},
 
@@ -949,70 +951,78 @@ export const projects = {
 
 	'104flagMountains': {
 		title: `King of the Hill`,
-		pic: `codeKingOfTheHill.jpg`,
+		description: `Randomized hill heights are evaluated for highest points, then marked by a flag at those points`, 
+		pic: `codeKingOfTheHill.gif`,
 		page: codeFlagMountains
 	},
 
 	'104fourPieChart': {
 		title: `Randomized Pie Chart`,
-		pic: `codePieChart.jpg`,
+		description: `A pie chart that has randomized segments with randomized values`, 
+		pic: `codePieChartRandomized.gif`,
 		page: codeFourPieChart
 	},
 
 	'104marioGame': {
 		title: `Mario Platformer Game`,
-		pic: `codeMario.jpg`,
+		description: `A recreation of the famous platformer game`, 
+		pic: `codeMario.gif`,
 		page: codeMarioGame
 	},
 
 	'104paddleBall': {
-		title: `Paddle Ball`,
-		description: `Play paddle ball by moving your mouse`,
+		title: `Pong Game`,
+		description: `A game of pong with randomized vertical velocities`,
 		pic: `104paddleBall.gif`,
 		page: codePaddleBall
 	},
 
 	'104peaches': {
 		title: `Geometric Peaches`,
-		pic: `codePeaches.jpg`,
+		description: `Peaches that have a "cardioid" mathematical curve coded into their outlines, rotated with mouse location`, 
+		pic: `codePeaches.gif`,
 		page: codePeaches
 	},
 
 	'104pinkClock': {
 		title: `Clock`,
-		pic: `codeClock.jpg`,
+		description: `Hour, minute, and second accurate clock graphic, using your computer's time zone`, 
+		pic: `codeClock.gif`,
 		page: codePinkClock
 	},
 
 	'104saraPortrait': {
 		title: `Bubble Portrait`,
-		pic: `codeSara.jpg`,
+		description: `A custom paintbrush effect to reveal a portrait image`, 
+		pic: `codeSara.gif`,
 		page: codeSaraPortrait
 	},
 
 	'104soundBall': {
 		title: `Ball Sound Effects`,
-		pic: `codeBallSounds.jpg`,
+		description: `Varying sound effects generated based on where a bouncing ball hits`, 
+		pic: `codeBallSounds.gif`,
 		page: codeSoundBall
 	},
 
 	'104turtlesRacing': {
 		title: `Turtle Race`,
-		pic: `codeTurtleRace.jpg`,
+		description: `"Turtle" elements race each other to finish line, with randomized speeds each time`, 
+		pic: `codeTurtleRace.gif`,
 		page: codeTurtlesRacing
 	},
 
 	'104walkingMan': {
 		title: `Follower`,
-		description: `A walk cycle man will follow your clicks`,
+		description: `A walk cycle character who follows where your mouse clicks`,
 		pic: `104walkCycle.gif`,
 		page: codeWalkingMan
 	},
 
 	'104yinAndYang': {
 		title: `Yin and Yang`,
-		pic: `104oppositeBalls.gif`,
 		description: `Move your mouse to have yin and yang oppose each other like magnets`,
+		pic: `104oppositeBalls.gif`,
 		page: codeYinAndYang
 	},
 

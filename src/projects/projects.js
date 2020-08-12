@@ -143,6 +143,7 @@ import { Page as codeTurtlesRacing } from './pages/codeTurtlesRacing';
 import { Page as codeWalkingMan } from './pages/codeWalkingMan';
 import { Page as codeYinAndYang } from './pages/codeYinAndYang';
 import { Page as codePeaches } from './pages/codePeaches';
+import { Page as tobiiAnimationAssets } from './pages/tobiiAnimationAssets';
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -481,8 +482,8 @@ export const projects = {
 	'assetCreation': {
 		title: `Asset Creation`,
 		description: 'Adobe Illustrator',
-		pic: `assetCreation.jpg`,
-		page: 0
+		pic: `lizAnimation3.gif`,
+		page: tobiiAnimationAssets
 	},
 
 //loops//

@@ -20,8 +20,8 @@ export const Page = props => (
     Mellon University in the course <a target="_blank" href={require('../assets/mixedMedia/imaging_Syllabus.pdf')}>60-160</a>, "2D Media   
     Studio: Imaging". The course helped us first-year students to become familiar and comfortable with digital photo manipulation tools 
     such as Adobe Photoshop. I used this project to practice photo manipulations to create "Darwinian portraits" of my family members. 
-    Charles Darwin famously discovered the finch beaks unique to the Galápagos Islands and used it in support of the theory of evolution. I 
-    used images of Galápagos finches to switch my family members' noses with their famous beaks. This was to highlight the concept of 
+    Charles Darwin famously discovered the finch beaks unique to the Galapagos Islands and used it in support of the theory of evolution. I 
+    used images of Galapagos finches to switch my family members' noses with their famous beaks. This was to highlight the concept of 
     evolution in which each individual finch has developed beaks for their own needs, originating from one same ancestor finch. This is similar 
     to family members, as each originated from the same ancesotrs, but each individual's phenotypes are nonetheless varied and passed on to 
     their subsequent offspring as new variations of the original phenotype.</p>

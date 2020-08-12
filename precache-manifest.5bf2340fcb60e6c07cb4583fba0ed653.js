@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "397b13189baf94db312c034aa5ce3bd7",
+    "revision": "b36fa643e96d1ab30ad4f13f5ac258c1",
     "url": "/index.html"
   },
   {
-    "revision": "ee9de6687edd8388032f",
+    "revision": "e6ddab9d12bc8a658ee9",
     "url": "/static/css/2.37dff9d5.chunk.css"
   },
   {
-    "revision": "2e9a26e2089a563032cc",
+    "revision": "537c2cf36f8bc5a128c3",
     "url": "/static/css/main.5dbd1fe5.chunk.css"
   },
   {
-    "revision": "ee9de6687edd8388032f",
-    "url": "/static/js/2.4f0943dd.chunk.js"
+    "revision": "e6ddab9d12bc8a658ee9",
+    "url": "/static/js/2.189cb573.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.4f0943dd.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.189cb573.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e9a26e2089a563032cc",
-    "url": "/static/js/main.2fef88a3.chunk.js"
+    "revision": "537c2cf36f8bc5a128c3",
+    "url": "/static/js/main.1bb64a8f.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -1224,10 +1224,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/energy.a6f02f79.jpg"
   },
   {
-    "revision": "f49339d392ae4a4af99aa3ef688209b9",
-    "url": "/static/media/english.f49339d3.jpg"
-  },
-  {
     "revision": "46570ba599bb34c003565d8d27be7981",
     "url": "/static/media/esays.46570ba5.JPG"
   },
@@ -1340,6 +1336,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/finches2.467ee581.jpg"
   },
   {
+    "revision": "f68b09580661cc368ce512bffc098f8e",
+    "url": "/static/media/flikidsDutch copy.f68b0958.jpg"
+  },
+  {
+    "revision": "91feeafd3497c6f19aedb2e21043416d",
+    "url": "/static/media/flikidsEnglish.91feeafd.jpg"
+  },
+  {
+    "revision": "38f464c3d0816249c532cf4e2a91ccbb",
+    "url": "/static/media/flikidsFont.38f464c3.jpg"
+  },
+  {
+    "revision": "101514de79b3ed3524d069b7983c8e59",
+    "url": "/static/media/flikidsSpanish.101514de.jpg"
+  },
+  {
+    "revision": "2cb41e3da70a548a89e80bcf959d8e6b",
+    "url": "/static/media/flikidsTurkish.2cb41e3d.jpg"
+  },
+  {
     "revision": "bad53eafa7b0eabe77fe00d509cbe9f7",
     "url": "/static/media/flipfoot.bad53eaf.jpg"
   },
@@ -1366,10 +1382,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6f2b7272801d145d0a641fc7935f7076",
     "url": "/static/media/frameByFrame2.6f2b7272.gif"
-  },
-  {
-    "revision": "a13ee7df0363f20c15e1f385969fb3ea",
-    "url": "/static/media/french.a13ee7df.jpg"
   },
   {
     "revision": "5f41b2eaa34e785dc1ca60d3d7fc15ea",
@@ -1858,10 +1870,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "26d90875146baea607eeb83a0deb32e6",
     "url": "/static/media/near.26d90875.JPG"
-  },
-  {
-    "revision": "736c60034c1c4b42b0a16522b77c53da",
-    "url": "/static/media/netherlands.736c6003.jpg"
   },
   {
     "revision": "fba81fbab0ebf7df524ea23825646018",

@@ -13,22 +13,29 @@ export const Page = props => (
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/elikids/english.jpg')} />
+            <img src={require('../assets/lettering/flikidsEnglish.jpg')} />
             <p>English</p>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/elikids/french.jpg')} />
-            <p>French</p>
+            <img src={require('../assets/lettering/flikidsSpanish.jpg')} />
+            <p>Spanish</p>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/elikids/netherlands.jpg')} />
+            <img src={require('../assets/lettering/flikidsDutch copy.jpg')} />
             <p>Dutch</p>
+        </div>
+    </div>
+
+    <div className="imgs max200">
+        <div>
+            <img src={require('../assets/lettering/flikidsTurkish.jpg')} />
+            <p>Turkish</p>
         </div>
     </div>
 

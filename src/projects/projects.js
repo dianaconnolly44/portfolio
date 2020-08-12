@@ -1344,7 +1344,7 @@ export const projects = {
 'kidFont': {
 		title: `Children's Book Font`,
 		description: `Digital`,
-		pic: `kidFont.jpg`,
+		pic: `flikidsFont.jpg`,
 		page: elikidsFont
 	},
 

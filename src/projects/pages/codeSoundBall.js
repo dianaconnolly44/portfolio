@@ -14,6 +14,12 @@ export const Page = props => (
       />
     </div>
 
+    <div className="instructions" style={{ width: 600 }}>
+      <b>Instructions</b>
+      <br />
+      Click within the canvas to allow the sounds to play.
+    </div>
+
     <p>I built this piece as one of my projects in the computer science course <a href="https://courses.ideate.cmu.edu/15-104/f2016/" target="_blank">15-104</a>, "Coding for Creative Practice" at Carnegie Mellon University. In this assignment, we were learning how to incorporate sound files into our animations, which are caused by certain instances in our animation such as the above ball bouncing off the four walls encompassing it.</p>
 
 

@@ -19,7 +19,8 @@
   margin: 20px 0;
   padding: 0 10px;
 }
-.project .imgs img {
+.project .imgs img,
+.project .imgs video {
   flex-grow: 1;
   flex-shrink: 1;
   max-width: 100%;
@@ -39,14 +40,38 @@
   color: rgb(115,115,155);
   text-align: center;
 }
-.project .imgs.max200 img { max-height: 200px; }
-.project .imgs.max300 img { max-height: 300px; }
-.project .imgs.max400 img { max-height: 400px; }
-.project .imgs.max500 img { max-height: 500px; }
-.project .imgs.max600 img { max-height: 600px; }
-.project .imgs.max700 img { max-height: 700px; }
-.project .imgs.max800 img { max-height: 800px; }
-.project .imgs.max900 img { max-height: 900px; }
+.project .imgs.max200 img,
+.project .imgs.max200 video { 
+  max-height: 200px; 
+}
+.project .imgs.max300 img,
+.project .imgs.max300 video { 
+  max-height: 300px; 
+}
+.project .imgs.max400 img,
+.project .imgs.max400 video { 
+  max-height: 400px; 
+}
+.project .imgs.max500 img,
+.project .imgs.max500 video { 
+  max-height: 500px; 
+}
+.project .imgs.max600 img,
+.project .imgs.max600 video { 
+  max-height: 600px; 
+}
+.project .imgs.max700 img,
+.project .imgs.max700 video { 
+  max-height: 700px; 
+}
+.project .imgs.max800 img,
+.project .imgs.max800 video { 
+  max-height: 800px; 
+}
+.project .imgs.max900 img,
+.project .imgs.max900 video { 
+  max-height: 900px; 
+}
 
 .project > iframe {
   width: 100%;

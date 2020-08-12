@@ -489,73 +489,85 @@ export const projects = {
 //loops//
 
 	'dadMotorcycle': {
-		title: `Dad's Motorcycle`,
+		title: `"Dad's Motorcycle"`,
+		description: 'Adobe After Effects',
 		pic: `dadMotorcyclePurple.gif`,
 		page: dadMotorcycleGIF
 	},
 
 	'banana': {
-		title: `Healthy Food`,
+		title: `"Healthy Food"`,
+		description: 'Adobe After Effects',
 		pic: `banana.gif`,
 		page: jumoBanana
 	},
 
 	'heart': {
 		title: `Anatomical Valentine`,
+		description: 'Adobe After Effects',
 		pic: `heart.gif`,
 		page: anatomicalHeartGIF
 	},
 
 	'skulls': {
-		title: `I Have a Bone to Pick`,
+		title: `"I Have a Bone to Pick"`,
+		description: 'Adobe After Effects',
 		pic: `skulls-small.gif`,
 		page: expiiSkulls
 	},
 
 	'turkey': {
-		title: `Parading Around`,
+		title: `"Parading Around"`,
+		description: 'Adobe After Effects',
 		pic: `turkey-small.gif`,
 		page: expiiTurkey
 	},
 
 	'pumpkins': {
-		title: `Pumpkin Overload`,
+		title: `"Pumpkin Overload"`,
+		description: 'Adobe After Effects',
 		pic: `pumpkins-small.gif`,
 		page: expiiPumpkins
 	},
 
 	'clock': {
-		title: `Save the Day(light)`,
+		title: `"Save the Day(light)"`,
+		description: 'Adobe After Effects',
 		pic: `clock-small.gif`,
 		page: expiiDLS
 	},
 
 	'hanukkah': {
-		title: `Hanukkah Candles`,
+		title: `"Hanukkah Candles"`,
+		description: 'Adobe After Effects',
 		pic: `hanukkah-small.gif`,
 		page: expiiHannukah
 	},
 
 	'bFriday': {
-		title: `Discount Dash`,
+		title: `"Discount Dash"`,
+		description: 'Adobe After Effects',
 		pic: `bFriday-small.gif`,
 		page: expiiBlackFriday
 	},
 
 	'ornaments': {
-		title: `Weigh the Ornaments`,
+		title: `"Weigh the Ornaments"`,
+		description: 'Adobe After Effects',
 		pic: `ornaments-small.gif`,
 		page: expiiOrnaments
 	},
 
 	'ribbon': {
-		title: `Cut the Ribbon`,
+		title: `"Cut the Ribbon"`,
+		description: 'Adobe After Effects',
 		pic: `ribbon-small.gif`,
 		page: expiiRibbon
 	},
 
 	'NYE': {
-		title: `Drop the Ball`,
+		title: `"Drop the Ball"`,
+		description: 'Adobe After Effects',
 		pic: `NYE-small.gif`,
 		page: expiiNYE
 	},
@@ -909,14 +921,14 @@ export const projects = {
 //code//
 
 	'104bodyCards': {
-		title: `Mismatched`,
+		title: `"Mismatched"`,
 		description: `Randomized permutations of characters' cards with mouse click`,
 		pic: `104bodies.gif`,
 		page: codeBodyCards
 	},
 
 	'104city': {
-		title: `City Scape`,
+		title: `"City Scape"`,
 		description: `A city scene with randomized clouds, cars, and planes`,
 		pic: `codeCity.gif`,
 		page: codeCity
@@ -937,7 +949,7 @@ export const projects = {
 	},
 
 	'104eyes': {
-		title: `Raise to Wake`,
+		title: `"Raise to Wake"`,
 		description: `Wake your monster by raising the sun and lowering the moon`,
 		pic: `104eyes.gif`,
 		page: codeRaiseToWake
@@ -951,7 +963,7 @@ export const projects = {
 	},
 
 	'104flagMountains': {
-		title: `King of the Hill`,
+		title: `"King of the Hill"`,
 		description: `Randomized hill heights are evaluated for highest points, then marked by a flag at those points`, 
 		pic: `codeKingOfTheHill.gif`,
 		page: codeFlagMountains
@@ -979,7 +991,7 @@ export const projects = {
 	},
 
 	'104peaches': {
-		title: `Geometric Peaches`,
+		title: `"Geometric Peaches"`,
 		description: `Peaches that have a "cardioid" mathematical curve coded into their outlines, rotated with mouse location`, 
 		pic: `codePeaches.gif`,
 		page: codePeaches
@@ -1014,14 +1026,14 @@ export const projects = {
 	},
 
 	'104walkingMan': {
-		title: `Follower`,
+		title: `"Follower"`,
 		description: `A walk cycle character who follows where your mouse clicks`,
 		pic: `104walkCycle.gif`,
 		page: codeWalkingMan
 	},
 
 	'104yinAndYang': {
-		title: `Yin and Yang`,
+		title: `"Yin and Yang"`,
 		description: `Move your mouse to have yin and yang oppose each other like magnets`,
 		pic: `104oppositeBalls.gif`,
 		page: codeYinAndYang
@@ -1102,7 +1114,7 @@ export const projects = {
 	'infographics': {
 		title: `Infographics`,
 		description: `A collection of infographics on medical topics`,
-		pic: `mps1.jpg`,
+		pic: `mps1_v5.jpg`,
 		page: infographics
 	},
 

@@ -223,8 +223,16 @@ export const Page = props => (
 
     <p> Throughout my schooling years, I discovered my interests in combining my two passions of art and science.
     This was a core theme of my thesis project, as my background education from my dual degree in Cognitive Neuroscience and Art helped me
-    to approach the goal of this project from both an artistic angle, understanding how visuals can impact audiences, as well as a 
-    psychological/biological angle, understanding the ways in which sensorial tools aid in attention and engagement of young and autistic audiences.</p>
+    to approach the goal of this project from both an artistic angle, understanding how visuals can impact audiences, as well as 
+    psychological and biological angles, understanding the ways in which sensorial tools aid in attention and engagement of young and autistic audiences. As mentioned above, the sticker book and icon banner evolved into very effective tools for helping to engage the target audience after implementing the data collected from the rounds of user feedback, and I am pleased with the results of this project.</p>
+
+    <div className="imgs max700">
+       
+        <div>
+            <img src={require('../assets/capstone/versions/capstonePresentation/2.jpeg')} />
+            <p>Presenting the project and its various progressing products at Carnegie Mellon's "Meeting of the Minds" 2017 event</p>
+        </div>
+    </div>
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

@@ -9,7 +9,7 @@
 }
 .about .blue { color: #5ccbf5; }
 .about .pink { color: #ed80da; }
-.about .orange { color: #5967c9; }
+.about .crossover { color: #5967c9; }
 .about .top {
   display: flex;
   align-items: flex-end;
@@ -56,7 +56,10 @@
   color: black;
   text-decoration: underline;
   cursor: pointer;
-  /*font-weight: bold;*/
+  font-weight: bold;
+}
+.about p a:hover {
+  opacity: .8;
 }
 .about .text p {
   margin-top: 0;
@@ -64,17 +67,87 @@
 }
 .about .footer {
   white-space: nowrap;
+  display: flex;
+  align-items: center;
 }
 .about .footer b {
   margin-right: 10px
 }
-.about .footer a {
+.about .footer div {
   margin: 0 8px;
-  /*font-weight: bold;*/
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: .9em;
+  margin-right: 5px;
+  padding: 0;
+  white-space: nowrap;
+  font-weight: bold;
+  color: #5967c9;
+  background: rgba(89, 103, 201, .1);
 }
 .about .footer a:last-of-type {
   margin-right: 0;
 }
+.about .footer div:hover {
+  background: rgba(89, 103, 201, .3);
+  cursor: pointer;
+}
+.about .footer div a {
+  display: inline-block;
+  padding: 8px 12px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.about ul {
+  margin: -5px;
+  padding: 0;
+  margin-top: -10px;
+  margin-bottom: 25px;
+  list-style: none;
+}
+.about li {
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: .9em;
+  margin: 5px;
+  padding: 0;
+  white-space: nowrap;
+}
+.about li:hover {
+  cursor: pointer;
+}
+.about .arrow {
+  transition: margin .15s;
+}
+.about li:hover .arrow,
+.about .footer div:hover .arrow {
+  margin-left: 3px;
+  margin-right: -3px;
+}
+.about ul.blue li {
+  background: rgba(92, 203, 245, .1);
+}
+.about ul.blue li:hover {
+  background: rgba(92, 203, 245, .3);
+}
+.about ul.pink li {
+  background: rgba(237, 128, 218, .1);
+}
+.about ul.pink li:hover {
+  background: rgba(237, 128, 218, .3);
+}
+.about ul li a {
+  display: inline-block;
+  padding: 8px 12px;
+  color: inherit;
+  text-decoration: none;
+}
+
 
 @media only screen and (max-width: 970px) {
   .about img {

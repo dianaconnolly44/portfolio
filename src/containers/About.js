@@ -23,17 +23,28 @@ export default class About extends Component {
           </div>
 
           <div className="body">
-            <p>I have a passion to use my art for <b className="blue">education</b> (e.g. animated <a onClick={e => nav("/videos")}>explainer videos</a>, educational and literacy-oriented <a onClick={e => nav("/childrens")}>children's books</a>, digital <a onClick={e => nav("/expii")}>graphics</a> for an e-learning site), and <b className="pink">communication</b> (e.g. animated <a onClick={e => nav("/loops")}>gifs</a> to convey a topic visually, <a onClick={e => nav("/iconography")}>communication symbols</a> for nonverbal individuals, <a onClick={e => nav("/media")}>editorial illustrations</a> for news and other media).</p>
-            <p>In 2017, I received an <a href="https://www.cmu.edu/interdisciplinary/programs/bha.html" target="_blank">interdisciplinary degree</a> from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I am especially interested in visual perception and how to make the most effective visuals for an intended audience. As Degas put it, "art is not what you see, but what you make others see."</p>
+            <p>In 2017, I received a dual degree from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I have been especially interested in visual perception and how to make the most effective visuals for an intended audience. As Degas put it, "art is not what you see, but what you make others see."</p>
+
+            <p style={{ marginTop: 21 }}>I have a passion to use my art for <b className="blue">education</b>, such as:</p>
+            <ul className="blue">
+              <li><a onClick={e => nav("/childrens")}>educational and literacy oriented children's books <span className="arrow">➜</span></a></li> 
+              <li><a onClick={e => nav("/videos")}>animated explainer videos <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/expii")}>digital graphics for an e-learning site <span className="arrow">➜</span></a></li> 
+            </ul>
+            
+            <p style={{ marginTop: -9 }}>and for <b className="pink">communication</b>, such as:</p>
+            <ul className="pink">
+              <li><a onClick={e => nav("/iconography")}>communication symbols for nonverbal individuals <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/loops")}>animated gifs to convey a topic visually <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/media")}>editorial illustrations for news and other media <span className="arrow">➜</span></a></li>
+            </ul>
           </div>
 
           <div className="footer">
-            <b className="orange">Let's connect!</b> 
-            <a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin</a>
-            //
-            <a target="_blank" href={require('../resume.pdf')}>résumé</a>
-            //
-            <a href="mailto:dianaconnolly44@gmail.com">email</a>
+            <b>Let's connect!</b> 
+            <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
+            <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
+            <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
           </div>
         
 {/*          <section className="hello">

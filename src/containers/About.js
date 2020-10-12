@@ -42,9 +42,11 @@ export default class About extends Component {
 
           <div className="footer">
             <b>Let's connect!</b> 
-            <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
-            <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
-            <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
+            <div className="tags">
+              <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
+              <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
+              <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
+            </div>
           </div>
         
 {/*          <section className="hello">

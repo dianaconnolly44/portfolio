@@ -7,8 +7,10 @@ import { Nav } from './components';
 import { menu, flat } from './projects/menu';
 import { projects } from './projects/projects';
 import { Home, Gallery, About, Project } from './containers';
+import ReactGA from 'react-ga';
 
 require('./app.css');
+ReactGA.initialize('UA-92429223-1');
 
 const MOBILE_DEV = false;
 const history = createBrowserHistory();
@@ -29,6 +31,14 @@ class App extends Component {
 
   componentDidMount = () => {
     document.addEventListener('scroll', this.detectNavScroll);
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }
+
+  componentDidUpdate = prevProps => {
+    // track google analytics page
+    if(prevProps.location !== this.props.location) {
+      ReactGA.pageview(window.location.pathname + window.location.search);
+    }
   }
 
   pageType = () => {

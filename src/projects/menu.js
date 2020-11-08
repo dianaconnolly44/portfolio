@@ -93,28 +93,36 @@ const menu = [
 				id: 'loops',
 				label: 'Loops',
 				projects: [
-					'inktoberMoon',
-					'inktoberApples',
-					'inktoberBouquet',
-					'inktoberFolliage',
-					'inktoberShroomHat',
-					'inktoberPinecone',
 					'inktoberSandWitch',
+					'inktoberPinecone',
+					'inktoberFolliage',
+
+					
+					
 					'inktoberCampfire',
 					'inktoberOwl',
-					'inktoberSpider',
+					'inktoberTrickOrTreat',
 					'inktoberCider',
 					'inktoberShroomPizza',
-					'inktoberAcorns',
 					'inktoberPaperWitch',
-					'inktoberScarf',
-					'inktoberCat',
+
 					'inktoberSweater',
 					'inktoberBat',
 					'inktoberCandyCorn',
+
+					'inktoberCat',
 					'inktoberScarecrow',
+					'inktoberScarf',
+
+					'inktoberApples',
 					'inktoberHauntedHouse',
-					'inktoberTrickOrTreat',
+					'inktoberSpider',
+
+					'inktoberMoon',
+					'inktoberAcorns',
+					//'inktoberBouquet',
+					'inktoberShroomHat',
+
 					'skulls',
 					'turkey',
 					'pumpkins',

@@ -23,6 +23,12 @@ const pageLoader = (
   </div>
 )
 
+const trackGA = () => {
+  if(window.location.hostname !== 'localhost') {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }
+}
+
 class App extends Component {
   state = {
     nav: null
@@ -31,14 +37,12 @@ class App extends Component {
 
   componentDidMount = () => {
     document.addEventListener('scroll', this.detectNavScroll);
-    ReactGA.pageview(window.location.pathname + window.location.search);
+    trackGA();
   }
 
   componentDidUpdate = prevProps => {
     // track google analytics page
-    if(prevProps.location !== this.props.location) {
-      ReactGA.pageview(window.location.pathname + window.location.search);
-    }
+    if(prevProps.location !== this.props.location) trackGA();
   }
 
   pageType = () => {

@@ -574,72 +574,72 @@ export const projects = {
 		title: `Giftober: "Hot Cider"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberCider.gif`,
-		page: inktoberMoon
+		page: inktoberCider
 	},
 	'inktoberShroomPizza': {
 		title: `Giftober: "Mushroom"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberShroomPizza.gif`,
 		page: inktoberShroomPizza
 	},
 	'inktoberAcorns': {
 		title: `Giftober: "Acorns"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberAcorns.gif`,
 		page: inktoberAcorns
 	},
 	'inktoberPaperWitch': {
 		title: `Giftober: "Witch"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberPaperWitch.gif`,
 		page: inktoberPaperWitch
 	},
 	'inktoberScarf': {
 		title: `Giftober: "Scarf"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberScarf.gif`,
 		page: inktoberScarf
 	},
 	'inktoberCat': {
 		title: `Giftober: "Black Cat"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberCat.gif`,
 		page: inktoberCat
 	},
 	'inktoberSweater': {
 		title: `Giftober: "Sweater"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberSweater.gif`,
 		page: inktoberSweater
 	},
 	'inktoberBat': {
 		title: `Giftober: "Bat"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberBat.gif`,
 		page: inktoberBat
 	},
 	'inktoberCandyCorn': {
 		title: `Giftober: "Candy Corn"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberCandyCorn.gif`,
 		page: inktoberCandyCorn
 	},
 	'inktoberScarecrow': {
 		title: `Giftober: "Scarecrow"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberScarecrow.gif`,
 		page: inktoberScarecrow
 	},
 	'inktoberHauntedHouse': {
 		title: `Giftober: "Haunted House"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberHauntedHouse.gif`,
 		page: inktoberHauntedHouse
 	},
 	'inktoberTrickOrTreat': {
 		title: `Giftober: "Trick or Treat"`,
 		description: 'Adobe After Effects',
-		pic: `dadMotorcyclePurple.gif`,
+		pic: `inktoberTrickOrTreat.gif`,
 		page: inktoberTrickOrTreat
 	},
 

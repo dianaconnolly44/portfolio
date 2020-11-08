@@ -32,4 +32,4 @@ git pull
 
 (If aborts and asks to commit changes, do step one of "TO PUBLISH")
 
-(If completes pull but shows a screen saying "Merge..." Type: :wq)
+(If completes pull but shows a screen saying "Merge..." Type anywhere: :wq)

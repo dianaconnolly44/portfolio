@@ -13,24 +13,17 @@ const menu = [
 					'pathways',
 					//'thesis',
 					'frida',
-					
 					'fall',
-					
 					'andreaBook',
 					'bunny',
 					'energy',
 					'color',
 					'trump',
-					
 					'achieve',
 					'activity',
 					'goingForGold',
 					'expii',
 					't1d',
-					
-					
-					
-
 				]
 			},
 
@@ -44,7 +37,6 @@ const menu = [
 					'expiiMedia2',
 					'hotspots',
 					'lloyd',
-					
 					'verdeBaby',
 					'verdeGun',
 					'verdeElephant',
@@ -53,8 +45,6 @@ const menu = [
 					'verdeLips',
 					'verdeOccupy',
 					'verdeInternal',
-										
-
 				]
 			},
 
@@ -66,17 +56,12 @@ const menu = [
 					'tobiiObjects',
 					'tobiiPeople',
 					'tobiiTopographic',
-					
 					'tobiiASL',
 					'tobiiTech',
 					//'tobiiAnimals',
-					
 					'tobiiHospital',
-
 					'expiiIcons',
 					'tobiiAvatars',
-					
-
 				]
 			},
 
@@ -101,7 +86,6 @@ const menu = [
 					'frameByFrame',
 					'transitionScreens',
 					'assetCreation',
-
 				]
 			},
 
@@ -109,7 +93,28 @@ const menu = [
 				id: 'loops',
 				label: 'Loops',
 				projects: [
-					
+					'inktoberMoon',
+					'inktoberApples',
+					'inktoberBouquet',
+					'inktoberFolliage',
+					'inktoberShroomHat',
+					'inktoberPinecone',
+					'inktoberSandWitch',
+					'inktoberCampfire',
+					'inktoberOwl',
+					'inktoberSpider',
+					'inktoberCider',
+					'inktoberShroomPizza',
+					'inktoberAcorns',
+					'inktoberPaperWitch',
+					'inktoberScarf',
+					'inktoberCat',
+					'inktoberSweater',
+					'inktoberBat',
+					'inktoberCandyCorn',
+					'inktoberScarecrow',
+					'inktoberHauntedHouse',
+					'inktoberTrickOrTreat',
 					'skulls',
 					'turkey',
 					'pumpkins',

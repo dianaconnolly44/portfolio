@@ -144,6 +144,28 @@ import { Page as codeWalkingMan } from './pages/codeWalkingMan';
 import { Page as codeYinAndYang } from './pages/codeYinAndYang';
 import { Page as codePeaches } from './pages/codePeaches';
 import { Page as tobiiAnimationAssets } from './pages/tobiiAnimationAssets';
+import { Page as inktoberMoon } from './pages/inktoberMoon';
+import { Page as inktoberApples } from './pages/inktoberApples';
+import { Page as inktoberBouquet } from './pages/inktoberBouquet';
+import { Page as inktoberFolliage } from './pages/inktoberFolliage';
+import { Page as inktoberShroomHat } from './pages/inktoberShroomHat';
+import { Page as inktoberPinecone } from './pages/inktoberPinecone';
+import { Page as inktoberSandWitch } from './pages/inktoberSandWitch';
+import { Page as inktoberCampfire } from './pages/inktoberCampfire';
+import { Page as inktoberOwl } from './pages/inktoberOwl';
+import { Page as inktoberSpider } from './pages/inktoberSpider';
+import { Page as inktoberCider } from './pages/inktoberCider';
+import { Page as inktoberShroomPizza } from './pages/inktoberShroomPizza';
+import { Page as inktoberAcorns } from './pages/inktoberAcorns';
+import { Page as inktoberPaperWitch } from './pages/inktoberPaperWitch';
+import { Page as inktoberScarf } from './pages/inktoberScarf';
+import { Page as inktoberCat } from './pages/inktoberCat';
+import { Page as inktoberSweater } from './pages/inktoberSweater';
+import { Page as inktoberBat } from './pages/inktoberBat';
+import { Page as inktoberCandyCorn } from './pages/inktoberCandyCorn';
+import { Page as inktoberScarecrow } from './pages/inktoberScarecrow';
+import { Page as inktoberHauntedHouse } from './pages/inktoberHauntedHouse';
+import { Page as inktoberTrickOrTreat } from './pages/inktoberTrickOrTreat';
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -487,6 +509,139 @@ export const projects = {
 	},
 
 //loops//
+
+	'inktoberMoon': {
+		title: `Giftober: "Harvest Moon"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberMoon.gif`,
+		page: inktoberMoon
+	},
+	'inktoberApples': {
+		title: `Giftober: "Apple Picking"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberApples.gif`,
+		page: inktoberApples
+	},
+	'inktoberBouquet': {
+		title: `Giftober: "Harvest Bouquet"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberBouquet.gif`,
+		page: inktoberBouquet
+	},
+	'inktoberFolliage': {
+		title: `Giftober: "Fall Folliage"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberFolliage.gif`,
+		page: inktoberFolliage
+	},
+	'inktoberShroomHat': {
+		title: `Giftober: "Mushroom"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberShroomHat.gif`,
+		page: inktoberShroomHat
+	},
+	'inktoberPinecone': {
+		title: `Giftober: "Pinecone"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberPinecone.gif`,
+		page: inktoberPinecone
+	},
+	'inktoberSandWitch': {
+		title: `Giftober: "Witch"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberSandWitch.gif`,
+		page: inktoberSandWitch
+	},
+	'inktoberCampfire': {
+		title: `Giftober: "Campfire"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberCampfire.gif`,
+		page: inktoberCampfire
+	},
+	'inktoberOwl': {
+		title: `Giftober: "Owl"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberOwl.gif`,
+		page: inktoberOwl
+	},
+	'inktoberSpider': {
+		title: `Giftober: "Spiderweb"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberSpider.gif`,
+		page: inktoberSpider
+	},
+	'inktoberCider': {
+		title: `Giftober: "Hot Cider"`,
+		description: 'Adobe After Effects',
+		pic: `inktoberCider.gif`,
+		page: inktoberMoon
+	},
+	'inktoberShroomPizza': {
+		title: `Giftober: "Mushroom"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberShroomPizza
+	},
+	'inktoberAcorns': {
+		title: `Giftober: "Acorns"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberAcorns
+	},
+	'inktoberPaperWitch': {
+		title: `Giftober: "Witch"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberPaperWitch
+	},
+	'inktoberScarf': {
+		title: `Giftober: "Scarf"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberScarf
+	},
+	'inktoberCat': {
+		title: `Giftober: "Black Cat"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberCat
+	},
+	'inktoberSweater': {
+		title: `Giftober: "Sweater"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberSweater
+	},
+	'inktoberBat': {
+		title: `Giftober: "Bat"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberBat
+	},
+	'inktoberCandyCorn': {
+		title: `Giftober: "Candy Corn"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberCandyCorn
+	},
+	'inktoberScarecrow': {
+		title: `Giftober: "Scarecrow"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberScarecrow
+	},
+	'inktoberHauntedHouse': {
+		title: `Giftober: "Haunted House"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberHauntedHouse
+	},
+	'inktoberTrickOrTreat': {
+		title: `Giftober: "Trick or Treat"`,
+		description: 'Adobe After Effects',
+		pic: `dadMotorcyclePurple.gif`,
+		page: inktoberTrickOrTreat
+	},
 
 	'dadMotorcycle': {
 		title: `"Dad's Motorcycle"`,

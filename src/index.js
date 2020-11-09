@@ -6,7 +6,7 @@ import { createBrowserHistory } from 'history';
 import { Nav } from './components';
 import { menu, flat } from './projects/menu';
 import { projects } from './projects/projects';
-import { Home, Gallery, About, Project } from './containers';
+import { Home, Gallery, About, Project, DuoLingoApp } from './containers';
 import ReactGA from 'react-ga';
 
 require('./app.css');
@@ -55,6 +55,8 @@ class App extends Component {
     if(flat.some(path => path.id === page)) return 'gallery';
     // projects
     if(flat.some(path => (path.projects || []).includes(page) && projects[page].page)) return 'project';
+    // apps
+    if(['duolingo'].includes(page)) return page;
     // invalid
     return false;
   }
@@ -78,6 +80,7 @@ class App extends Component {
       if(!type) return page404;
       if(!page) return <Home {...this.props} />;
       if(type === 'about') return <About {...this.props} />;
+      if(type === 'duolingo') return <DuoLingoApp {...this.props} />;
       if(type === 'gallery') {
         let page_title = page, page_subtitle;
         menu.forEach(item => {

@@ -14,46 +14,79 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/childrensIllos/trump/trump3.jpg')} />
-            <p>This is where the president gives speeches.</p>
+            <img 
+                    src={require('../assets/childrensIllos/trump/trump3.jpg')} 
+                    onClick={props.open} 
+                />            
+            <p>"This is where the president gives speeches."</p>
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/trump/trump4.jpg')} 
+                    onClick={props.open} 
+                />            
+            <p>"This room is called the Oval Office. Can you guess why?"</p>
         </div>
     </div>
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/childrensIllos/trump/trump4.jpg')} />
-            <p>This room is called the Oval Office. Can you guess why?</p>
+            <img 
+                    src={require('../assets/childrensIllos/trump/trump6.jpg')} 
+                    onClick={props.open} 
+                />            
+            <p>"This room is called the Blue Room. Can you guess why?"</p>
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/trump/trump7.jpg')} 
+                    onClick={props.open} 
+                />            
+            <p>"This room has a stage."</p>
         </div>
     </div>
 
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/trump/trump6.jpg')} />
-            <p>This room is called the Blue Room. Can you guess why?</p>
-        </div>
-    </div>
+    <h3>Process:</h3>
+    <p>I created versions with both Clinton and Trump, since this book was created before the 2016 election.</p>
 
-    <div className="imgs max600">
+    <div className="imgs max200">
         <div>
-            <img src={require('../assets/childrensIllos/trump/trump7.jpg')} />
-            <p>This room has a stage.</p>
+            <img 
+                src={require('../assets/childrensIllos/trump/hillary2.jpg')} 
+                onClick={props.open} 
+            />
+        </div>
+        <div>
+            <img 
+                src={require('../assets/doubleArrow-01.jpg')} 
+                data-skip-gallery
+            />
+        </div>
+        <div>
+            <img 
+                src={require('../assets/childrensIllos/trump/trump3.jpg')} 
+                onClick={props.open} 
+            />
         </div>
     </div>
-
-    <div className="imgs max300">
+    <div className="imgs max200">
         <div>
-            <img src={require('../assets/childrensIllos/trump/hillary2.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/trump/hillary.jpg')} 
+                onClick={props.open} 
+            />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/trump/trump3.jpg')} />
-        </div>
-    </div>
-    <div className="imgs max300">
-        <div>
-            <img src={require('../assets/childrensIllos/trump/hillary.jpg')} />
+            <img 
+                src={require('../assets/doubleArrow-01.jpg')} 
+                data-skip-gallery
+            />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/trump/trump1.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/trump/trump1.jpg')} 
+                onClick={props.open} 
+            />
         </div>
     </div>
 

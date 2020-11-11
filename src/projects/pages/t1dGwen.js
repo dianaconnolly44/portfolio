@@ -12,11 +12,45 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/t1dGwen.png')} />
+            <img 
+                    src={require('../assets/childrensIllos/t1d/t1dGwen.png')} 
+                    onClick={props.open} 
+                />
         </div>
     </div>
 
-   
+   <h3>Process:</h3>
+
+    <div className="imgs max200">
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/t1d/characterDesign1.png')} 
+                    onClick={props.open} 
+                />
+            <p>Character designing</p>
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/t1d/characterDesign2.png')} 
+                    onClick={props.open} 
+                />
+            <p>Body language</p>
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/t1d/workboard.png')} 
+                    onClick={props.open} 
+                />
+            <p>My workboard</p>
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/t1d/coverPlanning.png')} 
+                    onClick={props.open} 
+                />
+            <p>Layout planning</p>
+        </div>
+    </div>
 
 
 

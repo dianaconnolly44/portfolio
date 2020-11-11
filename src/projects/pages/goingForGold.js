@@ -10,39 +10,52 @@ export const Page = props => (
     main character perseveres and wins the race! During my time as graphic artist intern at Tobii Dynavox, 
     one of my earliest assignments was to do the coloring for the below book, given the black and white outlines.</p>
     
-    <div className="imgs max600">
+    <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/goingForGold/1.png')} />
-            <p>Do you have what it takes to win the race?</p>
+            <img 
+                    src={require('../assets/childrensIllos/goingForGold/1.png')} 
+                    onClick={props.open} 
+                />
+            <p>"Do you have what it takes to win the race?"</p>
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/goingForGold/3.png')} 
+                    onClick={props.open} 
+                />
+            <p>"Coach will show you the way."</p>
         </div>
     </div>
 
-    <div className="imgs max600">
+    <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/goingForGold/3.png')} />
-            <p>Coach will show you the way.</p>
+            <img 
+                    src={require('../assets/childrensIllos/goingForGold/4.png')} 
+                    onClick={props.open} 
+                />
+            <p>"Eat healthy, too."</p>
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/goingForGold/6.png')} 
+                    onClick={props.open} 
+                />
+            <p>"Get a lot of rest."</p>
         </div>
     </div>
 
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/goingForGold/4.png')} />
-            <p>Eat healthy, too.</p>
-        </div>
-    </div>
+    <h3>Process:</h3>
 
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/goingForGold/6.png')} />
-            <p>Get a lot of rest.</p>
-        </div>
-    </div>
-
-
-    <div className="imgs max300">
+    <div className="imgs max200">
         <div>
             <img src={require('../assets/childrensIllos/goingForGold/b&w.jpg')} />
             <p>Black & white outlines</p>
+        </div>
+        <div>
+            <img 
+                src={require('../assets/arrow-01.jpg')} 
+                data-skip-gallery
+            />
         </div>
         <div>
             <img src={require('../assets/childrensIllos/goingForGold/color.jpg')} />

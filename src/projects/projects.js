@@ -166,6 +166,7 @@ import { Page as inktoberCandyCorn } from './pages/inktoberCandyCorn';
 import { Page as inktoberScarecrow } from './pages/inktoberScarecrow';
 import { Page as inktoberHauntedHouse } from './pages/inktoberHauntedHouse';
 import { Page as inktoberTrickOrTreat } from './pages/inktoberTrickOrTreat';
+import { Page as Hbook } from './pages/Hbook';
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -199,7 +200,7 @@ export const projects = {
 	},
 
 	'frida': {
-		title: `"Who Was Frida Kahlo?"`,
+		title: `"Who Is Frida Kahlo?"`,
 		description: `Educational book about Kahlo's life and legacy`,
 		pic: `frida.jpg`,
 		page: frida
@@ -294,6 +295,13 @@ export const projects = {
 		description: `Story book about running and competition`,
 		pic: `goingForGold.jpg`,
 		page: goingForGold
+	},
+
+	'Hbook': {
+		title: `"The 25 Book"`,
+		description: `A children's book style biography of my 25-year-old partner`,
+		pic: `Hbook.jpg`,
+		page: Hbook
 	},
 
 

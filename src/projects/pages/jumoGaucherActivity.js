@@ -10,28 +10,33 @@ export const Page = props => (
     preschool age readers. The below activity book is intended to help those young readers stay entertained during their 
     doctor visits for participation in a clinical trial relating to their health condition.</p>
 
-
-    <div className="imgs max600">
+    <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucherActivity/1.png')} />
+            <img 
+                    src={require('../assets/childrensIllos/gaucherActivity/1-01.png')} 
+                    onClick={props.open} 
+                />
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/gaucherActivity/2_v2-01.png')} 
+                    onClick={props.open} 
+                />
         </div>
     </div>
 
-    <div className="imgs max600">
+    <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucherActivity/2_v2.png')} />
+            <img 
+                    src={require('../assets/childrensIllos/gaucherActivity/3-01.png')} 
+                    onClick={props.open} 
+                />
         </div>
-    </div>
-
-    <div className="imgs max600">
         <div>
-            <img src={require('../assets/childrensIllos/gaucherActivity/3.png')} />
-        </div>
-    </div>
-
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/gaucherActivity/4_v2-01.png')} />
+            <img 
+                    src={require('../assets/childrensIllos/gaucherActivity/4_v2-01-01.png')} 
+                    onClick={props.open} 
+                />
         </div>
     </div>
 

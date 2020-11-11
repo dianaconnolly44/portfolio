@@ -13,50 +13,78 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/1.jpg')} />
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/1.jpg')} 
+                    onClick={props.open} 
+                />
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/3.jpg')} 
+                    onClick={props.open} 
+                />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/3.jpg')} />
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/4.jpg')} 
+                    onClick={props.open} 
+                />
+        </div>
+        <div> 
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/6.jpg')} 
+                    onClick={props.open} 
+                />
         </div>
     </div>
 
-    <div className="imgs max700">
-        <div>
-            <img src={require('../assets/childrensIllos/perfectDay/4.jpg')} />
-        </div>
-    </div>
-
-    <div className="imgs max700">
-        <div>
-            <img src={require('../assets/childrensIllos/perfectDay/6.jpg')} />
-        </div>
-    </div>
-
+    <h3>Process:</h3>
     
-    <div className="imgs max300">
+    <div className="imgs max200">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch4.jpg')} />
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/sketch4.jpg')} 
+                    onClick={props.open} 
+                />
             <p>Version 1</p>
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch5.jpg')} />
-            <p>Warmer colors, and simpler shapes</p>
+            <img 
+                src={require('../assets/arrow-01.jpg')} 
+                data-skip-gallery
+            />
+        </div>
+        <div>
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/sketch5.jpg')} 
+                    onClick={props.open} 
+                />
+            <p>Version 2 - warmer colors, simpler shapes</p>
         </div>
     </div>
 
-    <div className="imgs max300">
+    <div className="imgs max200">
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch1.jpg')} />
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/sketch1.jpg')} 
+                    onClick={props.open} 
+                />
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch2.jpg')} />
-            <p>Zoey character</p>
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/sketch2.jpg')} 
+                    onClick={props.open} 
+                />
+            <p>Zoey character - designed to be star of book</p>
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/perfectDay/sketch3.jpg')} />
+            <img 
+                    src={require('../assets/childrensIllos/perfectDay/sketch3.jpg')} 
+                    onClick={props.open} 
+                />
         </div>
     </div>
 

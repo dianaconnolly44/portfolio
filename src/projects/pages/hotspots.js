@@ -12,7 +12,10 @@ export const Page = props => (
 
     <div className="imgs max300">
             <div>
-                <img src={require('../assets/hotspots/hotspotExample.jpg')} />
+                <img 
+                src={require('../assets/hotspots/hotspotExample.jpg')} 
+                data-skip-gallery
+                 />
             </div>
     </div>
 
@@ -22,49 +25,83 @@ export const Page = props => (
 
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/hotspots/CFTRchannel.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/CFTRchannel.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
             <div>
-                <img src={require('../assets/hotspots/CF.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/CF.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
             <div>
-                <img src={require('../assets/hotspots/crohns2.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/crohns2.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
             <div>
-                <img src={require('../assets/hotspots/crohns3.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/crohns3.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
     </div>
-    
-    <div className="imgs max500">
-            <div>
-                <img src={require('../assets/hotspots/crohns4.jpg')} />
-            </div>
-            <div>
-                            <img src={require('../assets/hotspots/ppl.jpg')} />
 
-            </div>
-            <div>
-                <img src={require('../assets/hotspots/hobbies.jpg')} />
-            </div>
-            <div>
-                            <img src={require('../assets/hotspots/crohns.jpg')} />
-            </div>
-    </div>
-    
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/hotspots/hemophilia.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/crohns4.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
             <div>
-                <img src={require('../assets/hotspots/medStaff1.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/ppl.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
             <div>
-                <img src={require('../assets/hotspots/medStaff2.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/hobbies.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
             <div>
-                <img src={require('../assets/hotspots/nutrients.jpg')} />
+                <img 
+                    src={require('../assets/hotspots/crohns.jpg')} 
+                    onClick={props.open} 
+                />
             </div>
-            
+    </div>
+
+    <div className="imgs max500">
+            <div>
+                <img 
+                    src={require('../assets/hotspots/hemophilia.jpg')} 
+                    onClick={props.open} 
+                />
+            </div>
+            <div>
+                <img 
+                    src={require('../assets/hotspots/medStaff1.jpg')} 
+                    onClick={props.open} 
+                />
+            </div>
+            <div>
+                <img 
+                    src={require('../assets/hotspots/medStaff2.jpg')} 
+                    onClick={props.open} 
+                />
+            </div>
+            <div>
+                <img 
+                    src={require('../assets/hotspots/nutrients.jpg')} 
+                    onClick={props.open} 
+                />
+            </div>
     </div>
     
 <br/>

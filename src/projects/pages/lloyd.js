@@ -12,41 +12,62 @@ export const Page = props => (
     design of his prog rock album "The Eleventh Hour," I selected typeface and illustrated imagery 
     to fit his album's theme of intensity and time. Some of my preliminary sketches and the album's Spotify sample are included below.</p>
 
-    <div className="imgs max700">
+    <div className="imgs max600">
         <div>
-            <img src={require('../assets/lloyd/lloyd_hires.jpg')} />
+            <img 
+                    src={require('../assets/lloyd/lloyd_hires.jpg')} 
+                    onClick={props.open} 
+                />
         </div>
     </div>
 
 
     <p>Some other sketches:</p>
 
-    <div className="imgs max300">
+    <div className="imgs max200">
         <div>
-            <img src={require('../assets/lloyd/bloodyClock.jpg')} />
+            <img 
+                src={require('../assets/lloyd/bloodyClock.jpg')} 
+                data-skip-gallery
+            />            
             <p>Photo manipulation</p>
         </div>
         <div>
-            <img src={require('../assets/lloyd/fractal.jpg')} />
+            <img 
+                src={require('../assets/lloyd/fractal.jpg')} 
+                data-skip-gallery
+            />
             <p>Fractal art</p>
         </div>
         <div>
-            <img src={require('../assets/lloyd/glow.jpg')} />
+            <img 
+                src={require('../assets/lloyd/glow.jpg')} 
+                data-skip-gallery
+            />
             <p>Fractal art</p>
         </div>
     </div>
-    <div className="imgs max300">
+    <div className="imgs max200">
         <div>
-            <img src={require('../assets/lloyd/collage.jpg')} />
+            <img 
+                src={require('../assets/lloyd/collage.jpg')} 
+                data-skip-gallery
+            />
             <p>Sketch in Adobe Illustrator</p>
         </div>
         <div>
-            <img src={require('../assets/lloyd/punchy.jpg')} />
+            <img 
+                src={require('../assets/lloyd/punchy.jpg')} 
+                data-skip-gallery
+            />
             <p>Sketch in Adobe Illustrator</p>
         </div>
         <div>
-            <img src={require('../assets/lloyd/swan.jpg')} />
-            <p>When Lloyd pondered title "Black Swan"</p>
+            <img 
+                src={require('../assets/lloyd/swan.jpg')} 
+                data-skip-gallery
+            />
+            <p>Option for if titled "Black Swan"</p>
         </div>
     </div>
 

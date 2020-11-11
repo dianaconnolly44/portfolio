@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "608c1709048372e5f19fbe49448e6bd1",
+    "revision": "9c4c65222f95350470185ef80251eb89",
     "url": "/index.html"
   },
   {
-    "revision": "568945c963f00e867dfd",
+    "revision": "41d969c263144c28b780",
     "url": "/static/css/2.37dff9d5.chunk.css"
   },
   {
-    "revision": "0b43eaec310bc4d80362",
+    "revision": "d8cf5383e2fbf6897a45",
     "url": "/static/css/main.69c9ff2d.chunk.css"
   },
   {
-    "revision": "568945c963f00e867dfd",
-    "url": "/static/js/2.f505569f.chunk.js"
+    "revision": "41d969c263144c28b780",
+    "url": "/static/js/2.da96dade.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.f505569f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.da96dade.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b43eaec310bc4d80362",
-    "url": "/static/js/main.8854fbfb.chunk.js"
+    "revision": "d8cf5383e2fbf6897a45",
+    "url": "/static/js/main.4e746a6a.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -580,10 +580,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/animalsGrid-01.7b3bbbb1.jpg"
   },
   {
-    "revision": "2243d7d765253b0f18cb238ba3956250",
-    "url": "/static/media/appropriation.2243d7d7.jpg"
-  },
-  {
     "revision": "bd202d2c4db94664ac864bedd5a1e526",
     "url": "/static/media/arrow-01.bd202d2c.jpg"
   },
@@ -700,10 +696,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/birb.f39ec99a.jpg"
   },
   {
-    "revision": "3d80ac894ab4fab19fd7841a8881fe4b",
-    "url": "/static/media/birthControl.3d80ac89.jpg"
-  },
-  {
     "revision": "701f69b727a9147f2c8d1310aeabf03f",
     "url": "/static/media/blackFriday.701f69b7.jpg"
   },
@@ -784,24 +776,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/boyBands2.948cffd0.jpg"
   },
   {
-    "revision": "1a004f4d7fc2220e09b74b781488efb1",
-    "url": "/static/media/bullying.1a004f4d.jpg"
-  },
-  {
-    "revision": "61a0e5197695913c5f5e16f641d209cc",
-    "url": "/static/media/bullying2.61a0e519.jpg"
-  },
-  {
     "revision": "90a223d6670b930ef3d8062412e17449",
     "url": "/static/media/bunny.90a223d6.jpg"
   },
   {
     "revision": "7fa591db9208e31293eaa808007c86d2",
     "url": "/static/media/cal.7fa591db.jpg"
-  },
-  {
-    "revision": "215aded3e7da02e77f9716a9e99cb0a1",
-    "url": "/static/media/carbonFootprint.215aded3.jpg"
   },
   {
     "revision": "d4c3328e7a697263ab27c55eadee1703",
@@ -1032,10 +1012,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/computerMockup.3dd7c47f.png"
   },
   {
-    "revision": "d3f67b8702801f4f9d67c4b103f9b180",
-    "url": "/static/media/conservatism.d3f67b87.jpg"
-  },
-  {
     "revision": "d80417cbba119aa61923cc32cce3f46d",
     "url": "/static/media/conservatism2.d80417cb.jpg"
   },
@@ -1082,10 +1058,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "665c27dc92bcfee9cce514c83c770a91",
     "url": "/static/media/crohns4.665c27dc.jpg"
-  },
-  {
-    "revision": "dfffae9d51f0d01a1e8a825d342fbe37",
-    "url": "/static/media/curfew.dfffae9d.jpg"
   },
   {
     "revision": "0d20f9f57d5f1b5898d59b32dd40e18b",
@@ -1312,18 +1284,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fallOrange.c81e4762.jpg"
   },
   {
-    "revision": "024220582ab7201083f35d701f894d78",
-    "url": "/static/media/fbDiary.02422058.jpg"
-  },
-  {
-    "revision": "14c33843e5b9b6ee5a0d16a67dc2f917",
-    "url": "/static/media/femaleDraft.14c33843.jpg"
-  },
-  {
-    "revision": "dc5e6952773f2878c7e0fbdd515c8755",
-    "url": "/static/media/fieldTrips.dc5e6952.jpg"
-  },
-  {
     "revision": "9deae273a4998c61f2bef3cde5055d33",
     "url": "/static/media/figure1.9deae273.jpg"
   },
@@ -1408,10 +1368,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/flyerMMS.c4e2380e.jpg"
   },
   {
-    "revision": "40e9a7ad99d7f1522b99734fc22e7844",
-    "url": "/static/media/foodAllergy.40e9a7ad.jpg"
-  },
-  {
     "revision": "a76e4756ac4abacc4206eb3044dd99b1",
     "url": "/static/media/fractal.a76e4756.jpg"
   },
@@ -1468,28 +1424,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/grid2.0b793043.jpg"
   },
   {
-    "revision": "27170cdf4406cab7b972d2b5d947787b",
-    "url": "/static/media/gun.27170cdf.jpg"
-  },
-  {
     "revision": "2a4c8d3608fc29441fe33bc4fc57e492",
     "url": "/static/media/hairGod.2a4c8d36.jpg"
-  },
-  {
-    "revision": "390b7597096846030b5fa2e1349f1bba",
-    "url": "/static/media/halloweenArticle.390b7597.jpg"
-  },
-  {
-    "revision": "9f52419dbdb473e7940a15a459d6215f",
-    "url": "/static/media/halloweenMovies.9f52419d.jpg"
-  },
-  {
-    "revision": "6ebca97abb5b96ce67a13f2810b457de",
-    "url": "/static/media/halloweenPainting.6ebca97a.jpg"
-  },
-  {
-    "revision": "bee9de5811631670cf331160c40a13c1",
-    "url": "/static/media/halloweenTOC.bee9de58.jpg"
   },
   {
     "revision": "6d3662460c3931921db6366535929c4a",
@@ -1724,10 +1660,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jackson.dbde9451.jpg"
   },
   {
-    "revision": "9ce3b97230e3b26e7cfb705681f86571",
-    "url": "/static/media/jailbreak.9ce3b972.jpg"
-  },
-  {
     "revision": "1f3d0f8482559dad96fa45a0ba495f0d",
     "url": "/static/media/joker.1f3d0f84.jpg"
   },
@@ -1908,8 +1840,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/melted.453be369.jpeg"
   },
   {
-    "revision": "75560861d073837212634c3a3cca9076",
-    "url": "/static/media/memes.75560861.jpg"
+    "revision": "665cc6531bf255747d29b6377714e318",
+    "url": "/static/media/memes.665cc653.jpg"
   },
   {
     "revision": "8565a0d2e3a5b0808ceb92b4bcfda1b8",
@@ -2000,14 +1932,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mps1_v5.9db30769.jpg"
   },
   {
-    "revision": "5de8e620f0ec9184b043e65ebcabd171",
-    "url": "/static/media/musicPerformance.5de8e620.jpg"
-  },
-  {
-    "revision": "39a99852fd009c8b09eb72d66aa835a0",
-    "url": "/static/media/musicPerformance2.39a99852.jpg"
-  },
-  {
     "revision": "bb5020d558ce84b45d13e19821c5dacc",
     "url": "/static/media/nail-nyc.bb5020d5.jpg"
   },
@@ -2032,10 +1956,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nyeBig.c1897588.gif"
   },
   {
-    "revision": "74c81baee923f19f6cd306bc9f65e966",
-    "url": "/static/media/obamaCharicature.74c81bae.jpg"
-  },
-  {
     "revision": "3e33594d076a75be8ac6f4ad8045240c",
     "url": "/static/media/objectsGrid-01.3e33594d.jpg"
   },
@@ -2054,10 +1974,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8861255e18d0bdc6f864e1f9d21b7f4a",
     "url": "/static/media/onlineShopping.8861255e.jpg"
-  },
-  {
-    "revision": "8bb31fc9043a308214a6756e611d4f7c",
-    "url": "/static/media/onlineTextbooks.8bb31fc9.jpg"
   },
   {
     "revision": "bba00caffebf3a95a8719cda8579df6b",
@@ -2120,10 +2036,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/phenotype.deb0f8f8.jpg"
   },
   {
-    "revision": "977c7b053c516b18c2d6466042d00f54",
-    "url": "/static/media/phoneApps.977c7b05.jpg"
-  },
-  {
     "revision": "1ccd8c38ea28dcdfafe77ba397dd6d75",
     "url": "/static/media/pier.1ccd8c38.jpg"
   },
@@ -2146,18 +2058,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "63bb8dbb594db09de3d87490ec7b1ce5",
     "url": "/static/media/plane_s.63bb8dbb.jpg"
-  },
-  {
-    "revision": "141a45002c1831813d3bca1aa60a5c73",
-    "url": "/static/media/politicalTV.141a4500.jpg"
-  },
-  {
-    "revision": "b5514f3c8c700dfa9e2f571ded0bcacc",
-    "url": "/static/media/politicalTV2.b5514f3c.jpg"
-  },
-  {
-    "revision": "ac5a3e1caeebbafe5dd4a2517cb8318a",
-    "url": "/static/media/politics.ac5a3e1c.jpg"
   },
   {
     "revision": "503681618343bd103f53cbad8fe3b8ec",
@@ -2210,10 +2110,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71a974a52e42a43b5e3b9e506c492f4d",
     "url": "/static/media/psPerks3.71a974a5.jpeg"
-  },
-  {
-    "revision": "de35924e6b56c41c2f77cb5a33b8e044",
-    "url": "/static/media/publicVprivateSchool.de35924e.jpg"
   },
   {
     "revision": "73a6106cba7b16e5e5d65d25b1934f1a",
@@ -2660,10 +2556,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/turkey.4135609b.jpg"
   },
   {
-    "revision": "ad450ee5d109450f877a47ce15cb407f",
-    "url": "/static/media/tv.ad450ee5.jpg"
-  },
-  {
     "revision": "2aff93ae16358ee5dd74aa98ff5e02c2",
     "url": "/static/media/urn.2aff93ae.jpg"
   },
@@ -2702,10 +2594,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "544077278b8952961cacc345b2e46d34",
     "url": "/static/media/vday3.54407727.jpeg"
-  },
-  {
-    "revision": "510a13fcd91f01e3a5a83588c56fff98",
-    "url": "/static/media/veggies.510a13fc.jpg"
   },
   {
     "revision": "2905214ad29d97ff56fb2dfb51b63e36",

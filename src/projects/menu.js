@@ -24,6 +24,7 @@ const menu = [
 					'goingForGold',
 					'expii',
 					't1d',
+					'Hbook',
 				]
 			},
 

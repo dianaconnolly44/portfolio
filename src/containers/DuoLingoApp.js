@@ -9,7 +9,7 @@ export default class DuoLingoApp extends Component {
     const nav = url => this.props.history.push(url);
 
     return (
-      <div className="about">
+      <div className="about job-app">
         <div>
           <div className="top">
             <img src={require('../headshot2_v2.gif')} />
@@ -23,13 +23,14 @@ export default class DuoLingoApp extends Component {
           </div>
 
           <div className="body">
-            <p>In 2017, I received a dual degree from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I have been especially interested in visual perception and how to make the most effective visuals for an intended audience. As Degas put it, "art is not what you see, but what you make others see."</p>
+            <p>Welcome, Duolingo recruiter! I am so happy to have you here on my portfolio website. I have collected for you below my animation demo reel as well as a few links to some relevant works on this website. Thank you, and have a great day!</p>
 
             <div className="project">
+
               <h3>Demo Reel</h3>
               <div className="video">
                 <iframe 
-                  src="https://www.youtube.com/embed/ohu9O_62gas" 
+                  src="https://www.youtube.com/embed/Mrckc2JDkm0" 
                   frameborder="0" 
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
                   allowfullscreen 
@@ -37,18 +38,18 @@ export default class DuoLingoApp extends Component {
               </div>
             </div>
 
-            <p style={{ marginTop: 21 }}>I have a passion to use my iol for <b className="blue">education</b>, such as:</p>
+              
+              <h3>Projects</h3>
+            <p style={{ marginTop: 21 }}>You might want to check out these <b className="blue">illustration</b> projects:</p>
             <ul className="blue">
-              <li><a onClick={e => nav("/childrens")}>educational and literacy oriented children's books <span className="arrow">➜</span></a></li> 
-              <li><a onClick={e => nav("/videos")}>animated explainer videos <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/expii")}>digital graphics for an e-learning site <span className="arrow">➜</span></a></li> 
+              <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li> 
+              <li><a onClick={e => nav("/iconography")}>icons and symbols <span className="arrow">➜</span></a></li>
             </ul>
             
-            <p style={{ marginTop: -9 }}>and for <b className="pink">communication</b>, such as:</p>
+            <p style={{ marginTop: -9 }}>You can find my <b className="pink">animation</b> projects here:</p>
             <ul className="pink">
-              <li><a onClick={e => nav("/iconography")}>communication symbols for nonverbal individuals <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/loops")}>animated gifs to convey a topic visually <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/media")}>editorial illustrations for news and other media <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/loops")}>loops <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/videos")}>videos <span className="arrow">➜</span></a></li>
             </ul>
           </div>
 
@@ -58,6 +59,7 @@ export default class DuoLingoApp extends Component {
               <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
               <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
               <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
+              <div><a onClick={e => nav("/about")}>about me <span className="arrow">➜</span></a></div>
             </div>
           </div>
         

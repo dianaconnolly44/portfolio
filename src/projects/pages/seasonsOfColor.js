@@ -13,36 +13,48 @@ export const Page = props => (
     
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/childrensIllos/seasonsOfColor/fallOrange.jpg')} />
-            <p>Fall is an orange season. The trees are orange. There are pumpkins, and leaves changing color.</p>
+            <img 
+                src={require('../assets/childrensIllos/seasonsOfColor/fallOrange.jpg')} 
+                onClick={props.open} 
+            />
+            <p>"Fall is an orange season. The trees are orange. There are pumpkins, and leaves changing color."</p>
+        </div>
+        <div>
+            <img 
+                src={require('../assets/childrensIllos/seasonsOfColor/winterWhite.jpg')} 
+                onClick={props.open} 
+            />
+            <p>"Winter is a white season. The snow is white. The sky is white. And my fur boots are, too!"</p>
         </div>
     </div>
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/childrensIllos/seasonsOfColor/winterWhite.jpg')} />
-            <p>Winter is a white season. The snow is white. The sky is white. And my fur boots are, too!</p>
+            <img 
+                src={require('../assets/childrensIllos/seasonsOfColor/springGreen.jpg')} 
+                onClick={props.open} 
+            />
+            <p>"Spring is a green season. The trees grow green leaves. All of the parks look green."</p>
+        </div>
+        <div>
+            <img 
+                src={require('../assets/childrensIllos/seasonsOfColor/summerBlue.jpg')} 
+                onClick={props.open} 
+            />
+            <p>"Summer is a blue season. The water is blue. The sky is too. The city looks blue in summer."</p>
         </div>
     </div>
 
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/seasonsOfColor/springGreen.jpg')} />
-            <p>Spring is a green season. The trees grow green leaves. All of the parks look green.</p>
-        </div>
-    </div>
-
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/seasonsOfColor/summerBlue.jpg')} />
-            <p>Summer is a blue season. The water is blue. The sky is too. The city looks blue in summer.</p>
-        </div>
-    </div>
+    <h3>Process:</h3>
 
 
-    <div className="imgs max400">
+    <div className="imgs max200">
         <div>
-            <img src={require('../assets/childrensIllos/seasonsOfColor/characterDesign-01.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/seasonsOfColor/characterDesign-01.jpg')} 
+                onClick={props.open} 
+            />
+            <p>Character design</p>
         </div>
     </div>
 

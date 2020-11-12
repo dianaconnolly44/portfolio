@@ -16,37 +16,44 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/childrensIllos/pathways/1.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/pathways/3.jpg')} 
+                onClick={props.open} 
+            />
+        </div>
+        <div>
+            <img 
+                src={require('../assets/childrensIllos/pathways/1.jpg')} 
+                onClick={props.open} 
+            />
         </div>
     </div>
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/childrensIllos/pathways/2.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/pathways/2.jpg')} 
+                onClick={props.open} 
+            />
+        </div>
+        <div>
+            <img 
+                src={require('../assets/childrensIllos/pathways/4.jpg')} 
+                onClick={props.open} 
+            />
         </div>
     </div>
+   
+    <h3>Process:</h3>
 
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/pathways/3.jpg')} />
-        </div>
-    </div>
 
-    <div className="imgs max600">
+    <div className="imgs max300">
         <div>
-            <img src={require('../assets/childrensIllos/pathways/4.jpg')} />
-        </div>
-    </div>
-
-    <div className="imgs max600">
-        <div>
-            <img src={require('../assets/childrensIllos/pathways/sketch1.jpg')} />
-        </div>
-        <div>
-            <img src={require('../assets/childrensIllos/pathways/sketch2.jpg')} />
-        </div>
-        <div>
-            <img src={require('../assets/childrensIllos/pathways/sketch3.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/pathways/sketch1.jpg')} 
+                onClick={props.open} 
+            />
+            <p>Character design</p>
         </div>
     </div>
 
@@ -55,3 +62,11 @@ export const Page = props => (
 
   </div>
 )
+
+
+//<div>
+//            <img src={require('../assets/childrensIllos/pathways/sketch2.jpg')} />
+//        </div>
+//        <div>
+//            <img src={require('../assets/childrensIllos/pathways/sketch3.jpg')} />
+//        </div>

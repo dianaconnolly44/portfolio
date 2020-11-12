@@ -16,7 +16,10 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/verde/covers/verdeSweetheart.jpg')} />
+            <img 
+                src={require('../assets/verde/covers/verdeSweetheart.jpg')} 
+                onClick={props.open}
+            />
         </div>
     </div>
 

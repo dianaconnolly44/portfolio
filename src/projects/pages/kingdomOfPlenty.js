@@ -11,14 +11,23 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/kingdomOfPlenty/KOP.jpg')} />
+            <img 
+                    src={require('../assets/childrensIllos/kingdomOfPlenty/KOP.jpg')} 
+                    onClick={props.open} 
+                />
+            <p>Final cover image</p>
         </div>
     </div>
 
-    <div className="imgs max700">
+    <h3>Process:</h3>
+
+    <div className="imgs max300">
         <div>
-            <img src={require('../assets/childrensIllos/kingdomOfPlenty/sketch.jpg')} />
-            <p>Sketch</p>
+            <img 
+                    src={require('../assets/childrensIllos/kingdomOfPlenty/sketch.jpg')} 
+                    onClick={props.open} 
+                />
+            <p>Planning sketch</p>
         </div>
     </div>
 

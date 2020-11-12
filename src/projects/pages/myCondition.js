@@ -29,37 +29,61 @@ export const Page = props => (
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/1.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/gaucher/1.jpg')} 
+                onClick={props.open} 
+            />
+        </div>
+        <div>
+            <img 
+                src={require('../assets/childrensIllos/gaucher/2.jpg')} 
+                onClick={props.open} 
+            />
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/2.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/gaucher/3.jpg')} 
+                onClick={props.open} 
+            />
         </div>
-    </div>
-
-    <div className="imgs max700">
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/3.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/gaucher/6_v2.jpg')} 
+                onClick={props.open} 
+            />
         </div>
     </div>
 
-    <div className="imgs max700">
-        <div>
-            <img src={require('../assets/childrensIllos/gaucher/6_v2.jpg')} />
-        </div>
-    </div>
-
+<<<<<<< HEAD
     <div className="imgs max200 centered">
+=======
+<h3>Process:</h3>
+
+    <div className="imgs max800">
+>>>>>>> 5c699d35e6235d64f35b45751c005ab48519578f
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/sketch1.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/gaucher/sketch1.jpg')} 
+                onClick={props.open} 
+            />
+            <p>Character design</p>
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/sketch2.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/gaucher/sketch2.jpg')} 
+                onClick={props.open} 
+            />
+            <p>Robot and character design</p>
         </div>
         <div>
-            <img src={require('../assets/childrensIllos/gaucher/sketch3.jpg')} />
+            <img 
+                src={require('../assets/childrensIllos/gaucher/sketch3.jpg')} 
+                onClick={props.open} 
+            />
+            <p>Page sketch</p>
         </div>
     </div>
 

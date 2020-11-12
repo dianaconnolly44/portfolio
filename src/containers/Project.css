@@ -87,8 +87,24 @@
   flex-shrink: 1;
   width: auto;
 }
-.project .imgs div:first-child:last-child {
+.project .imgs.no-gap div {
   padding: 0;
+}
+.project .imgs.no-gap div:not(:first-child) img,
+.project .imgs.no-gap div:not(:first-child) video {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+.project .imgs.no-gap div:not(:last-child) img,
+.project .imgs.no-gap div:not(:last-child) video {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+.project .imgs div:first-child {
+  padding-left: 0;
+}
+.project .imgs div:last-child {
+  padding-right: 0;
 }
 .project .imgs img,
 .project .imgs video {

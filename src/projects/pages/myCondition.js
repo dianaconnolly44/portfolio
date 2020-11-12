@@ -42,7 +42,7 @@ export const Page = props => (
         </div>
     </div>
 
-    <div className="imgs max700">
+    <div className="imgs max700 no-gap">
         <div>
             <img 
                 src={require('../assets/childrensIllos/gaucher/3.jpg')} 
@@ -57,13 +57,9 @@ export const Page = props => (
         </div>
     </div>
 
-<<<<<<< HEAD
-    <div className="imgs max200 centered">
-=======
 <h3>Process:</h3>
 
-    <div className="imgs max800">
->>>>>>> 5c699d35e6235d64f35b45751c005ab48519578f
+    <div className="imgs max200 centered">
         <div>
             <img 
                 src={require('../assets/childrensIllos/gaucher/sketch1.jpg')} 

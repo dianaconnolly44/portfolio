@@ -5,13 +5,15 @@ import Lightbox from "react-awesome-lightbox";
 
 import './Project.css';
 import 'react-awesome-lightbox/build/style.css';
+import 'react-slideshow-image/dist/styles.css';
+
 
 export default class Project extends Component {
   state = {}
   meta = {}
 
   componentDidMount = () => {
-    const imgGroups = [...document.querySelectorAll('.imgs')];
+    const imgGroups = [...document.querySelectorAll('.imgs:not(.centered)')];
     imgGroups.forEach(group => {
       this.getSizes([...group.querySelectorAll('img')]);
     })

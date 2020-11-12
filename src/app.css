@@ -49,7 +49,6 @@ body {
 
 .nav {
   width: 150px;
-  /*flex-basis: 150px;*/
   flex-grow: 0;
   flex-shrink: 0;
   white-space: nowrap;
@@ -58,10 +57,10 @@ body {
   user-select: none;
   transition: 
     width .3s cubic-bezier(.12,.845,.305,1);
-    /*flex-basis .3s cubic-bezier(.12,.845,.305,1);*/
 }
 
 .app > .body {
+  width: calc(100% - 150px);
   flex-grow: 1;
   flex-shrink: 1;
   padding: 40px;

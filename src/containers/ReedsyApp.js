@@ -17,13 +17,24 @@ export default class DuoLingoApp extends Component {
               <div className="divider" />
               <div style={{ marginBottom: -5 }}>
                 <div id="hi">Hi, I'm Diana!</div>
-                I'm a creative applying for your positions in <b className="blue">illustration</b> and <b className="pink">animation</b>.
+                I'm an artist applying to create <b className="blue">illustrations</b> and <b className="pink">animations</b> for you.
               </div>
             </div>
           </div>
 
           <div className="body">
-            <p>Welcome, Duolingo recruiter! I am so happy to have you here on my portfolio website. I have collected for you below my animation demo reel as well as a few links to some relevant works on this website. Thank you, and have a great day!</p>
+            <p>Dear Reedsy Recruiter,</p>
+
+<p>I am thrilled to be applying for a position as an Illustrator at Reedsy. In 2017, I completed an interdisciplinary degree from Carnegie Mellon University in Art and Cognitive Neuroscience, a blend of my passion for both the arts and academia. My passion is to use art as a medium for communication or education, with a personal graphics style focused on achieving a lively, engaging, and compelling impact. Upon discovering Reedsy, I was so happy to learn about your product and mission, both of which I believe in strongly. I also was happily surprised to learn that Savannah Cordova works at your company; I was Art Director and she was Staff Writer of Verde Magazine, our high school news magazine. What a great coincidence that after all of these years we might have the opportunity to collaborate again, and on such a meaningful tool that brings the power of creative collaboration and self-publishing to so many users around the world.</p>
+
+<p>I am an accomplished illustrator, and hope to grow my career and enhance my skills with Reedsy. One of my strongest skills is producing visuals that turn complex ideas into fun and easy to digest content, and I know I could offer this to Reedsy’s blog posts, social media, newsletters, and ads. I have experience doing so with: illustrating covers and internal graphics for news magazine Verde Magazine; illustrating Picture Communication Symbols (PCS) and literacy-oriented children’s books at health-tech company Tobii Dynavox; creating for my undergraduate thesis a diverse communication symbol library for children and sensory sensitive individuals at Temple Sinai Pittsburgh; illustrating children’s books and animating videos to explain medical topics at children’s healthcare company Jumo Health; and creating engaging illustrations and short animations to pair with math and science content at ed-tech company Expii. I enjoyed my experience with each of these companies because I contributed to content that helped and compelled others, similar to Reedsy’s product and brand! In addition to the above, I have experience illustrating and animating for social media and marketing campaigns. In all of my professional roles, I excel at maintaining style and branding standards, produce high quality content, and have excellent attention to detail.</p>
+
+<p>I love to collaborate and always welcome feedback. I believe in Reedsy’s mission and would be thrilled to join such a driven, diverse, and creative team. As mentioned in the “Bonus Points” section of your job listing, my favorite color actually really is #12a4e2! Or as I called it growing up, “Cinderella Blue”, which can be seen in my personal logo. I am eager to be a hardworking addition to your team, and believe this would be a great fit!</p>
+
+<p>Please find my résumé below for your review, and I would be happy to discuss my skills and experiences further. Thank you for your consideration!</p>
+
+<p>Best Regards,</p>
+<p>Diana Connolly</p>
 
             <div className="project">
 
@@ -43,6 +54,7 @@ export default class DuoLingoApp extends Component {
             <p style={{ marginTop: 21 }}>You might want to check out these <b className="blue">illustration</b> projects:</p>
             <ul className="blue">
               <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li> 
+              <li><a onClick={e => nav("/media")}>editorial illustrations <span className="arrow">➜</span></a></li> 
               <li><a onClick={e => nav("/iconography")}>icons and symbols <span className="arrow">➜</span></a></li>
             </ul>
             

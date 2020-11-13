@@ -1,3 +1,66 @@
+.project-wrapper,
+.project {
+  position: relative;
+}
+.project [aria-roledescription="carousel"] {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.project .react-slideshow-container {
+  margin: 20px 0;
+  width: 100%;
+  position: relative;
+}
+.project .react-slideshow-wrapper.slide {
+  background: rgb(245,245,255);
+  border-radius: 10px;
+  margin: 0 -20px;
+  width: calc(100% + 40px);
+  height: 100vh;
+}
+
+.project .react-slideshow-container button:first-of-type {
+  transform: translateX(-25px);
+}
+.project .react-slideshow-container button:last-of-type {
+  transform: translateX(25px);
+}
+.project .react-slideshow-container button,
+.project .react-slideshow-container button:focus {
+  background: #ed80da;
+  height: 50px;
+  width: 50px;
+  z-index: 200;
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid white!important;
+}
+.project .react-slideshow-container button:hover,
+.project .react-slideshow-container button:focus:hover {
+  background: #5ccbf5;
+}
+.project .react-slideshow-container button:active:hover {
+  background: #5967c9;
+}
+.project .react-slideshow-container button svg {
+  height: 40%;
+}
+.project .react-slideshow-container button svg {
+  fill: white;
+}
+.project .slide {
+  height: 100%;
+}
+.project .slide > div {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+
 .project-wrapper .lb-container {
   background: rgba(0,0,0,.9);
 }
@@ -18,6 +81,30 @@
   align-items: center;
   margin: 20px 0;
   padding: 0 10px;
+}
+.project .imgs.centered div {
+  flex-grow: 0;
+  flex-shrink: 1;
+  width: auto;
+}
+.project .imgs.no-gap div {
+  padding: 0;
+}
+.project .imgs.no-gap div:not(:first-child) img,
+.project .imgs.no-gap div:not(:first-child) video {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+.project .imgs.no-gap div:not(:last-child) img,
+.project .imgs.no-gap div:not(:last-child) video {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+.project .imgs div:first-child {
+  padding-left: 0;
+}
+.project .imgs div:last-child {
+  padding-right: 0;
 }
 .project .imgs img,
 .project .imgs video {
@@ -40,34 +127,42 @@
   color: rgb(115,115,155);
   text-align: center;
 }
+.project .slides.max200 .slide,
 .project .imgs.max200 img,
 .project .imgs.max200 video { 
   max-height: 200px; 
 }
+.project .slides.max300 .slide,
 .project .imgs.max300 img,
 .project .imgs.max300 video { 
   max-height: 300px; 
 }
+.project .slides.max400 .slide,
 .project .imgs.max400 img,
 .project .imgs.max400 video { 
   max-height: 400px; 
 }
+.project .slides.max500 .slide,
 .project .imgs.max500 img,
 .project .imgs.max500 video { 
   max-height: 500px; 
 }
+.project .slides.max600 .slide,
 .project .imgs.max600 img,
 .project .imgs.max600 video { 
   max-height: 600px; 
 }
+.project .slides.max700 .slide,
 .project .imgs.max700 img,
 .project .imgs.max700 video { 
   max-height: 700px; 
 }
+.project .slides.max800 .slide,
 .project .imgs.max800 img,
 .project .imgs.max800 video { 
   max-height: 800px; 
 }
+.project .slides.max900 .slide,
 .project .imgs.max900 img,
 .project .imgs.max900 video { 
   max-height: 900px; 
@@ -123,4 +218,23 @@
 }
 .project a:hover {
   color: #ed80da;
+}
+
+
+@media only screen and (max-width: 767px) {
+  .project .react-slideshow-wrapper.slide {
+    margin: 0 -10px;
+    width: calc(100% + 20px);
+  }
+  .project .react-slideshow-container button,
+  .project .react-slideshow-container button:focus {
+    height: 40px;
+    width: 40px;
+  }
+  .project .react-slideshow-container button:first-of-type {
+    transform: translateX(10px);
+  }
+  .project .react-slideshow-container button:last-of-type {
+    transform: translateX(-10px);
+  }
 }

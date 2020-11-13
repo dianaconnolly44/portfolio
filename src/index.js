@@ -56,7 +56,7 @@ class App extends Component {
     // projects
     if(flat.some(path => (path.projects || []).includes(page) && projects[page].page)) return 'project';
     // apps
-    if(['duolingo'].includes(page)) return page;
+    if(['duolingo','reedsy'].includes(page)) return page;
     // invalid
     return false;
   }

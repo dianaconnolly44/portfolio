@@ -12,7 +12,7 @@ export const Page = props => (
     certain health condition to preschool age readers, and to help them feel more comfortable with  
     the clinical trial in which they are participating.</p>
 
-    <Slide easing="ease" className="slides max300">
+    <Slide easing="ease" className="slides max500">
         <div className="slide">
             <div style={{ backgroundImage: `url(${require('../assets/childrensIllos/gaucher/1.jpg')})` }} />
         </div>

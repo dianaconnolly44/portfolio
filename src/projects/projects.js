@@ -300,7 +300,7 @@ export const projects = {
 	'Hbook': {
 		title: `"The 25 Book"`,
 		description: `A children's book style biography of my 25-year-old partner`,
-		pic: `Hbook.jpg`,
+		pic: `Hbook2.jpg`,
 		page: Hbook
 	},
 

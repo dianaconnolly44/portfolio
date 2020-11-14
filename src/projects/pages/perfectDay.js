@@ -66,7 +66,7 @@ export const Page = props => (
         </div>
     </div>
 
-    <div className="imgs max200">
+    <div className="imgs max200 centered">
         <div>
             <img 
                     src={require('../assets/childrensIllos/perfectDay/sketch1.jpg')} 

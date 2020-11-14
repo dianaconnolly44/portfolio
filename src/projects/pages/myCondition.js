@@ -12,21 +12,6 @@ export const Page = props => (
     certain health condition to preschool age readers, and to help them feel more comfortable with  
     the clinical trial in which they are participating.</p>
 
-    <Slide easing="ease" className="slides max500">
-        <div className="slide">
-            <div style={{ backgroundImage: `url(${require('../assets/childrensIllos/gaucher/1.jpg')})` }} />
-        </div>
-        <div className="slide">
-            <div style={{ backgroundImage: `url(${require('../assets/childrensIllos/gaucher/2.jpg')})` }} />
-        </div>
-        <div className="slide">
-            <div style={{ backgroundImage: `url(${require('../assets/childrensIllos/gaucher/3.jpg')})` }} />
-        </div>
-        <div className="slide">
-            <div style={{ backgroundImage: `url(${require('../assets/childrensIllos/gaucher/6_v2.jpg')})` }} />
-        </div>
-    </Slide>
-
     <div className="imgs max700">
         <div>
             <img 
@@ -42,7 +27,7 @@ export const Page = props => (
         </div>
     </div>
 
-    <div className="imgs max700 no-gap">
+    <div className="imgs max700">
         <div>
             <img 
                 src={require('../assets/childrensIllos/gaucher/3.jpg')} 
@@ -59,7 +44,7 @@ export const Page = props => (
 
 <h3>Process:</h3>
 
-    <div className="imgs max200 centered">
+    <div className="imgs max200">
         <div>
             <img 
                 src={require('../assets/childrensIllos/gaucher/sketch1.jpg')} 

@@ -9,43 +9,43 @@ export const Page = props => (
     Made using C2, B2, & pointed #56 nibs
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/jabberwocky/1.png')} />
+            <img src={require('../assets/lettering/jabberwocky/1.png')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/jabberwocky/2.png')} />
+            <img src={require('../assets/lettering/jabberwocky/2.png')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/jabberwocky/3.png')} />
+            <img src={require('../assets/lettering/jabberwocky/3.png')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/jabberwocky/4.png')} />
+            <img src={require('../assets/lettering/jabberwocky/4.png')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/jabberwocky/5.png')} />
+            <img src={require('../assets/lettering/jabberwocky/5.png')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/jabberwocky/6.png')} />
+            <img src={require('../assets/lettering/jabberwocky/6.png')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/jabberwocky/7.png')} />
+            <img src={require('../assets/lettering/jabberwocky/7.png')} data-skip-gallery/>
         </div>
     </div>
     

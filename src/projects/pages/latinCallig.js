@@ -9,7 +9,7 @@ export const Page = props => (
     Made using C2 nib
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/lettering/latinCallig.jpeg')} />
+            <img src={require('../assets/lettering/latinCallig.jpeg')} data-skip-gallery/>
             <p>"Who Loves Me, Loves Even My Dog" in Latin</p>
         </div>
     </div>

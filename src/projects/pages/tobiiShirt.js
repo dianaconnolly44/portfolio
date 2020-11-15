@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/mockup.png')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/mockup.png')} data-skip-gallery/>
         </div>
     </div>
 
@@ -21,13 +21,13 @@ export const Page = props => (
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/ref1.jpg')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/ref1.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/ref2.jpg')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/ref2.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/ref3.jpg')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/ref3.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -37,7 +37,7 @@ export const Page = props => (
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/ribbon.png')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/ribbon.png')} data-skip-gallery/>
             <p>Variations on shape of my walking man/ALS ribbon symbol</p>
         </div>
     </div>
@@ -47,16 +47,16 @@ export const Page = props => (
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/v3.png')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/v3.png')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/v2.png')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/v2.png')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/v1.png')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/v1.png')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/v4.png')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/v4.png')} data-skip-gallery/>
         </div>
     </div>
 
@@ -67,7 +67,7 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/tobiiShirt/finalDesign.png')} />
+            <img src={require('../assets/graphicDesign/tobiiShirt/finalDesign.png')} data-skip-gallery/>
         </div>
     </div>
     

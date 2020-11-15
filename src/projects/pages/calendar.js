@@ -8,19 +8,19 @@ export const Page = props => (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/cal/august.jpg')} />
+            <img src={require('../assets/craft/cal/august.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/cal/june.jpeg')} />
+            <img src={require('../assets/craft/cal/june.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/cal/may.jpeg')} />
+            <img src={require('../assets/craft/cal/may.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/cal/march.jpeg')} />
+            <img src={require('../assets/craft/cal/march.jpeg')} data-skip-gallery/>
         </div>
     </div>
     

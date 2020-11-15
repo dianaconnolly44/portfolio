@@ -28,7 +28,7 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/dreamBox.jpg')} />
+            <img src={require('../assets/mixedMedia/dreamBox.jpg')} data-skip-gallery/>
         </div>
     </div>
 

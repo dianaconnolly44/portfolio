@@ -8,7 +8,7 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/hizalMockup.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/hizalMockup.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -16,22 +16,22 @@ export const Page = props => (
     
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/latLong.png')} />
+            <img src={require('../assets/graphicDesign/starMaps/latLong.png')} data-skip-gallery/>
             <p>Retrieved location's GPS coordinates</p>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/yourSky.png')} />
+            <img src={require('../assets/graphicDesign/starMaps/yourSky.png')} data-skip-gallery/>
             <p>Input coordinates, date, time into YourSky.com</p>
         </div>
     </div>
 
     <div className="imgs max400">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/data.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/data.jpg')} data-skip-gallery/>
             <p>Star location data points collected from website</p>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/trace.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/trace.jpg')} data-skip-gallery/>
             <p>Traced over each star & made sky background in Illustrator</p>
         </div>
     </div>
@@ -39,7 +39,7 @@ export const Page = props => (
     <br/>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/hizal-01.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/hizal-01.jpg')} data-skip-gallery/>
             <p>Combined night sky with text for final print</p>
         </div>
     </div>
@@ -52,46 +52,46 @@ export const Page = props => (
     <p>Valentine's Day gift for my partner:</p>
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/hizal-01.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/hizal-01.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/hizalMockup.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/hizalMockup.jpg')} data-skip-gallery/>
         </div>
     </div>
 
     <p>Wedding anniversary gift for my sister and brother-in-law:</p>
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/sara-01.png')} />
+            <img src={require('../assets/graphicDesign/starMaps/sara-01.png')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/saraPhoto.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/saraPhoto.jpg')} data-skip-gallery/>
         </div>
     </div>
 
     <p>Mother's Day gift for my mom:</p>
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/mom1.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/mom1.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/mom2.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/mom2.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/momPhoto.jpeg')} />
+            <img src={require('../assets/graphicDesign/starMaps/momPhoto.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <p>Father's Day gift for my dad:</p>
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/dad1.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/dad1.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/dad2.jpg')} />
+            <img src={require('../assets/graphicDesign/starMaps/dad2.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/starMaps/dadPhoto.jpeg')} />
+            <img src={require('../assets/graphicDesign/starMaps/dadPhoto.jpeg')} data-skip-gallery/>
         </div>
     </div>
 

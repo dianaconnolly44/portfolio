@@ -8,34 +8,34 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/banner/vday1.jpeg')} />
+            <img src={require('../assets/lettering/banner/vday1.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/lettering/banner/vday2.jpeg')} />
+            <img src={require('../assets/lettering/banner/vday2.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/lettering/banner/vday3.jpeg')} />
+            <img src={require('../assets/lettering/banner/vday3.jpeg')} data-skip-gallery/>
         </div>
     </div>
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/banner/craftBunny.jpeg')} />
+            <img src={require('../assets/lettering/banner/craftBunny.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/lettering/banner/craftIrish.jpeg')} />
+            <img src={require('../assets/lettering/banner/craftIrish.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/banner/craftEgg.jpeg')} />
+            <img src={require('../assets/lettering/banner/craftEgg.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/lettering/banner/craftLove.jpeg')} />
+            <img src={require('../assets/lettering/banner/craftLove.jpeg')} data-skip-gallery/>
         </div>
     </div>
 

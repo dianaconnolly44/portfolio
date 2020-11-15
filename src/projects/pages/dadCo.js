@@ -9,18 +9,18 @@ export const Page = props => (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/craft/dadCo/combo_v2.png')} />
+            <img src={require('../assets/craft/dadCo/combo_v2.png')} data-skip-gallery/>
         </div>
     </div>
 
     <h2>Greeting card cover: "Dad Co" album cover</h2>
     <div className="imgs max400">
         <div>
-            <img src={require('../assets/craft/dadCo/badCoCover.png')} />
+            <img src={require('../assets/craft/dadCo/badCoCover.png')} data-skip-gallery/>
             <p>Original Bad Co album cover</p>
         </div>
         <div>
-            <img src={require('../assets/craft/dadCo/cardCover.png')} />
+            <img src={require('../assets/craft/dadCo/cardCover.png')} data-skip-gallery/>
             <p>Photoshopped with Dad as the band leader</p>
         </div>
     </div>
@@ -29,11 +29,11 @@ export const Page = props => (
     <h2>Bad Co shirt as "Dad Co"</h2>
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/dadCo/badCoShirt.jpg')} />
+            <img src={require('../assets/craft/dadCo/badCoShirt.jpg')} data-skip-gallery/>
             <p>Original vintage shirt</p>
         </div>
         <div>
-            <img src={require('../assets/craft/dadCo/dad.jpeg')} />
+            <img src={require('../assets/craft/dadCo/dad.jpeg')} data-skip-gallery/>
             <p>Handmade "Dad Co" shirt</p>
         </div>
     </div>
@@ -41,11 +41,11 @@ export const Page = props => (
     Process:
     <div className="imgs max400">
         <div>
-            <img src={require('../assets/craft/dadCo/dadCutout-01.jpg')} />
+            <img src={require('../assets/craft/dadCo/dadCutout-01.jpg')} data-skip-gallery/>
             <p>Printed backwards logo for vinyl cutouts</p>
         </div>
         <div>
-            <img src={require('../assets/craft/dadCo/vinyl.png')} />
+            <img src={require('../assets/craft/dadCo/vinyl.png')} data-skip-gallery/>
             <p>Hand cut letters out of silver heat transfer vinyl</p>
         </div>
     </div>
@@ -53,7 +53,7 @@ export const Page = props => (
     Final products:
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/dadCo/dad1.png')} />
+            <img src={require('../assets/craft/dadCo/dad1.png')} data-skip-gallery/>
             <p>Finished shirt by ironing on heat transfer vinyl, and printed out the 
             "Dad Co" album cover for the Father's Day card.</p>
         </div>

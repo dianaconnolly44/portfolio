@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/mixedMedia/petri/allDishes.png')} />
+            <img src={require('../assets/mixedMedia/petri/allDishes.png')} data-skip-gallery/>
         </div>
     </div>
 
@@ -25,10 +25,10 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/petri/dadSwatch.jpg')} />
+            <img src={require('../assets/mixedMedia/petri/dadSwatch.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/mixedMedia/petri/meSwatch.jpg')} />
+            <img src={require('../assets/mixedMedia/petri/meSwatch.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -36,7 +36,7 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/petri/process.jpg')} />
+            <img src={require('../assets/mixedMedia/petri/process.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -47,7 +47,7 @@ export const Page = props => (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/mixedMedia/petri/dadDish.jpg')} />
+            <img src={require('../assets/mixedMedia/petri/dadDish.jpg')} data-skip-gallery/>
         </div>
     </div>
 

@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/craft/nailArt/coverPhoto.jpg')} />
+            <img src={require('../assets/craft/nailArt/coverPhoto.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -22,33 +22,33 @@ export const Page = props => (
 
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/craft/nailArt/tiger_v2.jpg')} />
+            <img src={require('../assets/craft/nailArt/tiger_v2.jpg')} data-skip-gallery/>
             <p>Tiger's eye</p>
         </div>
         <div>
-            <img src={require('../assets/craft/nailArt/sunset.jpg')} />
+            <img src={require('../assets/craft/nailArt/sunset.jpg')} data-skip-gallery/>
             <p>Tropical sunset</p>
         </div>
     </div>
 
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/craft/nailArt/moon.jpg')} />
+            <img src={require('../assets/craft/nailArt/moon.jpg')} data-skip-gallery/>
             <p>Night sky</p>
         </div>
         <div>
-            <img src={require('../assets/craft/nailArt/nyc.jpg')} />
+            <img src={require('../assets/craft/nailArt/nyc.jpg')} data-skip-gallery/>
             <p>City skyline</p>
         </div>
     </div>
 
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/craft/nailArt/xmas_v2.jpg')} />
+            <img src={require('../assets/craft/nailArt/xmas_v2.jpg')} data-skip-gallery/>
             <p>Santa's sleigh</p>
         </div>
         <div>
-            <img src={require('../assets/craft/nailArt/pier.jpg')} />
+            <img src={require('../assets/craft/nailArt/pier.jpg')} data-skip-gallery/>
             <p>Night pier</p>
         </div>
     </div>

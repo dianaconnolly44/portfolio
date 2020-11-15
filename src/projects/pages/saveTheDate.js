@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/graphicDesign/saveTheDate/mockup.jpg')} />
+            <img src={require('../assets/graphicDesign/saveTheDate/mockup.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -21,13 +21,13 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/saveTheDate/front.jpg')} />
+            <img src={require('../assets/graphicDesign/saveTheDate/front.jpg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/saveTheDate/back.png')} />
+            <img src={require('../assets/graphicDesign/saveTheDate/back.png')} data-skip-gallery/>
         </div>
     </div>
 

@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/soaps/wave2.jpg')} />
+            <img src={require('../assets/craft/soaps/wave2.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -17,11 +17,11 @@ export const Page = props => (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/soaps/melted.jpeg')} />
+            <img src={require('../assets/craft/soaps/melted.jpeg')} data-skip-gallery/>
             <p>Melt down soap base, add in colorants and essential oils</p>
         </div>
         <div>
-            <img src={require('../assets/craft/soaps/mold.png')} />
+            <img src={require('../assets/craft/soaps/mold.png')} data-skip-gallery/>
             <p>Pour the mixtures into the soap bar molds</p>
         </div>
     </div>
@@ -30,27 +30,27 @@ export const Page = props => (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/soaps/set1.png')} />
+            <img src={require('../assets/craft/soaps/set1.png')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/soaps/set2.png')} />
+            <img src={require('../assets/craft/soaps/set2.png')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/soaps/batch.jpeg')} />
+            <img src={require('../assets/craft/soaps/batch.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/soaps/carved.jpeg')} />
+            <img src={require('../assets/craft/soaps/carved.jpeg')} data-skip-gallery/>
         </div>
     </div>
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/soaps/wave2.jpg')} />
+            <img src={require('../assets/craft/soaps/wave2.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/soaps/wave.jpeg')} />
+            <img src={require('../assets/craft/soaps/wave.jpeg')} data-skip-gallery/>
         </div>
     </div>
 

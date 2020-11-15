@@ -9,55 +9,55 @@ export const Page = props => (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/Aframe/june2020_1.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/june2020_1.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/lettering/Aframe/june2020_2.jpeg')} />
-        </div>
-    </div>
-
-    <div className="imgs max800">
-        <div>
-            <img src={require('../assets/lettering/Aframe/wedding2.jpeg')} />
-        </div>
-        <div>
-            <img src={require('../assets/lettering/Aframe/spring2.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/june2020_2.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/Aframe/july2020.jpg')} />
+            <img src={require('../assets/lettering/Aframe/wedding2.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/lettering/Aframe/vday1.jpeg')} />
-        </div>
-    </div>
-
-    <div className="imgs max800">
-        <div>
-            <img src={require('../assets/lettering/Aframe/sale1.jpeg')} />
-        </div>
-        <div>
-            <img src={require('../assets/lettering/Aframe/psPerks3.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/spring2.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/Aframe/leaf2.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/july2020.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/lettering/Aframe/bogo.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/vday1.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/lettering/Aframe/opening1.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/sale1.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/lettering/Aframe/opening3.jpeg')} />
+            <img src={require('../assets/lettering/Aframe/psPerks3.jpeg')} data-skip-gallery/>
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/Aframe/leaf2.jpeg')} data-skip-gallery/>
+        </div>
+        <div>
+            <img src={require('../assets/lettering/Aframe/bogo.jpeg')} data-skip-gallery/>
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/lettering/Aframe/opening1.jpeg')} data-skip-gallery/>
+        </div>
+        <div>
+            <img src={require('../assets/lettering/Aframe/opening3.jpeg')} data-skip-gallery/>
         </div>
     </div>
 

@@ -18,7 +18,7 @@ import { Page as verdeSam } from './pages/verdeSam';
 import { Page as verdeSweetheart } from './pages/verdeSweetheart';
 import { Page as expiiMedia1 } from './pages/expiiMedia1';
 import { Page as expiiMedia2 } from './pages/expiiMedia2';
-import { Page as lloyd } from './pages/lloyd';
+import { Page as lloyd } from './pages/lloyd'; 
 import { Page as hotspots } from './pages/hotspots';
 import { Page as seasonsOfColor } from './pages/seasonsOfColor';
 import { Page as growATomato } from './pages/growATomato';
@@ -115,7 +115,7 @@ import { Page as postcards } from './pages/postcards';
 import { Page as calendar } from './pages/calendar';
 import { Page as blackboardAframe } from './pages/blackboardAframe';
 import { Page as blackboardBanner } from './pages/blackboardBanner';
-import { Page as elikidsFont } from './pages/elikidsFont';
+import { Page as flikidsFont } from './pages/flikidsFont';
 import { Page as alienCallig } from './pages/alienCallig';
 import { Page as latinCallig } from './pages/latinCallig';
 import { Page as jabberwocky } from './pages/jabberwocky';
@@ -1520,7 +1520,7 @@ export const projects = {
 		title: `Children's Book Font`,
 		description: `Digital`,
 		pic: `flikidsFont.jpg`,
-		page: elikidsFont
+		page: flikidsFont
 	},
 
 }

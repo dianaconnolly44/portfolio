@@ -10,7 +10,7 @@ export const Page = props => (
     
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/infographics/grid1-01_pixellated.jpg')} />
+            <img src={require('../assets/graphicDesign/infographics/grid1-01_pixellated.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -20,7 +20,7 @@ export const Page = props => (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/infographics/grid2.jpg')} />
+            <img src={require('../assets/graphicDesign/infographics/grid2.jpg')} data-skip-gallery/>
         </div>
     </div>
 

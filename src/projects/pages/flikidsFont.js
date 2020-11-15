@@ -13,28 +13,28 @@ export const Page = props => (
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/flikidsEnglish.jpg')} />
+            <img src={require('../assets/lettering/flikidsEnglish.jpg')} data-skip-gallery/>
             <p>English</p>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/flikidsSpanish.jpg')} />
+            <img src={require('../assets/lettering/flikidsSpanish.jpg')} data-skip-gallery/>
             <p>Spanish</p>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/flikidsDutch copy.jpg')} />
+            <img src={require('../assets/lettering/flikidsDutch copy.jpg')} data-skip-gallery/>
             <p>Dutch</p>
         </div>
     </div>
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/lettering/flikidsTurkish.jpg')} />
+            <img src={require('../assets/lettering/flikidsTurkish.jpg')} data-skip-gallery/>
             <p>Turkish</p>
         </div>
     </div>

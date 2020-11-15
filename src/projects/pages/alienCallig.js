@@ -10,14 +10,14 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/lettering/alienCallig1.jpeg')} />
+            <img src={require('../assets/lettering/alienCallig1.jpeg')} data-skip-gallery/>
             <p>My calligraphy (middle) with my classmates' versions of this assignment</p>
         </div>
     </div>
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/lettering/alienCallig2.jpeg')} />
+            <img src={require('../assets/lettering/alienCallig2.jpeg')} data-skip-gallery/>
             <p>My alien calligraphy</p>
         </div>
     </div>

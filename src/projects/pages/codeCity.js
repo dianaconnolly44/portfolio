@@ -18,14 +18,14 @@ export const Page = props => (
 
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/code/citySketch.jpg')} />
+            <img src={require('../assets/code/citySketch.jpg')} data-skip-gallery/>
             <p>Initial concept sketch</p>
         </div>
     </div>
 
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/code/cityBG.png')} />
+            <img src={require('../assets/code/cityBG.png')} data-skip-gallery/>
             <p>Static background to loop</p>
         </div>
     </div>

@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/WES/wes-01.jpg')} />
+            <img src={require('../assets/graphicDesign/WES/wes-01.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -28,23 +28,23 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/graphicDesign/WES/IT.png')} />
+            <img src={require('../assets/graphicDesign/WES/IT.png')} data-skip-gallery/>
             <p>Visit <a href="https://knowledge.wes.org/globaltalentbridge-e-guide-career-pathways-in-information-technology.html" target="_blank">here</a> to download.</p>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/WES/alliedHealth.png')} />
+            <img src={require('../assets/graphicDesign/WES/alliedHealth.png')} data-skip-gallery/>
             <p>Visit <a href="https://knowledge.wes.org/globaltalentbridge-e-guide-career-pathways-in-allied-health.html" target="_blank">here</a> to download.</p>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/WES/law.png')} />
+            <img src={require('../assets/graphicDesign/WES/law.png')} data-skip-gallery/>
             <p>Visit <a href="https://knowledge.wes.org/globaltalentbridge-e-guide-career-pathways-in-law.html" target="_blank">here</a> to download.</p>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/WES/dentistry.png')} />
+            <img src={require('../assets/graphicDesign/WES/dentistry.png')} data-skip-gallery/>
             <p>Visit <a href="https://knowledge.wes.org/globaltalentbridge-e-guide-career-pathways-in-dentistry.html" target="_blank">here</a> to download.</p>
         </div>
         <div>
-            <img src={require('../assets/graphicDesign/WES/pharmacy.png')} />
+            <img src={require('../assets/graphicDesign/WES/pharmacy.png')} data-skip-gallery/>
             <p>Visit <a href="https://knowledge.wes.org/globaltalentbridge-e-guide-career-pathways-in-pharmacy.html" target="_blank">here</a> to download.</p>
         </div>
     </div>

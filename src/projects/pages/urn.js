@@ -8,14 +8,14 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/urn/final.jpeg')} />
+            <img src={require('../assets/craft/urn/final.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <h2>Inspiration:</h2>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/craft/urn/inspo.jpg')} />
+            <img src={require('../assets/craft/urn/inspo.jpg')} data-skip-gallery/>
             <p>Clay pet urns found online, inspiration</p>
         </div>
     </div>
@@ -24,13 +24,13 @@ export const Page = props => (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/urn/notes.jpg')} />
+            <img src={require('../assets/craft/urn/notes.jpg')} data-skip-gallery/>
             <p>Planning notes</p>
         </div>
     </div>
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/craft/urn/goldTests.png')} />
+            <img src={require('../assets/craft/urn/goldTests.png')} data-skip-gallery/>
             <p>Research: Best gold paint for polymer clay</p>
         </div>
     </div>
@@ -38,15 +38,15 @@ export const Page = props => (
     Purchased:
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/urn/sculpey.png')} />
+            <img src={require('../assets/craft/urn/sculpey.png')} data-skip-gallery/>
             <p>White polymer clay</p>
         </div>
         <div>
-            <img src={require('../assets/craft/urn/gold.png')} />
+            <img src={require('../assets/craft/urn/gold.png')} data-skip-gallery/>
             <p>Gold paint, for the urn's ♥ icon</p>
         </div>
         <div>
-            <img src={require('../assets/craft/urn/varnish.png')} />
+            <img src={require('../assets/craft/urn/varnish.png')} data-skip-gallery/>
             <p>Gloss varnish and polyurethane sealant</p>
         </div>
     </div>
@@ -54,7 +54,7 @@ export const Page = props => (
     Step 1:
         <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/urn/step1.jpeg')} />
+            <img src={require('../assets/craft/urn/step1.jpeg')} data-skip-gallery/>
             <p>Build out rough size and shape</p>
         </div>
     </div>
@@ -62,7 +62,7 @@ export const Page = props => (
     Step 2:
         <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/urn/step2.jpeg')} />
+            <img src={require('../assets/craft/urn/step2.jpeg')} data-skip-gallery/>
             <p>Smooth the urn and carve out text</p>
         </div>
     </div>
@@ -70,7 +70,7 @@ export const Page = props => (
     Step 3:
         <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/urn/step3.jpeg')} />
+            <img src={require('../assets/craft/urn/step3.jpeg')} data-skip-gallery/>
             <p>Paint the text and icon</p>
         </div>
     </div>
@@ -78,7 +78,7 @@ export const Page = props => (
     Final:
         <div className="imgs max500">
         <div>
-            <img src={require('../assets/craft/urn/step4.jpeg')} />
+            <img src={require('../assets/craft/urn/step4.jpeg')} data-skip-gallery/>
             <p>The final result, baked and hardened</p>
         </div>
     </div>

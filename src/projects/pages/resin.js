@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/craft/resin/onBook/oldThree_v2.jpg')} />
+            <img src={require('../assets/craft/resin/onBook/oldThree_v2.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -20,7 +20,7 @@ export const Page = props => (
     selecting ones that varied in shape and color. Then, I pressed them in heavy books.</p>
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/craft/resin/process/near.JPG')} />
+            <img src={require('../assets/craft/resin/process/near.JPG')} data-skip-gallery/>
         </div>
     </div>
 
@@ -29,7 +29,7 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/craft/resin/process/laying_v2.jpg')} />
+            <img src={require('../assets/craft/resin/process/laying_v2.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -43,37 +43,37 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/craft/resin/onBook/yellow.JPG')} />
+            <img src={require('../assets/craft/resin/onBook/yellow.JPG')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/resin/onBook/paw.JPG')} />
+            <img src={require('../assets/craft/resin/onBook/paw.JPG')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/resin/onBook/bigPurple.JPG')} />
-        </div>
-    </div>
-
-    <div className="imgs max800">
-        <div>
-            <img src={require('../assets/craft/resin/onBook/bigBlue.JPG')} />
-        </div>
-        <div>
-            <img src={require('../assets/craft/resin/onBook/lilPurple.JPG')} />
-        </div>
-        <div>
-            <img src={require('../assets/craft/resin/onBook/esays.JPG')} />
+            <img src={require('../assets/craft/resin/onBook/bigPurple.JPG')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/craft/resin/onBook/bigColorful.jpg')} />
+            <img src={require('../assets/craft/resin/onBook/bigBlue.JPG')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/resin/onBook/red_v2.jpg')} />
+            <img src={require('../assets/craft/resin/onBook/lilPurple.JPG')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/resin/onBook/lilGreen.jpeg')} />
+            <img src={require('../assets/craft/resin/onBook/esays.JPG')} data-skip-gallery/>
+        </div>
+    </div>
+
+    <div className="imgs max800">
+        <div>
+            <img src={require('../assets/craft/resin/onBook/bigColorful.jpg')} data-skip-gallery/>
+        </div>
+        <div>
+            <img src={require('../assets/craft/resin/onBook/red_v2.jpg')} data-skip-gallery/>
+        </div>
+        <div>
+            <img src={require('../assets/craft/resin/onBook/lilGreen.jpeg')} data-skip-gallery/>
         </div>
     </div>
 

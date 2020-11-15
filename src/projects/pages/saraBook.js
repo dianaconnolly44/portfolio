@@ -19,25 +19,25 @@ export const Page = props => (
         <div>
             <img 
                 src={require('../assets/craft/saraBook/4.jpeg')} 
-                onClick={props.open} 
+                data-skip-gallery 
             />
         </div>
         <div>
             <img 
                 src={require('../assets/craft/saraBook/10.jpeg')} 
-                onClick={props.open} 
+                data-skip-gallery 
             />
         </div>
         <div>
             <img 
                 src={require('../assets/craft/saraBook/12.jpeg')} 
-                onClick={props.open} 
+                data-skip-gallery 
             />
         </div>
         <div>
             <img 
                 src={require('../assets/craft/saraBook/14.jpeg')} 
-                onClick={props.open} 
+                data-skip-gallery 
             />
         </div>
     </div>

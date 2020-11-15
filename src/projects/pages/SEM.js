@@ -9,7 +9,7 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/mixedMedia/SEM/blueSeed.jpg')} />
+            <img src={require('../assets/mixedMedia/SEM/blueSeed.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -26,13 +26,13 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/SEM/sample1.jpg')} />
+            <img src={require('../assets/mixedMedia/SEM/sample1.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/mixedMedia/SEM/sample2.jpg')} />
+            <img src={require('../assets/mixedMedia/SEM/sample2.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/mixedMedia/SEM/sample3.jpg')} />
+            <img src={require('../assets/mixedMedia/SEM/sample3.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -43,7 +43,7 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/SEM/blueWave.jpg')} />
+            <img src={require('../assets/mixedMedia/SEM/blueWave.jpg')} data-skip-gallery/>
         </div>
     </div>
 

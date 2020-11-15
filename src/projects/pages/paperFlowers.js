@@ -8,7 +8,7 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/weddingWindow/window2.jpg')} />
+            <img src={require('../assets/craft/paperFlowers/weddingWindow/window2.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -16,11 +16,11 @@ export const Page = props => (
     
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/process1.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/process1.jpeg')} data-skip-gallery/>
             <p>Hot glue individual petals encompassing each other</p>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/process2.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/process2.jpeg')} data-skip-gallery/>
             <p>Repeat process until desired size is achieved</p>
         </div>
     </div>
@@ -30,59 +30,59 @@ export const Page = props => (
     <p>Wedding Window:</p>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/weddingWindow/collection.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/weddingWindow/collection.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/weddingWindow/whiteRose.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/weddingWindow/whiteRose.jpeg')} data-skip-gallery/>
         </div>
     </div>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/weddingWindow/window2.jpg')} />
+            <img src={require('../assets/craft/paperFlowers/weddingWindow/window2.jpg')} data-skip-gallery/>
         </div>
     </div>
 
     <p>Spring Windows:</p>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/springWindow/rose.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/springWindow/rose.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/springWindow/box1.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/springWindow/box1.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/springWindow/box2.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/springWindow/box2.jpeg')} data-skip-gallery/>
         </div>
     </div>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/springWindow/frontDay.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/springWindow/frontDay.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/springWindow/side1.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/springWindow/side1.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/springWindow/side2.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/springWindow/side2.jpeg')} data-skip-gallery/>
         </div>
     </div>
     
     <p>Rose Wreath:</p>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/wreaths/rose1.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/wreaths/rose1.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/wreaths/rose2.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/wreaths/rose2.jpeg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/craft/paperFlowers/wreaths/rose3.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/wreaths/rose3.jpeg')} data-skip-gallery/>
         </div>
     </div>
 
     <p>Daffodil Wreath:</p>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/craft/paperFlowers/wreaths/daffodil.jpeg')} />
+            <img src={require('../assets/craft/paperFlowers/wreaths/daffodil.jpeg')} data-skip-gallery/>
         </div>
     </div>
 

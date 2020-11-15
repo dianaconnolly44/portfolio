@@ -16,13 +16,13 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/lifePool/microscope1.jpg')} />
+            <img src={require('../assets/mixedMedia/lifePool/microscope1.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/mixedMedia/lifePool/microscope2.jpg')} />
+            <img src={require('../assets/mixedMedia/lifePool/microscope2.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/mixedMedia/lifePool/microscope3.jpg')} />
+            <img src={require('../assets/mixedMedia/lifePool/microscope3.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -36,13 +36,13 @@ export const Page = props => (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/lifePool/1.jpg')} />
+            <img src={require('../assets/mixedMedia/lifePool/1.jpg')} data-skip-gallery/>
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/lifePool/2.jpg')} />
+            <img src={require('../assets/mixedMedia/lifePool/2.jpg')} data-skip-gallery/>
         </div>
     </div>
 

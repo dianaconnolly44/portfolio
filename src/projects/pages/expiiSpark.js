@@ -13,14 +13,14 @@ export const Page = props => (
     
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/graphicDesign/spark/inspo.png')} />
+            <img src={require('../assets/graphicDesign/spark/inspo.png')} data-skip-gallery/>
             <p>Inspiration board</p>
         </div>
     </div>
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/graphicDesign/spark/mockups.png')} />
+            <img src={require('../assets/graphicDesign/spark/mockups.png')} data-skip-gallery/>
             <p>My design mockups</p>
         </div>
     </div>
@@ -31,7 +31,7 @@ export const Page = props => (
 
     <div className="imgs max500">
         <div>
-            <img src={require('../assets/graphicDesign/spark/logo.png')} />
+            <img src={require('../assets/graphicDesign/spark/logo.png')} data-skip-gallery/>
         </div>
     </div>
 
@@ -39,7 +39,7 @@ export const Page = props => (
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/graphicDesign/spark/flyer.png')} />
+            <img src={require('../assets/graphicDesign/spark/flyer.png')} data-skip-gallery/>
         </div>
     </div>
     
@@ -47,7 +47,7 @@ export const Page = props => (
 
     <div className="imgs max700">
         <div>
-            <img src={require('../assets/graphicDesign/spark/computerMockup.png')} />
+            <img src={require('../assets/graphicDesign/spark/computerMockup.png')} data-skip-gallery/>
         </div>
     </div>
 

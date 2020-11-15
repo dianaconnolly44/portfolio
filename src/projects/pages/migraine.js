@@ -11,7 +11,7 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/migraine/1.jpg')} />
+            <img src={require('../assets/mixedMedia/migraine/1.jpg')} data-skip-gallery/>
         </div>
     </div>
 
@@ -25,11 +25,11 @@ export const Page = props => (
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/mixedMedia/migraine/3_v2.jpg')} />
+            <img src={require('../assets/mixedMedia/migraine/3_v2.jpg')} data-skip-gallery/>
             <p>Michelle, a classmate, demonstrating the scintillating scotoma goggle</p>
         </div>
         <div>
-            <img src={require('../assets/mixedMedia/migraine/4.jpg')} />
+            <img src={require('../assets/mixedMedia/migraine/4.jpg')} data-skip-gallery/>
             <p>Installation: all goggles in a box labeled "Impairment"</p>
         </div>
     </div>

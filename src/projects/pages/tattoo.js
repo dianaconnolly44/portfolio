@@ -9,7 +9,7 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/mixedMedia/tattoo/tatGrid.jpg')} />
+            <img src={require('../assets/mixedMedia/tattoo/tatGrid.jpg')} data-skip-gallery/>
         </div>
         
     </div>
@@ -24,10 +24,10 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/mixedMedia/tattoo/1.jpg')} />
+            <img src={require('../assets/mixedMedia/tattoo/1.jpg')} data-skip-gallery/>
         </div>
         <div>
-            <img src={require('../assets/mixedMedia/tattoo/prints.jpg')} />
+            <img src={require('../assets/mixedMedia/tattoo/prints.jpg')} data-skip-gallery/>
         </div>
     </div>
 

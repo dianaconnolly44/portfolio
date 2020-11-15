@@ -9,16 +9,25 @@ export const Page = props => (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/painting/dissectingSelf.jpg')} />
+            <img 
+                src={require('../assets/painting/dissectingSelf.jpg')} 
+                data-skip-gallery
+                />
             <p>Acrylic, 3.5' x 6'</p>
         </div>
     </div>
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/painting/dissectDetail1.jpeg')} />
+            <img 
+                src={require('../assets/painting/dissectDetail1.jpeg')} 
+                data-skip-gallery
+                />
         </div>
         <div>
-            <img src={require('../assets/painting/dissectDetail2.jpeg')} />
+            <img 
+                src={require('../assets/painting/dissectDetail2.jpeg')} 
+                data-skip-gallery
+                />
         </div>
     </div>
 
@@ -26,10 +35,16 @@ export const Page = props => (
     <h2>Process:</h2>
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/painting/dissectProcess1.jpeg')} />
+            <img 
+                src={require('../assets/painting/dissectProcess1.jpeg')} 
+                data-skip-gallery
+                />
         </div>
         <div>
-            <img src={require('../assets/painting/dissectProcess2.jpeg')} />
+            <img 
+                src={require('../assets/painting/dissectProcess2.jpeg')} 
+                data-skip-gallery
+                />
         </div>
     </div>
 

@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { Slide } from 'react-slideshow-image';
+
 export const Page = props => (
   <div className="project">
 
@@ -8,7 +10,10 @@ export const Page = props => (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/4/print1.jpg')} />
+            <img 
+                src={require('../assets/capstone/versions/4/print1.jpg')} 
+                onClick={props.open}
+            />
         </div>
     </div>
 
@@ -23,11 +28,17 @@ export const Page = props => (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/aboutTS/templeOutside.jpg')} />
+            <img 
+                src={require('../assets/capstone/aboutTS/templeOutside.jpg')} 
+                onClick={props.open}
+            />
             <p>Temple Sinai, of Pittsburgh, PA</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/aboutTS/templeInside.jpg')} />
+            <img 
+                src={require('../assets/capstone/aboutTS/templeInside.jpg')} 
+                onClick={props.open}
+            />
             <p>Temple Sinai's prayer room</p>
         </div>
     </div>
@@ -42,12 +53,18 @@ export const Page = props => (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/aboutTS/demoMMS.jpg')} />
-            <p>A "Mostly Musical Shabbat" ceremony</p>
+            <img 
+                src={require('../assets/capstone/aboutTS/flyerMMS.jpg')} 
+                onClick={props.open}
+            />
+            <p>Flyer for "Mostly Musical Shabbat"</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/aboutTS/flyerMMS.jpg')} />
-            <p>Flyer for "Mostly Musical Shabbat"</p>
+            <img 
+                src={require('../assets/capstone/aboutTS/demoMMS.jpg')} 
+                onClick={props.open}
+            />
+            <p>A "Mostly Musical Shabbat" ceremony</p>
         </div>
     </div>
 
@@ -73,11 +90,10 @@ export const Page = props => (
 
 <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/4/singleStickers.jpg')} />
-            <p>Prayer icon library</p>
-        </div>
-        <div>
-            <img src={require('../assets/capstone/versions/iconExamples.jpg')} />
+            <img 
+                src={require('../assets/capstone/versions/iconExamples.jpg')} 
+                onClick={props.open}
+            />
             <p>Select example icons</p>
         </div>
     </div>
@@ -92,12 +108,18 @@ export const Page = props => (
 
 <div className="imgs max400">
         <div>
-            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpg')} />
+            <img 
+                src={require('../assets/capstone/versions/4/bannerStageOG.jpg')} 
+                onClick={props.open}
+            />
             <p>Banner on stage at Temple Sinai</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/banner.jpg')} />
-            <p>Banner enlarged</p>
+            <img 
+                src={require('../assets/capstone/versions/banner.jpg')} 
+                onClick={props.open}
+            />
+            <p>Banner, digital</p>
         </div>
     </div>
 
@@ -112,12 +134,18 @@ export const Page = props => (
     sections, and folding these sheets to expose only one section of the ceremony at a time. Each of these four sections were the same
     as those denoted on the visual schedule on the temple's stage.</p>
 
-<div className="imgs max300">
-        <div>
-            <img src={require('../assets/capstone/versions/1/print1.jpg')} />
-            <p>Version 1, digital file</p>
+<Slide easing="ease" duration={3000} className="slides max400">
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/1/print1.jpg')})` }} >
+                <label><span>Bookmark, unfolded</span></label>
+            </div>
         </div>
-    </div>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/singleStickers.jpg')})` }} >
+                <label><span>Accompanying sticker sheet</span></label>
+            </div>
+        </div>
+    </Slide>
 
     <p>After receiving user feedback after the ceremony, I began planning my next iterations. Both the rabbi and the patrons expressed
     great satisfaction with the banner. The bookmark, however, was not clear enough as to what interaction was expected to take place. Thus,
@@ -125,24 +153,39 @@ export const Page = props => (
     on the bookmark more directions, such as numbering the order of the four ceremony sections as well as instructions on how to place the stickers.
     This iteration can be viewed below.</p>
 
-<div className="imgs max300">
-        <div>
-            <img src={require('../assets/capstone/versions/2/print1.jpg')} />
-            <p>Digital print file</p>
+<Slide easing="ease" duration={3000} className="slides max400">
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/2/print1.jpg')})` }} >
+                <label><span>Front side</span></label>
+            </div>
         </div>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/2/print2.jpg')})` }} >
+                <label><span>Back side</span></label>
+            </div>
+        </div>
+    </Slide>
+
+    <div className="imgs max300 centered">
         <div>
-            <img src={require('../assets/capstone/versions/2/1.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/2/1.jpeg')} 
+                onClick={props.open}
+            />
             <p>Pick-up spot before entering</p>
         </div>
-    </div>
-
-    <div className="imgs max300">
         <div>
-            <img src={require('../assets/capstone/versions/2/2.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/2/2.jpeg')} 
+                onClick={props.open}
+            />
             <p>Physical demonstration</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/2/4.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/2/4.jpeg')} 
+                onClick={props.open}
+            />
             <p>Physical demonstration</p>
         </div>
     </div>
@@ -155,39 +198,69 @@ export const Page = props => (
     <p>This book was separated by: 1) a cover image to express the topic of the book, 2) an instruction page to express the intended use, 
     3) one page per each section of the ceremony, and 4) a sheet of stickers, in order, for each prayer that would occur.</p>
  
- <div className="imgs max300">
-        <div>
-            <img src={require('../assets/capstone/versions/4/print1.jpg')} />
-            <p>Cover page</p>
+    <Slide easing="ease" duration={3000} className="slides max400">
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/print1.jpg')})` }} >
+                <label><span>Front cover</span></label>
+            </div>
         </div>
-        <div>
-            <img src={require('../assets/capstone/versions/4/singleStickers.jpg')} />
-            <p>Prayer icon stickers</p>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/print2.jpg')})` }} >
+                <label><span>Instruction page</span></label>
+            </div>
         </div>
-    </div>
-     <div className="imgs max300">
-        <div>
-            <img src={require('../assets/capstone/versions/4/print2.jpg')} />
-            <p>Instruction page, noting to place stickers on their respective spots</p>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/print3.jpg')})` }} >
+                <label><span>Page 1</span></label>
+            </div>
         </div>
-        <div>
-            <img src={require('../assets/capstone/versions/4/print4.jpg')} />
-            <p>Example internal page, section 2 ("sh'ma") of the shabbat</p>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/print4.jpg')})` }} >
+                <label><span>Page 2</span></label>
+            </div>
         </div>
-        
-    </div>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/print5.jpg')})` }} >
+                <label><span>Page 3</span></label>
+            </div>
+        </div>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/print6.jpg')})` }} >
+                <label><span>Page 4</span></label>
+            </div>
+        </div>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/print7.jpg')})` }} >
+                <label><span>Back cover</span></label>
+            </div>
+        </div>
+        <div className="slide">
+            <div style={{ backgroundImage: `url(${require('../assets/capstone/versions/4/singleStickers.jpg')})` }} >
+                <label><span>Accompanying sticker sheet</span></label>
+            </div>
+        </div>
+    </Slide>
     
-    <div className="imgs max300">
+    <div className="imgs max300 centered">
         <div>
-            <img src={require('../assets/capstone/versions/4/tableHandout.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/4/tableHandout.jpeg')} 
+                onClick={props.open}
+            />
             <p>Pick-up spot before entering</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/4/bookPile.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/4/bookPile.jpeg')} 
+                onClick={props.open}
+            />
             <p>Physical books</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/4/demoSticker.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/4/demoSticker.jpeg')} 
+                onClick={props.open}
+            />
             <p>Physical book demonstration</p>
         </div>
     </div>  
@@ -206,11 +279,17 @@ export const Page = props => (
     <div className="imgs max300">
        
         <div>
-            <img src={require('../assets/capstone/versions/4/girl.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/4/girl.jpeg')} 
+                onClick={props.open}
+            />
             <p>A young temple member and her grandmother using the sticker book</p>
         </div>
         <div>
-            <img src={require('../assets/capstone/versions/4/bannerStageOG.jpg')} />
+            <img 
+                src={require('../assets/capstone/versions/4/bannerStageOG.jpg')} 
+                onClick={props.open}
+            />
             <p>Banner in use during ceremony</p>
         </div>
     </div>
@@ -229,7 +308,10 @@ export const Page = props => (
     <div className="imgs max700">
        
         <div>
-            <img src={require('../assets/capstone/versions/capstonePresentation/2.jpeg')} />
+            <img 
+                src={require('../assets/capstone/versions/capstonePresentation/2.jpeg')} 
+                data-skip-gallery
+            />
             <p>Presenting the project and its various progressing products at Carnegie Mellon's "Meeting of the Minds" 2017 event</p>
         </div>
     </div>

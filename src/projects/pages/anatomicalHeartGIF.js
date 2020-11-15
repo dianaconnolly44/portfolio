@@ -8,7 +8,10 @@ export const Page = props => (
 
 <div className="imgs max600">
             <div>
-                <img src={require('../assets/heart.gif')} />
+                <img 
+                    src={require('../assets/heart.gif')} 
+                    data-skip-gallery
+                    />
                 <p>"From our heart to yours...wishing everyone a very Happy Valentine’s Day!"</p>
             </div>
     </div>

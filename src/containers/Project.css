@@ -59,6 +59,24 @@
   background-repeat: no-repeat;
   background-position: center;
   height: 100%;
+  position: relative;
+}
+.project .slide > div label {
+  position: absolute;
+  width: 100%;
+  bottom: 10px;
+  left: 0;
+  text-align: center;
+  box-sizing: border-box;
+}
+.project .slide > div span {
+  box-sizing: border-box;
+  padding: .5em 1em;
+  border-radius: 5px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  background: rgba(0,0,0,.5);
+  color: white;
 }
 
 .project-wrapper .lb-container {

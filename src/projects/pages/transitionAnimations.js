@@ -8,19 +8,31 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/animations/TitlePage_1.gif')} />
+            <img 
+                src={require('../assets/animations/TitlePage_1.gif')} 
+                onClick={props.open}
+            />
         </div>
         <div>
-            <img src={require('../assets/animations/TitlePage_2.gif')} />
-        </div>        
+            <img 
+                src={require('../assets/animations/TitlePage_2.gif')} 
+                onClick={props.open}
+            />
+        </div>         
     </div>
     
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/animations/OnScreenText_1.gif')} />
+            <img 
+                src={require('../assets/animations/OnScreenText_1.gif')} 
+                onClick={props.open}
+            />
         </div>
         <div>
-            <img src={require('../assets/animations/OnScreenText_2.gif')} />
+            <img 
+                src={require('../assets/animations/OnScreenText_2.gif')} 
+                onClick={props.open}
+            />
         </div>        
     </div>
 

@@ -9,7 +9,10 @@ export const Page = props => (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/painting/retina_v2.jpg')} />
+            <img 
+                src={require('../assets/painting/retina_v2.jpg')} 
+                data-skip-gallery
+                />
             <p>Oil and acrylic, 1.5' x 1.5'</p>
         </div>
     </div>
@@ -19,11 +22,17 @@ export const Page = props => (
     the looks of this based on the below images and made a painting with oil paint for the retina and gold acrylic to mimic these embossing-like deposits.
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/painting/retinaDemo2.jpg')} />
+            <img 
+                src={require('../assets/painting/retinaDemo2.jpg')} 
+                data-skip-gallery
+                />
             <p>Imaging of retina</p>
         </div>
         <div>
-            <img src={require('../assets/painting/retinaDemo.jpg')} />
+            <img 
+                src={require('../assets/painting/retinaDemo.jpg')} 
+                data-skip-gallery
+                />
             <p>Example of the deposits on retina</p>
         </div>
     </div>

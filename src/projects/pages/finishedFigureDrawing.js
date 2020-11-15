@@ -9,7 +9,10 @@ export const Page = props => (
     
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/drawing/figure1_v2.jpg')} />
+            <img 
+                src={require('../assets/drawing/figure1_v2.jpg')} 
+                data-skip-gallery
+                />
         </div>
     </div>
 

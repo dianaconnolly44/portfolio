@@ -12,18 +12,25 @@ to illustrate him in his daily garb: a hospital scrub t-shirt and formal work pa
 he has become famous for within his hospital.</p>
 
 <div className="imgs max600">
-            <div>
-                <img src={require('../assets/dadMotorcycleGIF/dad gif 1.gif')} />
-                <p>Version 1, dark theme</p>
-            </div>
+    <div>
+        <img 
+            src={require('../assets/dadMotorcycleGIF/dad gif 1.gif')} 
+            data-skip-gallery
+            />
+        <p>Version 1, dark theme</p>
     </div>
+</div>
 
 <div className="imgs max600">
-            <div>
-                <img src={require('../assets/dadMotorcycleGIF/dad gif 2.gif')} />
-                <p>Version 2, day theme</p>
-            </div>
+    <div>
+        <img 
+            src={require('../assets/dadMotorcycleGIF/dad gif 2.gif')} 
+            data-skip-gallery
+            />
+        <p>Version 2, day theme</p>
     </div>
+</div>
+
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 
   </div>

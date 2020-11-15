@@ -9,11 +9,17 @@ export const Page = props => (
     <h2>Process:</h2>
     <div className="imgs max200">
         <div>
-            <img src={require('../assets/animations/plane.jpg')} />
+            <img 
+                src={require('../assets/animations/plane.jpg')} 
+                data-skip-gallery
+            />
             <p>Assets designed and created in Illustrator</p>
         </div>
          <div>
-            <img src={require('../assets/animations/plane2.gif')} />
+            <img 
+                src={require('../assets/animations/plane2.gif')} 
+                data-skip-gallery
+            />
             <p>Assets transferred to and animated in After Effects</p> 
         </div>
     </div>

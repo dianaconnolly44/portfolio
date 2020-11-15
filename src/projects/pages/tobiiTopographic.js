@@ -11,7 +11,10 @@ export const Page = props => (
     <p>From 2016-2017, I worked as Graphic Artist Intern for <a href="https://www.tobiidynavox.com/en-US/?MarketPopupClicked=true" target="_blank">Tobii Dynavox</a>. Tobii Dynavox is a U.S.-based developer, manufacturer, and distributor of <a href="https://www.tobiidynavox.com/en-US/learn/what-is-aac/?redirect=true" target="_blank">Augmentative and Alternative Communication (AAC)</a> devices and software for nonverbal or limited speech individuals.</p>
     <div className="imgs max300">
             <div>
-                <img src={require('../assets/tobiiDemo_2.jpg')} />
+                <img 
+                src={require('../assets/tobiiDemo_2.jpg')} 
+                data-skip-gallery
+                />
                 <p>Example AAC product</p>
             </div>
         </div>
@@ -24,7 +27,10 @@ export const Page = props => (
     <p> South Africa symbols:</p>
     <div className="imgs max700">
             <div>
-                <img src={require('../assets/tobiiIcons/maps/topographicGrid-02.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/maps/topographicGrid-02.jpg')} 
+                data-skip-gallery
+                />
             </div>
         </div>
 
@@ -32,7 +38,10 @@ export const Page = props => (
     <p> Mexico symbols:</p>
     <div className="imgs max900">
             <div>
-                <img src={require('../assets/tobiiIcons/maps/topographicGrid-01.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/maps/topographicGrid-01.jpg')} 
+                data-skip-gallery
+                />
             </div>
         </div>
 

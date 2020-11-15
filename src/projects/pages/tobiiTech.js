@@ -11,11 +11,17 @@ export const Page = props => (
     <p>During my time as Graphic Artist Intern, one task I worked on was adding to the library of communication symbols made for AAC devices. These symbols are accessed by users on their devices through means of touch screen or eye-tracking recognition. Once a symbol is selected, the device speaks the word or phrase for the user, thus enabling the user to participate in verbal communication even if they do not personally have the ability to do so (e.g. individuals with ALS or non-verbal ASD).</p>
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/tobiiDemo_1.jpg')} />
+                <img 
+                src={require('../assets/tobiiDemo_1.jpg')} 
+                data-skip-gallery
+                />
                 <p>"Classic" symbols on a device</p>
             </div>
             <div>
-                <img src={require('../assets/tobiiDemo_2.jpg')} />
+                <img 
+                src={require('../assets/tobiiDemo_2.jpg')} 
+                data-skip-gallery
+                />
                 <p>"Thinline" symbols on a device</p>
             </div>
         </div>
@@ -25,7 +31,10 @@ export const Page = props => (
     <p>For this project, I added to the collection of technology-themed thinline icons. These were added to the library of icons used in everyday discussion topics. See a selection of my technology-themed thinlines below.</p>
     <div className="imgs max900">
         <div>
-            <img src={require('../assets/tobiiIcons/tech/techGrid-01.jpg')} />
+            <img 
+                src={require('../assets/tobiiIcons/tech/techGrid-01.jpg')} 
+                data-skip-gallery
+                />
         </div>
     </div>
 

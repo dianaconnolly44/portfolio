@@ -9,19 +9,28 @@ export const Page = props => (
     
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/drawing/colorBridging1.jpg')} />
+            <img 
+                src={require('../assets/drawing/colorBridging1.jpg')} 
+                data-skip-gallery
+                />
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/drawing/colorBridging2.jpg')} />
+            <img 
+                src={require('../assets/drawing/colorBridging2.jpg')} 
+                data-skip-gallery
+                />
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/drawing/colorBridging3.jpg')} />
+            <img 
+                src={require('../assets/drawing/colorBridging3.jpg')} 
+                data-skip-gallery
+                />
         </div>
     </div>
 

@@ -11,22 +11,34 @@ export const Page = props => (
     <h2>Scenes:</h2>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/animations/lizScene-01.jpg')} />
+            <img 
+                src={require('../assets/animations/lizScene-01.jpg')} 
+                data-skip-gallery
+                    />
         </div>
     </div>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/animations/lizScene-02.jpg')} />
+            <img 
+                src={require('../assets/animations/lizScene-02.jpg')} 
+                data-skip-gallery
+                    />
         </div>
     </div>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/animations/lizScene-03.jpg')} />
+            <img 
+                src={require('../assets/animations/lizScene-03.jpg')} 
+                data-skip-gallery
+                    />
         </div>
     </div>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/animations/lizScene-04.jpg')} />
+            <img 
+                src={require('../assets/animations/lizScene-04.jpg')} 
+                data-skip-gallery
+                    />
         </div>
     </div>
     The above scenes were given to me from a coworker graphic designer. With them, I was given the script for the video to help me plan the assets I would build, which included a school bus and a school crafting table.
@@ -34,19 +46,28 @@ export const Page = props => (
     <h2>Asset Building:</h2>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/animations/lizTable-02.jpg')} />
+            <img 
+                src={require('../assets/animations/lizTable-02.jpg')} 
+                data-skip-gallery
+                    />
             <p>Crafting table sketches</p>
         </div>
     </div>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/animations/lizTable-01.jpg')} />
+            <img 
+                src={require('../assets/animations/lizTable-01.jpg')} 
+                data-skip-gallery
+                    />
             <p>Crafting table final</p>
         </div>
     </div>
     <div className="imgs max300">
         <div>
-            <img src={require('../assets/animations/lizBus-01.jpg')} />
+            <img 
+                src={require('../assets/animations/lizBus-01.jpg')} 
+                data-skip-gallery
+                    />
             <p>School bus final</p>
         </div>
     </div>

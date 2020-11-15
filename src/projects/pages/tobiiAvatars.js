@@ -10,7 +10,10 @@ export const Page = props => (
     <p>From 2016-2017, I worked as Graphic Artist Intern for <a href="https://www.tobiidynavox.com/en-US/?MarketPopupClicked=true" target="_blank">Tobii Dynavox</a>. Tobii Dynavox is a U.S.-based developer, manufacturer, and distributor of <a href="https://www.tobiidynavox.com/en-US/learn/what-is-aac/?redirect=true" target="_blank">Augmentative and Alternative Communication (AAC)</a> devices and software for nonverbal or limited speech individuals.</p>
     <div className="imgs max300">
             <div>
-                <img src={require('../assets/tobiiDemo_2.jpg')} />
+                <img 
+                src={require('../assets/tobiiDemo_2.jpg')} 
+                data-skip-gallery
+                />
                 <p>Example AAC product</p>
             </div>
         </div>
@@ -21,16 +24,28 @@ export const Page = props => (
     
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/demo1.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/demo1.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/demo2.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/demo2.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/demo3.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/demo3.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/demo4.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/demo4.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
     </div>
 
@@ -39,7 +54,10 @@ export const Page = props => (
     design avatars that looked like the real-life person as well as followed the style of the pre-existing avatars.</p>
     <div className="imgs max500">
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/avatarDemo.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/avatarDemo.jpg')} 
+                data-skip-gallery
+                />
             </div>
     </div>    
 
@@ -47,16 +65,28 @@ export const Page = props => (
     <p>Below is a selection of the avatars I created.</p>
     <div className="imgs max600">
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/avatarAmy.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/avatarAmy.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/avatarLauren.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/avatarLauren.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/avatarPam.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/avatarPam.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
             <div>
-                <img src={require('../assets/tobiiIcons/avatars/avatarVictoria.jpg')} />
+                <img 
+                src={require('../assets/tobiiIcons/avatars/avatarVictoria.jpg')} 
+                onClick={props.open} 
+                    />
             </div>
     </div>
 

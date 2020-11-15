@@ -8,28 +8,46 @@ export const Page = props => (
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/animations/RA_V1.gif')} />
+            <img 
+                src={require('../assets/animations/RA_V1.gif')} 
+                onClick={props.open}
+            />
         </div>
         <div>
-            <img src={require('../assets/animations/RA_V2.gif')} />
+            <img 
+                src={require('../assets/animations/RA_V2.gif')} 
+                onClick={props.open}
+            />
         </div>        
     </div>
     
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/animations/L3_1.gif')} />
+            <img 
+                src={require('../assets/animations/L3_1.gif')} 
+                onClick={props.open}
+            />
         </div>
         <div>
-            <img src={require('../assets/animations/L3_2.gif')} />
+            <img 
+                src={require('../assets/animations/L3_2.gif')} 
+                onClick={props.open}
+            />
         </div>        
     </div>
 
     <div className="imgs max600">
         <div>
-            <img src={require('../assets/animations/L3_3.gif')} />
+            <img 
+                src={require('../assets/animations/L3_3.gif')} 
+                onClick={props.open}
+            />
         </div>
         <div>
-            <img src={require('../assets/animations/L3_4.gif')} />
+            <img 
+                src={require('../assets/animations/L3_4.gif')} 
+                onClick={props.open}
+            />
         </div>        
     </div>
 

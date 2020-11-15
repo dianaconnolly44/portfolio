@@ -13,46 +13,44 @@ export const Page = props => (
 
     <div className="imgs max900">
         <div>
-            <img src={require('../assets/painting/botanicalSequoia.jpg')} />
+            <img 
+                src={require('../assets/painting/botanicalSequoia.jpg')} 
+                onClick={props.open} 
+                />
             <p>Coastal Redwood Tree - I grew up in California, in a town called "Palo Alto," or "Tall Tree" in Spanish, named after the notably tall Sequioa strain that naturally grows in town.</p>
         </div>
         <div>
-            <img src={require('../assets/painting/botanicalGinkgo.jpg')} />
+            <img 
+                src={require('../assets/painting/botanicalGinkgo.jpg')} 
+                onClick={props.open} 
+                />
             <p>Ginkgo Tree - I attended college in Pittsburgh, and the campus was covered in these. Most memorably, they turned a bright yellow in Fall, which corresponds with the city's bridges and sports team colors.</p>
         </div>
         <div>
-            <img src={require('../assets/painting/botanicalPoppy.jpg')} />
+            <img 
+                src={require('../assets/painting/botanicalPoppy.jpg')} 
+                onClick={props.open} 
+                />
             <p>California Poppy - The state flower, as well as one of the most coveted plants (it is illegal to pick them). Visiting home would often involve spottings of these pops of orange.</p>
         </div>
         <div>
-            <img src={require('../assets/painting/botanicalSnakePlant.jpg')} />
+            <img 
+                src={require('../assets/painting/botanicalSnakePlant.jpg')} 
+                onClick={props.open} 
+                />
             <p>Snake Plant - Now living in New York City, the only plant that comes to mind for this region is the Snake Plant, as most city dwellers, including myself, adorn their apartments with these.</p>
         </div>
     </div>
 
     <div className="imgs max800">
         <div>
-            <img src={require('../assets/painting/botanicalBedroom.jpg')} />
+            <img 
+                src={require('../assets/painting/botanicalBedroom.jpg')} 
+                data-skip-gallery 
+                />
         </div>
     </div>
 
-    <div className="imgs max800">
-        <div>
-            <img src={require('../assets/painting/botanicalSequoia.jpg')} />
-        </div>
-        <div>
-            <img src={require('../assets/painting/botanicalGinkgo.jpg')} />
-        </div>
-    </div>
-
-    <div className="imgs max800">
-        <div>
-            <img src={require('../assets/painting/botanicalPoppy.jpg')} />
-        </div>
-        <div>
-            <img src={require('../assets/painting/botanicalSnakePlant.jpg')} />
-        </div>
-    </div>
 
     
 

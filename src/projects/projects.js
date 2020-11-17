@@ -167,6 +167,7 @@ import { Page as inktoberScarecrow } from './pages/inktoberScarecrow';
 import { Page as inktoberHauntedHouse } from './pages/inktoberHauntedHouse';
 import { Page as inktoberTrickOrTreat } from './pages/inktoberTrickOrTreat';
 import { Page as Hbook } from './pages/Hbook';
+import { Page as HstarGift } from './pages/HstarGift';
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -1415,6 +1416,15 @@ export const projects = {
 		pic: `nail-sunset.jpg`,
 		page: 0
 	},
+
+'HstarGift': {
+		title: `"365 Reasons I Love You"`,
+		description: `Homemade gift for anniversary with my partner`,
+		pic: `HstarGift.jpg`,
+		page: HstarGift
+	},
+
+	
 
 //lettering//
 

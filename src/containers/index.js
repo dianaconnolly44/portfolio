@@ -4,13 +4,15 @@ import Gallery from './Gallery';
 import Project from './Project';
 import DuoLingoApp from './DuoLingoApp';
 import ReedsyApp from './ReedsyApp';
+import DatadogApp from './DatadogApp';
 
 
 export {
 	Home,
-  About,
+	About,
 	Gallery,
-  Project,
-  DuoLingoApp,
-  ReedsyApp
+	Project,
+	DuoLingoApp,
+	ReedsyApp,
+	DatadogApp
 }

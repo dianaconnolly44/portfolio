@@ -33,3 +33,25 @@ git pull
 (If aborts and asks to commit changes, do step one of "TO PUBLISH")
 
 (If completes pull but shows a screen saying "Merge..." Type anywhere: :wq)
+
+
+
+
+
+TO CREATE NEW JOB APP LANDING PAGE
+
+Make a copy of "DuolingoApp.js"
+
+Rename to "(RelevantCompany)App.js"
+
+Go to "(RelevantCompany)App.js"
+
+Hit CMD + Shift + F 
+	Find: "duolingo"
+	Where: "src/"
+
+Everywhere there is "Duolingo", except on DuolingoApp.js or (RelevantCompany)App.js, add "Relevant Company" by double clicking on the highlighted Duolingo
+
+
+
+

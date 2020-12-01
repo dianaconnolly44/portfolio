@@ -6,7 +6,7 @@ import { createBrowserHistory } from 'history';
 import { Nav } from './components';
 import { menu, flat } from './projects/menu';
 import { projects } from './projects/projects';
-import { Home, Gallery, About, Project, DuoLingoApp, ReedsyApp } from './containers';
+import { Home, Gallery, About, Project, DuoLingoApp, ReedsyApp, DatadogApp } from './containers';
 import ReactGA from 'react-ga';
 
 require('./app.css');
@@ -56,7 +56,7 @@ class App extends Component {
     // projects
     if(flat.some(path => (path.projects || []).includes(page) && projects[page].page)) return 'project';
     // apps
-    if(['duolingo','reedsy'].includes(page)) return page;
+    if(['duolingo','reedsy', 'datadog'].includes(page)) return page;
     // invalid
     return false;
   }
@@ -82,6 +82,7 @@ class App extends Component {
       if(type === 'about') return <About {...this.props} />;
       if(type === 'duolingo') return <DuoLingoApp {...this.props} />;
       if(type === 'reedsy') return <ReedsyApp {...this.props} />;
+      if(type === 'datadog') return <DatadogApp {...this.props} />;
       if(type === 'gallery') {
         let page_title = page, page_subtitle;
         menu.forEach(item => {

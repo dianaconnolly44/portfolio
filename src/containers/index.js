@@ -5,6 +5,8 @@ import Project from './Project';
 import DuoLingoApp from './DuoLingoApp';
 import ReedsyApp from './ReedsyApp';
 import DatadogApp from './DatadogApp';
+import BigHealthApp from './BigHealthApp';
+
 
 
 export {
@@ -14,5 +16,6 @@ export {
 	Project,
 	DuoLingoApp,
 	ReedsyApp,
-	DatadogApp
+	DatadogApp,
+	BigHealthApp
 }

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-require('./DuoLingoApp.css');
 
-export default class DuoLingoApp extends Component {
+export default class JobApp extends Component {
   state = {}
   meta = {}
 
@@ -12,7 +11,7 @@ export default class DuoLingoApp extends Component {
       <div className="about job-app">
         <div>
           <div className="top">
-            <img src={require('../headshot2_v2.gif')} />
+            <img src={require('../../headshot2_v2.gif')} />
             <div className="header">
               <div className="divider" />
               <div style={{ marginBottom: -5 }}>
@@ -58,7 +57,7 @@ export default class DuoLingoApp extends Component {
             <div className="tags">
               <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
               <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
-              <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
+              <div><a target="_blank" href={require('../../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
               <div><a onClick={e => nav("/about")}>about me <span className="arrow">➜</span></a></div>
             </div>
           </div>

@@ -1228,14 +1228,14 @@ export const projects = {
 
 	'postcards': {
 		title: `Marketing Postcards`,
-		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
+		description: `Postcards to engage existing users and gain new users of a platform`,
 		pic: `postcards.jpg`,
 		page: postcards
 	},
 
 	'snellen': {
 		title: `Personalized Snellen Chart`,
-		description: `Personalized Snellen Chart for my ophthalmologist mom on Mother's Day`,
+		description: `Mother's Day gift of a personalized Snellen Chart for my ophthalmologist mom`,
 		pic: `snellen.jpg`,
 		page: snellen
 	},
@@ -1256,7 +1256,7 @@ export const projects = {
 
 	'tobiiShirt': {
 		title: `Shirt Design: ALS Walk`,
-		description: `Photo manipulation of a Scanning Electron Microscope (SEM) capture of a microscopic botany sample`,
+		description: `A shirt design for Tobii Dynavox's participation in the local Pittsburgh ALS Walk`,
 		pic: `tobiiShirt.jpg`,
 		page: tobiiShirt
 	},
@@ -1270,7 +1270,7 @@ export const projects = {
 
 	'verdeShirt': {
 		title: `Shirt Design: Verde Magazine`,
-		description: `A family portrait with my family as Darwin finches, exhibiting our varying "beak phenotypes"`,
+		description: `A shirt design for Verde Magazine's branded team merchandise`,
 		pic: `verdeShirt.jpg`,
 		page: verdeShirt
 	},

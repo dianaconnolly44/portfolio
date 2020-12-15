@@ -6,8 +6,15 @@ import { createBrowserHistory } from 'history';
 import { Nav } from './components';
 import { menu, flat } from './projects/menu';
 import { projects } from './projects/projects';
-import { Home, Gallery, About, Project, DuoLingoApp, ReedsyApp, DatadogApp, BigHealthApp } from './containers';
+import { Home, Gallery, About, Project } from './containers';
 import ReactGA from 'react-ga';
+
+// ==== JOB APPS (1 / 3 parts to update on this page)
+import DuoLingo from './containers/jobs/DuoLingo';
+import Reedsy from './containers/jobs/Reedsy';
+import Datadog from './containers/jobs/Datadog';
+import BigHealth from './containers/jobs/BigHealth';
+// ====
 
 require('./app.css');
 ReactGA.initialize('UA-92429223-1');
@@ -55,8 +62,16 @@ class App extends Component {
     if(flat.some(path => path.id === page)) return 'gallery';
     // projects
     if(flat.some(path => (path.projects || []).includes(page) && projects[page].page)) return 'project';
-    // apps
-    if(['duolingo','reedsy', 'datadog', 'bighealth'].includes(page)) return page;
+    
+    // ==== JOB APPS (2 / 3 parts to update on this page)
+    if([
+      'duolingo',
+      'reedsy',
+      'datadog',
+      'bighealth',
+    ].includes(page)) return page;
+    // ====
+
     // invalid
     return false;
   }
@@ -80,10 +95,14 @@ class App extends Component {
       if(!type) return page404;
       if(!page) return <Home {...this.props} />;
       if(type === 'about') return <About {...this.props} />;
-      if(type === 'duolingo') return <DuoLingoApp {...this.props} />;
-      if(type === 'reedsy') return <ReedsyApp {...this.props} />;
-      if(type === 'datadog') return <DatadogApp {...this.props} />;
-      if(type === 'bighealth') return <BigHealthApp {...this.props} />;
+
+      // ==== JOB APPS (3 / 3 parts to update on this page)
+      if(type === 'duolingo') return <DuoLingo {...this.props} />;
+      if(type === 'reedsy') return <Reedsy {...this.props} />;
+      if(type === 'datadog') return <Datadog {...this.props} />;
+      if(type === 'bighealth') return <BigHealth {...this.props} />;
+      // ====
+
       if(type === 'gallery') {
         let page_title = page, page_subtitle;
         menu.forEach(item => {

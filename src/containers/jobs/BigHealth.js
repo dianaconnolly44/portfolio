@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class DuoLingoApp extends Component {
+export default class JobApp extends Component {
   state = {}
   meta = {}
 
@@ -11,54 +11,38 @@ export default class DuoLingoApp extends Component {
       <div className="about job-app">
         <div>
           <div className="top">
-            <img src={require('../headshot2_v2.gif')} />
+            <img src={require('../../headshot2_v2.gif')} />
             <div className="header">
               <div className="divider" />
               <div style={{ marginBottom: -5 }}>
                 <div id="hi">Hi, I'm Diana!</div>
-                I'm a <b className="pink">creative</b> in NYC applying for Datadog's position in <b className="blue">illustration</b>.
+                I'm a <b className="pink">creative</b> in NYC applying for Big Health's position in <b className="blue">illustration</b>.
               </div>
             </div>
           </div>
 
           <div className="body">
-            <p>Welcome, Datadog recruiter! I am so happy to have you here on my portfolio website. I have collected for you below a few links to some relevant works. Thank you, and have a great day!</p>
+            <p>Welcome, Big Health recruiter! I am so happy to have you here on my portfolio website. I have collected for you below a few links to some relevant works. Thank you, and have a great day!</p>
 
-  
 
-              
-
-              
-              <h3 style={{marginTop: 50}}>Projects</h3>
+            <h3>Projects</h3>
             <p style={{ marginTop: 21 }}>You might want to check out these <b className="blue">illustration</b> projects:</p>
             <ul className="blue">
-              <li><a onClick={e => nav("/media")}>media and editorial illustrations <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/expii")}>educational graphics <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li> 
               <li><a onClick={e => nav("/iconography")}>icons and symbols <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li>            </ul>
-            
-            <p style={{ marginTop: -9 }}>You can also find some <b className="pink">other</b> projects here:</p>
-            <ul className="pink">
-              <li><a onClick={e => nav("/graphic")}>graphic design <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/loops")}>GIF loops <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/expii")}>educational graphics <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/media")}>media and editorial illustrations <span className="arrow">➜</span></a></li>
             </ul>
-          </div>
+            
+            <p style={{ marginTop: -9 }}>You can find my <b className="pink">animation</b> projects here:</p>
+            <ul className="pink">
+              <li><a onClick={e => nav("/loops")}>loops <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/videos")}>videos <span className="arrow">➜</span></a></li>
+            </ul>
 
-          <div className="footer">
-            <b>Let's connect!</b> 
-            <div className="tags">
-              <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
-              <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
-              <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
-              <div><a onClick={e => nav("/about")}>about me <span className="arrow">➜</span></a></div>
-            </div>
-          </div>
+            <div className="project">
 
-<br/>
-<br/>
-         
-<div className="project">
-<p>I also do animation!</p>
+              <h3>Demo Reel</h3>
               <div className="video">
                 <iframe 
                   src="https://www.youtube.com/embed/Mrckc2JDkm0" 
@@ -68,6 +52,20 @@ export default class DuoLingoApp extends Component {
                 />
               </div>
             </div>
+
+              
+              
+          </div>
+
+          <div className="footer">
+            <b>Let's connect!</b> 
+            <div className="tags">
+              <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
+              <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
+              <div><a target="_blank" href={require('../../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
+              <div><a onClick={e => nav("/about")}>about me <span className="arrow">➜</span></a></div>
+            </div>
+          </div>
         
 {/*          <section className="hello">
             <div>

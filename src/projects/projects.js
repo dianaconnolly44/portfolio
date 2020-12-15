@@ -674,63 +674,63 @@ export const projects = {
 	},
 
 	'skulls': {
-		title: `"I Have a Bone to Pick"`,
+		title: `Math Problem: "I Have a Bone to Pick"`,
 		description: 'Adobe After Effects',
 		pic: `skulls-small.gif`,
 		page: expiiSkulls
 	},
 
 	'turkey': {
-		title: `"Parading Around"`,
+		title: `Math Problem: "Parading Around"`,
 		description: 'Adobe After Effects',
 		pic: `turkey-small.gif`,
 		page: expiiTurkey
 	},
 
 	'pumpkins': {
-		title: `"Pumpkin Overload"`,
+		title: `Math Problem: "Pumpkin Overload"`,
 		description: 'Adobe After Effects',
 		pic: `pumpkins-small.gif`,
 		page: expiiPumpkins
 	},
 
 	'clock': {
-		title: `"Save the Day(light)"`,
+		title: `Math Problem: "Save the Day(light)"`,
 		description: 'Adobe After Effects',
 		pic: `clock-small.gif`,
 		page: expiiDLS
 	},
 
 	'hanukkah': {
-		title: `"Hanukkah Candles"`,
+		title: `Math Problem: "Hanukkah Candles"`,
 		description: 'Adobe After Effects',
 		pic: `hanukkah-small.gif`,
 		page: expiiHannukah
 	},
 
 	'bFriday': {
-		title: `"Discount Dash"`,
+		title: `Math Problem: "Discount Dash"`,
 		description: 'Adobe After Effects',
 		pic: `bFriday-small.gif`,
 		page: expiiBlackFriday
 	},
 
 	'ornaments': {
-		title: `"Weigh the Ornaments"`,
+		title: `Math Problem: "Weigh the Ornaments"`,
 		description: 'Adobe After Effects',
 		pic: `ornaments-small.gif`,
 		page: expiiOrnaments
 	},
 
 	'ribbon': {
-		title: `"Cut the Ribbon"`,
+		title: `Math Problem: "Cut the Ribbon"`,
 		description: 'Adobe After Effects',
 		pic: `ribbon-small.gif`,
 		page: expiiRibbon
 	},
 
 	'NYE': {
-		title: `"Drop the Ball"`,
+		title: `Math Problem: "Drop the Ball"`,
 		description: 'Adobe After Effects',
 		pic: `NYE-small.gif`,
 		page: expiiNYE
@@ -1000,7 +1000,7 @@ export const projects = {
 
 	'flipfoot': {
 		title: `"Flipfoot" Flipbook`,
-		description: `Flipbook illustrating the progression of CRPS`,
+		description: `Flipbook illustrating the progression of Complex Regional Pain Syndrome in the body`,
 		pic: `flipfoot.jpg`,
 		page: flipfoot
 	},
@@ -1242,21 +1242,21 @@ export const projects = {
 
 	'CIAJ': {
 		title: `Event Flyers: Workshops`,
-		description: `Flyer for a cancer patient's workshop to personify and mentally separate from one's cancer`,
+		description: `Flyers for a cancer-related workshop`,
 		pic: `CIAJflyers.jpg`,
 		page: CIAJ
 	},
 
 	'starMap': {
 		title: `Star Maps`,
-		description: `A print including a map of the stars at certain dates and locations`,
+		description: `Prints including a map of the stars at certain meaningful dates and locations`,
 		pic: `starMap.jpg`,
 		page: starMaps
 	},
 
 	'tobiiShirt': {
 		title: `Shirt Design: ALS Walk`,
-		description: `A shirt design for Tobii Dynavox's participation in the local Pittsburgh ALS Walk`,
+		description: `A shirt design for Tobii Dynavox's participation in the local Pittsburgh ALS fundraiser event`,
 		pic: `tobiiShirt.jpg`,
 		page: tobiiShirt
 	},
@@ -1270,7 +1270,7 @@ export const projects = {
 
 	'verdeShirt': {
 		title: `Shirt Design: Verde Magazine`,
-		description: `A shirt design for Verde Magazine's branded team merchandise`,
+		description: `A shirt design for Verde Magazine's staff members`,
 		pic: `verdeShirt.jpg`,
 		page: verdeShirt
 	},
@@ -1284,7 +1284,7 @@ export const projects = {
 
 	'indesign': {
 		title: `InDesign e-Guides`,
-		description: `Career e-guides built out in InDesign for W.E.S.`,
+		description: `Career pathway e-guides built out in InDesign`,
 		pic: `wes-01.jpg`,
 		page: WES
 	},

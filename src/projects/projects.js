@@ -301,7 +301,7 @@ export const projects = {
 	'Hbook': {
 		title: `"The 25 Book"`,
 		description: `A children's book style biography of my 25-year-old partner`,
-		pic: `Hbook2.jpg`,
+		pic: `Hbook3.jpg`,
 		page: Hbook
 	},
 
@@ -824,7 +824,7 @@ export const projects = {
 
 	'figure5': {
 		description: `Charcoal`,
-		pic: `figure5.jpg`,
+		pic: `figure5_v3.jpg`,
 		page: finishedFigureDrawing
 	},
 

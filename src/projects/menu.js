@@ -150,17 +150,18 @@ const menu = [
 				id: 'drawing',
 				label: `Drawing`,
 				projects: [
-					'colorShadowGirl',
-					'birb',
-					'icyGirl',
 
 					'joker',
 					'jackson',
 					'alyssa',
 					
 					'selfPencil',
-					'shell',
 					'stillLifePencil',
+					'shell',
+
+					'colorShadowGirl',
+					'birb',
+					'icyGirl',
 					
 					'handCharcoal',
 					'charcoal',

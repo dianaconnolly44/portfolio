@@ -7,7 +7,7 @@ export const Page = props => (
     <h1> Graphite Still Life </h1>
 
     
-    <div className="imgs max800">
+    <div className="imgs max400">
         <div>
             <img 
                 src={require('../assets/drawing/shell.jpg')} 

@@ -14,11 +14,11 @@ TO PUBLISH:
 
 IN TERMINAL…
 
-git add .; git commit -m "updated resume, site, and about"
+git add .; git commit -m "____"
   = labels the new addition
 
 git push
-  = pushes the new addition to GitHub (H could work on it now)
+  = pushes the new addition to GitHub
 
 npm run deploy
   = deploys it publicly 
@@ -26,7 +26,7 @@ npm run deploy
 
 
 
-TO SYNC WITH HIZAL'S CHANGES
+TO SYNC WITH OTHERS' CHANGES
 
 git pull
 
@@ -40,17 +40,17 @@ git pull
 
 TO CREATE NEW JOB APP LANDING PAGE
 
-Make a copy of "DuolingoApp.js"
+Make a copy of "___App.js"
 
 Rename to "(RelevantCompany)App.js"
 
 Go to "(RelevantCompany)App.js"
 
 Hit CMD + Shift + F 
-	Find: "duolingo"
+	Find: "__"
 	Where: "src/"
 
-Everywhere there is "Duolingo", except on DuolingoApp.js or (RelevantCompany)App.js, add "Relevant Company" by double clicking on the highlighted Duolingo
+Everywhere there is "__", except on __App.js or (RelevantCompany)App.js, add "Relevant Company" by double clicking on the highlighted __
 
 
 

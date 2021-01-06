@@ -34,12 +34,15 @@ const menu = [
 				id: 'media',
 				label: 'Media',
 				projects: [
-					'saveTheDate',
-					'flipfoot',
-					'infographics',
+					
 					'expiiMedia1',
 					'expiiMedia2',
 					'hotspots',
+					
+					'saveTheDate',
+					'flipfoot',
+					'infographics',
+					
 					'lloyd',
 					'verdeBaby',
 					'verdeGun',
@@ -49,6 +52,9 @@ const menu = [
 					'verdeLips',
 					'verdeOccupy',
 					'verdeInternal',
+					'colorShadowGirl',
+					'birb',
+					'icyGirl',
 				]
 			},
 
@@ -188,21 +194,26 @@ const menu = [
 					'boobs',
 					'dissect',
 					'eye',
+
+					'botanical1',
 					'wonky1',
 					'wonky2',
+
 					'rococoLint',
-					'young8',
-					'model',
 					'Lint',
-					'young7',
-					'plane',
-					'botanical1',
-					//'botanical2',
-					//'botanical3',
-					//'botanical4',
+					'young8',
+
 					'young4',
 					'young2',
 					'young5',
+
+					'young7',
+					'plane',
+					'model',
+					//'botanical2',
+					//'botanical3',
+					//'botanical4',
+					
 					//'jesusme',
 				]
 			},
@@ -216,13 +227,15 @@ const menu = [
 					'migraineGlasses',
 					'hairGod',
 
+					'artBioPetri',
+					'darwinPortraits',
+					'spider',
+
 					'tattoo',
 					
 					'ducks',
 					'dreamBox',
-					'artBioPetri',
-					'darwinPortraits',
-					'spider',
+					
 					
 
 					'sugarBoxes',
@@ -243,9 +256,10 @@ const menu = [
 
 					'104faces',
 					'104colorSliders',
+					'104walkingMan',
 					'104dragMouseRainbowBalls',
 
-					'104walkingMan',
+					
 					'104paddleBall',
 					'104yinAndYang',
 

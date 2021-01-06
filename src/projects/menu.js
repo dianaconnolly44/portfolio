@@ -34,6 +34,9 @@ const menu = [
 				id: 'media',
 				label: 'Media',
 				projects: [
+					'saveTheDate',
+					'flipfoot',
+					'infographics',
 					'expiiMedia1',
 					'expiiMedia2',
 					'hotspots',

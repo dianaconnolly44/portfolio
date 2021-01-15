@@ -40,11 +40,11 @@ git pull
 
 TO CREATE NEW JOB APP LANDING PAGE
 
-Make a copy of "___App.js"
+Make a copy of any previous job app in /containers/jobs folder
 
-Rename to "(RelevantCompany)App.js"
+Rename to "(RelevantCompany).js"
 
-Go to "(RelevantCompany)App.js"
+Open to "(RelevantCompany).js"
 
 Hit CMD + Shift + F 
 	Find: "__"

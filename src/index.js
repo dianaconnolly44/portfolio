@@ -14,6 +14,8 @@ import DuoLingo from './containers/jobs/DuoLingo';
 import Reedsy from './containers/jobs/Reedsy';
 import Datadog from './containers/jobs/Datadog';
 import BigHealth from './containers/jobs/BigHealth';
+import Slumberkins from './containers/jobs/Slumberkins';
+
 // ====
 
 require('./app.css');
@@ -69,6 +71,7 @@ class App extends Component {
       'reedsy',
       'datadog',
       'bighealth',
+      'slumberkins',
     ].includes(page)) return page;
     // ====
 
@@ -101,6 +104,7 @@ class App extends Component {
       if(type === 'reedsy') return <Reedsy {...this.props} />;
       if(type === 'datadog') return <Datadog {...this.props} />;
       if(type === 'bighealth') return <BigHealth {...this.props} />;
+      if(type === 'slumberkins') return <Slumberkins {...this.props} />;
       // ====
 
       if(type === 'gallery') {

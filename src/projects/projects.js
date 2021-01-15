@@ -168,6 +168,8 @@ import { Page as inktoberHauntedHouse } from './pages/inktoberHauntedHouse';
 import { Page as inktoberTrickOrTreat } from './pages/inktoberTrickOrTreat';
 import { Page as Hbook } from './pages/Hbook';
 import { Page as HstarGift } from './pages/HstarGift';
+import { Page as grataCanisMajor } from './pages/grataCanisMajor';
+
 
 
 // PAGE FOR PROJECT INFORMATION (used by menu, gallery pages, etc)
@@ -308,6 +310,13 @@ export const projects = {
 
 //media illo//
 
+	'grataCanisMajor': {
+		title: `"Canis Major" Release`,
+		description: `Product line release, themed around the Canis Major constellation`,
+		pic: `grataCanisMajor.jpg`,
+		page: grataCanisMajor
+	},
+
 	'lloyd': {
 		title: `"The Eleventh Hour"`,
 		description: `Prog rock album cover`,
@@ -316,14 +325,14 @@ export const projects = {
 	},
 
 	'expiiMedia1': {
-		title: `Editorial Illustration`,
+		title: `Ed-Tech Illustration`,
 		description: `Depicting varying math and science explanation types (text, video, drawn) housed on an e-learning site`,
 		pic: `expii1.jpg`,
 		page: expiiMedia1
 	},
 
 	'expiiMedia2': {
-		title: `Editorial Illustration`,
+		title: `Ed-Tech Illustration`,
 		description: `Depicting a sense of community and communication on social media for an e-learning site`,
 		pic: `expii2_v3.jpg`,
 		page: expiiMedia2

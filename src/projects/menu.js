@@ -10,17 +10,19 @@ const menu = [
 				label: `Children's`,
 				projects: [
 					'myCondition',
+					'activity',
+					'achieve',
+
 					'pathways',
 					//'thesis',
 					'frida',
 					'fall',
-					'andreaBook',
-					'bunny',
 					'energy',
-					'color',
+					'bunny',
 					'trump',
-					'achieve',
-					'activity',
+					'color',
+					'andreaBook',
+				
 					'goingForGold',
 					'expii',
 					't1d',
@@ -34,15 +36,15 @@ const menu = [
 				id: 'media',
 				label: 'Media',
 				projects: [
-					
+					'grataCanisMajor',
 					'expiiMedia1',
 					'expiiMedia2',
 					'hotspots',
 					
-					'saveTheDate',
-					'flipfoot',
 					'infographics',
-					
+					'flipfoot',
+					'saveTheDate',
+
 					'lloyd',
 					'verdeBaby',
 					'verdeGun',
@@ -167,10 +169,6 @@ const menu = [
 					'selfPencil',
 					'stillLifePencil',
 					'shell',
-
-					'colorShadowGirl',
-					'birb',
-					'icyGirl',
 					
 					'handCharcoal',
 					'charcoal',
@@ -291,19 +289,23 @@ const menu = [
 				id: 'graphic',
 				label: `Graphic`,
 				projects: [
+					'grataCanisMajor',
 					'indesign',
 					'infographics',
 					'saveTheDate',
 					'flipfoot',
 					'sparkBranding',
 					'expiiFlyer',
-					'starMap',
-					'postcards',
+					
+					
 					'CIAJ',
-					'snellen',
+					'postcards',
+					'starMap',
+					
 					'verdeShirt',
 					//'pirateShirt',
 					'tobiiShirt',
+					'snellen',
 				]
 			},
 

@@ -4,28 +4,81 @@ export const Page = props => (
 
     {/* ==== EDIT BELOW THIS LINE ==== */}
     
-    <h1> "Canis Major" Launch </h1>
+    <h1> "Canis Major" Release </h1>
 
     
     <div className="imgs max700">
         <div>
             <img 
-                    src={require('../assets/grataCanisMajorEmail.jpg')} 
+                    src={require('../assets/grataCanisMajor/grataCanisMajorLogo.jpg')} 
                     data-skip-gallery
                 />
-            <p>Email Announcement Illustration</p>
+            <p>Product Release Logo Illustration</p>
         </div>
     </div>
 
     <p>I created a suite of illustrations as part of <a href="https://www.gratadata.com/" target="_blank">Grata</a>'s new product launch, called the "Canis Major Release". Grata wanted their upcoming collection of releases to revolve around a theme of space and constellations, with this release focusing on the Canis Major constellation. I was tasked with creating illustrations for the release's logo image, email announcement image, and landing page images.</p>
 
+
     <div className="imgs max700">
         <div>
             <img 
-                    src={require('../assets/grataCanisMajorLogo.jpg')} 
+                    src={require('../assets/grataCanisMajor/banner1.jpg')} 
                     data-skip-gallery
                 />
-            <p>Product Line Logo Illustration</p>
+            <p>Page Banner Illustration</p>
+        </div>
+        <div>
+        <img 
+                    src={require('../assets/grataCanisMajor/banner2.jpg')} 
+                    data-skip-gallery
+                />
+            <p>Page Banner Illustration</p>
+        </div>
+    </div>
+
+    <div className="imgs max700">
+        <div>
+            <img 
+                    src={require('../assets/grataCanisMajor/banner3.jpg')} 
+                    data-skip-gallery
+                />
+            <p>Page Banner Illustration</p>
+        </div>
+        <div>
+        <img 
+                    src={require('../assets/grataCanisMajor/banner4.jpg')} 
+                    data-skip-gallery
+                />
+            <p>Page Banner Illustration</p>
+        </div>
+    </div>
+
+    <div className="imgs max700">
+        <div>
+            <img 
+                    src={require('../assets/grataCanisMajor/banner5.jpg')} 
+                    data-skip-gallery
+                />
+            <p>Page Banner Illustration</p>
+        </div>
+        <div>
+        <img 
+                    src={require('../assets/grataCanisMajor/banner6.jpg')} 
+                    data-skip-gallery
+                />
+            <p>Page Banner Illustration</p>
+        </div>
+    </div>
+
+
+<div className="imgs max700">
+        <div>
+            <img 
+                    src={require('../assets/grataCanisMajor/grataCanisMajorEmail.jpg')} 
+                    data-skip-gallery
+                />
+            <p>Email Announcement Illustration</p>
         </div>
     </div>
 

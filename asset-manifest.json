@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.7b8b47f0.chunk.css",
-    "main.js": "/static/js/main.9c411a01.chunk.js",
-    "main.js.map": "/static/js/main.9c411a01.chunk.js.map",
+    "main.js": "/static/js/main.bf778086.chunk.js",
+    "main.js.map": "/static/js/main.bf778086.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.27133537.chunk.js": "/static/js/2.27133537.chunk.js",
-    "static/js/2.27133537.chunk.js.map": "/static/js/2.27133537.chunk.js.map",
+    "static/js/2.80dfec55.chunk.js": "/static/js/2.80dfec55.chunk.js",
+    "static/js/2.80dfec55.chunk.js.map": "/static/js/2.80dfec55.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.623c69f34a45a92056581de6ccb5e9bc.js": "/precache-manifest.623c69f34a45a92056581de6ccb5e9bc.js",
+    "precache-manifest.e58568274159d0a581501fe9c57ea5a9.js": "/precache-manifest.e58568274159d0a581501fe9c57ea5a9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.7b8b47f0.chunk.css.map": "/static/css/main.7b8b47f0.chunk.css.map",
-    "static/js/2.27133537.chunk.js.LICENSE.txt": "/static/js/2.27133537.chunk.js.LICENSE.txt",
+    "static/js/2.80dfec55.chunk.js.LICENSE.txt": "/static/js/2.80dfec55.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -332,6 +332,9 @@
     "static/media/goingForGold.jpg": "/static/media/goingForGold.d2f6ea76.jpg",
     "static/media/gold.png": "/static/media/gold.12dfda19.png",
     "static/media/goldTests.png": "/static/media/goldTests.46dd1b61.png",
+    "static/media/grataCanisMajor.jpg": "/static/media/grataCanisMajor.5aa1a1a5.jpg",
+    "static/media/grataCanisMajorEmail.jpg": "/static/media/grataCanisMajorEmail.c8ae4510.jpg",
+    "static/media/grataCanisMajorLogo.jpg": "/static/media/grataCanisMajorLogo.d17f89eb.jpg",
     "static/media/greetingCards.jpg": "/static/media/greetingCards.7a55386a.jpg",
     "static/media/grid1-01_pixellated.jpg": "/static/media/grid1-01_pixellated.36e933b3.jpg",
     "static/media/grid2.jpg": "/static/media/grid2.0b793043.jpg",
@@ -512,7 +515,7 @@
     "static/media/ref2.jpg": "/static/media/ref2.8f84268a.jpg",
     "static/media/ref3.jpg": "/static/media/ref3.31cdc800.jpg",
     "static/media/resinBookmarks.jpg": "/static/media/resinBookmarks.fc3a291e.jpg",
-    "static/media/resume.pdf": "/static/media/resume.131617ac.pdf",
+    "static/media/resume.pdf": "/static/media/resume.35f198c1.pdf",
     "static/media/retina_v2.jpg": "/static/media/retina_v2.84632eb1.jpg",
     "static/media/ribbon-sm.gif": "/static/media/ribbon-sm.6122f2b8.gif",
     "static/media/ribbon-small.gif": "/static/media/ribbon-small.67825cab.gif",
@@ -651,8 +654,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.27133537.chunk.js",
+    "static/js/2.80dfec55.chunk.js",
     "static/css/main.7b8b47f0.chunk.css",
-    "static/js/main.9c411a01.chunk.js"
+    "static/js/main.bf778086.chunk.js"
   ]
 }

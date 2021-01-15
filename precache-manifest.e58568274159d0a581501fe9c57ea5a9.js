@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8279e45d22f690902c4647a0b6653fe6",
+    "revision": "bc7d4406feda24f143a67ff806c66a3d",
     "url": "/index.html"
   },
   {
-    "revision": "f9dc9106653affac1996",
+    "revision": "f8a8265279b459c3feb9",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "ec4308630e1a3032562e",
+    "revision": "3194bc80736e2cb64f8d",
     "url": "/static/css/main.7b8b47f0.chunk.css"
   },
   {
-    "revision": "f9dc9106653affac1996",
-    "url": "/static/js/2.27133537.chunk.js"
+    "revision": "f8a8265279b459c3feb9",
+    "url": "/static/js/2.80dfec55.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.27133537.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.80dfec55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec4308630e1a3032562e",
-    "url": "/static/js/main.9c411a01.chunk.js"
+    "revision": "3194bc80736e2cb64f8d",
+    "url": "/static/js/main.bf778086.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -1524,6 +1524,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/goldTests.46dd1b61.png"
   },
   {
+    "revision": "5aa1a1a5b8c6069fc89762025d5f82bd",
+    "url": "/static/media/grataCanisMajor.5aa1a1a5.jpg"
+  },
+  {
+    "revision": "c8ae45104e79c66aa7cdee97620bf4d8",
+    "url": "/static/media/grataCanisMajorEmail.c8ae4510.jpg"
+  },
+  {
+    "revision": "d17f89ebd98e2b352c99919de063f641",
+    "url": "/static/media/grataCanisMajorLogo.d17f89eb.jpg"
+  },
+  {
     "revision": "7a55386a16f379cbdd867d1a7b81618b",
     "url": "/static/media/greetingCards.7a55386a.jpg"
   },
@@ -2284,8 +2296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/resinBookmarks.fc3a291e.jpg"
   },
   {
-    "revision": "131617ac5cf7b8a21300bd51dfe5de67",
-    "url": "/static/media/resume.131617ac.pdf"
+    "revision": "35f198c184983fd18799f1ae6e3fe607",
+    "url": "/static/media/resume.35f198c1.pdf"
   },
   {
     "revision": "84632eb110674bd662a8504cf7d2ab6b",

@@ -16,7 +16,7 @@ export default class JobApp extends Component {
               <div className="divider" />
               <div style={{ marginBottom: -5 }}>
                 <div id="hi">Hi, I'm Diana!</div>
-                I'm a <b className="pink">creative</b> in NYC applying for Slumberkins's position in <b className="blue">illustration</b>.
+                I'm a <b className="pink">creative</b> in NYC applying for Slumberkins' position in <b className="blue">illustration</b>.
               </div>
             </div>
           </div>

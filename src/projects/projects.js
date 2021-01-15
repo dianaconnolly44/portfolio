@@ -916,7 +916,7 @@ export const projects = {
 
 	'botanical1': {
 		title: `Botanical Self Portraits`,
-		description: `Plants from the places I have lived,  watercolor & colored pencil`,
+		description: `Plants from the places I have lived,  watercolor`,
 		pic: `sequoia.jpg`,
 		page: botanical
 	},

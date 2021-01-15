@@ -189,17 +189,14 @@ const menu = [
 				id: 'painting',
 				label: 'Painting',
 				projects: [
-					'boobs',
+					'botanical1',
+
 					'dissect',
 					'eye',
 
-					'botanical1',
-					'wonky1',
-					'wonky2',
+					
 
-					'rococoLint',
-					'Lint',
-					'young8',
+					
 
 					'young4',
 					'young2',
@@ -207,7 +204,15 @@ const menu = [
 
 					'young7',
 					'plane',
+					'young8',
+
+					'rococoLint',
+					'Lint',
 					'model',
+
+					'boobs',
+					'wonky1',
+					'wonky2',
 					//'botanical2',
 					//'botanical3',
 					//'botanical4',

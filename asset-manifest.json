@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.7b8b47f0.chunk.css",
-    "main.js": "/static/js/main.14daecc5.chunk.js",
-    "main.js.map": "/static/js/main.14daecc5.chunk.js.map",
+    "main.js": "/static/js/main.f633abd2.chunk.js",
+    "main.js.map": "/static/js/main.f633abd2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.093ee078.chunk.js": "/static/js/2.093ee078.chunk.js",
-    "static/js/2.093ee078.chunk.js.map": "/static/js/2.093ee078.chunk.js.map",
+    "static/js/2.c1fae36a.chunk.js": "/static/js/2.c1fae36a.chunk.js",
+    "static/js/2.c1fae36a.chunk.js.map": "/static/js/2.c1fae36a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7e2fdcf8cb0e94fae0d34cd0f0f7ab2a.js": "/precache-manifest.7e2fdcf8cb0e94fae0d34cd0f0f7ab2a.js",
+    "precache-manifest.fd35d4ed90dc76e786b345415e52f8f5.js": "/precache-manifest.fd35d4ed90dc76e786b345415e52f8f5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.7b8b47f0.chunk.css.map": "/static/css/main.7b8b47f0.chunk.css.map",
-    "static/js/2.093ee078.chunk.js.LICENSE.txt": "/static/js/2.093ee078.chunk.js.LICENSE.txt",
+    "static/js/2.c1fae36a.chunk.js.LICENSE.txt": "/static/js/2.c1fae36a.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -555,6 +555,7 @@
     "static/media/sick.jpg": "/static/media/sick.35e264ae.jpg",
     "static/media/side1.jpeg": "/static/media/side1.f644b08c.jpeg",
     "static/media/side2.jpeg": "/static/media/side2.9905b6d1.jpeg",
+    "static/media/sigrid.jpg": "/static/media/sigrid.14350a8c.jpg",
     "static/media/singleStickers.jpg": "/static/media/singleStickers.3076b255.jpg",
     "static/media/sketch.jpg": "/static/media/sketch.b3b9919b.jpg",
     "static/media/sketch1.jpg": "/static/media/sketch1.e3406dab.jpg",
@@ -660,8 +661,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.093ee078.chunk.js",
+    "static/js/2.c1fae36a.chunk.js",
     "static/css/main.7b8b47f0.chunk.css",
-    "static/js/main.14daecc5.chunk.js"
+    "static/js/main.f633abd2.chunk.js"
   ]
 }

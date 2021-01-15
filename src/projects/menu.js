@@ -53,10 +53,11 @@ const menu = [
 					'verdeSweetheart',
 					'verdeLips',
 					'verdeOccupy',
-					'verdeInternal',
+					
 					'colorShadowGirl',
 					'birb',
 					'icyGirl',
+					'verdeInternal',
 				]
 			},
 

@@ -14,13 +14,13 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/verde/internal/boyBands.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
         <div>
             <img 
                     src={require('../assets/verde/internal/boyBands2.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
     </div>
@@ -29,13 +29,13 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/verde/internal/hospital.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
         <div>
             <img 
                     src={require('../assets/verde/internal/kpop.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
     </div>
@@ -44,13 +44,13 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/verde/internal/onlineEd.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
         <div>
             <img 
                     src={require('../assets/verde/internal/onlineShopping.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
     </div>
@@ -59,13 +59,13 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/verde/internal/sick.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
         <div>
             <img 
                     src={require('../assets/verde/internal/conservatism2.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
     </div>
@@ -74,13 +74,13 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/verde/internal/linux.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
         <div>
             <img 
                     src={require('../assets/verde/internal/memes.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
     </div>
@@ -89,13 +89,13 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/verde/internal/xfactor.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
         <div>
             <img 
                     src={require('../assets/verde/internal/chickFlicks.jpg')} 
-                    onClick={props.open} 
+                    data-skip-gallery 
                 />
         </div>
     </div>

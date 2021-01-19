@@ -42,13 +42,14 @@ export default class JobApp extends Component {
             <p style={{ marginTop: 21 }}>You might want to check out these <b className="blue">illustration</b> projects:</p>
             <ul className="blue">
               <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li> 
-              <li><a onClick={e => nav("/iconography")}>icons and symbols <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/media")}>media and editorial illustrations <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/iconography")}>icons and communication symbols <span className="arrow">➜</span></a></li>
             </ul>
             
             <p style={{ marginTop: -9 }}>You can find my <b className="pink">animation</b> projects here:</p>
             <ul className="pink">
-              <li><a onClick={e => nav("/loops")}>loops <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/videos")}>videos <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/loops")}>GIF loops <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/videos")}>animated videos <span className="arrow">➜</span></a></li>
             </ul>
           </div>
 

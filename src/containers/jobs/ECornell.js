@@ -24,8 +24,7 @@ export default class JobApp extends Component {
           <div className="body">
             <p>Welcome, eCornell recruiter! I am so happy to have you here on my portfolio website. I have collected for you below a few links to some relevant works, as well as my animation demo reel. Thank you, and have a great day!</p>
 
-            
-
+            <br/>
               
               <h3>Projects</h3>
             <p style={{ marginTop: 21 }}>You might want to check out these <b className="blue">illustration</b> projects:</p>

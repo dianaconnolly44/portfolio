@@ -24,14 +24,14 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/grataCanisMajor/banner1.jpg')} 
-                    data-skip-gallery
+                    onClick={props.open}
                 />
             <p>Page Banner Illustration</p>
         </div>
         <div>
         <img 
                     src={require('../assets/grataCanisMajor/banner2.jpg')} 
-                    data-skip-gallery
+                    onClick={props.open}
                 />
             <p>Page Banner Illustration</p>
         </div>
@@ -41,14 +41,14 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/grataCanisMajor/banner3.jpg')} 
-                    data-skip-gallery
+                    onClick={props.open}
                 />
             <p>Page Banner Illustration</p>
         </div>
         <div>
         <img 
                     src={require('../assets/grataCanisMajor/banner4.jpg')} 
-                    data-skip-gallery
+                    onClick={props.open}
                 />
             <p>Page Banner Illustration</p>
         </div>
@@ -58,14 +58,14 @@ export const Page = props => (
         <div>
             <img 
                     src={require('../assets/grataCanisMajor/banner5.jpg')} 
-                    data-skip-gallery
+                    onClick={props.open}
                 />
             <p>Page Banner Illustration</p>
         </div>
         <div>
         <img 
                     src={require('../assets/grataCanisMajor/banner6.jpg')} 
-                    data-skip-gallery
+                    onClick={props.open}
                 />
             <p>Page Banner Illustration</p>
         </div>

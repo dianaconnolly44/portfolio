@@ -15,6 +15,7 @@ import Reedsy from './containers/jobs/Reedsy';
 import Datadog from './containers/jobs/Datadog';
 import BigHealth from './containers/jobs/BigHealth';
 import Slumberkins from './containers/jobs/Slumberkins';
+import ECornell from './containers/jobs/ECornell';
 
 // ====
 
@@ -72,6 +73,7 @@ class App extends Component {
       'datadog',
       'bighealth',
       'slumberkins',
+      'ecornell'
     ].includes(page)) return page;
     // ====
 
@@ -105,6 +107,7 @@ class App extends Component {
       if(type === 'datadog') return <Datadog {...this.props} />;
       if(type === 'bighealth') return <BigHealth {...this.props} />;
       if(type === 'slumberkins') return <Slumberkins {...this.props} />;
+      if(type === 'ecornell') return <ECornell {...this.props} />;
       // ====
 
       if(type === 'gallery') {

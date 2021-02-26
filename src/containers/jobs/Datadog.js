@@ -24,11 +24,11 @@ export default class JobApp extends Component {
           <div className="body">
             <p>Welcome, Datadog recruiter! I am so happy to have you here on my portfolio website. I have collected for you below a few links to some relevant works. Thank you, and have a great day!</p>
 
-  
 
-              
 
-              
+
+
+
               <h3 style={{marginTop: 50}}>Projects</h3>
             <p style={{ marginTop: 21 }}>You might want to check out these <b className="blue">illustration</b> projects:</p>
             <ul className="blue">
@@ -36,7 +36,7 @@ export default class JobApp extends Component {
               <li><a onClick={e => nav("/expii")}>educational graphics <span className="arrow">➜</span></a></li>
               <li><a onClick={e => nav("/iconography")}>icons and symbols <span className="arrow">➜</span></a></li>
               <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li>            </ul>
-            
+
             <p style={{ marginTop: -9 }}>You can also find some <b className="pink">other</b> projects here:</p>
             <ul className="pink">
               <li><a onClick={e => nav("/graphic")}>graphic design <span className="arrow">➜</span></a></li>
@@ -45,7 +45,7 @@ export default class JobApp extends Component {
           </div>
 
           <div className="footer">
-            <b>Let's connect!</b> 
+            <b>Let's connect!</b>
             <div className="tags">
               <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
               <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
@@ -56,23 +56,23 @@ export default class JobApp extends Component {
 
 <br/>
 <br/>
-         
+
 <div className="project">
 <p>I also do animation!</p>
               <div className="video">
-                <iframe 
-                  src="https://www.youtube.com/embed/Mrckc2JDkm0" 
-                  frameborder="0" 
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                  allowfullscreen 
+                <iframe
+                  src="https://www.youtube.com/embed/Mrckc2JDkm0"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
                 />
               </div>
             </div>
-        
+
 {/*          <section className="hello">
             <div>
               <h1>Hey I'm Diana!</h1>
-              <h1>I'm a <span className="teal">creative</span> in NYC with interest in <span className="pink">education</span> and <span className="orange">communcation</span>.</h1>
+              <h1>I'm a <span className="teal">creative</span> in NYC with interest in <span className="pink">education</span> and <span className="orange">communication</span>.</h1>
             </div>
           </section>
 

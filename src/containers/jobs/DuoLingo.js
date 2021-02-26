@@ -28,24 +28,24 @@ export default class JobApp extends Component {
 
               <h3>Demo Reel</h3>
               <div className="video">
-                <iframe 
-                  src="https://www.youtube.com/embed/Mrckc2JDkm0" 
-                  frameborder="0" 
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-                  allowfullscreen 
+                <iframe
+                  src="https://www.youtube.com/embed/Mrckc2JDkm0"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
                 />
               </div>
             </div>
 
-              
+
               <h3>Projects</h3>
             <p style={{ marginTop: 21 }}>You might want to check out these <b className="blue">illustration</b> projects:</p>
             <ul className="blue">
-              <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li> 
+              <li><a onClick={e => nav("/childrens")}>children's illustrations <span className="arrow">➜</span></a></li>
               <li><a onClick={e => nav("/media")}>media and editorial illustrations <span className="arrow">➜</span></a></li>
               <li><a onClick={e => nav("/iconography")}>icons and communication symbols <span className="arrow">➜</span></a></li>
             </ul>
-            
+
             <p style={{ marginTop: -9 }}>You can find my <b className="pink">animation</b> projects here:</p>
             <ul className="pink">
               <li><a onClick={e => nav("/loops")}>GIF loops <span className="arrow">➜</span></a></li>
@@ -54,7 +54,7 @@ export default class JobApp extends Component {
           </div>
 
           <div className="footer">
-            <b>Let's connect!</b> 
+            <b>Let's connect!</b>
             <div className="tags">
               <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
               <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
@@ -62,11 +62,11 @@ export default class JobApp extends Component {
               <div><a onClick={e => nav("/about")}>about me <span className="arrow">➜</span></a></div>
             </div>
           </div>
-        
+
 {/*          <section className="hello">
             <div>
               <h1>Hey I'm Diana!</h1>
-              <h1>I'm a <span className="teal">creative</span> in NYC with interest in <span className="pink">education</span> and <span className="orange">communcation</span>.</h1>
+              <h1>I'm a <span className="teal">creative</span> in NYC with interest in <span className="pink">education</span> and <span className="orange">communication</span>.</h1>
             </div>
           </section>
 

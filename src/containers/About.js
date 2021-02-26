@@ -17,7 +17,7 @@ export default class About extends Component {
               <div className="divider" />
               <div style={{ marginBottom: -5 }}>
                 <div id="hi">Hi, I'm Diana!</div>
-                I'm a creative in NYC with interest in <b className="blue">education</b> and <b className="pink">communcation</b>.
+                I'm a creative in NYC with interest in <b className="blue">education</b> and <b className="pink">communication</b>.
               </div>
             </div>
           </div>
@@ -27,11 +27,11 @@ export default class About extends Component {
 
             <p style={{ marginTop: 21 }}>I have a passion to use my art for <b className="blue">education</b>, such as:</p>
             <ul className="blue">
-              <li><a onClick={e => nav("/childrens")}>educational and literacy oriented children's books <span className="arrow">➜</span></a></li> 
+              <li><a onClick={e => nav("/childrens")}>educational and literacy oriented children's books <span className="arrow">➜</span></a></li>
               <li><a onClick={e => nav("/videos")}>animated explainer videos <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/expii")}>digital graphics for an e-learning site <span className="arrow">➜</span></a></li> 
+              <li><a onClick={e => nav("/expii")}>digital graphics for an e-learning site <span className="arrow">➜</span></a></li>
             </ul>
-            
+
             <p style={{ marginTop: -9 }}>and for <b className="pink">communication</b>, such as:</p>
             <ul className="pink">
               <li><a onClick={e => nav("/iconography")}>communication symbols for nonverbal individuals <span className="arrow">➜</span></a></li>
@@ -41,18 +41,18 @@ export default class About extends Component {
           </div>
 
           <div className="footer">
-            <b>Let's connect!</b> 
+            <b>Let's connect!</b>
             <div className="tags">
               <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
               <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
               <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
             </div>
           </div>
-        
+
 {/*          <section className="hello">
             <div>
               <h1>Hey I'm Diana!</h1>
-              <h1>I'm a <span className="teal">creative</span> in NYC with interest in <span className="pink">education</span> and <span className="orange">communcation</span>.</h1>
+              <h1>I'm a <span className="teal">creative</span> in NYC with interest in <span className="pink">education</span> and <span className="orange">communication</span>.</h1>
             </div>
           </section>
 

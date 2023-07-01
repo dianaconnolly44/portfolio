@@ -4,6 +4,63 @@ const menu = [
 		id: 'illustration',
 		label: 'Illustration',
 		submenu: [
+
+			{
+				id: 'editorial',
+				label: `Editorial`,
+				projects: [
+					'dox_then_vs_now',
+					'dox_microscope',
+					'dox_speech_bubbles',
+					'dox_stepping_stones',
+					'dox_safety_pins',
+					'dox_turn_every_stone',
+					'dox_empathy_waves',
+					'dox_preg_cancer_pt',
+					'dox_polishing_diamond',
+					'dox_template_hands_meds',
+					'dox_wim_letter_to_self',
+					'dox_age_descrimination',
+					'dox_parental_leave',
+					'dox_venn_diagram',
+					'dox_micro_vs_macro',
+					'dox_medical_van',
+					'dox_leadership_boat',
+					'dox_extreme_exercise',
+					'dox_crystal_ball',
+					'dox_hockey',
+					'dox_empathy_brain',
+					'dox_8_ball',
+					'dox_airplane',
+					'dox_relay_baton',
+					'dox_black_girl_magic',
+					'dox_handshake_series',
+					'dox_green_door',
+					'dox_medical_retraumatization',
+					'dox_vaccine_syringe',
+					'dox_suture_tails',
+					'dox_flyers',
+					'dox_coffee_mugs',
+					'dox_silhouette_awards',
+					'dox_standardized_patient',
+					'dox_waiting_room',
+					'dox_poetry',
+					'dox_mindset_shift',
+					'dox_improving_residency',
+					'dox_personality_tests',
+					'dox_racist_algo',
+					'dox_video_games',
+
+					'verdeBaby',
+					'verdeGun',
+					'verdeElephant',
+					'verdeSam',
+					'verdeSweetheart',
+					'verdeLips',
+					'verdeOccupy',
+					'verdeInternal',
+				]
+			},
 			
 			{
 				id: 'childrens',
@@ -30,8 +87,6 @@ const menu = [
 				]
 			},
 
-			
-
 			{
 				id: 'media',
 				label: 'Media',
@@ -46,18 +101,10 @@ const menu = [
 					'saveTheDate',
 
 					'lloyd',
-					'verdeBaby',
-					'verdeGun',
-					'verdeElephant',
-					'verdeSam',
-					'verdeSweetheart',
-					'verdeLips',
-					'verdeOccupy',
 					
 					'colorShadowGirl',
 					'birb',
 					'icyGirl',
-					'verdeInternal',
 				]
 			},
 

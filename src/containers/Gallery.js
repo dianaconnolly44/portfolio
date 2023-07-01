@@ -38,13 +38,17 @@ export default class Gallery extends Component {
           {
             tiles.map(tile => {
               const hasPage = tile.page;
+              const hasLink = !!tile.link;
               return (
                 <div 
-                  className={`tile ${hasPage ? 'clickable' : ''}`} 
+                  className={`tile ${(hasPage || hasLink) ? 'clickable' : ''}`} 
                   key={tile.id} 
                   id={tile.id} 
                   ref={tile.id}
-                  onClick={hasPage ? e => this.props.history.push('/' + tile.id) : null}
+                  onClick={(hasPage || hasLink) ? () => {
+                    if(hasLink) window.open(tile.link, '_blank', 'noreferrer');
+                    else this.props.history.push('/' + tile.id);
+                  } : null}
                 >
                   <div className="tile-contents">
                     <img src={require(`../projects/gallery/${tile.pic}`)} />

@@ -341,56 +341,56 @@ export const projects = {
 	'verdeBaby': {
 		title: `"Halloween: All Grown Up?"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeBaby.jpg`,
+		pic: `verdeBaby_wide.jpg`,
 		page: verdeBaby
 	},
 
 	'verdeSam': {
 		title: `"I Want YOU to be Happy"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeSam.jpg`,
+		pic: `verdeSam_wide.jpg`,
 		page: verdeSam
 	},
 
 	'verdeElephant': {
 		title: `"The Elephant in the Classroom"`,	
 		description: `News magazine cover illustration`,	
-		pic: `verdeElephant.jpg`,
+		pic: `verdeElephant_wide.jpg`,
 		page: verdeElephant
 	},
 
 	'verdeSweetheart': {
 		title: `"Don't Call Me Sweetheart"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeSweetheart.jpg`,
+		pic: `verdeSweetheart_wide.jpg`,
 		page: verdeSweetheart
 	},
 
 	'verdeGun': {
 		title: `"Gunning for Change"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeGun.jpg`,
+		pic: `verdeGun_wide.jpg`,
 		page: verdeGun
 	},
 
 	'verdeLips': {
 		title: `Untitled`,
 		description: `News magazine cover illustration`,
-		pic: `verdeLips.jpg`,
+		pic: `verdeLips_wide.jpg`,
 		page: verdeLips
 	},
 
 	'verdeOccupy': {
 		title: `"Occupy [Here]"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeOccupy.jpg`,
+		pic: `verdeOccupy_wide.jpg`,
 		page: verdeOccupy
 	},
 
 	'verdeInternal': {
 		title: `News Article Illustrations`,
 		description: `Illustrations to pair with news articles`,
-		pic: `verdeInternal.jpg`,
+		pic: `verdeInternal_wide.jpg`,
 		page: verdeInternal
 	},
 
@@ -1300,133 +1300,133 @@ export const projects = {
 
 //craft//
 
-'paperFlowers': {
+	'paperFlowers': {
 		title: `Paper Flowers`,
 		description: `Handmade large and small decorative paper flowers`,
 		pic: `paperFlowers.jpg`,
 		page: paperFlowers
 	},
 
-'punkNecklace': {
+	'punkNecklace': {
 		title: `Jewelry`,
 		description: `Collection of handmade jewelry`,
 		pic: `punkNecklace.jpg`,
 		page: punkNecklace
 	},
 
-'dadCo': {
+	'dadCo': {
 		title: `"Dad Co" Shirt and Album`,
 		description: `Handmade shirt decal and a spoof of Bad Company's album cover with my dad's face on it`,
 		pic: `dadCo_v2.jpg`,
 		page: dadCo
 	},
 
-'soaps': {
+	'soaps': {
 		title: `Handmade Soaps`,
 		description: `Varying scented handmade soaps`,
 		pic: `soaps.jpg`,
 		page: 0
 	},
 
-'urn': {
+	'urn': {
 		title: `Clay Pet Urn`,
 		description: `Small clay urn created with love for my dog, Pal`,
 		pic: `urn.jpg`,
 		page: urn
 	},
 
-'blueSoap': {
+	'blueSoap': {
 		title: `Handmade Soaps`,
 		description: `Soap bars with varying looks, scents, and dermatologic properties`,
 		pic: `blueSoap.jpg`,
 		page: soaps
 	},
 
-'saraBook': {
+	'saraBook': {
 		title: `Photo Album`,
 		description: `Handmade photo album for a bachelorette trip`,
 		pic: `saraBook.jpg`,
 		page: saraBook
 	},
 
-'bathSalts': {
+	'bathSalts': {
 		title: `Floral Bath Salts`,
 		description: `Homemade lavendar and rose bath salts`,
 		pic: `bathSalts.jpg`,
 		page: bathSalts
 	},
 
-'cal': {
+	'cal': {
 		title: `Dry Erase Calendar`,
 		description: `Calendar made from color swatches and a frame`,
 		pic: `cal.jpg`,
 		page: calendar
 	},
 
-'resinBookmarks': {
+	'resinBookmarks': {
 		title: `Resin Bookmarks`,
 		description: `Dried flowers suspended in resin to make varying bookmarks`,
 		pic: `resinBookmarks.jpg`,
 		page: resin
 	},
 
-'momPillow': {
+	'momPillow': {
 		title: `Watercolor Pillow`,
 		description: `A throw pillow with a watercolor effect painted`,
 		pic: `momPillow.jpg`,
 		page: momPillow
 	},
 
-'greetingCards': {
+	'greetingCards': {
 		title: `Greeting Cards`,
 		description: `Collection of drawn and paper-cutout cards`,
 		pic: `greetingCards.jpg`,
 		page: greetingCards
 	},
 
-'nail-pier': {
+	'nail-pier': {
 		title: `Nail Art - Pier`,
 		description: `Nail polish`,
 		pic: `nail-pier.jpg`,
 		page: 0
 	},
 
-'nail-nyc': {
+	'nail-nyc': {
 		title: `Nail Art`,
 		description: `Collection of nail polish art done on myself and others`,
 		pic: `nail-nyc.jpg`,
 		page: nailArt
 	},
 
-'nail-tiger': {
+	'nail-tiger': {
 		title: `Nail Art - Tiger`,
 		description: `Nail polish`,
 		pic: `nail-tiger.jpg`,
 		page: 0
 	},
 
-'nail-xmas': {
+	'nail-xmas': {
 		title: `Nail Art - Christmas`,
 		description: `Nail polish`,
 		pic: `nail-xmas.jpg`,
 		page: 0
 	},
 
-'nail-moon': {
+	'nail-moon': {
 		title: `Nail Art - Moon`,
 		description: `Nail polish`,
 		pic: `nail-moon.jpg`,
 		page: 0
 	},
 
-'nail-sunset': {
+	'nail-sunset': {
 		title: `Nail Art - Sunset`,
 		description: `Nail polish`,
 		pic: `nail-sunset.jpg`,
 		page: 0
 	},
 
-'HstarGift': {
+	'HstarGift': {
 		title: `"365 Reasons I Love You"`,
 		description: `Homemade gift for anniversary with my partner`,
 		pic: `HstarGift.jpg`,
@@ -1437,109 +1437,361 @@ export const projects = {
 
 //lettering//
 
-'lettering-board1': {
+	'lettering-board1': {
 		title: `Chalkboard A-Frame Signs`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board1_v2.jpg`,
 		page: blackboardAframe
 	},
 
-'lettering-board2': {
+	'lettering-board2': {
 		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board2.jpg`,
 		page: 0
 	},
 
-'lettering-board3': {
+	'lettering-board3': {
 		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board3.jpg`,
 		page: 0
 	},
 
-'lettering-board4': {
+	'lettering-board4': {
 		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board4.jpg`,
 		page: 0
 	},
 
-'lettering-board5': {
+	'lettering-board5': {
 		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board5.jpg`,
 		page: 0
 	},
 
-'lettering-board6': {
+	'lettering-board6': {
 		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-board6.jpg`,
 		page: 0
 	},
 
-'lettering-sign1': {
+	'lettering-sign1': {
 		title: `Product Labeling`,
 		description: `Chalk on blackboard`,
 		pic: `productLabeling3.jpg`,
 		page: 0
 	},
 
-'lettering-sign2': {
+	'lettering-sign2': {
 		title: `Chalkboard Banners`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign2.jpg`,
 		page: blackboardBanner
 	},
 
-'lettering-sign3': {
+	'lettering-sign3': {
 		title: `Paper Source Advertising`,
 		description: `Chalk on blackboard`,
 		pic: `lettering-sign3.jpg`,
 		page: 0
 	},
 
-'lettering-letter1': {
+	'lettering-letter1': {
 		title: `Paper Mail Handlettering`,
 		description: `Ink on paper`,
 		pic: `lettering-letter1.jpg`,
 		page: 0
 	},
 
-'jabberwocky': {
+	'jabberwocky': {
 		title: `"The Jabberwocky" Calligraphy Book`,
 		description: `Ink, using nibs: C2, B2, pointed #56`,
 		pic: `jabberwocky.jpg`,
 		page: jabberwocky
 	},
 
-'lettering-cmu1': {
+	'lettering-cmu1': {
 		title: `Alien Calligraphy`,
 		description: `Ink, using B2 nib`,
 		pic: `lettering-cmu1.jpg`,
 		page: alienCallig
 	},
 
-'lettering-cmu2': {
+	'lettering-cmu2': {
 		title: `Latin Calligraphy`,
 		description: `Ink, using C2 nib`,
 		pic: `lettering-cmu2.jpg`,
 		page: latinCallig
 	},
 
-'lettering-cmu3': {
+	'lettering-cmu3': {
 		title: `Negative Space Lettering`,
 		description: `Construction paper cutouts`,
 		pic: `lettering-cmu3.jpg`,
 		page: 0
 	},
 
-'kidFont': {
+	'kidFont': {
 		title: `Children's Book Font`,
 		description: `Digital`,
 		pic: `flikidsFont.jpg`,
 		page: flikidsFont
 	},
+
+	dox_then_vs_now: {
+		description: `Medicine is Not What It Used to Be`,
+		pic: 'dox/then_vs_now.gif',
+		link: 'https://opmed.doximity.com/articles/medicine-is-not-what-it-used-to-be'
+	},
+
+	dox_microscope: {
+		description: `Next Steps: Reevaluating the Value of Step 3`,
+		pic: 'dox/microscope.webp',
+		link: 'https://opmed.doximity.com/articles/next-steps-reevaluating-the-value-of-step-3'
+	},
+
+	dox_speech_bubbles: {
+		description: `Why I’m Not Allowed to Discuss Organ Donation`,
+		pic: 'dox/speech_bubbles.webp',
+		link: 'https://opmed.doximity.com/articles/why-i-m-not-allowed-to-discuss-organ-donation'
+	},
+
+	dox_stepping_stones: {
+		description: `Medical Student and ... ?`,
+		pic: 'dox/stepping_stones.webp',
+		link: 'https://opmed.doximity.com/articles/medical-student-and'
+	},
+
+	dox_safety_pins: {
+		description: `Why I Use Safety Pins in the OR`,
+		pic: 'dox/safety_pins.gif',
+		link: 'https://opmed.doximity.com/articles/why-i-use-safety-pins-in-the-or'
+	},
+
+	dox_turn_every_stone: {
+		description: `Are We Missing the H in H&P?`,
+		pic: 'dox/turn_every_stone.webp',
+		link: 'https://opmed.doximity.com/articles/are-we-missing-the-h-in-h-p'
+	},
+
+	dox_empathy_waves: {
+		description: `The Importance of Community Engagement for Medical Students`,
+		pic: 'dox/empathy_waves.webp',
+		link: 'https://opmed.doximity.com/articles/the-importance-of-community-engagement-for-medical-students'
+	},
+
+	dox_preg_cancer_pt: {
+		description: `Why a Neurosurgeon is Now Thinking About Pregnancy and Cancer`,
+		pic: 'dox/preg_cancer_pt.webp',
+		link: 'https://opmed.doximity.com/articles/why-a-neurosurgeon-is-now-thinking-about-pregnancy-and-cancer'
+	},
+
+	dox_polishing_diamond: {
+		description: `When a Room of Residents Couldn’t Think of a Single “Win”`,
+		pic: 'dox/polishing_diamond.webp',
+		link: 'https://opmed.doximity.com/articles/when-a-room-of-residents-couldn-t-think-of-a-single-win'
+	},
+
+	dox_template_hands_meds: {
+		description: `First-in-Class Agent Addresses Unmet Need in Myeloma`,
+		pic: 'dox/template_hands_meds.webp',
+		link: 'https://opmed.doximity.com/articles/first-in-class-agent-addresses-unmet-need-in-myeloma'
+	},
+
+	dox_wim_letter_to_self: {
+		description: `A Letter to My Younger Self as a Woman in Medicine`,
+		pic: 'dox/wim_letter_to_self.gif',
+		link: 'https://opmed.doximity.com/articles/a-letter-to-my-younger-self-as-a-woman-in-medicine'
+	},
+
+	dox_age_descrimination: {
+		description: `Is It Ever All Right to Discriminate Based on Age?`,
+		pic: 'dox/age_descrimination.webp',
+		link: 'https://opmed.doximity.com/articles/is-it-ever-all-right-to-discriminate-based-on-age'
+	},
+
+	dox_parental_leave: {
+		description: `Why is Health Care So Behind When It Comes to Parental Leave?`,
+		pic: 'dox/parental_leave.webp',
+		link: 'https://opmed.doximity.com/articles/why-is-health-care-so-behind-when-it-comes-to-parental-leave'
+	},
+
+	dox_venn_diagram: {
+		description: `Physicians Are Not Caregivers`,
+		pic: 'dox/venn_diagram.webp',
+		link: 'https://opmed.doximity.com/articles/physicians-are-not-caregivers'
+	},
+
+	dox_micro_vs_macro: {
+		description: `Designing Your Medical Career: An Evolving Definition of Impact`,
+		pic: 'dox/micro_vs_macro.webp',
+		link: 'https://opmed.doximity.com/articles/designing-your-medical-career-an-evolving-definition-of-impact'
+	},
+
+	dox_medical_van: {
+		description: `We Can’t Pick and Choose Harm Reduction`,
+		pic: 'dox/medical_van.webp',
+		link: 'https://opmed.doximity.com/articles/we-can-t-pick-and-choose-harm-reduction'
+	},
+
+	dox_leadership_boat: {
+		description: `A Resident's Simple Question Made All the Difference`,
+		pic: 'dox/leadership_boat.webp',
+		link: 'https://opmed.doximity.com/articles/a-resident-s-simple-question-made-all-the-difference'
+	},
+
+	dox_extreme_exercise: {
+		description: `I Thought Intense Exercise Was Helping Me, Not Hurting Me`,
+		pic: 'dox/extreme_exercise.gif',
+		link: 'https://opmed.doximity.com/articles/i-thought-intense-exercise-was-helping-me-not-hurting-me'
+	},
+
+	dox_crystal_ball: {
+		description: `The Six Senses of a Surgeon`,
+		pic: 'dox/crystal_ball.webp',
+		link: 'https://opmed.doximity.com/articles/the-six-senses-of-a-surgeon'
+	},
+
+	dox_hockey: {
+		description: `Reflecting on My Childhood Hockey Career As a Neurosurgery Resident`,
+		pic: 'dox/hockey.webp',
+		link: 'https://opmed.doximity.com/articles/reflecting-on-my-childhood-hockey-career-as-a-neurosurgery-resident'
+	},
+
+	dox_empathy_brain: {
+		description: `Simulation Training Just Doesn’t Check The “Empathy Box”`,
+		pic: 'dox/empathy_brain.webp',
+		link: 'https://opmed.doximity.com/articles/simulation-training-just-doesn-t-check-the-empathy-box'
+	},
+
+	dox_8_ball: {
+		description: `Your Medical Management Should Be Better Than a Magic 8 Ball`,
+		pic: 'dox/8_ball.gif',
+		link: 'https://opmed.doximity.com/articles/your-medical-management-should-be-better-than-a-magic-8-ball'
+	},
+
+	dox_airplane: {
+		description: `We Aren’t Taught Enough to Be Doctors Outside of the Hospital`,
+		pic: 'dox/airplane.webp',
+		link: 'https://opmed.doximity.com/articles/we-aren-t-taught-enough-to-be-doctors-outside-of-the-hospital'
+	},
+
+	dox_relay_baton: {
+		description: `It Takes a Village to Heal a Patient`,
+		pic: 'dox/relay_baton.webp',
+		link: 'https://opmed.doximity.com/articles/it-takes-a-village-to-heal-a-patient'
+	},
+
+	dox_black_girl_magic: {
+		description: `Instagram vs. Reality: A Critical Look at Black Teens' Mental Health`,
+		pic: 'dox/black_girl_magic.webp',
+		link: 'https://opmed.doximity.com/articles/instagram-vs-reality-a-critical-look-at-black-teens-mental-health'
+	},
+
+	dox_handshake_series: {
+		description: `How to Keep Your Bias Where It Belongs: Out of the Exam Room`,
+		pic: 'dox/handshake_series.gif',
+		link: 'https://opmed.doximity.com/articles/how-to-keep-your-bias-where-it-belongs-out-of-the-exam-room'
+	},
+
+	dox_green_door: {
+		description: `How Resilience is Like Pornography`,
+		pic: 'dox/green_door.webp',
+		link: 'https://opmed.doximity.com/articles/how-resilience-is-like-pornography'
+	},
+
+	dox_medical_retraumatization: {
+		description: `Healing for Trauma Survivors Can Start With You`,
+		pic: 'dox/medical_retraumatization.webp',
+		link: 'oximity.com/articles/healing-for-trauma-survivors-can-start-with-you'
+	},
+
+	dox_vaccine_syringe: {
+		description: `Incidence or Coincidence?`,
+		pic: 'dox/vaccine_syringe.gif',
+		link: 'https://opmed.doximity.com/articles/incidence-or-coincidence'
+	},
+
+	dox_suture_tails: {
+		description: `The Suture Tail Matters, But So Does Everything Else`,
+		pic: 'dox/suture_tails.gif',
+		link: 'https://opmed.doximity.com/articles/the-suture-tail-matters-but-so-does-everything-else'
+	},
+
+	dox_flyers: {
+		description: `Practice Changer: The Alliance PROSPECT Trial Finds that Some Patients with Intermediate Risk, Localized Rectal Cancers Can Avoid Radiation without Compromising Their Odds of Cure`,
+		pic: 'dox/flyers.webp',
+		link: 'https://opmed.doximity.com/articles/practice-changer-the-alliance-prospect-trial-finds-that-some-patients-with-intermediate-risk-localized-rectal-cancers-can-avoid-radiation-without-compromising-their-odds-of-cure'
+	},
+
+	dox_coffee_mugs: {
+		description: `How a Plain Coffee Mug May Make Me a Better Doctor`,
+		pic: 'dox/coffee_mugs.gif',
+		link: 'https://opmed.doximity.com/articles/how-a-plain-coffee-mug-may-make-me-a-better-doctor'
+	},
+
+	dox_silhouette_awards: {
+		description: `The Op-Med Awards: In Celebration of Medicine`,
+		pic: 'dox/silhouette_awards.webp',
+		link: 'https://opmed.doximity.com/articles/the-op-med-awards-in-celebration-of-medicine'
+	},
+
+	dox_standardized_patient: {
+		description: `We Need Standardized Patients. Why Not Med Students?`,
+		pic: 'dox/standardized_patient.gif',
+		link: 'https://opmed.doximity.com/articles/we-need-standardized-patients-why-not-med-students'
+	},
+
+	dox_waiting_room: {
+		description: `On Duty in the Surgery Waiting Room`,
+		pic: 'dox/waiting_room.webp',
+		link: 'https://opmed.doximity.com/articles/on-duty-in-the-surgery-waiting-room?_csrf_attempted=yes'
+	},
+
+	dox_poetry: {
+		description: `What Clinicians Can Learn From Poetry`,
+		pic: 'dox/poetry.webp',
+		link: 'https://opmed.doximity.com/articles/what-clinicians-can-learn-from-poetry?_csrf_attempted=yes'
+	},
+
+	dox_mindset_shift: {
+		description: `Finding Meaning in How Medicine Is, Not How It Should Be`,
+		pic: 'dox/mindset_shift.webp',
+		link: 'https://opmed.doximity.com/articles/finding-meaning-in-how-medicine-is-not-how-it-should-be?_csrf_attempted=yes'
+	},
+
+	dox_improving_residency: {
+		description: `Improving Residency Because We Love It, Not Hate It`,
+		pic: 'dox/improving_residency.webp',
+		link: 'https://opmed.doximity.com/articles/improving-residency-because-we-love-it-not-hate-it?_csrf_attempted=yes'
+	},
+
+	dox_personality_tests: {
+		description: `Can Personality Tests Make You a Better Doctor?`,
+		pic: 'dox/personality_tests.webp',
+		link: 'https://opmed.doximity.com/articles/can-personality-tests-make-you-a-better-doctor?_csrf_attempted=yes'
+	},
+
+	dox_racist_algo: {
+		description: `Taking Race(ism) Out of the Equation`,
+		pic: 'dox/racist_algo.webp',
+		link: 'https://opmed.doximity.com/articles/taking-race-ism-out-of-the-equation?_csrf_attempted=yes'
+	},
+
+	dox_video_games: {
+		description: `Should Doctors Be Playing More Video Games?`,
+		pic: 'dox/video_games.gif',
+		link: 'https://opmed.doximity.com/articles/should-doctors-be-playing-more-video-games?_csrf_attempted=yes'
+	},
+
+	// __ID__: {
+	// 	description: `__DESCRIPTION__`,
+	// 	pic: 'dox/__ID__.webp',
+	// 	link: '__LINK__'
+	// },
 
 }

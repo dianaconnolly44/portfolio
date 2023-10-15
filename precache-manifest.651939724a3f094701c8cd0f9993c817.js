@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2894f08ceb8ec0666f47438eb582613f",
+    "revision": "b45df828d6850dafe7d22c33acbb209d",
     "url": "/index.html"
   },
   {
-    "revision": "0566da77a450f007ef94",
-    "url": "/static/css/2.65f77e64.chunk.css"
+    "revision": "fca5d8bbfa5accb64fb2",
+    "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "c89709b6957e0b1512bd",
-    "url": "/static/css/main.08a0c2d1.chunk.css"
+    "revision": "25db7832950d5ada4723",
+    "url": "/static/css/main.8e1fda68.chunk.css"
   },
   {
-    "revision": "0566da77a450f007ef94",
+    "revision": "fca5d8bbfa5accb64fb2",
     "url": "/static/js/2.9320cc25.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9320cc25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c89709b6957e0b1512bd",
-    "url": "/static/js/main.0a5bd325.chunk.js"
+    "revision": "25db7832950d5ada4723",
+    "url": "/static/js/main.736149ae.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -554,50 +554,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dd5fc033fc0b0ee293acb573dc5c9355",
     "url": "/static/media/IT.dd5fc033.png"
-  },
-  {
-    "revision": "25bd02e3d1f381f934b5bc9aeab1f805",
-    "url": "/static/media/InktoberAcorns.25bd02e3.gif"
-  },
-  {
-    "revision": "f9cf5da4fd8941ae10ee6525803146c9",
-    "url": "/static/media/InktoberBat.f9cf5da4.gif"
-  },
-  {
-    "revision": "461e8ef093a32d74e091fb7c3aec086a",
-    "url": "/static/media/InktoberCandyCorn.461e8ef0.gif"
-  },
-  {
-    "revision": "3e02a2f79a294ca53ac0f50221d1c82b",
-    "url": "/static/media/InktoberCat.3e02a2f7.gif"
-  },
-  {
-    "revision": "a2599196a2b48dc8d1c17d22925363a8",
-    "url": "/static/media/InktoberHauntedHouse.a2599196.gif"
-  },
-  {
-    "revision": "252b970c7dfd7234f8963e1403835b6c",
-    "url": "/static/media/InktoberPaperWitch.252b970c.gif"
-  },
-  {
-    "revision": "ad3773336cfb38b02fdb26c75e0f424f",
-    "url": "/static/media/InktoberScarecrow.ad377333.gif"
-  },
-  {
-    "revision": "8c79d4a7b9a72678f7bd2e04dbd519e4",
-    "url": "/static/media/InktoberScarf.8c79d4a7.gif"
-  },
-  {
-    "revision": "856b932f1f7e9c46e80d7cebdc24d81d",
-    "url": "/static/media/InktoberShroomPizza.856b932f.gif"
-  },
-  {
-    "revision": "e83555c661198ff2c23da1fa5aa90756",
-    "url": "/static/media/InktoberSweater.e83555c6.gif"
-  },
-  {
-    "revision": "71a34099b5901ddd419548f482c0b299",
-    "url": "/static/media/InktoberTrickOrTreat.71a34099.gif"
   },
   {
     "revision": "ccc4b6b0c8971a5a10c8bf8c50dd33be",
@@ -2472,8 +2428,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/resinBookmarks.fc3a291e.jpg"
   },
   {
-    "revision": "9010a9e41a1ed4f7d00c9bff3104053e",
-    "url": "/static/media/resume.9010a9e4.pdf"
+    "revision": "62efbc6f81a91eef9aeb1d8dd48ac2b8",
+    "url": "/static/media/resume.62efbc6f.pdf"
   },
   {
     "revision": "84632eb110674bd662a8504cf7d2ab6b",

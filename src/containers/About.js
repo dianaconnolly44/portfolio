@@ -8,43 +8,64 @@ export default class About extends Component {
   render = () => {
     const nav = url => this.props.history.push(url);
 
+    // march 22, 2021
+    var doxDiff = Date.now() - new Date('March 21, 2021');
+    const yearsSinceDox = Math.abs(new Date(doxDiff).getUTCFullYear() - 1970);
+
     return (
       <div className="about">
         <div>
           <div className="top">
             <img src={require('../headshot2_v2.gif')} />
             <div className="header">
-              <div className="divider" />
+              {/*<div className="divider" />*/}
               <div style={{ marginBottom: -5 }}>
-                <div id="hi">Hi, I'm Diana!</div>
-                I'm a creative in NYC with interest in <b className="blue">education</b> and <b className="pink">communication</b>.
+                <div id="hi"><p>Hi, I'm Diana!<br />I'm a creative with<br /> interest in the crossover <br />of <b className="blue">art</b> & <b className="pink">science</b>.</p></div>
               </div>
             </div>
           </div>
 
           <div className="body">
-            <p>In 2017, I received a dual degree from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I have been especially interested in visual perception and how to make the most effective visuals for an intended audience. As Degas put it, "art is not what you see, but what you make others see."</p>
-
-            <p style={{ marginTop: 21 }}>I have a passion to use my art for <b className="blue">education</b>, such as:</p>
+            <p>I received a dual degree from Carnegie Mellon University in Cognitive Neuroscience and Art. For the past {yearsSinceDox} years, I've been a medical editorial illustrator at Doximity,
+            an online network for doctors.</p>
+            <p>
             <ul className="blue">
-              <li><a onClick={e => nav("/childrens")}>educational and literacy oriented children's books <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/videos")}>animated explainer videos <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/expii")}>digital graphics for an e-learning site <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/editorial")}>Doximity editorial illustration <span className="arrow">➜</span></a></li>
             </ul>
+            </p>
 
-            <p style={{ marginTop: -9 }}>and for <b className="pink">communication</b>, such as:</p>
+
+            {/*<p>I received a dual degree from Carnegie Mellon University in Cognitive Neuroscience and Art. In this crossover of science and art, I've been especially interested 
+            in visual perception and how to make 
+            the most effective visuals for an intended audience. As Degas put it, "art is not what you see, but what you make others see."</p>
+
+            <p>For the past 3 years, I've been an <b className="blue">editorial illustrator</b> at Doximity,
+            an online network for medical professionals.
+             I create medical themed
+            illustrations and animations for "Op-Med" articles, which are Op-Eds written by and for our physician users. </p>*/}
+            
+            <p>Some of my previous work has included:</p>
+            <p> 
+
             <ul className="pink">
-              <li><a onClick={e => nav("/iconography")}>communication symbols for nonverbal individuals <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/loops")}>animated gifs to convey a topic visually <span className="arrow">➜</span></a></li>
-              <li><a onClick={e => nav("/media")}>editorial illustrations for news and other media <span className="arrow">➜</span></a></li>
+                            <li><a onClick={e => nav("/childrens")}>children's books for education & literacy <span className="arrow">➜</span></a></li>
+
+              <li><a onClick={e => nav("/iconography")}>communication symbols for nonverbal people <span className="arrow">➜</span></a></li>
+                            <li><a onClick={e => nav("/expii")}>graphics for an e-learning site <span className="arrow">➜</span></a></li>
+
+              <li><a onClick={e => nav("/loops")}>seasonal loop animations <span className="arrow">➜</span></a></li>
+              <li><a onClick={e => nav("/graphic")}>graphic design <span className="arrow">➜</span></a></li>
             </ul>
+            </p>
+
+            
           </div>
 
           <div className="footer">
             <b>Let's connect!</b>
-            <div className="tags">
+            <div className="tags blue">
               <div><a href="https://www.linkedin.com/in/diana-connolly-ba5133b4/" target="_blank">linkedin <span className="arrow">➜</span></a></div>
-              <div><a href="mailto:dianaconnolly44@gmail.com">email <span className="arrow">➜</span></a></div>
+              <div><a href="mailto:dconnoll@alumni.cmu.edu">email <span className="arrow">➜</span></a></div>
               <div><a target="_blank" href={require('../resume.pdf')}>résumé <span className="arrow">➜</span></a></div>
             </div>
           </div>

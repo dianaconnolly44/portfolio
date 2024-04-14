@@ -9,20 +9,32 @@ const menu = [
 				id: 'editorial',
 				label: `Editorial`,
 				projects: [
+					'dox_collage_compare_vials',
+					'dox_ozempic_collage',
+					'dox_hobbies',
+					'dox_klax',
+					'dox_MRI_glitch',
+					'dox_thinker',
+					'dox_age_is_a_funny_thing',
+					'dox_golden_rule_book',
+					'dox_union',
+					'dox_phone_notifs',
+					'dox_AI_handshake',
+					'dox_son_of_man_AI',
 					'dox_then_vs_now',
 					'dox_microscope',
-					'dox_speech_bubbles',
+					'dox_speech_bubbles_v2',
 					'dox_stepping_stones',
 					'dox_safety_pins',
 					'dox_turn_every_stone',
 					'dox_empathy_waves',
 					'dox_preg_cancer_pt',
-					'dox_polishing_diamond',
+					'dox_polishing_diamond_v2',
 					'dox_template_hands_meds',
 					'dox_wim_letter_to_self',
 					'dox_age_descrimination',
 					'dox_parental_leave',
-					'dox_venn_diagram',
+					'dox_venn_diagram_v2',
 					'dox_micro_vs_macro',
 					'dox_medical_van',
 					'dox_leadership_boat',
@@ -34,7 +46,7 @@ const menu = [
 					'dox_airplane',
 					'dox_relay_baton',
 					'dox_black_girl_magic',
-					'dox_handshake_series',
+					'dox_handshake_series3',
 					'dox_green_door',
 					'dox_medical_retraumatization',
 					'dox_vaccine_syringe',
@@ -45,20 +57,11 @@ const menu = [
 					'dox_standardized_patient',
 					'dox_waiting_room',
 					'dox_poetry',
-					'dox_mindset_shift',
+					'dox_mindset_shift_v2',
 					'dox_improving_residency',
 					'dox_personality_tests',
 					'dox_racist_algo',
 					'dox_video_games',
-
-					'verdeBaby',
-					'verdeGun',
-					'verdeElephant',
-					'verdeSam',
-					'verdeSweetheart',
-					'verdeLips',
-					'verdeOccupy',
-					'verdeInternal',
 				]
 			},
 			
@@ -81,11 +84,51 @@ const menu = [
 					'andreaBook',
 				
 					'goingForGold',
-					'expii',
+					// 'expii',
 					't1d',
 					'Hbook',
 				]
 			},
+
+			{
+				id: 'expii',
+				label: `E-Learning`,
+				projects: [
+					'ornaments',
+					'expii_oscars',
+					'turkey',
+					'expii_waffle',
+					'pumpkins',
+					'expii_winter_olympics',
+					'clock',
+					'expii_presidents_day',
+					'hanukkah',
+					'expii_chinese_new_year',
+					'bFriday',
+					'expii_groundhog',
+					'skulls',
+					'expii_KID_day',
+					'ribbon',
+					'NYE',
+
+					
+					
+					
+					
+					
+					
+					
+
+					
+					'expii_total_eclipse',
+					'expii_pluto_demoted_day',
+					'expii_cat_day',
+					'expii_tau_day',
+					'expii_chess_day',
+					'expii_pi_approximation_day',
+				]
+			},
+
 
 			{
 				id: 'media',
@@ -101,6 +144,16 @@ const menu = [
 					'saveTheDate',
 
 					'lloyd',
+
+
+					'verdeBaby',
+					'verdeGun',
+					'verdeElephant',
+					'verdeSam',
+					'verdeSweetheart',
+					'verdeLips',
+					'verdeOccupy',
+					'verdeInternal',
 					
 					'colorShadowGirl',
 					'birb',
@@ -133,22 +186,6 @@ const menu = [
 		label: 'Animation',
 		submenu: [
 			
-			{
-				id: 'videos',
-				label: `Videos`,
-				projects: [
-					'holiday',
-					'iconExplainer',
-					'characterExplainer',
-					'textAnimation',
-					'dadCard',
-					'whiteboard',
-					'frameByFrame',
-					'transitionScreens',
-					'assetCreation',
-				]
-			},
-
 			{
 				id: 'loops',
 				label: 'Loops',
@@ -195,6 +232,23 @@ const menu = [
 					'dadMotorcycle',
 					'banana',
 					'heart',
+				]
+			},
+
+			{
+				id: 'videos',
+				label: `Videos`,
+				projects: [
+					'holiday',
+					'iconExplainer',
+					'characterExplainer',
+					'textAnimation',
+					'dadCard',
+					'whiteboard',
+					'frameByFrame',
+					'transitionScreens',
+					'assetCreation',
+				
 				]
 			},
 
@@ -291,7 +345,7 @@ const menu = [
 
 					'sugarBoxes',
 					'spaceArt',
-					'phenotype',
+					//'phenotype',
 					
 					
 				]
@@ -375,15 +429,15 @@ const menu = [
 					
 					'greetingCards',
 					'urn',
-					'HstarGift',
+					//'HstarGift',
 					'blueSoap',
 					'punkNecklace',
-					
-					'cal',
 					'nail-nyc',
+					'cal',
+					
 					'momPillow',
 					//'soaps',
-					'saraBook',					
+					//'saraBook',					
 				]
 			},
 

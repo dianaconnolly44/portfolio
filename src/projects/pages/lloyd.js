@@ -77,7 +77,7 @@ export const Page = props => (
     <div className="video">
         <iframe 
             src="https://open.spotify.com/embed/album/3p6q7uN4nGuO2bv2urrLvk" 
-            frameborder="0" 
+            frameBorder="0" 
             allowtransparency="true" 
             allow="encrypted-media" 
         />

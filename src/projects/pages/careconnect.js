@@ -16,9 +16,9 @@ export const Page = props => (
     <div className="video">
       <iframe 
         src="https://www.youtube.com/embed/-H_074Zrvbw" 
-        frameborder="0" 
+        frameBorder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen 
+        allowFullScreen 
       />
     </div>
     
@@ -28,9 +28,9 @@ export const Page = props => (
     <div className="video">
       <iframe 
         src="https://www.youtube.com/embed/ohu9O_62gas" 
-        frameborder="0" 
+        frameBorder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen 
+        allowFullScreen 
       />
     </div>
     
@@ -40,9 +40,9 @@ export const Page = props => (
     <div className="video">
       <iframe 
         src="https://www.youtube.com/embed/abSpVPw4xBI" 
-        frameborder="0" 
+        frameBorder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen 
+        allowFullScreen 
       />
     </div>
     
@@ -52,9 +52,9 @@ export const Page = props => (
     <div className="video">
       <iframe 
         src="https://www.youtube.com/embed/5dFTB50oh0E" 
-        frameborder="0" 
+        frameBorder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen 
+        allowFullScreen 
       />
     </div>
     
@@ -64,9 +64,9 @@ export const Page = props => (
     <div className="video">
       <iframe 
         src="https://www.youtube.com/embed/QBMJQDhYPH4" 
-        frameborder="0" 
+        frameBorder="0" 
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen 
+        allowFullScreen 
       />
     </div>
 

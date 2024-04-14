@@ -55,3 +55,27 @@ Everywhere there is "__", except on __App.js or (RelevantCompany)App.js, add "Re
 
 
 
+				 	dox_AI_clear_path: {
+		description: ``,
+		pic: 'dox/.webp',
+		link: ''
+	},
+
+dox_AI_in_the_way: {
+		description: ``,
+		pic: 'dox/.webp',
+		link: ''
+	},
+
+
+Expii - 
+	- put in-page pics of the non-animated pieces like how loops page has
+	- make preferred parent page per double-listed item
+
+Check if I've already asked expii/Andrea about the problems not being published THINK I HAVE
+
+
+Ask H -
+Expii page load time
+"an online network"?
+

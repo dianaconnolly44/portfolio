@@ -7,9 +7,9 @@
 .about > div {
   max-width: 730px;
 }
-.about .blue { color: #5ccbf5; }
+.about .blue { color: #2cbdf2;  } /* logo blue: #5ccbf5 */
 .about .pink { color: #ed80da; }
-.about .crossover { color: #5967c9; }
+.about .purple { color: #5967c9; }
 .about .top {
   display: flex;
   align-items: flex-end;
@@ -26,12 +26,13 @@
 .about .header {
   display: flex;
   align-items: flex-end;
+  margin-left: 40px;
 }
 .about .divider {
   height: 200px;
   width: 6px;
   border-radius: 3px;
-  background: #5ccbf5;
+  background: #5967c9;
   margin-left: 40px;
   margin-right: 25px;
   flex-shrink: 0;
@@ -94,14 +95,14 @@
   padding: 0;
   white-space: nowrap;
   font-weight: bold;
-  color: #5967c9;
-  background: rgba(89, 103, 201, .1);
+  /*color: #5967c9;*/
+  /*background: rgba(89, 103, 201, .1);*/
 }
 .about .footer a:last-of-type {
   margin-right: 0;
 }
 .about .footer .tags div:hover {
-  background: rgba(89, 103, 201, .3);
+  /*background: rgba(89, 103, 201, .3);*/
   cursor: pointer;
 }
 .about .footer .tags div a {
@@ -128,29 +129,42 @@
   margin: 5px;
   padding: 0;
   white-space: nowrap;
-}
-.about li:hover {
   cursor: pointer;
 }
 .about .arrow {
-  transition: margin .15s;
+  display: inline-block;
+  transition: transform .15s;
 }
 .about li:hover .arrow,
 .about .footer .tags div:hover .arrow {
-  margin-left: 3px;
-  margin-right: -3px;
+  transform: translateX(3px);
 }
-.about ul.blue li {
-  background: rgba(92, 203, 245, .1);
+
+.about ul.blue li,
+.about div.blue div {
+  background: hsl(196deg 88% 60% / 13%);
 }
-.about ul.blue li:hover {
-  background: rgba(92, 203, 245, .3);
+.about ul.blue li:hover,
+.about div.blue div:hover {
+  color: #0c9be9;
+  background: hsl(196deg 88% 60% / 25%);
 }
-.about ul.pink li {
+.about ul.pink li,
+.about div.pink div {
   background: rgba(237, 128, 218, .1);
 }
-.about ul.pink li:hover {
+.about ul.pink li:hover,
+.about div.pink div:hover {
+  color: #dc4ccd;
   background: rgba(237, 128, 218, .3);
+}
+.about ul.purple li,
+.about div.purple div {
+  background: rgba(89, 103, 201, .1);
+}
+.about ul.purple li:hover,
+.about div.purple div:hover {
+background: rgba(89, 103, 201, .3);
 }
 .about ul li a {
   display: inline-block;
@@ -199,7 +213,9 @@
     margin-right: 20px;
   }
   .about .header {
+    width: 100%;
     margin-bottom: 30px;
+    margin-left: 0;
   }
   .about img {
     width: 100%;

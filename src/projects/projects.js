@@ -169,6 +169,21 @@ import { Page as inktoberTrickOrTreat } from './pages/inktoberTrickOrTreat';
 import { Page as Hbook } from './pages/Hbook';
 import { Page as HstarGift } from './pages/HstarGift';
 import { Page as grataCanisMajor } from './pages/grataCanisMajor';
+import { Page as expii_groundhog } from './pages/expii_groundhog';
+import { Page as expii_waffle } from './pages/expii_waffle';
+import { Page as expii_winter_olympics } from './pages/expii_winter_olympics';
+import { Page as expii_oscars } from './pages/expii_oscars';
+import { Page as expii_chinese_new_year } from './pages/expii_chinese_new_year';
+import { Page as expii_presidents_day } from './pages/expii_presidents_day';
+import { Page as expii_KID_day } from './pages/expii_KID_day';
+import { Page as expii_watermelon_day } from './pages/expii_watermelon_day';
+import { Page as expii_total_eclipse } from './pages/expii_total_eclipse';
+import { Page as expii_pluto_demoted_day } from './pages/expii_pluto_demoted_day';
+import { Page as expii_cat_day } from './pages/expii_cat_day';
+import { Page as expii_tau_day } from './pages/expii_tau_day';
+import { Page as expii_chess_day } from './pages/expii_chess_day';
+import { Page as expii_pi_approximation_day } from './pages/expii_pi_approximation_day';
+
 
 
 
@@ -279,12 +294,114 @@ export const projects = {
 		page: t1dGwen
 	},
 
+
+
 	'expii': {
 		title: `Expii Graphics`,
 				description: `Graphics to pair with Expii's e-learning webiste`,
 		pic: `expii.jpg`,
 		page: expiiGraphics
 	},
+
+	'expii_groundhog': {
+		title: `Math Problem: "Groundhog Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/12.png`,
+		page: expii_groundhog
+	},
+
+	'expii_waffle': {
+		title: `Math Problem: "Waffle Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/21.png`,
+		page: expii_waffle
+	},
+
+	'expii_winter_olympics': {
+		title: `Math Problem: "Winter Olympics"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/19.png`,
+		page: expii_winter_olympics
+	},
+
+	'expii_oscars': {
+		title: `Math Problem: "Oscars"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/16.png`,
+		page: expii_oscars
+	},
+
+	'expii_chinese_new_year': {
+		title: `Math Problem: "Chinese New Year"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/13.png`,
+		page: expii_chinese_new_year
+	},
+
+	'expii_presidents_day': {
+		title: `Math Problem: "Presidents Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/17.png`,
+		page: expii_presidents_day
+	},
+
+	'expii_KID_day': {
+		title: `Math Problem: "Kid Inventor Day, K.I.D."`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/14.png`,
+		page: expii_KID_day
+	},
+
+	'expii_watermelon_day': {
+		title: `Social Media: "Watermelon Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/8.png`,
+		page: expii_watermelon_day
+	},
+
+	'expii_total_eclipse': {
+		title: `Social Media: "Total Eclipse"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/11.png`,
+		page: expii_total_eclipse
+	},
+
+	'expii_pluto_demoted_day': {
+		title: `Social Media: "Pluto Demoted Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/10.png`,
+		page: expii_pluto_demoted_day
+	},
+
+	'expii_cat_day': {
+		title: `Social Media: "Cat Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/9.png`,
+		page: expii_cat_day
+	},
+
+	'expii_tau_day': {
+		title: `Social Media: "Tau Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/2.png`,
+		page: expii_tau_day
+	},
+
+	'expii_chess_day': {
+		title: `Social Media: "Chess Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/6.png`,
+		page: expii_chess_day
+	},
+
+	'expii_pi_approximation_day': {
+		title: `Social Media: "Pi Approximation Day"`,
+				description: `Adobe Illustrator`,
+		pic: `expiiGraphics_copy/7.png`,
+		page: expii_pi_approximation_day
+	},
+
+
 
 	'andreaBook': {
 		title: `"Kingdom of Plenty"`,
@@ -341,56 +458,56 @@ export const projects = {
 	'verdeBaby': {
 		title: `"Halloween: All Grown Up?"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeBaby_wide.jpg`,
+		pic: `verdeBaby.jpg`,
 		page: verdeBaby
 	},
 
 	'verdeSam': {
 		title: `"I Want YOU to be Happy"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeSam_wide.jpg`,
+		pic: `verdeSam.jpg`,
 		page: verdeSam
 	},
 
 	'verdeElephant': {
 		title: `"The Elephant in the Classroom"`,	
 		description: `News magazine cover illustration`,	
-		pic: `verdeElephant_wide.jpg`,
+		pic: `verdeElephant.jpg`,
 		page: verdeElephant
 	},
 
 	'verdeSweetheart': {
 		title: `"Don't Call Me Sweetheart"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeSweetheart_wide.jpg`,
+		pic: `verdeSweetheart.jpg`,
 		page: verdeSweetheart
 	},
 
 	'verdeGun': {
 		title: `"Gunning for Change"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeGun_wide.jpg`,
+		pic: `verdeGun.jpg`,
 		page: verdeGun
 	},
 
 	'verdeLips': {
 		title: `Untitled`,
 		description: `News magazine cover illustration`,
-		pic: `verdeLips_wide.jpg`,
+		pic: `verdeLips.jpg`,
 		page: verdeLips
 	},
 
 	'verdeOccupy': {
 		title: `"Occupy [Here]"`,
 		description: `News magazine cover illustration`,
-		pic: `verdeOccupy_wide.jpg`,
+		pic: `verdeOccupy.jpg`,
 		page: verdeOccupy
 	},
 
 	'verdeInternal': {
 		title: `News Article Illustrations`,
 		description: `Illustrations to pair with news articles`,
-		pic: `verdeInternal_wide.jpg`,
+		pic: `verdeInternal.jpg`,
 		page: verdeInternal
 	},
 
@@ -559,13 +676,13 @@ export const projects = {
 		page: inktoberShroomHat
 	},
 	'inktoberPinecone': {
-		title: `Giftober: "Pinecone"`,
+		title: `Giftober: "Skydiving Pinecone"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberPinecone.gif`,
 		page: inktoberPinecone
 	},
 	'inktoberSandWitch': {
-		title: `Giftober: "Witch"`,
+		title: `Giftober: "Sand-witch"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberSandWitch.gif`,
 		page: inktoberSandWitch
@@ -577,13 +694,13 @@ export const projects = {
 		page: inktoberCampfire
 	},
 	'inktoberOwl': {
-		title: `Giftober: "Owl"`,
+		title: `Giftober: "Drowsy Owl"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberOwl.gif`,
 		page: inktoberOwl
 	},
 	'inktoberSpider': {
-		title: `Giftober: "Spiderweb"`,
+		title: `Giftober: "Shy Spider"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberSpider.gif`,
 		page: inktoberSpider
@@ -595,49 +712,49 @@ export const projects = {
 		page: inktoberCider
 	},
 	'inktoberShroomPizza': {
-		title: `Giftober: "Mushroom"`,
+		title: `Giftober: "Mushroom Pizza"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberShroomPizza.gif`,
 		page: inktoberShroomPizza
 	},
 	'inktoberAcorns': {
-		title: `Giftober: "Acorns"`,
+		title: `Giftober: "Dancing Acorns"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberAcorns.gif`,
 		page: inktoberAcorns
 	},
 	'inktoberPaperWitch': {
-		title: `Giftober: "Witch"`,
+		title: `Giftober: "Floating Witch"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberPaperWitch.gif`,
 		page: inktoberPaperWitch
 	},
 	'inktoberScarf': {
-		title: `Giftober: "Scarf"`,
+		title: `Giftober: "Dog Scarf"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberScarf.gif`,
 		page: inktoberScarf
 	},
 	'inktoberCat': {
-		title: `Giftober: "Black Cat"`,
+		title: `Giftober: "Sneaking Cat"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberCat.gif`,
 		page: inktoberCat
 	},
 	'inktoberSweater': {
-		title: `Giftober: "Sweater"`,
+		title: `Giftober: "Sweater Weather"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberSweater.gif`,
 		page: inktoberSweater
 	},
 	'inktoberBat': {
-		title: `Giftober: "Bat"`,
+		title: `Giftober: "Sleeping Bat"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberBat.gif`,
 		page: inktoberBat
 	},
 	'inktoberCandyCorn': {
-		title: `Giftober: "Candy Corn"`,
+		title: `Giftober: "Dancing Candy Corn"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberCandyCorn.gif`,
 		page: inktoberCandyCorn
@@ -649,7 +766,7 @@ export const projects = {
 		page: inktoberScarecrow
 	},
 	'inktoberHauntedHouse': {
-		title: `Giftober: "Haunted House"`,
+		title: `Giftober: "Haunted Dog House"`,
 		description: 'Adobe After Effects',
 		pic: `inktoberHauntedHouse.gif`,
 		page: inktoberHauntedHouse
@@ -700,7 +817,8 @@ export const projects = {
 		title: `Math Problem: "Pumpkin Overload"`,
 		description: 'Adobe After Effects',
 		pic: `pumpkins-small.gif`,
-		page: expiiPumpkins
+		page: expiiPumpkins,
+		preferred_menu_id: 'expii'
 	},
 
 	'clock': {
@@ -1542,6 +1660,79 @@ export const projects = {
 		page: flikidsFont
 	},
 
+	dox_AI_handshake: {
+		description: `Can AI Cure Physician Burnout?`,
+		pic: 'dox/AI_handshake.webp',
+		link: 'https://www.doximity.com/articles/5ed698be-3179-4221-ab6f-8519c74f0cf1'
+	},
+
+	dox_collage_compare_vials: {
+		description: `Does Using Ketamine for Induction Have a Lower Mortality Rate Than Etomidate?`,
+		pic: 'dox/collage_compare_vials.webp',
+		link: 'https://pharmacyjoe.com/does-using-ketamine-for-induction-have-a-lower-mortality-rate-than-etomidate/'
+	},
+
+	dox_ozempic_collage: {
+		description: `The Dangers of Compounded Obesity Medications`,
+		pic: 'dox/ozempic_collage.webp',
+		link: 'https://www.doximity.com/articles/df6857a8-679a-44ad-bbac-8c1432d94d09'
+	},
+
+	dox_hobbies: {
+		description: `Physicians Need Joy, Too: On Hobbies and the Creative Life`,
+		pic: 'dox/hobbies.webp',
+		link: 'https://www.doximity.com/articles/857480b3-579b-4a3e-9a71-cbf9c3426f28'
+	},
+	
+	dox_klax: {
+		description: `Emergency Medicine Hacks from Klax`,
+		pic: 'dox/klax.webp',
+		link: 'https://www.doximity.com/articles/83551355-afb2-4c4b-9609-a8d92243f02d'
+	},
+
+	dox_MRI_glitch: {
+		description: `The False Reassurance of a Full-Body MRI Scan`,
+		pic: 'dox/MRI_glitch.jpeg',
+		link: 'https://www.doximity.com/articles/9afcdc6e-2613-4572-9c1c-8642bb260e23'
+	},
+
+	dox_age_is_a_funny_thing: {
+		description: `Age Is a Funny Thing`,
+		pic: 'dox/age_is_a_funny_thing.webp',
+		link: 'https://www.doximity.com/articles/f1b65301-5dbd-4bee-8601-04530a298591'
+	},
+
+	dox_golden_rule_book: {
+		description: `Motorcycles, Ladders, and Fat: A Trauma Surgeon on How to Avoid Trauma`,
+		pic: 'dox/golden_rule_book.webp',
+		link: 'https://www.doximity.com/articles/fbdf8226-77ec-4880-b0f1-735408cb5584'
+	},
+
+	dox_union: {
+		description: `The Struggles of Trying to Unionize as a Resident`,
+		pic: 'dox/union.webp',
+		link: 'https://www.doximity.com/articles/65debcd9-d6c1-45ba-8ea1-9a0f474fb0f2'
+	},
+
+	dox_phone_notifs: {
+		description: `The Night on Call I Was Paged Once a Minute`,
+		pic: 'dox/phone_notifs.webp',
+		link: 'https://www.doximity.com/articles/ce04ee5a-3b6e-4fb2-acaf-05f18308b881'
+	},
+
+	dox_son_of_man_AI: {
+		description: `The Last Bariumslinger`,
+		pic: 'dox/son_of_man_AI.webp',
+		link: 'https://www.doximity.com/articles/5400fb13-6888-435e-a8ba-e36a25ee5dfd'
+	},
+
+
+	dox_thinker: {
+		description: `A Case for Moral Healing`,
+		pic: 'dox/thinker.webp',
+		link: 'https://opmed.doximity.com/articles/a-case-for-moral-healing'
+	},
+
 	dox_then_vs_now: {
 		description: `Medicine is Not What It Used to Be`,
 		pic: 'dox/then_vs_now.gif',
@@ -1554,10 +1745,10 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/next-steps-reevaluating-the-value-of-step-3'
 	},
 
-	dox_speech_bubbles: {
-		description: `Why I’m Not Allowed to Discuss Organ Donation`,
-		pic: 'dox/speech_bubbles.webp',
-		link: 'https://opmed.doximity.com/articles/why-i-m-not-allowed-to-discuss-organ-donation'
+	dox_speech_bubbles_v2: {
+		description: `An Apology Is Not a Career Ender`,
+		pic: 'dox/speech_bubbles_v2.webp',
+		link: 'https://www.doximity.com/articles/99146d36-4e25-486b-bb50-92bd6fab87bd'
 	},
 
 	dox_stepping_stones: {
@@ -1590,10 +1781,10 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/why-a-neurosurgeon-is-now-thinking-about-pregnancy-and-cancer'
 	},
 
-	dox_polishing_diamond: {
-		description: `When a Room of Residents Couldn’t Think of a Single “Win”`,
-		pic: 'dox/polishing_diamond.webp',
-		link: 'https://opmed.doximity.com/articles/when-a-room-of-residents-couldn-t-think-of-a-single-win'
+	dox_polishing_diamond_v2: {
+		description: `Are Any of Us Meeting the Standard of the “Ideal” Physician?`,
+		pic: 'dox/polishing_diamond_v2.webp',
+		link: 'https://www.doximity.com/articles/ea533de9-28c3-4700-a46f-61d6273cc010'
 	},
 
 	dox_template_hands_meds: {
@@ -1620,10 +1811,17 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/why-is-health-care-so-behind-when-it-comes-to-parental-leave'
 	},
 
-	dox_venn_diagram: {
-		description: `Physicians Are Not Caregivers`,
-		pic: 'dox/venn_diagram.webp',
-		link: 'https://opmed.doximity.com/articles/physicians-are-not-caregivers'
+	dox_handshake_series3: {
+		description: `Return of the in-Person Conference: A Guide to Networking`,
+		pic: 'dox/handshake_series3.webp',
+		link: 'https://www.doximity.com/articles/9773ffe1-f24d-42da-b793-75f614d1f360'
+	},
+
+
+	dox_venn_diagram_v2: {
+		description: `What We Can Learn from the Caregivers of Our Patients`,
+		pic: 'dox/venn_diagram_v2.webp',
+		link: 'https://www.doximity.com/articles/0a9e935d-dc0e-42ea-85aa-50da49e039c3'
 	},
 
 	dox_micro_vs_macro: {
@@ -1692,12 +1890,6 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/instagram-vs-reality-a-critical-look-at-black-teens-mental-health'
 	},
 
-	dox_handshake_series: {
-		description: `How to Keep Your Bias Where It Belongs: Out of the Exam Room`,
-		pic: 'dox/handshake_series.gif',
-		link: 'https://opmed.doximity.com/articles/how-to-keep-your-bias-where-it-belongs-out-of-the-exam-room'
-	},
-
 	dox_green_door: {
 		description: `How Resilience is Like Pornography`,
 		pic: 'dox/green_door.webp',
@@ -1714,6 +1906,12 @@ export const projects = {
 		description: `Incidence or Coincidence?`,
 		pic: 'dox/vaccine_syringe.gif',
 		link: 'https://opmed.doximity.com/articles/incidence-or-coincidence'
+	},
+
+	dox_handshake_series1: {
+		description: `How to Keep Your Bias Where It Belongs: Out of the Exam Room`,
+		pic: 'dox/handshake_series1.gif',
+		link: 'https://opmed.doximity.com/articles/how-to-keep-your-bias-where-it-belongs-out-of-the-exam-room'
 	},
 
 	dox_suture_tails: {
@@ -1758,10 +1956,10 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/what-clinicians-can-learn-from-poetry?_csrf_attempted=yes'
 	},
 
-	dox_mindset_shift: {
-		description: `Finding Meaning in How Medicine Is, Not How It Should Be`,
-		pic: 'dox/mindset_shift.webp',
-		link: 'https://opmed.doximity.com/articles/finding-meaning-in-how-medicine-is-not-how-it-should-be?_csrf_attempted=yes'
+	dox_mindset_shift_v2: {
+		description: `Medicine Should Be a Meaningful Job. How Do We Fix It?`,
+		pic: 'dox/mindset_shift_v2.webp',
+		link: 'https://www.doximity.com/articles/05560e04-4177-4421-b5a3-fc507adfb91a'
 	},
 
 	dox_improving_residency: {

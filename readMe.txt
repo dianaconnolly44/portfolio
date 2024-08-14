@@ -1,4 +1,4 @@
-To open the website v3 folder in local host, type in terminal "cd " and then drag "code" folder into terminal and hit enter. Opening a new tab will open the same project, if this has already been done.
+To open the website v3 folder in local host, type in terminal "cd " (don't forget space after cd) and then drag "code" folder into terminal and hit enter. Opening a new tab will open the same project, if this has already been done.
 
 
 TO RUN (LOCAL HOST):
@@ -7,6 +7,13 @@ IN TAB #2 OF TERMINAL...
 
 npm run start 
 
+
+
+TO UPDATE DOXIMITY:
+Drag "src" folder into Sublime
+Put assets in "gallery" > "dox" folder
+Open "projects.js". Add new 'pages' to "export const projects..." Section
+Open "menu.js". Add the above pages to "id: 'editorial'" Section in the order I want them to show up
 
 
 
@@ -52,30 +59,4 @@ Hit CMD + Shift + F
 
 Everywhere there is "__", except on __App.js or (RelevantCompany)App.js, add "Relevant Company" by double clicking on the highlighted __
 
-
-
-
-				 	dox_AI_clear_path: {
-		description: ``,
-		pic: 'dox/.webp',
-		link: ''
-	},
-
-dox_AI_in_the_way: {
-		description: ``,
-		pic: 'dox/.webp',
-		link: ''
-	},
-
-
-Expii - 
-	- put in-page pics of the non-animated pieces like how loops page has
-	- make preferred parent page per double-listed item
-
-Check if I've already asked expii/Andrea about the problems not being published THINK I HAVE
-
-
-Ask H -
-Expii page load time
-"an online network"?
 

@@ -4,20 +4,27 @@ const menu = [
 		id: 'illustration',
 		label: 'Illustration',
 		submenu: [
-
 			{
 				id: 'editorial',
 				label: `Editorial`,
 				projects: [
-					'dox_collage_compare_vials',
-					'dox_ozempic_collage',
+					
+					'dox_languageBarrier',
+					'dox_sparkChain',
+					'dox_1stepForward',
+					'dox_blackBelt_whiteCoat',
+					'dox_RN_vs_NP',
 					'dox_hobbies',
 					'dox_klax',
+					'dox_collage_compare_vials',
+					'dox_ozempic_collage',
 					'dox_MRI_glitch',
-					'dox_thinker',
 					'dox_age_is_a_funny_thing',
-					'dox_golden_rule_book',
 					'dox_union',
+					'dox_golden_rule_book',
+					'dox_thinker',
+					
+					
 					'dox_phone_notifs',
 					'dox_AI_handshake',
 					'dox_son_of_man_AI',

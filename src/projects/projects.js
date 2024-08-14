@@ -1660,6 +1660,36 @@ export const projects = {
 		page: flikidsFont
 	},
 
+	dox_languageBarrier: {
+		description: `Every Patient Has a Right to Understand Their Medical Care`,
+		pic: 'dox/language.webp',
+		link: 'https://opmed.doximity.com/articles/every-patient-has-a-right-to-understand-their-medical-care'
+	},
+
+	dox_sparkChain: {
+		description: `Finding a Patient’s Spark — And My Own`,
+		pic: 'dox/sparkChain.webp',
+		link: 'https://opmed.doximity.com/articles/finding-a-patient-s-spark-and-my-own'
+	},
+
+	dox_1stepForward: {
+		description: `The Beauty and Horror of Progress`,
+		pic: 'dox/1stepForward.webp',
+		link: 'https://opmed.doximity.com/articles/the-beauty-and-horror-of-progress'
+	},
+
+	dox_blackBelt_whiteCoat: {
+		description: `Black Belt, White Coat`,
+		pic: 'dox/blackBelt_whiteCoat.webp',
+		link: 'https://opmed.doximity.com/articles/black-belt-white-coat'
+	},
+
+	dox_RN_vs_NP: {
+		description: `Who Will Teach Me How to Be an NP?`,
+		pic: 'dox/RN_vs_NP.webp',
+		link: 'https://opmed.doximity.com/articles/who-will-teach-me-how-to-be-an-np'
+	},
+
 	dox_AI_handshake: {
 		description: `Can AI Cure Physician Burnout?`,
 		pic: 'dox/AI_handshake.webp',

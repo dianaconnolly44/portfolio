@@ -1660,6 +1660,41 @@ export const projects = {
 		page: flikidsFont
 	},
 
+	dox_match: {
+		description: `The Most Important Day for Med Students Needs Rethinking`,
+		pic: 'dox/match.webp',
+		link: 'https://opmed.doximity.com/articles/the-most-important-day-for-med-students-needs-rethinking'
+	},
+	dox_codeSwitching: {
+		description: `Have Surgeons (Accidentally) Become Primary Care Doctors?`,
+		pic: 'dox/codeSwitching.gif',
+		link: 'https://opmed.doximity.com/articles/have-surgeons-accidentally-become-primary-care-doctors'
+	},
+
+	dox_portalMagicWand: {
+		description: `Why I Don’t Have a PCP As a Doctor`,
+		pic: 'dox/portalMagicWand.webp',
+		link: 'https://opmed.doximity.com/articles/why-i-don-t-have-a-pcp-as-a-doctor'
+	},
+
+	dox_flowchartChange: {
+		description: `The Top 3 Things We Should Add to the Medical School Curriculum`,
+		pic: 'dox/flowchartChange.webp',
+		link: 'https://opmed.doximity.com/articles/the-top-3-things-we-should-add-to-the-medical-school-curriculum'
+	},
+
+	dox_shadowHands: {
+		description: `Assault Should Not Be a Part of the Job`,
+		pic: 'dox/shadowHands.webp',
+		link: 'https://opmed.doximity.com/articles/assault-should-not-be-a-part-of-the-job'
+	},
+
+	dox_socialSafetyNet: {
+		description: `I Wish I Could Have Prescribed My Patient a Friend`,
+		pic: 'dox/socialSafetyNet.webp',
+		link: 'https://opmed.doximity.com/articles/i-wish-i-could-have-prescribed-my-patient-a-friend'
+	},
+
 	dox_languageBarrier: {
 		description: `Every Patient Has a Right to Understand Their Medical Care`,
 		pic: 'dox/language.webp',
@@ -1672,10 +1707,22 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/finding-a-patient-s-spark-and-my-own'
 	},
 
+	dox_bestHospitals: {
+		description: `The Medical School Rankings Mess: A Lose-Lose for Students and Schools`,
+		pic: 'dox/bestHospitals.webp',
+		link: 'https://opmed.doximity.com/articles/the-medical-school-rankings-mess-a-lose-lose-for-students-and-schools'
+	},
+
 	dox_1stepForward: {
 		description: `The Beauty and Horror of Progress`,
 		pic: 'dox/1stepForward.webp',
 		link: 'https://opmed.doximity.com/articles/the-beauty-and-horror-of-progress'
+	},
+
+	dox_AIinTheWay: {
+		description: `Why AI Won’t Replace Physicians Any Time Soon (or, The Value of Being There in Person)`,
+		pic: 'dox/AIinTheWay.webp',
+		link: 'https://opmed.doximity.com/articles/why-ai-won-t-replace-physicians-any-time-soon-or-the-value-of-being-there-in-person'
 	},
 
 	dox_blackBelt_whiteCoat: {
@@ -1712,6 +1759,12 @@ export const projects = {
 		description: `Physicians Need Joy, Too: On Hobbies and the Creative Life`,
 		pic: 'dox/hobbies.webp',
 		link: 'https://www.doximity.com/articles/857480b3-579b-4a3e-9a71-cbf9c3426f28'
+	},
+
+	dox_AIclearPath: {
+		description: `My Inbox Is Clear and My Patients Are Happy: Using AI in Medicine`,
+		pic: 'dox/AIclearPath.webp',
+		link: 'https://opmed.doximity.com/articles/my-inbox-is-clear-and-my-patients-are-happy-using-ai-in-medicine'
 	},
 	
 	dox_klax: {
@@ -1761,6 +1814,12 @@ export const projects = {
 		description: `A Case for Moral Healing`,
 		pic: 'dox/thinker.webp',
 		link: 'https://opmed.doximity.com/articles/a-case-for-moral-healing'
+	},
+
+	dox_plane: {
+		description: `What It's Like to Be a Locums Doctor`,
+		pic: 'dox/plane1.gif',
+		link: 'https://opmed.doximity.com/articles/what-it-s-like-to-be-a-locums-doctor'
 	},
 
 	dox_then_vs_now: {
@@ -1902,9 +1961,9 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/your-medical-management-should-be-better-than-a-magic-8-ball'
 	},
 
-	dox_airplane: {
+	dox_airplanePatient: {
 		description: `We Aren’t Taught Enough to Be Doctors Outside of the Hospital`,
-		pic: 'dox/airplane.webp',
+		pic: 'dox/airplanePatient.webp',
 		link: 'https://opmed.doximity.com/articles/we-aren-t-taught-enough-to-be-doctors-outside-of-the-hospital'
 	},
 
@@ -1929,7 +1988,7 @@ export const projects = {
 	dox_medical_retraumatization: {
 		description: `Healing for Trauma Survivors Can Start With You`,
 		pic: 'dox/medical_retraumatization.webp',
-		link: 'oximity.com/articles/healing-for-trauma-survivors-can-start-with-you'
+		link: 'https://opmed.doximity.com/articles/healing-for-trauma-survivors-can-start-with-you?_csrf_attempted=yes'
 	},
 
 	dox_vaccine_syringe: {
@@ -1962,6 +2021,12 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/how-a-plain-coffee-mug-may-make-me-a-better-doctor'
 	},
 
+	dox_socialDistancing: {
+		description: `COVID-19: Is Mask-Wearing Really Unnecessary? A Cultural Judgement Call`,
+		pic: 'dox/socialDistancing.gif',
+		link: 'https://www.doximity.com/articles/fd6eee4f-66d8-46f5-8dd3-4ee491e20af4'
+	},
+
 	dox_silhouette_awards: {
 		description: `The Op-Med Awards: In Celebration of Medicine`,
 		pic: 'dox/silhouette_awards.webp',
@@ -1990,6 +2055,12 @@ export const projects = {
 		description: `Medicine Should Be a Meaningful Job. How Do We Fix It?`,
 		pic: 'dox/mindset_shift_v2.webp',
 		link: 'https://www.doximity.com/articles/05560e04-4177-4421-b5a3-fc507adfb91a'
+	},
+
+	dox_covidTarot: {
+		description: `How Giving Vaccinations Rekindled My Love of Practicing Medicine`,
+		pic: 'dox/covidTarot.gif',
+		link: 'https://opmed.doximity.com/articles/how-giving-vaccinations-rekindled-my-love-of-practicing-medicine?_csrf_attempted=yes'
 	},
 
 	dox_improving_residency: {

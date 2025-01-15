@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c61cf11e457c12683e088feb31aecfdc",
+    "revision": "ac9768a55ec66d55ccdc85d1735ef1f8",
     "url": "/index.html"
   },
   {
-    "revision": "f0e02ab372b4fff1f20f",
+    "revision": "190e87d792ad0e066ff9",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "bc94d6bf61442cf33b40",
+    "revision": "084896edd8a324cb9e42",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "f0e02ab372b4fff1f20f",
-    "url": "/static/js/2.99d9c69d.chunk.js"
+    "revision": "190e87d792ad0e066ff9",
+    "url": "/static/js/2.961c1f25.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.99d9c69d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.961c1f25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc94d6bf61442cf33b40",
-    "url": "/static/js/main.72da186a.chunk.js"
+    "revision": "084896edd8a324cb9e42",
+    "url": "/static/js/main.d52fe8d6.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -472,6 +472,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/AI_handshake.639d7868.webp"
   },
   {
+    "revision": "277a9fb47b01ac957ba1c01b9156a1a0",
+    "url": "/static/media/AIclearPath.277a9fb4.webp"
+  },
+  {
+    "revision": "42ba4d8255ac6c090de9b09a68b27b06",
+    "url": "/static/media/AIinTheWay.42ba4d82.webp"
+  },
+  {
     "revision": "db4a5cea90abfac69ab307db46864800",
     "url": "/static/media/CF.db4a5cea.jpg"
   },
@@ -685,7 +693,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "46622b95c2f09b471966c45e90c6264f",
-    "url": "/static/media/airplane.46622b95.webp"
+    "url": "/static/media/airplanePatient.46622b95.webp"
   },
   {
     "revision": "9100d1e0b30a95e8d7aa8e09f38ac1fc",
@@ -846,6 +854,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ca9c505c5d691d684b14c8ea476ae18a",
     "url": "/static/media/bathSalts.ca9c505c.jpg"
+  },
+  {
+    "revision": "38397c04d924b94b2dd09c8aea3edc19",
+    "url": "/static/media/bestHospitals.38397c04.webp"
   },
   {
     "revision": "7169b1ba0d714c4bf6c4b453b309a997",
@@ -1132,6 +1144,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeSara.f70dd59b.jpg"
   },
   {
+    "revision": "feb40ecaaacde42329bb93979620d347",
+    "url": "/static/media/codeSwitching.feb40eca.gif"
+  },
+  {
     "revision": "4be6e4109d104a4d7a4898c3a991fd05",
     "url": "/static/media/codeTurtleRace.4be6e410.gif"
   },
@@ -1210,6 +1226,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "099bc365932f4e4c8aef2202da362ab3",
     "url": "/static/media/coverPlanning.099bc365.png"
+  },
+  {
+    "revision": "9e46cc59cb96723098d5e08fd0d274d7",
+    "url": "/static/media/covidTarot.9e46cc59.gif"
   },
   {
     "revision": "7e85050dbb691ffc00cde95d6d1436c1",
@@ -1582,6 +1602,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1411c3ea1fca09cc039aa319cefb98f6",
     "url": "/static/media/flipfootGrid.1411c3ea.png"
+  },
+  {
+    "revision": "92542809cae5392ecbbee5c49f0a1b54",
+    "url": "/static/media/flowchartChange.92542809.webp"
   },
   {
     "revision": "7ae31ca775627c84eb1a968dcacf2319",
@@ -2100,6 +2124,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/march.67f78bdd.jpeg"
   },
   {
+    "revision": "fef4c1cc79836c0b749e6b105f22eba8",
+    "url": "/static/media/match.fef4c1cc.webp"
+  },
+  {
     "revision": "fa78cc75982973dbd53e8f39bb47631c",
     "url": "/static/media/maurides_Courses.fa78cc75.pdf"
   },
@@ -2376,6 +2404,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/plane.fe2ecab6.jpg"
   },
   {
+    "revision": "930b6548d9beda6b5eb7ae0f2adc9f24",
+    "url": "/static/media/plane1.930b6548.gif"
+  },
+  {
     "revision": "a13b1cf87fbe36c82f916d273cb0b213",
     "url": "/static/media/plane2.a13b1cf8.gif"
   },
@@ -2394,6 +2426,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2207f09d16d35888807bc36fb8bafa53",
     "url": "/static/media/polishing_diamond_v2.2207f09d.webp"
+  },
+  {
+    "revision": "46a9b3fde022f5ca23dc097d436083f0",
+    "url": "/static/media/portalMagicWand.46a9b3fd.webp"
   },
   {
     "revision": "503681618343bd103f53cbad8fe3b8ec",
@@ -2644,6 +2680,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/set2.ab919db4.png"
   },
   {
+    "revision": "3d23929e6485ce1af20cd6aadcdb396b",
+    "url": "/static/media/shadowHands.3d23929e.webp"
+  },
+  {
     "revision": "1729fbbc04737c04da780b9b6737e441",
     "url": "/static/media/shell.1729fbbc.jpg"
   },
@@ -2758,6 +2798,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8eefafbbf8fc11449508d9170813ac88",
     "url": "/static/media/snellenDesign.8eefafbb.jpg"
+  },
+  {
+    "revision": "0b9280ed8d5a48e0dae332586b43b3db",
+    "url": "/static/media/socialDistancing.0b9280ed.gif"
+  },
+  {
+    "revision": "03f286dd913291f7594949770679a588",
+    "url": "/static/media/socialSafetyNet.03f286dd.webp"
   },
   {
     "revision": "7f0cad83164d35a32c34443eb460b6c5",

@@ -1,4 +1,4 @@
-To open the website v3 folder in local host, type in terminal "cd " (don't forget space after cd) and then drag "code" folder into terminal and hit enter. Opening a new tab will open the same project, if this has already been done.
+To open the website v3 folder in local host, type in terminal "cd " (don't include quotes + don't forget space after cd) and then drag "code" folder into terminal and hit enter. Opening a new tab will open the same project, if this has already been done.
 
 
 TO RUN (LOCAL HOST):
@@ -19,10 +19,10 @@ Open "menu.js". Add the above pages to "id: 'editorial'" Section in the order I 
 
 TO PUBLISH:
 
-IN TERMINAL…
+IN TERMINAL (TAB #1 - no the tab with localhost running)…
 
 git add .; git commit -m "____"
-  = labels the new addition
+___  = labels/describes the new addition (make sure to include quotes around it)
 
 git push
   = pushes the new addition to GitHub

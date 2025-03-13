@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac9768a55ec66d55ccdc85d1735ef1f8",
+    "revision": "293a942ae7364ac4e9332e6c96360f11",
     "url": "/index.html"
   },
   {
-    "revision": "190e87d792ad0e066ff9",
+    "revision": "ab25632d389050a372ea",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "084896edd8a324cb9e42",
+    "revision": "56b053d47291d9c930a0",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "190e87d792ad0e066ff9",
-    "url": "/static/js/2.961c1f25.chunk.js"
+    "revision": "ab25632d389050a372ea",
+    "url": "/static/js/2.5554fdea.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.961c1f25.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5554fdea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "084896edd8a324cb9e42",
-    "url": "/static/js/main.d52fe8d6.chunk.js"
+    "revision": "56b053d47291d9c930a0",
+    "url": "/static/js/main.4b587a00.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -2164,6 +2164,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/memes.665cc653.jpg"
   },
   {
+    "revision": "6dd80b0fe205027f253f0277c980ddcb",
+    "url": "/static/media/mental_load.6dd80b0f.jpg"
+  },
+  {
     "revision": "f1e35bb504759c5e8407d6e3d23df5f3",
     "url": "/static/media/micro_vs_macro.f1e35bb5.webp"
   },
@@ -2340,6 +2344,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ornaments.d238f77c.jpg"
   },
   {
+    "revision": "675e7bec655ce40627c6057ce00fd508",
+    "url": "/static/media/oxygen_mask.675e7bec.jpg"
+  },
+  {
     "revision": "6d9eda3d4fc766dcc1aa41e76f687ee6",
     "url": "/static/media/ozempic_collage.6d9eda3d.webp"
   },
@@ -2382,6 +2390,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "deb0f8f87fb8bf25784236d194e7c711",
     "url": "/static/media/phenotype.deb0f8f8.jpg"
+  },
+  {
+    "revision": "f1fa780c9a86bd3dfdd9f4f45cd90ee9",
+    "url": "/static/media/phone_fear.f1fa780c.webp"
   },
   {
     "revision": "c9028aad30d54d3f0ebec33c15ec23d3",
@@ -2878,6 +2890,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "971e8620fbb776594bd7a04a9b61c2b1",
     "url": "/static/media/stillLifePencil.971e8620.jpg"
+  },
+  {
+    "revision": "5d88c2a0f2697afceabf38704b8891fd",
+    "url": "/static/media/strengthTraining.5d88c2a0.jpg"
   },
   {
     "revision": "7280104dc5a1b5c0913505d8fbc44ff9",

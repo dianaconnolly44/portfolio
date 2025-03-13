@@ -19,7 +19,7 @@ Open "menu.js". Add the above pages to "id: 'editorial'" Section in the order I 
 
 TO PUBLISH:
 
-IN TERMINAL (TAB #1 - no the tab with localhost running)…
+IN TERMINAL (TAB #1 - not the tab with localhost running)…
 
 git add .; git commit -m "____"
 ___  = labels/describes the new addition (make sure to include quotes around it)
@@ -28,7 +28,7 @@ git push
   = pushes the new addition to GitHub
 
 npm run deploy
-  = deploys it publicly 
+  = deploys it publicly (it will say "published" when done)
 
 
 

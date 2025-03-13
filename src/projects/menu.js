@@ -9,7 +9,11 @@ const menu = [
 				label: `Editorial`,
 				projects: [
 					
+					'dox_mental_load',
+					'dox_oxygen_mask',
+					'dox_phone_fear',
 					'dox_match',
+					'dox_strength_training',
 					'dox_codeSwitching',
 					'dox_portalMagicWand',
 					'dox_flowchartChange',

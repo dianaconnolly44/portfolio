@@ -1660,11 +1660,37 @@ export const projects = {
 		page: flikidsFont
 	},
 
+
+	dox_mental_load: {
+		description: `Strength Training Made Me A Better Clinician`,
+		pic: 'dox/mental_load.jpg',
+		link: ''
+	},
+
+	dox_oxygen_mask: {
+		description: `Strength Training Made Me A Better Clinician`,
+		pic: 'dox/oxygen_mask.jpg',
+		link: ''
+	},
+
+	dox_strength_training: {
+		description: `Strength Training Made Me A Better Clinician`,
+		pic: 'dox/strengthTraining.jpg',
+		link: ''
+	},
+
+	dox_phone_fear: {
+		description: `Vaccine Hesitancy Isn’t About Anti-Science`,
+		pic: 'dox/phone_fear.webp',
+		link: 'https://opmed.doximity.com/articles/vaccine-hesitancy-isn-t-about-anti-science'
+	},
+
 	dox_match: {
 		description: `The Most Important Day for Med Students Needs Rethinking`,
 		pic: 'dox/match.webp',
 		link: 'https://opmed.doximity.com/articles/the-most-important-day-for-med-students-needs-rethinking'
 	},
+
 	dox_codeSwitching: {
 		description: `Have Surgeons (Accidentally) Become Primary Care Doctors?`,
 		pic: 'dox/codeSwitching.gif',

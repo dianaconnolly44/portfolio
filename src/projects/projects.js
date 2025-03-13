@@ -1662,13 +1662,13 @@ export const projects = {
 
 
 	dox_mental_load: {
-		description: `Strength Training Made Me A Better Clinician`,
+		description: `The Mental Load of Being a Woman in Medicine`,
 		pic: 'dox/mental_load.jpg',
 		link: ''
 	},
 
 	dox_oxygen_mask: {
-		description: `Strength Training Made Me A Better Clinician`,
+		description: `Self-Care Must Precede Medical Care`,
 		pic: 'dox/oxygen_mask.jpg',
 		link: ''
 	},

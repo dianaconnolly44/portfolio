@@ -1676,7 +1676,7 @@ export const projects = {
 	dox_strength_training: {
 		description: `Strength Training Made Me A Better Clinician`,
 		pic: 'dox/strengthTraining.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/strength-training-made-me-a-better-clinician'
 	},
 
 	dox_phone_fear: {

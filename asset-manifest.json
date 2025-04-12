@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6723a5a8.chunk.css",
-    "main.js": "/static/js/main.bbd85dbd.chunk.js",
-    "main.js.map": "/static/js/main.bbd85dbd.chunk.js.map",
+    "main.js": "/static/js/main.6ab0f4cf.chunk.js",
+    "main.js.map": "/static/js/main.6ab0f4cf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.5554fdea.chunk.js": "/static/js/2.5554fdea.chunk.js",
-    "static/js/2.5554fdea.chunk.js.map": "/static/js/2.5554fdea.chunk.js.map",
+    "static/js/2.2935ecc6.chunk.js": "/static/js/2.2935ecc6.chunk.js",
+    "static/js/2.2935ecc6.chunk.js.map": "/static/js/2.2935ecc6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f0a13f86fb7ff8e0661158456c5971c8.js": "/precache-manifest.f0a13f86fb7ff8e0661158456c5971c8.js",
+    "precache-manifest.f751c4dadbd54f07bf1c42f33094a4a0.js": "/precache-manifest.f751c4dadbd54f07bf1c42f33094a4a0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.6723a5a8.chunk.css.map": "/static/css/main.6723a5a8.chunk.css.map",
-    "static/js/2.5554fdea.chunk.js.LICENSE.txt": "/static/js/2.5554fdea.chunk.js.LICENSE.txt",
+    "static/js/2.2935ecc6.chunk.js.LICENSE.txt": "/static/js/2.2935ecc6.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -79,6 +79,7 @@
     "static/media/CIAJ1-01.png": "/static/media/CIAJ1-01.bfdefe71.png",
     "static/media/CIAJ2.png": "/static/media/CIAJ2.1dffad62.png",
     "static/media/CIAJflyers.jpg": "/static/media/CIAJflyers.443c512a.jpg",
+    "static/media/EHRvideo_game.png": "/static/media/EHRvideo_game.f7e19c10.png",
     "static/media/Hbook-01.jpg": "/static/media/Hbook-01.efcfefba.jpg",
     "static/media/Hbook-03.jpg": "/static/media/Hbook-03.e94f6982.jpg",
     "static/media/Hbook-04.jpg": "/static/media/Hbook-04.41691fa1.jpg",
@@ -405,6 +406,7 @@
     "static/media/imaging_Syllabus.pdf": "/static/media/imaging_Syllabus.020e92de.pdf",
     "static/media/improving_residency.webp": "/static/media/improving_residency.b954892a.webp",
     "static/media/inBox.jpeg": "/static/media/inBox.9d98d0a6.jpeg",
+    "static/media/informedConsent_couple.jpeg": "/static/media/informedConsent_couple.4e713b2d.jpeg",
     "static/media/inkHair.jpg": "/static/media/inkHair.d2dcda11.jpg",
     "static/media/inktoberAcorns.gif": "/static/media/inktoberAcorns.25bd02e3.gif",
     "static/media/inktoberApples.gif": "/static/media/inktoberApples.e7b586ba.gif",
@@ -751,8 +753,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.5554fdea.chunk.js",
+    "static/js/2.2935ecc6.chunk.js",
     "static/css/main.6723a5a8.chunk.css",
-    "static/js/main.bbd85dbd.chunk.js"
+    "static/js/main.6ab0f4cf.chunk.js"
   ]
 }

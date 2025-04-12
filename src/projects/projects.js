@@ -1661,10 +1661,22 @@ export const projects = {
 	},
 
 
+	dox_informed_consent_couple: {
+		description: `How Do We Meet the Bar of Informed Consent in Prenatal Testing?`,
+		pic: 'dox/informedConsent_couple.jpeg',
+		link: ''
+	},
+
+	dox_EHRvideo_game: {
+		description: `Are You Still Documenting Yesterday's Visits?`,
+		pic: 'dox/EHRvideo_game.png',
+		link: ''
+	},
+
 	dox_mental_load: {
 		description: `The Mental Load of Being a Woman in Medicine`,
 		pic: 'dox/mental_load.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/the-mental-load-of-being-a-woman-in-medicine'
 	},
 
 	dox_oxygen_mask: {

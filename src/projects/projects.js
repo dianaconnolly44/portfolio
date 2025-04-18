@@ -1682,7 +1682,7 @@ export const projects = {
 	dox_oxygen_mask: {
 		description: `Self-Care Must Precede Medical Care`,
 		pic: 'dox/oxygen_mask.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/self-care-must-precede-medical-care'
 	},
 
 	dox_strength_training: {

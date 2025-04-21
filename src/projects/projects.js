@@ -1664,7 +1664,7 @@ export const projects = {
 	dox_informed_consent_couple: {
 		description: `How Do We Meet the Bar of Informed Consent in Prenatal Testing?`,
 		pic: 'dox/informedConsent_couple.jpeg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/how-do-we-meet-the-bar-of-informed-consent-in-prenatal-testing'
 	},
 
 	dox_EHRvideo_game: {

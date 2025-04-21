@@ -9,7 +9,7 @@ const menu = [
 				label: `Editorial`,
 				projects: [
 					
-					//'dox_informed_consent_couple',
+					'dox_informed_consent_couple',
 					//'dox_EHRvideo_game',
 					'dox_mental_load',
 					'dox_oxygen_mask',

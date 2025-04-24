@@ -1661,6 +1661,12 @@ export const projects = {
 	},
 
 
+	dox_pill_handshake: {
+		description: `Can Physicians and the Pharmceutical Industry Have an Ethical Relationship?`,
+		pic: 'dox/pill_handshake.jpg',
+		link: ''
+	},
+
 	dox_informed_consent_couple: {
 		description: `How Do We Meet the Bar of Informed Consent in Prenatal Testing?`,
 		pic: 'dox/informedConsent_couple.jpeg',
@@ -1670,7 +1676,7 @@ export const projects = {
 	dox_EHRvideo_game: {
 		description: `Are You Still Documenting Yesterday's Visits?`,
 		pic: 'dox/EHRvideo_game.png',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/are-you-still-documenting-yesterday-s-visits'
 	},
 
 	dox_mental_load: {

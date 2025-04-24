@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6723a5a8.chunk.css",
-    "main.js": "/static/js/main.690374f7.chunk.js",
-    "main.js.map": "/static/js/main.690374f7.chunk.js.map",
+    "main.js": "/static/js/main.9a518706.chunk.js",
+    "main.js.map": "/static/js/main.9a518706.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.2935ecc6.chunk.js": "/static/js/2.2935ecc6.chunk.js",
-    "static/js/2.2935ecc6.chunk.js.map": "/static/js/2.2935ecc6.chunk.js.map",
+    "static/js/2.0e87bca8.chunk.js": "/static/js/2.0e87bca8.chunk.js",
+    "static/js/2.0e87bca8.chunk.js.map": "/static/js/2.0e87bca8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.41ad6950a24d4ea39a24a0f7f34826c5.js": "/precache-manifest.41ad6950a24d4ea39a24a0f7f34826c5.js",
+    "precache-manifest.677cbaecc6ee3819fe23d7468965c99e.js": "/precache-manifest.677cbaecc6ee3819fe23d7468965c99e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.6723a5a8.chunk.css.map": "/static/css/main.6723a5a8.chunk.css.map",
-    "static/js/2.2935ecc6.chunk.js.LICENSE.txt": "/static/js/2.2935ecc6.chunk.js.LICENSE.txt",
+    "static/js/2.0e87bca8.chunk.js.LICENSE.txt": "/static/js/2.0e87bca8.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -546,6 +546,7 @@
     "static/media/phone_notifs.webp": "/static/media/phone_notifs.c9028aad.webp",
     "static/media/pier.jpg": "/static/media/pier.1ccd8c38.jpg",
     "static/media/pig.png": "/static/media/pig.587201ad.png",
+    "static/media/pill_handshake.jpg": "/static/media/pill_handshake.b07d55ea.jpg",
     "static/media/plane.jpg": "/static/media/plane.fe2ecab6.jpg",
     "static/media/plane1.gif": "/static/media/plane1.930b6548.gif",
     "static/media/plane2.gif": "/static/media/plane2.a13b1cf8.gif",
@@ -753,8 +754,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.2935ecc6.chunk.js",
+    "static/js/2.0e87bca8.chunk.js",
     "static/css/main.6723a5a8.chunk.css",
-    "static/js/main.690374f7.chunk.js"
+    "static/js/main.9a518706.chunk.js"
   ]
 }

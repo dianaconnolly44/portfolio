@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "357c67a461228ef3317c6f0df07cbd1e",
+    "revision": "7b5cd7fb4e54eee0b05ec657193f5c2c",
     "url": "/index.html"
   },
   {
-    "revision": "32b9e7304e3ad6377cf3",
+    "revision": "dbcb88c62979ec4d2518",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "68d930e7be31eda106e9",
+    "revision": "72eefa3d436fd341e102",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "32b9e7304e3ad6377cf3",
-    "url": "/static/js/2.0e87bca8.chunk.js"
+    "revision": "dbcb88c62979ec4d2518",
+    "url": "/static/js/2.2742e092.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.0e87bca8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2742e092.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68d930e7be31eda106e9",
-    "url": "/static/js/main.9a518706.chunk.js"
+    "revision": "72eefa3d436fd341e102",
+    "url": "/static/js/main.a8cd242c.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -1672,6 +1672,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/golden_rule_book.e4b5a6b3.webp"
   },
   {
+    "revision": "d4733de040a6509dffeaa77920d761f2",
+    "url": "/static/media/good_v_bad_feedback.d4733de0.webp"
+  },
+  {
     "revision": "5aa1a1a5b8c6069fc89762025d5f82bd",
     "url": "/static/media/grataCanisMajor.5aa1a1a5.jpg"
   },
@@ -2020,6 +2024,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/law.7cf67376.png"
   },
   {
+    "revision": "99a23209e2e0953ab37320291fe37431",
+    "url": "/static/media/lawsuit_gavel.99a23209.jpg"
+  },
+  {
     "revision": "d77ffe4c04eb13ce93092b8e9e33b1cb",
     "url": "/static/media/laying_v2.d77ffe4c.jpg"
   },
@@ -2154,6 +2162,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "00dbf2191b4f90eaddf05e82e4d08bd1",
     "url": "/static/media/medStaff2.00dbf219.jpg"
+  },
+  {
+    "revision": "59e6c58b7e024c566dfb9a8ba70e1a2e",
+    "url": "/static/media/med_school_rankings.59e6c58b.jpg"
   },
   {
     "revision": "5186200102fed2ec16a764933fff1456",
@@ -2366,6 +2378,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ab2157d4b4a5313eda97a4108121de76",
     "url": "/static/media/paperFlowers.ab2157d4.jpg"
+  },
+  {
+    "revision": "955aca3d58889611a7bbf2accc330864",
+    "url": "/static/media/paper_mountains.955aca3d.jpg"
   },
   {
     "revision": "1dd6b7a17e606d36ee50e9b03dd6b85c",
@@ -2604,6 +2620,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ribbon.e8a4597c.jpg"
   },
   {
+    "revision": "023b8cfaa491922bbd335deade594a90",
+    "url": "/static/media/robot_stage.023b8cfa.jpg"
+  },
+  {
     "revision": "3456fbe5732ae67c39b9c02d766c4285",
     "url": "/static/media/rococoLint_s.3456fbe5.jpg"
   },
@@ -2728,6 +2748,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/side2.9905b6d1.jpeg"
   },
   {
+    "revision": "468ded48d80a64726cf0e38fdfdba636",
+    "url": "/static/media/side_gigs.468ded48.webp"
+  },
+  {
     "revision": "14350a8c3d9abe59e0b2326b7d8600e0",
     "url": "/static/media/sigrid.14350a8c.jpg"
   },
@@ -2806,6 +2830,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c6c207dd9542d81eef358749b67a2409",
     "url": "/static/media/skulls.c6c207dd.gif"
+  },
+  {
+    "revision": "3e332695c86e0ed239fa6267f0e6efb6",
+    "url": "/static/media/snake_signature.3e332695.jpg"
   },
   {
     "revision": "4199412eedebc04ac85738fd7d27734a",

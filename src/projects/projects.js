@@ -1661,10 +1661,49 @@ export const projects = {
 	},
 
 
+
+	dox_paper_mountains: {
+		description: `When Nonexperts Shape Pain Policy: The Truth Behind MAGICapp and the BMJ’s Guidelines`,
+		pic: 'dox/paper_mountains.jpg',
+		link: 'https://opmed.doximity.com/articles/when-nonexperts-shape-pain-policy-the-truth-behind-magicapp-and-the-bmj-s-guidelines'
+	},
+	dox_snake_signature: {
+		description: `AAPA Statement on Passage of the “Big Beautiful Bill”`,
+		pic: 'dox/snake_signature.jpg',
+		link: 'https://www.doximity.com/articles/f8a048cf-04b5-4f93-b129-465d492fe7b8'
+	},
+	dox_lawsuit_gavel: {
+		description: `Jury Sides with Appleton Hospital in Wrongful Death Suit Filed by Family of Grace Schara`,
+		pic: 'dox/lawsuit_gavel.jpg',
+		link: 'https://www.doximity.com/articles/a99a3c8f-cb25-4f62-9558-b4ba13aa7d46'
+	},
+	dox_robot_stage: {
+		description: `From Digital Burden to Digital Ally: The Promise of AI-Powered EHRs`,
+		pic: 'dox/robot_stage.jpg',
+		link: 'https://opmed.doximity.com/articles/from-digital-burden-to-digital-ally-the-promise-of-ai-powered-ehrs'
+	},
+	dox_med_school_rankings: {
+		description: `Medical School Ranking and Neighborhood Characteristics of Initial Practice Location Among Physicians`,
+		pic: 'dox/med_school_rankings.jpg',
+		link: 'https://www.doximity.com/articles/f2813b9b-ba31-41d2-8800-470992a1aed0'
+	},
+
+	dox_side_gigs: {
+		description: `How To Moonlight in Residency`,
+		pic: 'dox/side_gigs.webp',
+		link: 'https://opmed.doximity.com/articles/how-to-moonlight-in-residency'
+	},
+
+	dox_good_v_bad_feedback: {
+		description: `Patient Care Means Checking My Ego at the Door`,
+		pic: 'dox/good_v_bad_feedback.webp',
+		link: 'https://opmed.doximity.com/articles/patient-care-means-checking-my-ego-at-the-door'
+	},
+
 	dox_pill_handshake: {
 		description: `Can Physicians and the Pharmceutical Industry Have an Ethical Relationship?`,
 		pic: 'dox/pill_handshake.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/can-physicians-and-the-pharmceutical-industry-have-an-ethical-relationship'
 	},
 
 	dox_informed_consent_couple: {

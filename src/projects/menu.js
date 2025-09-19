@@ -9,17 +9,18 @@ const menu = [
 				label: `Editorial`,
 				projects: [
 					
-					'dox_paper_mountains',
-					'dox_snake_signature',
-					'dox_lawsuit_gavel',
-					'dox_robot_stage',
-					'dox_med_school_rankings',
+					
 
 					'dox_side_gigs',
 					'dox_good_v_bad_feedback',
 					'dox_pill_handshake',
 					'dox_informed_consent_couple',
 					'dox_EHRvideo_game',
+					'dox_paper_mountains',
+					'dox_snake_signature',
+					//'dox_lawsuit_gavel',
+					'dox_robot_stage',
+					'dox_med_school_rankings',
 					'dox_mental_load',
 					'dox_oxygen_mask',
 					'dox_phone_fear',

@@ -1668,9 +1668,9 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/when-nonexperts-shape-pain-policy-the-truth-behind-magicapp-and-the-bmj-s-guidelines'
 	},
 	dox_snake_signature: {
-		description: `AAPA Statement on Passage of the “Big Beautiful Bill”`,
+		description: `What Have You Attached Your Name To?`,
 		pic: 'dox/snake_signature.jpg',
-		link: 'https://www.doximity.com/articles/f8a048cf-04b5-4f93-b129-465d492fe7b8'
+		link: 'https://opmed.doximity.com/articles/what-have-you-attached-your-name-to'
 	},
 	dox_lawsuit_gavel: {
 		description: `Jury Sides with Appleton Hospital in Wrongful Death Suit Filed by Family of Grace Schara`,
@@ -1683,9 +1683,9 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/from-digital-burden-to-digital-ally-the-promise-of-ai-powered-ehrs'
 	},
 	dox_med_school_rankings: {
-		description: `Medical School Ranking and Neighborhood Characteristics of Initial Practice Location Among Physicians`,
+		description: `Medical School Ranking and Neighborhood Characteristics of Initial Practice Location`,
 		pic: 'dox/med_school_rankings.jpg',
-		link: 'https://www.doximity.com/articles/f2813b9b-ba31-41d2-8800-470992a1aed0'
+		//link: 'https://www.doximity.com/articles/f2813b9b-ba31-41d2-8800-470992a1aed0'
 	},
 
 	dox_side_gigs: {

@@ -1662,6 +1662,24 @@ export const projects = {
 
 
 
+	dox_WIM_group_animation: {
+		description: `My Chief Took Responsibility For My Mistake`,
+		pic: 'dox/Small_DianaConnolly_WIM_groupProject.gif',
+		link: '	https://opmed.doximity.com/articles/my-chief-took-responsibility-for-my-mistake'
+	},
+
+	dox_study_recruitment: {
+		description: `Stem Cell-Derived Islet Therapy Shows Promise for T1D Treatment`,
+		pic: 'dox/680px_DianaConnolly_Study_Recruitment copy.gif',
+		link: 'https://www.doximity.com/articles/70001589-deaa-474b-8c05-a1875db5ad1c?activity_uuid=077cbf15-bf12-4a6d-bef9-f44eb580de17'
+	},
+
+	dox_pill_shadow: {
+		description: `When ADHD Meds Are Too Much of a Good Thing`,
+		pic: 'dox/DianaConnolly_Pill_Shadow.jpg',
+		link: 'https://opmed.doximity.com/articles/when-adhd-meds-are-too-much-of-a-good-thing'
+	},
+
 	dox_paper_mountains: {
 		description: `When Nonexperts Shape Pain Policy: The Truth Behind MAGICapp and the BMJ’s Guidelines`,
 		pic: 'dox/paper_mountains.jpg',

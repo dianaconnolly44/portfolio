@@ -1076,7 +1076,7 @@ export const projects = {
 
 	'rococoLint': {
 		title: `"Rococo Lint" #2`,
-		description: `Dryer lint as paint`,
+		description: `Dryer lint as paint & custom clay frame`,
 		pic: `rococoLint_s.jpg`,
 		page: lintBig
 	},
@@ -1475,8 +1475,8 @@ export const projects = {
 	},
 
 	'cal': {
-		title: `Dry Erase Calendar`,
-		description: `Calendar made from color swatches and a frame`,
+		title: `Paint Chip Calendar`,
+		description: `Dry erase calendar made from paint chip color swatches and a frame`,
 		pic: `cal.jpg`,
 		page: calendar
 	},

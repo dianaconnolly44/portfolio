@@ -27,7 +27,14 @@ export const Page = props => (
     </div>
 
     <h2>Soaps:</h2>
-
+    <div className="imgs max500">
+        <div>
+            <img src={require('../assets/craft/soaps/wave2.jpg')} data-skip-gallery/>
+        </div>
+        <div>
+            <img src={require('../assets/craft/soaps/wave.jpeg')} data-skip-gallery/>
+        </div>
+    </div>
     <div className="imgs max500">
         <div>
             <img src={require('../assets/craft/soaps/set1.png')} data-skip-gallery/>
@@ -45,14 +52,7 @@ export const Page = props => (
             <img src={require('../assets/craft/soaps/carved.jpeg')} data-skip-gallery/>
         </div>
     </div>
-    <div className="imgs max500">
-        <div>
-            <img src={require('../assets/craft/soaps/wave2.jpg')} data-skip-gallery/>
-        </div>
-        <div>
-            <img src={require('../assets/craft/soaps/wave.jpeg')} data-skip-gallery/>
-        </div>
-    </div>
+    
 
     {/* ==== EDIT ABOVE THIS LINE ==== */}
 

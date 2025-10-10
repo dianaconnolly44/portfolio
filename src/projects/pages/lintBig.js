@@ -13,7 +13,7 @@ export const Page = props => (
                 src={require('../assets/painting/lintBig.JPG')} 
                 data-skip-gallery
                 />
-            <p>Dryer lint, 4' x 3'</p>
+            <p>Dryer lint & custom clay frame, 4' x 3'</p>
         </div>
     </div>
 

@@ -195,7 +195,7 @@ const menu = [
 					
 					'colorShadowGirl',
 					'birb',
-					'icyGirl',
+					//'icyGirl',
 				]
 			},
 
@@ -343,16 +343,14 @@ const menu = [
 					'young5',
 
 					'young7',
-					'plane',
+					'model',
 					'young8',
 
-					'rococoLint',
-					'Lint',
-					'model',
+					'plane',
+					
 
-					'boobs',
-					'wonky1',
-					'wonky2',
+					//'boobs',
+					
 					//'botanical2',
 					//'botanical3',
 					//'botanical4',
@@ -366,12 +364,16 @@ const menu = [
 				label: 'Mixed Media',
 				projects: [
 					
+					'rococoLint',
+					'Lint',
+					
 					'blueWave',
 					'migraineGlasses',
-					'hairGod',
+					'darwinPortraits',
 
 					'artBioPetri',
-					'darwinPortraits',
+					'hairGod',
+					
 					'spider',
 
 					'tattoo',
@@ -383,6 +385,8 @@ const menu = [
 
 					'sugarBoxes',
 					'spaceArt',
+					//'wonky1',
+					'wonky2',
 					//'phenotype',
 					
 					
@@ -450,7 +454,7 @@ const menu = [
 					'verdeShirt',
 					//'pirateShirt',
 					'tobiiShirt',
-					'snellen',
+					//'snellen',
 				]
 			},
 
@@ -466,12 +470,13 @@ const menu = [
 				
 					
 					'greetingCards',
-					'urn',
+					'cal',
+					
 					//'HstarGift',
 					'blueSoap',
 					'punkNecklace',
 					'nail-nyc',
-					'cal',
+					'urn',
 					
 					'momPillow',
 					//'soaps',

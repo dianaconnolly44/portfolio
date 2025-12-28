@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77fc6d0bb51f2d959a84487be7923747",
+    "revision": "8c0df60c6230017d65ef0e1f0e6a5b5a",
     "url": "/index.html"
   },
   {
-    "revision": "009990c6e6a028d9a48d",
+    "revision": "0f007b049ff3c967abac",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "f16fd9cf4c55b64672e8",
+    "revision": "2a3d144578da0fe15ea7",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "009990c6e6a028d9a48d",
-    "url": "/static/js/2.0d893ce7.chunk.js"
+    "revision": "0f007b049ff3c967abac",
+    "url": "/static/js/2.ae1185f5.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.0d893ce7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ae1185f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f16fd9cf4c55b64672e8",
-    "url": "/static/js/main.60252f1e.chunk.js"
+    "revision": "2a3d144578da0fe15ea7",
+    "url": "/static/js/main.f93a2c77.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -516,6 +516,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/EHRvideo_game.f7e19c10.png"
   },
   {
+    "revision": "7d6f78bd39486816c06d94ae3b8a22b8",
+    "url": "/static/media/FDA_fast_track.7d6f78bd.jpg"
+  },
+  {
     "revision": "efcfefbafc5c03e4a8fb4fa7657ee0f4",
     "url": "/static/media/Hbook-01.efcfefba.jpg"
   },
@@ -908,6 +912,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/black_girl_magic.e57cf202.webp"
   },
   {
+    "revision": "26fdc3a58fd1e0027c7b32b9bb265cc2",
+    "url": "/static/media/blackbox_warning.26fdc3a5.jpg"
+  },
+  {
     "revision": "6c01aed36f76530b514057bd6725e5cf",
     "url": "/static/media/bloodyClock.6c01aed3.jpg"
   },
@@ -986,6 +994,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "90a223d6670b930ef3d8062412e17449",
     "url": "/static/media/bunny.90a223d6.jpg"
+  },
+  {
+    "revision": "14a598b647944096a7ce87fe49db66e8",
+    "url": "/static/media/business_yin_yang.14a598b6.jpg"
   },
   {
     "revision": "7fa591db9208e31293eaa808007c86d2",
@@ -3038,6 +3050,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee148581e6fc6dd8d9f2029826dbe3c0",
     "url": "/static/media/tiger_v2.ee148581.jpg"
+  },
+  {
+    "revision": "798a73b010384ca1849240ec5db04835",
+    "url": "/static/media/title_marquee.798a73b0.jpg"
+  },
+  {
+    "revision": "557c52bd686f31164429cc7f377d3394",
+    "url": "/static/media/title_marquee_DO.557c52bd.jpg"
   },
   {
     "revision": "f468e1555f99cd57d62830565cc3679e",

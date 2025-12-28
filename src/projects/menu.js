@@ -8,21 +8,25 @@ const menu = [
 				id: 'editorial',
 				label: `Editorial`,
 				projects: [
-					
+					'dox_business_yin_yang',
+					'dox_blackbox_warning',
+					'dox_title_marquee',
+					'dox_FDA_fast_track',
 					'dox_WIM_group_animation',
-					'dox_pill_shadow',
 					'dox_study_recruitment',
+					'dox_pill_shadow',
 					'dox_paper_mountains',
+					'dox_snake_signature',
+					'dox_lawsuit_gavel',
+					'dox_robot_stage',
+					'dox_med_school_rankings',
+
+					
 					'dox_side_gigs',
 					'dox_good_v_bad_feedback',
 					'dox_pill_handshake',
 					'dox_informed_consent_couple',
 					'dox_EHRvideo_game',
-					
-					'dox_snake_signature',
-					//'dox_lawsuit_gavel',
-					'dox_robot_stage',
-					'dox_med_school_rankings',
 					'dox_mental_load',
 					'dox_oxygen_mask',
 					'dox_phone_fear',

@@ -1662,10 +1662,38 @@ export const projects = {
 
 
 
+
+	dox_business_yin_yang: {
+		description: `Is Academic Medicine Just Corporate America in Scrubs?`,
+		pic: 'dox/business_yin_yang.jpg',
+		link: ''
+	},
+
+	dox_blackbox_warning: {
+		description: `Trimethoprim-Sulfamethoxazole and Acute Respiratory Failure in Adolescents and Young Adults`,
+		pic: 'dox/blackbox_warning.jpg',
+		//link: 'https://www.doximity.com/articles/891697fa-bc07-451f-96c1-0676a02d5bed'
+	},
+
+	dox_title_marquee: {
+		description: `Give DOs a Chance`,
+		pic: 'dox/title_marquee_DO.jpg',
+		link: ''
+	},
+
+	dox_FDA_fast_track: {
+		description: `A Pill is Raising Hope (...) The Question is How Fast Patients Should Get It`,
+		pic: 'dox/FDA_fast_track.jpg',
+		link: ''
+	},
+
+
+
+
 	dox_WIM_group_animation: {
 		description: `My Chief Took Responsibility For My Mistake`,
 		pic: 'dox/Small_DianaConnolly_WIM_groupProject.gif',
-		link: '	https://opmed.doximity.com/articles/my-chief-took-responsibility-for-my-mistake'
+		link: 'https://opmed.doximity.com/articles/my-chief-took-responsibility-for-my-mistake'
 	},
 
 	dox_study_recruitment: {
@@ -1681,19 +1709,19 @@ export const projects = {
 	},
 
 	dox_paper_mountains: {
-		description: `When Nonexperts Shape Pain Policy: The Truth Behind MAGICapp and the BMJ’s Guidelines`,
+		description: `How Clinicians Can Influence Lawmakers and Shape Health Care Policy`,
 		pic: 'dox/paper_mountains.jpg',
-		link: 'https://opmed.doximity.com/articles/when-nonexperts-shape-pain-policy-the-truth-behind-magicapp-and-the-bmj-s-guidelines'
+		link: 'https://www.doximity.com/articles/e7792ae5-2854-4f95-bd50-3281279211e9'
 	},
 	dox_snake_signature: {
-		description: `What Have You Attached Your Name To?`,
+		description: `The Fine Print That Can Make or Break Your First Physician Contract`,
 		pic: 'dox/snake_signature.jpg',
-		link: 'https://opmed.doximity.com/articles/what-have-you-attached-your-name-to'
+		link: 'https://www.doximity.com/articles/e7b82fc0-ce9a-4dae-8251-29550c907aad'
 	},
 	dox_lawsuit_gavel: {
-		description: `Jury Sides with Appleton Hospital in Wrongful Death Suit Filed by Family of Grace Schara`,
+		description: `Should Patients Be Able to Sue When They or Their Family Members Refuse Care`,
 		pic: 'dox/lawsuit_gavel.jpg',
-		link: 'https://www.doximity.com/articles/a99a3c8f-cb25-4f62-9558-b4ba13aa7d46'
+		link: 'https://www.doximity.com/articles/dd6577b0-f4c0-47d5-8bee-f53b7be5c3a5'
 	},
 	dox_robot_stage: {
 		description: `From Digital Burden to Digital Ally: The Promise of AI-Powered EHRs`,

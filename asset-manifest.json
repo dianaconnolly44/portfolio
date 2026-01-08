@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6723a5a8.chunk.css",
-    "main.js": "/static/js/main.f93a2c77.chunk.js",
-    "main.js.map": "/static/js/main.f93a2c77.chunk.js.map",
+    "main.js": "/static/js/main.a9d13a62.chunk.js",
+    "main.js.map": "/static/js/main.a9d13a62.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.ae1185f5.chunk.js": "/static/js/2.ae1185f5.chunk.js",
-    "static/js/2.ae1185f5.chunk.js.map": "/static/js/2.ae1185f5.chunk.js.map",
+    "static/js/2.2528a029.chunk.js": "/static/js/2.2528a029.chunk.js",
+    "static/js/2.2528a029.chunk.js.map": "/static/js/2.2528a029.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d8e0c2d817b522a2b3706e9e709f7f6d.js": "/precache-manifest.d8e0c2d817b522a2b3706e9e709f7f6d.js",
+    "precache-manifest.de9bb6ea0f028269362eccebfd905381.js": "/precache-manifest.de9bb6ea0f028269362eccebfd905381.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.6723a5a8.chunk.css.map": "/static/css/main.6723a5a8.chunk.css.map",
-    "static/js/2.ae1185f5.chunk.js.LICENSE.txt": "/static/js/2.ae1185f5.chunk.js.LICENSE.txt",
+    "static/js/2.2528a029.chunk.js.LICENSE.txt": "/static/js/2.2528a029.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -185,6 +185,7 @@
     "static/media/blueSeed.jpg": "/static/media/blueSeed.211d7133.jpg",
     "static/media/blueSoap.jpg": "/static/media/blueSoap.849b5d73.jpg",
     "static/media/blueWave.jpg": "/static/media/blueWave.64e1d6cf.jpg",
+    "static/media/board_game.jpg": "/static/media/board_game.bfc994f4.jpg",
     "static/media/bogo.jpeg": "/static/media/bogo.ce44700f.jpeg",
     "static/media/boobs_s.jpg": "/static/media/boobs_s.3b72db75.jpg",
     "static/media/boobs_v2.jpg": "/static/media/boobs_v2.f27958e9.jpg",
@@ -771,8 +772,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.ae1185f5.chunk.js",
+    "static/js/2.2528a029.chunk.js",
     "static/css/main.6723a5a8.chunk.css",
-    "static/js/main.f93a2c77.chunk.js"
+    "static/js/main.a9d13a62.chunk.js"
   ]
 }

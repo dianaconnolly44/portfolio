@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c0df60c6230017d65ef0e1f0e6a5b5a",
+    "revision": "8cd73824fa20577ef139a43d7e087f45",
     "url": "/index.html"
   },
   {
-    "revision": "0f007b049ff3c967abac",
+    "revision": "5af3411f67e7966cb61e",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "2a3d144578da0fe15ea7",
+    "revision": "38c31d96c0140d06f209",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "0f007b049ff3c967abac",
-    "url": "/static/js/2.ae1185f5.chunk.js"
+    "revision": "5af3411f67e7966cb61e",
+    "url": "/static/js/2.2528a029.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.ae1185f5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2528a029.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a3d144578da0fe15ea7",
-    "url": "/static/js/main.f93a2c77.chunk.js"
+    "revision": "38c31d96c0140d06f209",
+    "url": "/static/js/main.a9d13a62.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -934,6 +934,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "64e1d6cfd00ed0a2737fa98fc35342fd",
     "url": "/static/media/blueWave.64e1d6cf.jpg"
+  },
+  {
+    "revision": "bfc994f45aeed51a05509922358bd2c7",
+    "url": "/static/media/board_game.bfc994f4.jpg"
   },
   {
     "revision": "ce44700f2482a7c7081f558b660c4702",

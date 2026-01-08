@@ -8,10 +8,10 @@ const menu = [
 				id: 'editorial',
 				label: `Editorial`,
 				projects: [
-					'dox_boardgame',
-					'dox_business_yin_yang',
+					//'dox_boardgame',
+					//'dox_business_yin_yang',
 					'dox_blackbox_warning',
-					'dox_title_marquee',
+					//'dox_title_marquee',
 					'dox_FDA_fast_track',
 					'dox_WIM_group_animation',
 					'dox_study_recruitment',

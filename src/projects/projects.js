@@ -1661,7 +1661,11 @@ export const projects = {
 	},
 
 
-
+	dox_boardgame: {
+		description: `We’ve Subspecialized Ourselves Into Isolation`,
+		pic: 'dox/board_game.jpg',
+		link: ''
+	},
 
 	dox_business_yin_yang: {
 		description: `Is Academic Medicine Just Corporate America in Scrubs?`,

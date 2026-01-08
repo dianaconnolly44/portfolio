@@ -8,6 +8,7 @@ const menu = [
 				id: 'editorial',
 				label: `Editorial`,
 				projects: [
+					'dox_boardgame',
 					'dox_business_yin_yang',
 					'dox_blackbox_warning',
 					'dox_title_marquee',

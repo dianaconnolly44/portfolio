@@ -1674,9 +1674,9 @@ export const projects = {
 	},
 
 	dox_blackbox_warning: {
-		description: `Trimethoprim-Sulfamethoxazole and Acute Respiratory Failure in Adolescents and Young Adults`,
+		description: `FDA Warning Reinforced by Study on TMP-SMX Respiratory Risks`,
 		pic: 'dox/blackbox_warning.jpg',
-		//link: 'https://www.doximity.com/articles/891697fa-bc07-451f-96c1-0676a02d5bed'
+		link: 'https://www.doximity.com/articles/47cadbc1-1a5b-4b6b-863f-a7f1f35f233c'
 	},
 
 	dox_title_marquee: {
@@ -1688,7 +1688,7 @@ export const projects = {
 	dox_FDA_fast_track: {
 		description: `A Pill is Raising Hope (...) The Question is How Fast Patients Should Get It`,
 		pic: 'dox/FDA_fast_track.jpg',
-		link: ''
+		link: 'https://www.doximity.com/articles/704acb7b-780d-4e52-9146-5204ee2e9efb'
 	},
 
 
@@ -1723,7 +1723,7 @@ export const projects = {
 		link: 'https://www.doximity.com/articles/e7b82fc0-ce9a-4dae-8251-29550c907aad'
 	},
 	dox_lawsuit_gavel: {
-		description: `Should Patients Be Able to Sue When They or Their Family Members Refuse Care`,
+		description: `Can Patients Sue After Refusing Care Leads to a Bad Outcome?`,
 		pic: 'dox/lawsuit_gavel.jpg',
 		link: 'https://www.doximity.com/articles/dd6577b0-f4c0-47d5-8bee-f53b7be5c3a5'
 	},
@@ -1733,9 +1733,9 @@ export const projects = {
 		link: 'https://opmed.doximity.com/articles/from-digital-burden-to-digital-ally-the-promise-of-ai-powered-ehrs'
 	},
 	dox_med_school_rankings: {
-		description: `Medical School Ranking and Neighborhood Characteristics of Initial Practice Location`,
+		description: `Are Medical Schools Redefining What It Means To Be a Doctor?`,
 		pic: 'dox/med_school_rankings.jpg',
-		//link: 'https://www.doximity.com/articles/f2813b9b-ba31-41d2-8800-470992a1aed0'
+		link: 'https://opmed.doximity.com/articles/are-medical-schools-redefining-what-it-means-to-be-a-doctor'
 	},
 
 	dox_side_gigs: {

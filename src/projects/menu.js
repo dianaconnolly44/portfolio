@@ -10,18 +10,20 @@ const menu = [
 				projects: [
 					//'dox_boardgame',
 					//'dox_business_yin_yang',
+					'dox_collage_fines',
 					'dox_blackbox_warning',
-					//'dox_title_marquee',
+					'dox_collage_GLP',
+					'dox_title_marquee',
 					'dox_FDA_fast_track',
-					'dox_WIM_group_animation',
-					'dox_study_recruitment',
+					//'dox_WIM_group_animation',
+					'dox_collage_edit_article',
 					'dox_pill_shadow',
 					'dox_paper_mountains',
 					'dox_snake_signature',
 					'dox_lawsuit_gavel',
+					'dox_study_recruitment',
 					'dox_robot_stage',
 					'dox_med_school_rankings',
-
 					
 					'dox_side_gigs',
 					'dox_good_v_bad_feedback',
@@ -42,7 +44,6 @@ const menu = [
 					'dox_sparkChain',
 					'dox_bestHospitals',
 					'dox_1stepForward',
-					
 					'dox_blackBelt_whiteCoat',
 					'dox_RN_vs_NP',
 					'dox_hobbies',
@@ -56,8 +57,6 @@ const menu = [
 					'dox_union',
 					'dox_golden_rule_book',
 					'dox_thinker',
-					
-					
 					'dox_phone_notifs',
 					'dox_AI_handshake',
 					'dox_son_of_man_AI',
@@ -68,6 +67,7 @@ const menu = [
 					'dox_stepping_stones',
 					'dox_safety_pins',
 					'dox_turn_every_stone',
+					'dox_FDA_loadBar',
 					'dox_empathy_waves',
 					'dox_preg_cancer_pt',
 					'dox_polishing_diamond_v2',
@@ -88,6 +88,7 @@ const menu = [
 					'dox_relay_baton',
 					'dox_black_girl_magic',
 					'dox_handshake_series3',
+					//'dox_invisible_illness',
 					'dox_green_door',
 					'dox_medical_retraumatization',
 					'dox_vaccine_syringe',

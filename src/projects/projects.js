@@ -1661,6 +1661,36 @@ export const projects = {
 	},
 
 
+	dox_invisible_illness: {
+		description: `They Live in Constant Pain, but Their Doctors Won’t Help Them`,
+		pic: 'dox/invisible_illness.gif',
+		link: 'https://www.doximity.com/articles/4f3c1ba2-0947-4722-9beb-a780f6277d83'
+	},
+
+	dox_FDA_loadBar: {
+		description: `FDA Grants Priority Review to Xolair`,
+		pic: 'dox/FDA_loadBar.webp',
+		link: 'https://www.doximity.com/articles/3e80dca6-c868-4686-98f8-9c28656b9dc9'
+	},
+
+	dox_collage_GLP: {
+		description: `Facts, Fiction, and Myths Around GLP-1s Discussed at the ADA Scientific Sessions`,
+		pic: 'dox/collage_GLP.jpg',
+		link: 'https://opmed.doximity.com/articles/facts-fiction-and-myths-around-glp-1s-discussed-at-the-ada-scientific-sessions'
+	},
+
+	dox_collage_fines: {
+		description: `I Started Taking Insurers to Small Claims Court`,
+		pic: 'dox/collage_fines.jpg',
+		link: 'https://opmed.doximity.com/articles/i-started-taking-insurers-to-small-claims-court'
+	},
+
+	dox_collage_edit_article: {
+		description: `Another Alzheimer’s Amyloid Paper to Be Retracted`,
+		pic: 'dox/collage_edit_article.jpg',
+		link: 'https://www.doximity.com/articles/be5e2cbf-a1df-4a34-9d1c-04395761efb5'
+	},
+
 	dox_boardgame: {
 		description: `We’ve Subspecialized Ourselves Into Isolation`,
 		pic: 'dox/board_game.jpg',
@@ -1676,13 +1706,13 @@ export const projects = {
 	dox_blackbox_warning: {
 		description: `FDA Warning Reinforced by Study on TMP-SMX Respiratory Risks`,
 		pic: 'dox/blackbox_warning.jpg',
-		link: 'https://www.doximity.com/articles/47cadbc1-1a5b-4b6b-863f-a7f1f35f233c'
+		link: 'https://www.doximity.com/articles/891697fa-bc07-451f-96c1-0676a02d5bed'
 	},
 
 	dox_title_marquee: {
-		description: `Give DOs a Chance`,
-		pic: 'dox/title_marquee_DO.jpg',
-		link: ''
+		description: `If You're a PA, Do You Need Another Degree?`,
+		pic: 'dox/title_marquee_PA.webp',
+		link: 'https://opmed.doximity.com/articles/if-you-re-a-pa-do-you-need-another-degree'
 	},
 
 	dox_FDA_fast_track: {

@@ -1660,6 +1660,26 @@ export const projects = {
 		page: flikidsFont
 	},
 
+	/////////////////
+
+
+	dox_stage_fright: {
+		description: `You Are More Prepared for Leadership Than You Think`,
+		pic: 'dox/stage_fright.jpg',
+		link: ''
+	},
+
+	dox_job_turnover: {
+		description: `Radiologist Turnover in the United States`,
+		pic: 'dox/job_turnovers.jpg',
+		link: 'https://www.doximity.com/articles/8e776ed0-bd8d-4455-b0be-e315d7ecbc9c'
+	},
+
+	dox_match_envelope_mountains: {
+		description: `Dear Devastated Medical Student`,
+		pic: 'dox/match_envelopes_mountains.jpg',
+		link: ''
+	},
 
 	dox_invisible_illness: {
 		description: `They Live in Constant Pain, but Their Doctors Won’t Help Them`,
@@ -1686,9 +1706,9 @@ export const projects = {
 	},
 
 	dox_collage_edit_article: {
-		description: `Another Alzheimer’s Amyloid Paper to Be Retracted`,
+		description: `2026 Didn’t Just Change CPT Codes. It Changed What Medicine Is Paid For`,
 		pic: 'dox/collage_edit_article.jpg',
-		link: 'https://www.doximity.com/articles/be5e2cbf-a1df-4a34-9d1c-04395761efb5'
+		link: 'https://opmed.doximity.com/articles/2026-didn-t-just-change-cpt-codes-it-changed-what-medicine-is-paid-for'
 	},
 
 	dox_boardgame: {
@@ -1700,7 +1720,7 @@ export const projects = {
 	dox_business_yin_yang: {
 		description: `Is Academic Medicine Just Corporate America in Scrubs?`,
 		pic: 'dox/business_yin_yang.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/is-academic-medicine-just-corporate-america-in-scrubs'
 	},
 
 	dox_blackbox_warning: {

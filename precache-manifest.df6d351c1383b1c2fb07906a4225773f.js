@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebdebc031ab6872d9104d30c4c91047f",
+    "revision": "0a733da14357575b679259cac07cd99a",
     "url": "/index.html"
   },
   {
-    "revision": "8635ad0dc88724a0fd44",
+    "revision": "b707d578cb0be08bcaaa",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "4cfebf2e422e46ce33f8",
+    "revision": "d8bb6e550d063109311d",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "8635ad0dc88724a0fd44",
-    "url": "/static/js/2.40525706.chunk.js"
+    "revision": "b707d578cb0be08bcaaa",
+    "url": "/static/js/2.b30b8588.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.40525706.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b30b8588.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cfebf2e422e46ce33f8",
-    "url": "/static/js/main.4bc1b660.chunk.js"
+    "revision": "d8bb6e550d063109311d",
+    "url": "/static/js/main.33f57ebf.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -2024,6 +2024,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jackson.dbde9451.jpg"
   },
   {
+    "revision": "3fe01bbfe7f0b5124c45e0c744e079a6",
+    "url": "/static/media/job_turnovers.3fe01bbf.jpg"
+  },
+  {
     "revision": "1f3d0f8482559dad96fa45a0ba495f0d",
     "url": "/static/media/joker.1f3d0f84.jpg"
   },
@@ -2198,6 +2202,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fef4c1cc79836c0b749e6b105f22eba8",
     "url": "/static/media/match.fef4c1cc.webp"
+  },
+  {
+    "revision": "e3c6cf7a26e1c2a62f422cb4747cbd21",
+    "url": "/static/media/match_envelopes_mountains.e3c6cf7a.jpg"
   },
   {
     "revision": "fa78cc75982973dbd53e8f39bb47631c",
@@ -2954,6 +2962,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e0903301be401fdc19ec22541cc65992",
     "url": "/static/media/springGreen.e0903301.jpg"
+  },
+  {
+    "revision": "4a4d945a211a553e11724b2b3104e7da",
+    "url": "/static/media/stage_fright.4a4d945a.jpg"
+  },
+  {
+    "revision": "b4bf1eec6ec3f5a4f5a55019c185e47a",
+    "url": "/static/media/stage_fright_noStars_s_s.b4bf1eec.jpg"
   },
   {
     "revision": "4161bfc4ff593811d50916790ac77d86",

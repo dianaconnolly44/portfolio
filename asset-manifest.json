@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6723a5a8.chunk.css",
-    "main.js": "/static/js/main.4bc1b660.chunk.js",
-    "main.js.map": "/static/js/main.4bc1b660.chunk.js.map",
+    "main.js": "/static/js/main.33f57ebf.chunk.js",
+    "main.js.map": "/static/js/main.33f57ebf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.40525706.chunk.js": "/static/js/2.40525706.chunk.js",
-    "static/js/2.40525706.chunk.js.map": "/static/js/2.40525706.chunk.js.map",
+    "static/js/2.b30b8588.chunk.js": "/static/js/2.b30b8588.chunk.js",
+    "static/js/2.b30b8588.chunk.js.map": "/static/js/2.b30b8588.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.12ba1b1986dc54df06b1129b424c8d66.js": "/precache-manifest.12ba1b1986dc54df06b1129b424c8d66.js",
+    "precache-manifest.df6d351c1383b1c2fb07906a4225773f.js": "/precache-manifest.df6d351c1383b1c2fb07906a4225773f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.6723a5a8.chunk.css.map": "/static/css/main.6723a5a8.chunk.css.map",
-    "static/js/2.40525706.chunk.js.LICENSE.txt": "/static/js/2.40525706.chunk.js.LICENSE.txt",
+    "static/js/2.b30b8588.chunk.js.LICENSE.txt": "/static/js/2.b30b8588.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -450,6 +450,7 @@
     "static/media/jabberwocky.jpg": "/static/media/jabberwocky.a821e9ce.jpg",
     "static/media/jabberwocky.gif": "/static/media/jabberwocky.e1bde902.gif",
     "static/media/jackson.jpg": "/static/media/jackson.dbde9451.jpg",
+    "static/media/job_turnovers.jpg": "/static/media/job_turnovers.3fe01bbf.jpg",
     "static/media/joker.jpg": "/static/media/joker.abeb0c4b.jpg",
     "static/media/july2020.jpg": "/static/media/july2020.88336472.jpg",
     "static/media/jumoPostcardsGrid.png": "/static/media/jumoPostcardsGrid.177eb36d.png",
@@ -493,6 +494,7 @@
     "static/media/logo.png": "/static/media/logo.b3ab85b6.png",
     "static/media/march.jpeg": "/static/media/march.67f78bdd.jpeg",
     "static/media/match.webp": "/static/media/match.fef4c1cc.webp",
+    "static/media/match_envelopes_mountains.jpg": "/static/media/match_envelopes_mountains.e3c6cf7a.jpg",
     "static/media/maurides_Courses.pdf": "/static/media/maurides_Courses.fa78cc75.pdf",
     "static/media/may.jpeg": "/static/media/may.862c9073.jpeg",
     "static/media/meSwatch.jpg": "/static/media/meSwatch.83435a94.jpg",
@@ -666,6 +668,8 @@
     "static/media/spider_s.png": "/static/media/spider_s.08d5d1c8.png",
     "static/media/spring2.jpeg": "/static/media/spring2.dae64eee.jpeg",
     "static/media/springGreen.jpg": "/static/media/springGreen.e0903301.jpg",
+    "static/media/stage_fright.jpg": "/static/media/stage_fright.4a4d945a.jpg",
+    "static/media/stage_fright_noStars_s_s.jpg": "/static/media/stage_fright_noStars_s_s.b4bf1eec.jpg",
     "static/media/standardized_patient.gif": "/static/media/standardized_patient.4161bfc4.gif",
     "static/media/starMap.jpg": "/static/media/starMap.898a061a.jpg",
     "static/media/step1.jpeg": "/static/media/step1.91e26d77.jpeg",
@@ -779,8 +783,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.40525706.chunk.js",
+    "static/js/2.b30b8588.chunk.js",
     "static/css/main.6723a5a8.chunk.css",
-    "static/js/main.4bc1b660.chunk.js"
+    "static/js/main.33f57ebf.chunk.js"
   ]
 }

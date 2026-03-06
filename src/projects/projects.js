@@ -1714,7 +1714,7 @@ export const projects = {
 	dox_boardgame: {
 		description: `We’ve Subspecialized Ourselves Into Isolation`,
 		pic: 'dox/board_game.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/we-ve-subspecialized-ourselves-into-isolation'
 	},
 
 	dox_business_yin_yang: {

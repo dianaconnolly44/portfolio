@@ -1661,12 +1661,36 @@ export const projects = {
 	},
 
 	/////////////////
+	
 
+	dox_flowchart_construction: {
+		description: `How Coding Changes Are Ravaging Community Radiation Oncology`,
+		pic: 'dox/flowchart_construction_collage.jpg',
+		link: 'https://www.doximity.com/articles/aecb6766-ab21-4f70-a265-6fb838b25a80'
+	},
+
+	dox_direction_sign: {
+		description: `Why Medical Students Should Become ‘Renaissance Scholars’`,
+		pic: 'dox/direction_sign_illustration_s_s.jpg',
+		link: ''
+	},
+
+	dox_hospital_closures_collage: {
+		description: `CLOSURES`,
+		pic: 'dox/hospital_closures_collage_s_s_s_s_dox.jpg',
+		link: ''
+	},
+
+	dox_hospital_closures_illo: {
+		description: `CLOSURES`,
+		pic: 'dox/hospital_closures_illo_s_s_s_s_dox_test.jpg',
+		link: ''
+	},
 
 	dox_stage_fright: {
 		description: `You Are More Prepared for Leadership Than You Think`,
 		pic: 'dox/stage_fright.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/you-are-more-prepared-for-leadership-than-you-think'
 	},
 
 	dox_job_turnover: {
@@ -1676,9 +1700,9 @@ export const projects = {
 	},
 
 	dox_match_envelope_mountains: {
-		description: `Dear Devastated Medical Student`,
+		description: `If You Match Into a Residency You’re Not Excited About`,
 		pic: 'dox/match_envelopes_mountains.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/if-you-match-into-a-residency-you-re-not-excited-about'
 	},
 
 	dox_invisible_illness: {

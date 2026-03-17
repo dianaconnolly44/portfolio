@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "018e79f2d4799fc621d0344898096a94",
+    "revision": "ec721325d3d9c6831d717adf8ccaead0",
     "url": "/index.html"
   },
   {
-    "revision": "b707d578cb0be08bcaaa",
+    "revision": "96f61dedda04535e5f40",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "c35cef249638873a7755",
+    "revision": "fcbf853b03de00b5bb2c",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "b707d578cb0be08bcaaa",
-    "url": "/static/js/2.b30b8588.chunk.js"
+    "revision": "96f61dedda04535e5f40",
+    "url": "/static/js/2.cb4f9986.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.b30b8588.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.cb4f9986.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c35cef249638873a7755",
-    "url": "/static/js/main.388b8ee1.chunk.js"
+    "revision": "fcbf853b03de00b5bb2c",
+    "url": "/static/js/main.2bee170c.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -1440,6 +1440,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dentistry.a91a8982.png"
   },
   {
+    "revision": "725df3447bffe2a4ec1b6a2f9737d726",
+    "url": "/static/media/direction_sign_illustration_s_s.725df344.jpg"
+  },
+  {
     "revision": "0629673a5c2e993bd4c88f53df8f9f74",
     "url": "/static/media/dissectDetail1.0629673a.jpeg"
   },
@@ -1660,6 +1664,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/flowchartChange.92542809.webp"
   },
   {
+    "revision": "7c81bbe04d6194ae528272f3978995a9",
+    "url": "/static/media/flowchart_construction_collage.7c81bbe0.jpg"
+  },
+  {
     "revision": "7ae31ca775627c84eb1a968dcacf2319",
     "url": "/static/media/flyer.7ae31ca7.png"
   },
@@ -1862,6 +1870,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "48057e7b623556a3b6eccd8a852616e8",
     "url": "/static/media/hospitalThumbnail2.48057e7b.jpg"
+  },
+  {
+    "revision": "783b2cc1d2ccf004442d30225da80cf1",
+    "url": "/static/media/hospital_closures_collage_s_s_s_s_dox.783b2cc1.jpg"
+  },
+  {
+    "revision": "bb13e70f87a434962b1c6685faa8dbdb",
+    "url": "/static/media/hospital_closures_illo_s_s_s_s_dox_test.bb13e70f.jpg"
   },
   {
     "revision": "04dba0ee4383e735ee64676de88aa8ac",

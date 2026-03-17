@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6723a5a8.chunk.css",
-    "main.js": "/static/js/main.388b8ee1.chunk.js",
-    "main.js.map": "/static/js/main.388b8ee1.chunk.js.map",
+    "main.js": "/static/js/main.2bee170c.chunk.js",
+    "main.js.map": "/static/js/main.2bee170c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.b30b8588.chunk.js": "/static/js/2.b30b8588.chunk.js",
-    "static/js/2.b30b8588.chunk.js.map": "/static/js/2.b30b8588.chunk.js.map",
+    "static/js/2.cb4f9986.chunk.js": "/static/js/2.cb4f9986.chunk.js",
+    "static/js/2.cb4f9986.chunk.js.map": "/static/js/2.cb4f9986.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.77344666498878eafab85f39231a549b.js": "/precache-manifest.77344666498878eafab85f39231a549b.js",
+    "precache-manifest.55afc613516de3b0cf915668a671aee3.js": "/precache-manifest.55afc613516de3b0cf915668a671aee3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.6723a5a8.chunk.css.map": "/static/css/main.6723a5a8.chunk.css.map",
-    "static/js/2.b30b8588.chunk.js.LICENSE.txt": "/static/js/2.b30b8588.chunk.js.LICENSE.txt",
+    "static/js/2.cb4f9986.chunk.js.LICENSE.txt": "/static/js/2.cb4f9986.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -309,6 +309,7 @@
     "static/media/demoMMS.jpg": "/static/media/demoMMS.d48fec6a.jpg",
     "static/media/demoSticker.jpeg": "/static/media/demoSticker.b8448a73.jpeg",
     "static/media/dentistry.png": "/static/media/dentistry.a91a8982.png",
+    "static/media/direction_sign_illustration_s_s.jpg": "/static/media/direction_sign_illustration_s_s.725df344.jpg",
     "static/media/dissectDetail1.jpeg": "/static/media/dissectDetail1.0629673a.jpeg",
     "static/media/dissectDetail2.jpeg": "/static/media/dissectDetail2.32f92ca9.jpeg",
     "static/media/dissectProcess1.jpeg": "/static/media/dissectProcess1.e314bd4a.jpeg",
@@ -362,6 +363,7 @@
     "static/media/flipfoot.jpg": "/static/media/flipfoot.bad53eaf.jpg",
     "static/media/flipfootGrid.png": "/static/media/flipfootGrid.1411c3ea.png",
     "static/media/flowchartChange.webp": "/static/media/flowchartChange.92542809.webp",
+    "static/media/flowchart_construction_collage.jpg": "/static/media/flowchart_construction_collage.7c81bbe0.jpg",
     "static/media/flyer.png": "/static/media/flyer.7ae31ca7.png",
     "static/media/flyerMMS.jpg": "/static/media/flyerMMS.93a9a993.jpg",
     "static/media/flyers.webp": "/static/media/flyers.8abd8e33.webp",
@@ -412,6 +414,8 @@
     "static/media/hospitalGrid-04.jpg": "/static/media/hospitalGrid-04.e90dfaaf.jpg",
     "static/media/hospitalThumbnail.jpg": "/static/media/hospitalThumbnail.7f50756e.jpg",
     "static/media/hospitalThumbnail2.jpg": "/static/media/hospitalThumbnail2.48057e7b.jpg",
+    "static/media/hospital_closures_collage_s_s_s_s_dox.jpg": "/static/media/hospital_closures_collage_s_s_s_s_dox.783b2cc1.jpg",
+    "static/media/hospital_closures_illo_s_s_s_s_dox_test.jpg": "/static/media/hospital_closures_illo_s_s_s_s_dox_test.bb13e70f.jpg",
     "static/media/hotspotExample.jpg": "/static/media/hotspotExample.04dba0ee.jpg",
     "static/media/hotspots.jpg": "/static/media/hotspots.ebd81d44.jpg",
     "static/media/iconExamples.jpg": "/static/media/iconExamples.eac20b08.jpg",
@@ -783,8 +787,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.b30b8588.chunk.js",
+    "static/js/2.cb4f9986.chunk.js",
     "static/css/main.6723a5a8.chunk.css",
-    "static/js/main.388b8ee1.chunk.js"
+    "static/js/main.2bee170c.chunk.js"
   ]
 }

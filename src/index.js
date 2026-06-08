@@ -144,7 +144,7 @@ ReactDOM.render(
   <Router history={history}>
     <Switch>
       { /* URL PATHS */ }
-      <Redirect exact from="/" to="/about" />
+      <Redirect exact from="/" to="/editorial" />
       <Route path="*" component={App} />
 
 

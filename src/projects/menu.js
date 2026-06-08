@@ -1,5 +1,4 @@
 const menu = [
-	
 	{
 		id: 'illustration',
 		label: 'Illustration',
@@ -8,12 +7,20 @@ const menu = [
 				id: 'editorial',
 				label: `Editorial`,
 				projects: [
+					'dox_private_practice',
+					'dox_explore_text',
+					'dox_drowning_under_stetho',
+					'dox_calendar_squeeze',
+					'dox_US_vs_Austria_OR',
+					'dox_ignore_patient_huddle',
+					'dox_gamePlan_map',
+					'dox_leave_the_nest',
+					'dox_direction_sign',
 					//'dox_hospital_closures_collage',
 					//'dox_hospital_closures_illo',
-					//'dox_direction_sign',
 					'dox_flowchart_construction',
-					'dox_match_envelope_mountains',
 					'dox_stage_fright',
+					'dox_match_envelope_mountains',
 					'dox_boardgame',
 					'dox_business_yin_yang',
 					'dox_job_turnover',
@@ -31,7 +38,6 @@ const menu = [
 					'dox_study_recruitment',
 					'dox_robot_stage',
 					'dox_med_school_rankings',
-					
 					'dox_side_gigs',
 					'dox_good_v_bad_feedback',
 					'dox_pill_handshake',

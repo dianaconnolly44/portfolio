@@ -1662,6 +1662,53 @@ export const projects = {
 
 	/////////////////
 	
+	dox_private_practice: {
+		description: `Why Medical Residents Shouldn't Write Off Private Practice`,
+		pic: 'dox/private_practice.jpg',
+		link: ''
+	},
+
+	dox_explore_text: {
+		description: `The Importance of Reading Outside Your Specialty`,
+		pic: 'dox/explore_text.jpg',
+		link: ''
+	},
+
+	dox_drowning_under_stetho: {
+		description: `Calling the Code for Everyone Else`,
+		pic: 'dox/drowning_under_stetho.jpg',
+		link: ''
+	},
+
+	dox_US_vs_Austria_OR: {
+		description: `What I Learned About Medicine from Rotating in an Austrian OR`,
+		pic: 'dox/US_vs_Austria_OR.jpg',
+		link: ''
+	},
+
+	dox_ignore_patient_huddle: {
+		description: `A Simple Request That Exposed an Uncomfortable Truth`,
+		pic: 'dox/ignore_patient_huddle.jpg',
+		link: ''
+	},
+
+	dox_calendar_squeeze: {
+		description: `The Budget Is Eroding Physician Autonomy`,
+		pic: 'dox/calendar_squeeze.jpg',
+		link: ''
+	},
+
+	dox_gamePlan_map: {
+		description: `What California Healthcare Policy Tells Us About the Future of US Health`,
+		pic: 'dox/gamePlan_map.webp',
+		link: 'https://opmed.doximity.com/articles/what-california-healthcare-policy-tells-us-about-the-future-of-us-health'
+	},
+
+	dox_leave_the_nest: {
+		description: `The Quiet Paradox of Specialty Medicine`,
+		pic: 'dox/leave_the_nest.webp',
+		link: 'https://opmed.doximity.com/articles/the-quiet-paradox-of-specialty-medicine'
+	},
 
 	dox_flowchart_construction: {
 		description: `How Coding Changes Are Ravaging Community Radiation Oncology`,
@@ -1672,7 +1719,7 @@ export const projects = {
 	dox_direction_sign: {
 		description: `Why Medical Students Should Become ‘Renaissance Scholars’`,
 		pic: 'dox/direction_sign_illustration_s_s.jpg',
-		link: ''
+		link: 'https://www.doximity.com/articles/274a5d2b-11db-4345-993c-d81542c492ef'
 	},
 
 	dox_hospital_closures_collage: {

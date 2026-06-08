@@ -1,3 +1,5 @@
+[If file not showing/causing error, then: do all the file naming and Sublime text edits, then in terminal: cancel the npm run start process by pressing control+C, and then write npm run start again]
+
 To open the website v3 folder in local host, type in terminal "cd " (don't include quotes + don't forget space after cd) and then drag "code" folder into terminal and hit enter. Opening a new tab will open the same project, if this has already been done.
 
 

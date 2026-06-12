@@ -1689,7 +1689,7 @@ export const projects = {
 	dox_ignore_patient_huddle: {
 		description: `A Simple Request That Exposed an Uncomfortable Truth`,
 		pic: 'dox/ignore_patient_huddle.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/a-simple-request-that-exposed-an-uncomfortable-truth'
 	},
 
 	dox_calendar_squeeze: {

@@ -1701,7 +1701,7 @@ export const projects = {
 	dox_calendar_squeeze: {
 		description: `The Budget Is Eroding Physician Autonomy`,
 		pic: 'dox/calendar_squeeze.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/the-budget-is-eroding-physician-autonomy'
 	},
 
 	dox_gamePlan_map: {

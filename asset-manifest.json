@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6723a5a8.chunk.css",
-    "main.js": "/static/js/main.f66f2c4a.chunk.js",
-    "main.js.map": "/static/js/main.f66f2c4a.chunk.js.map",
+    "main.js": "/static/js/main.67bc9737.chunk.js",
+    "main.js.map": "/static/js/main.67bc9737.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.b08f876a.chunk.css": "/static/css/2.b08f876a.chunk.css",
-    "static/js/2.ed86dd27.chunk.js": "/static/js/2.ed86dd27.chunk.js",
-    "static/js/2.ed86dd27.chunk.js.map": "/static/js/2.ed86dd27.chunk.js.map",
+    "static/js/2.6e868f26.chunk.js": "/static/js/2.6e868f26.chunk.js",
+    "static/js/2.6e868f26.chunk.js.map": "/static/js/2.6e868f26.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.430eed7068df43023e0b564c8f3d2d1a.js": "/precache-manifest.430eed7068df43023e0b564c8f3d2d1a.js",
+    "precache-manifest.791cc545643bddaaa62bb033eebc9de2.js": "/precache-manifest.791cc545643bddaaa62bb033eebc9de2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b08f876a.chunk.css.map": "/static/css/2.b08f876a.chunk.css.map",
     "static/css/main.6723a5a8.chunk.css.map": "/static/css/main.6723a5a8.chunk.css.map",
-    "static/js/2.ed86dd27.chunk.js.LICENSE.txt": "/static/js/2.ed86dd27.chunk.js.LICENSE.txt",
+    "static/js/2.6e868f26.chunk.js.LICENSE.txt": "/static/js/2.6e868f26.chunk.js.LICENSE.txt",
     "static/media/1-01.png": "/static/media/1-01.fb7f4d9b.png",
     "static/media/1.jpeg": "/static/media/1.05598af5.jpeg",
     "static/media/1.jpg": "/static/media/1.fb44ff58.jpg",
@@ -75,6 +75,8 @@
     "static/media/9.png": "/static/media/9.bc24da19.png",
     "static/media/AI_handshake.webp": "/static/media/AI_handshake.639d7868.webp",
     "static/media/AIclearPath.webp": "/static/media/AIclearPath.277a9fb4.webp",
+    "static/media/AIcollage1.webp": "/static/media/AIcollage1.36c07f64.webp",
+    "static/media/AIcollage2.jpg": "/static/media/AIcollage2.26a96b31.jpg",
     "static/media/AIinTheWay.webp": "/static/media/AIinTheWay.42ba4d82.webp",
     "static/media/CF.jpg": "/static/media/CF.db4a5cea.jpg",
     "static/media/CFTRchannel.jpg": "/static/media/CFTRchannel.2d0356a6.jpg",
@@ -386,6 +388,7 @@
     "static/media/goldTests.png": "/static/media/goldTests.46dd1b61.png",
     "static/media/golden_rule_book.webp": "/static/media/golden_rule_book.e4b5a6b3.webp",
     "static/media/good_v_bad_feedback.webp": "/static/media/good_v_bad_feedback.d4733de0.webp",
+    "static/media/gradMedHum.webp": "/static/media/gradMedHum.1312eea6.webp",
     "static/media/grataCanisMajor.jpg": "/static/media/grataCanisMajor.5aa1a1a5.jpg",
     "static/media/grataCanisMajorEmail.jpg": "/static/media/grataCanisMajorEmail.c8ae4510.jpg",
     "static/media/grataCanisMajorLogo.jpg": "/static/media/grataCanisMajorLogo.d17f89eb.jpg",
@@ -519,6 +522,7 @@
     "static/media/memes.jpg": "/static/media/memes.665cc653.jpg",
     "static/media/mental_load.jpg": "/static/media/mental_load.6dd80b0f.jpg",
     "static/media/micro_vs_macro.webp": "/static/media/micro_vs_macro.f1e35bb5.webp",
+    "static/media/microbiomeCollage.jpg": "/static/media/microbiomeCollage.82011e64.jpg",
     "static/media/microscope.webp": "/static/media/microscope.4b19193f.webp",
     "static/media/microscope1.jpg": "/static/media/microscope1.8565a0d2.jpg",
     "static/media/microscope2.jpg": "/static/media/microscope2.00ec960a.jpg",
@@ -797,8 +801,8 @@
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.b08f876a.chunk.css",
-    "static/js/2.ed86dd27.chunk.js",
+    "static/js/2.6e868f26.chunk.js",
     "static/css/main.6723a5a8.chunk.css",
-    "static/js/main.f66f2c4a.chunk.js"
+    "static/js/main.67bc9737.chunk.js"
   ]
 }

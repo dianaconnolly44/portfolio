@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9b20057e2a179f63a693c518b9acc47",
+    "revision": "f1282b689fae8a8cac95d79749249434",
     "url": "/index.html"
   },
   {
-    "revision": "6ea2b99189df241d3f39",
+    "revision": "5c0e62bbfef332db901a",
     "url": "/static/css/2.b08f876a.chunk.css"
   },
   {
-    "revision": "5a94737561f920aa2201",
+    "revision": "6bfb587a62ef4db4c231",
     "url": "/static/css/main.6723a5a8.chunk.css"
   },
   {
-    "revision": "6ea2b99189df241d3f39",
-    "url": "/static/js/2.ed86dd27.chunk.js"
+    "revision": "5c0e62bbfef332db901a",
+    "url": "/static/js/2.6e868f26.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/static/js/2.ed86dd27.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6e868f26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a94737561f920aa2201",
-    "url": "/static/js/main.f66f2c4a.chunk.js"
+    "revision": "6bfb587a62ef4db4c231",
+    "url": "/static/js/main.67bc9737.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -482,6 +482,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "277a9fb47b01ac957ba1c01b9156a1a0",
     "url": "/static/media/AIclearPath.277a9fb4.webp"
+  },
+  {
+    "revision": "36c07f64a86c78cdd85aa07f91a32bf2",
+    "url": "/static/media/AIcollage1.36c07f64.webp"
+  },
+  {
+    "revision": "26a96b3123e968309315e4a6b9f10f8a",
+    "url": "/static/media/AIcollage2.26a96b31.jpg"
   },
   {
     "revision": "42ba4d8255ac6c090de9b09a68b27b06",
@@ -1756,6 +1764,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/good_v_bad_feedback.d4733de0.webp"
   },
   {
+    "revision": "1312eea67c00862bb4be8c5bd22a3974",
+    "url": "/static/media/gradMedHum.1312eea6.webp"
+  },
+  {
     "revision": "5aa1a1a5b8c6069fc89762025d5f82bd",
     "url": "/static/media/grataCanisMajor.5aa1a1a5.jpg"
   },
@@ -2302,6 +2314,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f1e35bb504759c5e8407d6e3d23df5f3",
     "url": "/static/media/micro_vs_macro.f1e35bb5.webp"
+  },
+  {
+    "revision": "82011e64fe0525d936a62ebb1c66e231",
+    "url": "/static/media/microbiomeCollage.82011e64.jpg"
   },
   {
     "revision": "4b19193f5ae057101d24e250d3f45ec3",

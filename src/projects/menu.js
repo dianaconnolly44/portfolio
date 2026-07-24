@@ -7,6 +7,7 @@ const menu = [
 				id: 'editorial',
 				label: `Editorial`,
 				projects: [
+					//'dox_gradMedHum',
 					'dox_private_practice',
 					'dox_explore_text',
 					'dox_drowning_under_stetho',

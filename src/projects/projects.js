@@ -1662,28 +1662,34 @@ export const projects = {
 
 	/////////////////
 	
+	dox_gradMedHum: {
+		description: `Why Medical Residents Shouldn't Write Off Private Practice`,
+		pic: 'dox/gradMedHum.webp',
+		link: 'https://opmed.doximity.com/articles/why-medical-residents-shouldn-t-write-off-private-practice'
+	},
+
 	dox_private_practice: {
 		description: `Why Medical Residents Shouldn't Write Off Private Practice`,
 		pic: 'dox/private_practice.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/why-medical-residents-shouldn-t-write-off-private-practice'
 	},
 
 	dox_explore_text: {
 		description: `The Importance of Reading Outside Your Specialty`,
 		pic: 'dox/explore_text.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/the-importance-of-reading-outside-your-specialty'
 	},
 
 	dox_drowning_under_stetho: {
 		description: `Calling the Code for Everyone Else`,
 		pic: 'dox/drowning_under_stetho.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/calling-the-code-for-everyone-else'
 	},
 
 	dox_US_vs_Austria_OR: {
 		description: `What I Learned About Medicine from Rotating in an Austrian OR`,
 		pic: 'dox/US_vs_Austria_OR.jpg',
-		link: ''
+		link: 'https://opmed.doximity.com/articles/what-i-learned-about-medicine-from-rotating-in-an-austrian-or'
 	},
 
 	dox_ignore_patient_huddle: {

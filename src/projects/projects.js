@@ -1662,10 +1662,46 @@ export const projects = {
 
 	/////////////////
 	
+	dox_self_collage: {
+		description: `‘I Should Do a Lot of Things’`,
+		pic: 'dox/self_collage.webp',
+		link: 'https://opmed.doximity.com/articles/i-should-do-a-lot-of-things'
+	},
+	dox_collage_GLP_positive: {
+		description: `GLP-1 RAs: Beyond Glycemic Control to Cardiovascular, Renal, and Liver Benefits`,
+		pic: 'dox/collage_GLP_positive.jpg',
+		link: ''
+	},
+	dox_iceberg_pouch: {
+		description: `The Addiction Marketed as a Wellness`,
+		pic: 'dox/iceberg_pouch.webp',
+		link: 'https://opmed.doximity.com/articles/the-addiction-marketed-as-a-wellness'
+	},
+	dox_split_color_pill: {
+		description: `Our Understanding of Pediatric Antidepressants is Incomplete`,
+		pic: 'dox/split_color_pill.webp',
+		link: 'https://opmed.doximity.com/articles/our-understanding-of-pediatric-antidepressants-is-incomplete'
+	},
+	dox_microbiome_collage: {
+		description: `Microbiome Testing Needs Its Standards Moment`,
+		pic: 'dox/microbiome_collage.webp',
+		link: 'https://opmed.doximity.com/articles/microbiome-testing-needs-its-standards-moment'
+	},
+	dox_AIcollage2: {
+		description: `Are You Falling for AI's Journal Halo Effect?`,
+		pic: 'dox/AIcollage2.jpg',
+		link: ''
+	},
+	dox_AIcollage1: {
+		description: `I Use AI to Run My Practice With Zero Employees`,
+		pic: 'dox/AIcollage1.webp',
+		link: 'https://opmed.doximity.com/articles/i-use-ai-to-run-my-practice-with-zero-employees'
+	},
+
 	dox_gradMedHum: {
-		description: `Why Medical Residents Shouldn't Write Off Private Practice`,
+		description: `Graduation Day: A Poem`,
 		pic: 'dox/gradMedHum.webp',
-		link: 'https://opmed.doximity.com/articles/why-medical-residents-shouldn-t-write-off-private-practice'
+		link: 'https://opmed.doximity.com/articles/graduation-day-a-poem'
 	},
 
 	dox_private_practice: {
@@ -1717,9 +1753,9 @@ export const projects = {
 	},
 
 	dox_flowchart_construction: {
-		description: `How Coding Changes Are Ravaging Community Radiation Oncology`,
+		description: `Major Changes Made to the NP Certification Renewal Process`,
 		pic: 'dox/flowchart_construction_collage.jpg',
-		link: 'https://www.doximity.com/articles/aecb6766-ab21-4f70-a265-6fb838b25a80'
+		link: 'https://www.doximity.com/articles/38912f27-24e9-47f6-837f-f74279a0ad35'
 	},
 
 	dox_direction_sign: {
@@ -1729,9 +1765,9 @@ export const projects = {
 	},
 
 	dox_hospital_closures_collage: {
-		description: `CLOSURES`,
+		description: `Critical Condition: Hospitals at Risk of Closing`,
 		pic: 'dox/hospital_closures_collage_s_s_s_s_dox.jpg',
-		link: ''
+		link: 'https://www.doximity.com/articles/1865faed-0dab-4401-97ea-2bcca93ae69a'
 	},
 
 	dox_hospital_closures_illo: {
